@@ -2,7 +2,7 @@
 sudo apt update
 sudo apt upgrade
 
-sudo apt install g++ python3 btop clangd-21 git
+sudo apt install g++ python3 btop clangd-21 git curl wget
 sudo snap install nvim --classic
 sudo snap install telegram-desktop
 sudo snap install bobrossquotes
@@ -19,10 +19,8 @@ touch "$HOME/.cache/zshhistory"
 git clone --depth=1 https://github.com/romkatv/powerlevel10k.git ~/powerlevel10k
 echo 'source ~/powerlevel10k/powerlevel10k.zsh-theme' >>~/.zshrc
 
-curl https://github.com/MatsuriDayo/nekoray/releases/download/4.0.1/nekoray-4.0.1-2024-12-12-debian-x64.deb
-sudo apt install ./https://github.com/MatsuriDayo/nekoray/releases/download/4.0.1/nekoray-4.0.1-2024-12-12-debian-x64.deb
-curl https://browser.yandex.ru/download?os=linux
-sudo apt install ./Yandex.deb
+wget https://github.com/MatsuriDayo/nekoray/releases/download/4.0.1/nekoray-4.0.1-2024-12-12-debian-x64.deb
+sudo apt install ./nekoray-4.0.1-2024-12-12-debian-x64.deb
 
 sudo snap install jetbrains-mono --classic
 fc-cache -fv
