@@ -2,15 +2,14 @@
 sudo apt update
 sudo apt upgrade
 
-sudo apt install g++ python3 btop clangd-21 git curl wget
+sudo apt install g++ python3 btop clangd-20 git curl wget
 sudo snap install nvim --classic
 sudo snap install telegram-desktop
 sudo snap install bobrossquotes
 sudo apt install steam lutris
 git clone https://github.com/LazyVim/starter ~/.config/nvim
 rm -rf ~/.config/nvim/.git
-curl -LO https://github.com/BurntSushi/ripgrep/releases/download/14.1.1/ripgrep_14.1.1-1_amd64.deb
-sudo dpkg -i ripgrep_14.1.1-1_amd64.deb
+bash <(curl https://i.hiddify.com/release)
 
 sudo apt install luarocks
 sudo apt install zsh
@@ -18,9 +17,6 @@ chsh -s $(which zsh)
 touch "$HOME/.cache/zshhistory"
 git clone --depth=1 https://github.com/romkatv/powerlevel10k.git ~/powerlevel10k
 echo 'source ~/powerlevel10k/powerlevel10k.zsh-theme' >>~/.zshrc
-
-wget https://github.com/MatsuriDayo/nekoray/releases/download/4.0.1/nekoray-4.0.1-2024-12-12-debian-x64.deb
-sudo apt install ./nekoray-4.0.1-2024-12-12-debian-x64.deb
 
 sudo snap install jetbrains-mono --classic
 fc-cache -fv
