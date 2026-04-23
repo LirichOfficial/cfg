@@ -1,0 +1,10 @@
+2026/03/11-16:45:46.337 146b File /home/bobrik/.config/yandex-browser/Default/IndexedDB/https_kstbcafe.ru_0.indexeddb.leveldb is locked for recovering successfully
+2026/03/11-16:45:46.337 146b Creating DB /home/bobrik/.config/yandex-browser/Default/IndexedDB/https_kstbcafe.ru_0.indexeddb.leveldb since it was missing.
+2026/03/11-16:45:46.339 146b Reusing MANIFEST /home/bobrik/.config/yandex-browser/Default/IndexedDB/https_kstbcafe.ru_0.indexeddb.leveldb/MANIFEST-000001
+2026/03/11-16:45:54.773 146c Level-0 table #5: started
+2026/03/11-16:45:54.774 146c Level-0 table #5: 391 bytes OK
+2026/03/11-16:45:54.775 146c Delete type=0 #3
+2026/03/11-16:45:54.775 146c Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2026/03/11-16:45:54.775 146b Deletion DBImpl for /home/bobrik/.config/yandex-browser/Default/IndexedDB/https_kstbcafe.ru_0.indexeddb.leveldb, waiting for background work finished
+2026/03/11-16:45:54.775 146b Deletion DBImpl for /home/bobrik/.config/yandex-browser/Default/IndexedDB/https_kstbcafe.ru_0.indexeddb.leveldb, background work finished
+2026/03/11-16:45:54.775 146b File /home/bobrik/.config/yandex-browser/Default/IndexedDB/https_kstbcafe.ru_0.indexeddb.leveldb unlocked successfully

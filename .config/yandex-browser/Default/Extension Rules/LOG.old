@@ -1,0 +1,7 @@
+2026/04/15-17:55:06.448 1681 File /home/bobrik/.config/yandex-browser/Default/Extension Rules is locked for recovering successfully
+2026/04/15-17:55:06.450 1681 Reusing MANIFEST /home/bobrik/.config/yandex-browser/Default/Extension Rules/MANIFEST-000001
+2026/04/15-17:55:06.450 1681 Recovering log #3
+2026/04/15-17:55:06.450 1681 Reusing old log /home/bobrik/.config/yandex-browser/Default/Extension Rules/000003.log 
+2026/04/15-21:15:06.574 1681 Deletion DBImpl for /home/bobrik/.config/yandex-browser/Default/Extension Rules, waiting for background work finished
+2026/04/15-21:15:06.574 1681 Deletion DBImpl for /home/bobrik/.config/yandex-browser/Default/Extension Rules, background work finished
+2026/04/15-21:15:06.574 1681 File /home/bobrik/.config/yandex-browser/Default/Extension Rules unlocked successfully

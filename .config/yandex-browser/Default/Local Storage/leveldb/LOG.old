@@ -1,0 +1,4 @@
+2026/04/21-19:23:25.141 5 File /home/bobrik/.config/yandex-browser/Default/Local Storage/leveldb is locked for recovering successfully
+2026/04/21-19:23:25.145 5 Reusing MANIFEST /home/bobrik/.config/yandex-browser/Default/Local Storage/leveldb/MANIFEST-000001
+2026/04/21-19:23:25.146 5 Recovering log #2394
+2026/04/21-19:23:25.146 5 Reusing old log /home/bobrik/.config/yandex-browser/Default/Local Storage/leveldb/002394.log 

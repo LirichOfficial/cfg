@@ -1,0 +1,10 @@
+2026/04/20-09:05:04.072 5d17 File /home/bobrik/.config/yandex-browser/Default/IndexedDB/https_linuxcapable.com_0.indexeddb.leveldb is locked for recovering successfully
+2026/04/20-09:05:04.072 5d17 Creating DB /home/bobrik/.config/yandex-browser/Default/IndexedDB/https_linuxcapable.com_0.indexeddb.leveldb since it was missing.
+2026/04/20-09:05:04.076 5d17 Reusing MANIFEST /home/bobrik/.config/yandex-browser/Default/IndexedDB/https_linuxcapable.com_0.indexeddb.leveldb/MANIFEST-000001
+2026/04/20-09:05:06.214 5d19 Level-0 table #5: started
+2026/04/20-09:05:06.215 5d19 Level-0 table #5: 383 bytes OK
+2026/04/20-09:05:06.215 5d19 Delete type=0 #3
+2026/04/20-09:05:06.215 5d19 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2026/04/20-09:05:06.216 5d18 Deletion DBImpl for /home/bobrik/.config/yandex-browser/Default/IndexedDB/https_linuxcapable.com_0.indexeddb.leveldb, waiting for background work finished
+2026/04/20-09:05:06.216 5d18 Deletion DBImpl for /home/bobrik/.config/yandex-browser/Default/IndexedDB/https_linuxcapable.com_0.indexeddb.leveldb, background work finished
+2026/04/20-09:05:06.216 5d18 File /home/bobrik/.config/yandex-browser/Default/IndexedDB/https_linuxcapable.com_0.indexeddb.leveldb unlocked successfully

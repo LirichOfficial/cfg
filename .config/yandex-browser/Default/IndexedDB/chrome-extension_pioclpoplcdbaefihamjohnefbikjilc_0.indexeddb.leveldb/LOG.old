@@ -1,0 +1,4 @@
+2026/04/21-19:23:25.591 5ecb File /home/bobrik/.config/yandex-browser/Default/IndexedDB/chrome-extension_pioclpoplcdbaefihamjohnefbikjilc_0.indexeddb.leveldb is locked for recovering successfully
+2026/04/21-19:23:25.592 5ecb Reusing MANIFEST /home/bobrik/.config/yandex-browser/Default/IndexedDB/chrome-extension_pioclpoplcdbaefihamjohnefbikjilc_0.indexeddb.leveldb/MANIFEST-000001
+2026/04/21-19:23:25.592 5ecb Recovering log #163
+2026/04/21-19:23:25.596 5ecb Reusing old log /home/bobrik/.config/yandex-browser/Default/IndexedDB/chrome-extension_pioclpoplcdbaefihamjohnefbikjilc_0.indexeddb.leveldb/000163.log 

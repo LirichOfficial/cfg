@@ -1,0 +1,10 @@
+{
+  "app_name": {
+    "message": "Proxy VPN gratuït i bloquejador d'anuncis - Planet VPN",
+    "description": "El nom de l'aplicació"
+  },
+  "app_description": {
+    "message": "Aconsegueix accés a qualsevol lloc web i bloqueja els anuncis amb la nostra extensió de servidor intermediari VPN gratuïta",
+    "description": "La descripció de l'aplicació"
+  }
+}

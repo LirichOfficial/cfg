@@ -1,0 +1,7 @@
+2026/02/20-14:56:55.907 15f0 File /home/bobrik/.config/yandex-browser/Default/IndexedDB/https_www.perplexity.ai_0.indexeddb.leveldb is locked for recovering successfully
+2026/02/20-14:56:55.907 15f0 Reusing MANIFEST /home/bobrik/.config/yandex-browser/Default/IndexedDB/https_www.perplexity.ai_0.indexeddb.leveldb/MANIFEST-000001
+2026/02/20-14:56:55.907 15f0 Recovering log #49
+2026/02/20-14:56:55.907 15f0 Reusing old log /home/bobrik/.config/yandex-browser/Default/IndexedDB/https_www.perplexity.ai_0.indexeddb.leveldb/000049.log 
+2026/02/20-14:57:27.913 15f0 Deletion DBImpl for /home/bobrik/.config/yandex-browser/Default/IndexedDB/https_www.perplexity.ai_0.indexeddb.leveldb, waiting for background work finished
+2026/02/20-14:57:27.914 15f0 Deletion DBImpl for /home/bobrik/.config/yandex-browser/Default/IndexedDB/https_www.perplexity.ai_0.indexeddb.leveldb, background work finished
+2026/02/20-14:57:27.914 15f0 File /home/bobrik/.config/yandex-browser/Default/IndexedDB/https_www.perplexity.ai_0.indexeddb.leveldb unlocked successfully

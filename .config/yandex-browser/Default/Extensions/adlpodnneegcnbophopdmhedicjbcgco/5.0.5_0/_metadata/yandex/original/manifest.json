@@ -1,0 +1,76 @@
+{
+"update_url": "https://clients2.google.com/service/update2/crx",
+
+	"name": "__MSG_appName__",
+	"short_name": "__MSG_appName__",
+	"version": "5.0.5",
+	"manifest_version": 3,
+	"description": "__MSG_appDescription__",
+	"default_locale": "en",
+	"icons": {
+		"16": "icons/icon-128.png",
+		"32": "icons/icon-128.png",
+		"48": "icons/icon-128.png",
+		"128": "icons/icon-128.png"
+	},
+	"action": {
+		"default_icon": {
+		  "48": "icons/icon-128.png"
+		},
+		"default_title": "__MSG_appName__",
+    	"default_popup": "popup.html"
+	},
+	"permissions": [
+		"tabs",
+		"webRequest",
+		"webRequestAuthProvider",
+		"management",
+		"webNavigation",
+		"storage",
+		"alarms",
+		"unlimitedStorage",
+		"proxy",
+		"notifications",
+		"privacy",
+		"cookies",
+		"scripting",
+		"declarativeNetRequest",
+		"declarativeNetRequestWithHostAccess",
+		"declarativeNetRequestFeedback"
+	],
+	"background": {
+		"service_worker": "bg/bundle.js"
+	},
+	"host_permissions": [
+		"<all_urls>"
+	],
+	"content_scripts": [
+		{
+		  "all_frames": false,
+		  "js": [
+			"caa/bundle.js"
+		  ],
+		  "matches": [
+			"<all_urls>"
+		  ],
+		  "run_at": "document_end"
+		}
+	],
+	"web_accessible_resources": [
+		{
+		  "resources": [
+			"*.css",
+			"*.svg",
+			"*.html",
+			"images/*",
+			"fonts/*"
+		  ],
+		  "matches": [
+			"<all_urls>"
+		  ]
+		}
+	],
+	"content_security_policy": {
+		"extension_pages": "script-src 'self'; object-src 'self';"
+	}
+}

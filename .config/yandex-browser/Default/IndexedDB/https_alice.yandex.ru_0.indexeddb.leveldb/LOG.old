@@ -1,0 +1,21 @@
+2026/02/27-21:55:28.683 5240 File /home/bobrik/.config/yandex-browser/Default/IndexedDB/https_alice.yandex.ru_0.indexeddb.leveldb is locked for recovering successfully
+2026/02/27-21:55:28.683 5240 Creating DB /home/bobrik/.config/yandex-browser/Default/IndexedDB/https_alice.yandex.ru_0.indexeddb.leveldb since it was missing.
+2026/02/27-21:55:28.685 5240 Reusing MANIFEST /home/bobrik/.config/yandex-browser/Default/IndexedDB/https_alice.yandex.ru_0.indexeddb.leveldb/MANIFEST-000001
+2026/02/27-21:56:15.643 523f Level-0 table #5: started
+2026/02/27-21:56:15.651 523f Level-0 table #5: 1846644 bytes OK
+2026/02/27-21:56:15.652 523f Delete type=0 #3
+2026/02/27-21:59:50.177 5240 Level-0 table #7: started
+2026/02/27-21:59:50.179 5240 Level-0 table #7: 686027 bytes OK
+2026/02/27-21:59:50.180 5240 Delete type=0 #4
+2026/02/27-21:59:50.181 5240 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2026/02/27-21:59:50.181 5240 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x01\x02 \x04\x02\x01$\x000\x001\x009\x00c\x00a\x000\x007\x004\x00-\x00b\x003\x00a\x000\x00-\x004\x000\x000\x000\x00-\x00a\x005\x00c\x00e\x00-\x006\x00f\x00e\x005\x006\x007\x002\x001\x00f\x00b\x000\x00f\x03\x00p\xbcS\x07\xcayB\x00\x01"\x00f\x001\x006\x009\x009\x00f\x001\x003\x00-\x002\x00e\x00c\x001\x00d\x00e\x00d\x00-\x00a\x00e\x00b\x004\x004\x00a\x00e\x00f\x00-\x001\x004\x00c\x00b\x001\x00a\x009\x002' @ 3901 : 1
+2026/02/27-21:59:50.181 5240 Compacting 1@1 + 1@2 files
+2026/02/27-21:59:50.184 5240 Generated table #8@1: 59 keys, 52854 bytes
+2026/02/27-21:59:50.184 5240 Compacted 1@1 + 1@2 files => 52854 bytes
+2026/02/27-21:59:50.184 5240 compacted to: files[ 0 0 1 0 0 0 0 ]
+2026/02/27-21:59:50.184 5240 Delete type=2 #5
+2026/02/27-21:59:50.184 5240 Delete type=2 #7
+2026/02/27-21:59:50.185 5240 Manual compaction at level-1 from '\x00\x01\x02 \x04\x02\x01$\x000\x001\x009\x00c\x00a\x000\x007\x004\x00-\x00b\x003\x00a\x000\x00-\x004\x000\x000\x000\x00-\x00a\x005\x00c\x00e\x00-\x006\x00f\x00e\x005\x006\x007\x002\x001\x00f\x00b\x000\x00f\x03\x00p\xbcS\x07\xcayB\x00\x01"\x00f\x001\x006\x009\x009\x00f\x001\x003\x00-\x002\x00e\x00c\x001\x00d\x00e\x00d\x00-\x00a\x00e\x00b\x004\x004\x00a\x00e\x00f\x00-\x001\x004\x00c\x00b\x001\x00a\x009\x002' @ 3901 : 1 .. (end); will stop at (end)
+2026/02/27-21:59:50.185 523f Deletion DBImpl for /home/bobrik/.config/yandex-browser/Default/IndexedDB/https_alice.yandex.ru_0.indexeddb.leveldb, waiting for background work finished
+2026/02/27-21:59:50.185 523f Deletion DBImpl for /home/bobrik/.config/yandex-browser/Default/IndexedDB/https_alice.yandex.ru_0.indexeddb.leveldb, background work finished
+2026/02/27-21:59:50.185 523f File /home/bobrik/.config/yandex-browser/Default/IndexedDB/https_alice.yandex.ru_0.indexeddb.leveldb unlocked successfully

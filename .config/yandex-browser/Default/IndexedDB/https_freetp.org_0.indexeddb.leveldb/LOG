@@ -1,0 +1,7 @@
+2026/02/26-21:17:05.965 523f File /home/bobrik/.config/yandex-browser/Default/IndexedDB/https_freetp.org_0.indexeddb.leveldb is locked for recovering successfully
+2026/02/26-21:17:05.965 523f Reusing MANIFEST /home/bobrik/.config/yandex-browser/Default/IndexedDB/https_freetp.org_0.indexeddb.leveldb/MANIFEST-000001
+2026/02/26-21:17:05.965 523f Recovering log #4
+2026/02/26-21:17:05.966 523f Reusing old log /home/bobrik/.config/yandex-browser/Default/IndexedDB/https_freetp.org_0.indexeddb.leveldb/000004.log 
+2026/02/26-21:39:31.296 5250 Deletion DBImpl for /home/bobrik/.config/yandex-browser/Default/IndexedDB/https_freetp.org_0.indexeddb.leveldb, waiting for background work finished
+2026/02/26-21:39:31.296 5250 Deletion DBImpl for /home/bobrik/.config/yandex-browser/Default/IndexedDB/https_freetp.org_0.indexeddb.leveldb, background work finished
+2026/02/26-21:39:31.296 5250 File /home/bobrik/.config/yandex-browser/Default/IndexedDB/https_freetp.org_0.indexeddb.leveldb unlocked successfully

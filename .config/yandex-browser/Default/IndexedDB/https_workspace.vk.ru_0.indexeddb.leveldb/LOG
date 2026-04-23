@@ -1,0 +1,6 @@
+2026/03/30-08:49:00.548 1778 File /home/bobrik/.config/yandex-browser/Default/IndexedDB/https_workspace.vk.ru_0.indexeddb.leveldb is locked for recovering successfully
+2026/03/30-08:49:00.548 1778 Creating DB /home/bobrik/.config/yandex-browser/Default/IndexedDB/https_workspace.vk.ru_0.indexeddb.leveldb since it was missing.
+2026/03/30-08:49:00.555 1778 Reusing MANIFEST /home/bobrik/.config/yandex-browser/Default/IndexedDB/https_workspace.vk.ru_0.indexeddb.leveldb/MANIFEST-000001
+2026/03/30-08:52:38.028 1778 Deletion DBImpl for /home/bobrik/.config/yandex-browser/Default/IndexedDB/https_workspace.vk.ru_0.indexeddb.leveldb, waiting for background work finished
+2026/03/30-08:52:38.028 1778 Deletion DBImpl for /home/bobrik/.config/yandex-browser/Default/IndexedDB/https_workspace.vk.ru_0.indexeddb.leveldb, background work finished
+2026/03/30-08:52:38.028 1778 File /home/bobrik/.config/yandex-browser/Default/IndexedDB/https_workspace.vk.ru_0.indexeddb.leveldb unlocked successfully

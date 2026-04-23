@@ -1,0 +1,10 @@
+{
+  "app_name": {
+    "message": "Bezplatný proxy server VPN a blokování reklam - Planet VPN",
+    "description": "Název aplikace"
+  },
+  "app_description": {
+    "message": "Získejte přístup k libovolným webovým stránkám a blokujte reklamy pomocí našeho bezplatného rozšíření VPN proxy serveru",
+    "description": "Popis aplikace"
+  }
+}

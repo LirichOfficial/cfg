@@ -1,0 +1,151 @@
+{
+   "apps_api": [],
+   "apps_blacklist": [],
+   "apps_list_autoinstall": [
+      "https://calendar.yandex.ru/*",
+      "https://yandex.ru/maps/*",
+      "https://yandex.ru/pogoda/*",
+      "https://market.yandex.ru/*"
+   ],
+   "apps_store": [
+      {
+         "apps": [
+            {
+               "scope": "https://telemost.yandex.ru/"
+            },
+            {
+               "scope": "https://web.whatsapp.com/"
+            },
+            {
+               "scope": "https://web.telegram.org/"
+            },
+            {
+               "scope": "https://vk.com/"
+            },
+            {
+               "scope": "https://web.max.ru/"
+            },
+            {
+               "scope": "https://ok.ru/"
+            }
+         ],
+         "name": "Общение"
+      },
+      {
+         "apps": [
+            {
+               "scope": "https://mail.yandex.ru/"
+            },
+            {
+               "scope": "https://e.mail.ru/"
+            },
+            {
+               "scope": "https://mail.google.com/"
+            },
+            {
+               "scope": "https://www.gosuslugi.ru/"
+            },
+            {
+               "scope": "https://disk.yandex.ru/"
+            },
+            {
+               "scope": "https://docs.yandex.ru/docs/docx/"
+            },
+            {
+               "scope": "https://docs.yandex.ru/docs/xlsx/"
+            },
+            {
+               "scope": "https://docs.yandex.ru/docs/pptx/"
+            },
+            {
+               "scope": "https://translate.yandex.ru/"
+            },
+            {
+               "scope": "https://online.sberbank.ru/"
+            }
+         ],
+         "name": "Сервисы"
+      },
+      {
+         "apps": [
+            {
+               "scope": "https://hd.kinopoisk.ru/"
+            },
+            {
+               "scope": "https://music.yandex.ru/"
+            },
+            {
+               "scope": "https://yandex.ru/games"
+            },
+            {
+               "scope": "https://afisha.yandex.ru/"
+            },
+            {
+               "scope": "https://www.youtube.com/"
+            },
+            {
+               "scope": "https://www.tiktok.com/"
+            },
+            {
+               "scope": "https://www.twitch.tv/"
+            },
+            {
+               "scope": "https://store.steampowered.com/"
+            },
+            {
+               "scope": "https://open.spotify.com/"
+            },
+            {
+               "scope": "https://www.gog.com/"
+            },
+            {
+               "scope": "https://www.epicgames.com/"
+            }
+         ],
+         "name": "Развлечения"
+      },
+      {
+         "apps": [
+            {
+               "scope": "https://market.yandex.ru/"
+            },
+            {
+               "scope": "https://www.ozon.ru/"
+            },
+            {
+               "scope": "https://www.avito.ru/"
+            },
+            {
+               "scope": "https://aliexpress.ru/"
+            }
+         ],
+         "name": "Покупки"
+      }
+   ],
+   "default_apps": [
+      {
+         "install": "all",
+         "scope": "https://yandex.ru/games/"
+      },
+      {
+         "install": "all",
+         "scope": "https://discord.com/"
+      },
+      {
+         "install": "all",
+         "scope": "https://www.twitch.tv/"
+      },
+      {
+         "install": "all",
+         "scope": "https://www.gog.com/"
+      },
+      {
+         "install": "all",
+         "scope": "https://store.steampowered.com/"
+      },
+      {
+         "install": "all",
+         "scope": "https://www.epicgames.com/"
+      }
+   ]
+}

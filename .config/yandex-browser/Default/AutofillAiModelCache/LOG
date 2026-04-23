@@ -1,0 +1,4 @@
+2026/04/22-09:14:29.403 1c58 File /home/bobrik/.config/yandex-browser/Default/AutofillAiModelCache is locked for recovering successfully
+2026/04/22-09:14:29.403 1c58 Deletion DBImpl for /home/bobrik/.config/yandex-browser/Default/AutofillAiModelCache, waiting for background work finished
+2026/04/22-09:14:29.403 1c58 Deletion DBImpl for /home/bobrik/.config/yandex-browser/Default/AutofillAiModelCache, background work finished
+2026/04/22-09:14:29.403 1c58 File /home/bobrik/.config/yandex-browser/Default/AutofillAiModelCache unlocked successfully

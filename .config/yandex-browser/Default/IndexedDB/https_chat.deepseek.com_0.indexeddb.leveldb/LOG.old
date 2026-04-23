@@ -1,0 +1,17 @@
+2026/04/13-19:12:39.892 160d File /home/bobrik/.config/yandex-browser/Default/IndexedDB/https_chat.deepseek.com_0.indexeddb.leveldb is locked for recovering successfully
+2026/04/13-19:12:39.892 160d Reusing MANIFEST /home/bobrik/.config/yandex-browser/Default/IndexedDB/https_chat.deepseek.com_0.indexeddb.leveldb/MANIFEST-000001
+2026/04/13-19:12:39.892 160d Recovering log #11
+2026/04/13-19:12:39.892 160d Reusing old log /home/bobrik/.config/yandex-browser/Default/IndexedDB/https_chat.deepseek.com_0.indexeddb.leveldb/000011.log 
+2026/04/13-19:12:39.896 160f Level-0 table #15: started
+2026/04/13-19:12:39.897 160f Level-0 table #15: 1576 bytes OK
+2026/04/13-19:12:39.898 160f Delete type=0 #11
+2026/04/13-19:12:39.898 160d Manual compaction at level-0 from '\x00\x03\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x04\x00\x00\x00' @ 0 : 0; will stop at '\x00\x03\x00\x00\xc8 \x00l\x00o\x00c\x00a\x00l\x00-\x00f\x00o\x00r\x00a\x00g\x00e\x00-\x00d\x00e\x00t\x00e\x00c\x00t\x00-\x00b\x00l\x00o\x00b\x00-\x00s\x00u\x00p\x00p\x00o\x00r\x00t' @ 235 : 1
+2026/04/13-19:12:39.898 160d Compacting 1@0 + 1@1 files
+2026/04/13-19:12:39.899 160d Generated table #16@0: 58 keys, 12272 bytes
+2026/04/13-19:12:39.899 160d Compacted 1@0 + 1@1 files => 12272 bytes
+2026/04/13-19:12:39.899 160d compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/04/13-19:12:39.899 160d Delete type=2 #15
+2026/04/13-19:12:39.900 160d Manual compaction at level-0 from '\x00\x03\x00\x00\xc8 \x00l\x00o\x00c\x00a\x00l\x00-\x00f\x00o\x00r\x00a\x00g\x00e\x00-\x00d\x00e\x00t\x00e\x00c\x00t\x00-\x00b\x00l\x00o\x00b\x00-\x00s\x00u\x00p\x00p\x00o\x00r\x00t' @ 235 : 1 .. '\x00\x04\x00\x00\x00' @ 0 : 0; will stop at (end)
+2026/04/13-19:22:46.741 160d Deletion DBImpl for /home/bobrik/.config/yandex-browser/Default/IndexedDB/https_chat.deepseek.com_0.indexeddb.leveldb, waiting for background work finished
+2026/04/13-19:22:46.741 160d Deletion DBImpl for /home/bobrik/.config/yandex-browser/Default/IndexedDB/https_chat.deepseek.com_0.indexeddb.leveldb, background work finished
+2026/04/13-19:22:46.741 160d File /home/bobrik/.config/yandex-browser/Default/IndexedDB/https_chat.deepseek.com_0.indexeddb.leveldb unlocked successfully

@@ -1,0 +1,4 @@
+2026/04/22-09:14:27.188 1c59 File /home/bobrik/.config/yandex-browser/Default/AliceChatHistory/dialogs is locked for recovering successfully
+2026/04/22-09:14:27.188 1c59 Deletion DBImpl for /home/bobrik/.config/yandex-browser/Default/AliceChatHistory/dialogs, waiting for background work finished
+2026/04/22-09:14:27.188 1c59 Deletion DBImpl for /home/bobrik/.config/yandex-browser/Default/AliceChatHistory/dialogs, background work finished
+2026/04/22-09:14:27.189 1c59 File /home/bobrik/.config/yandex-browser/Default/AliceChatHistory/dialogs unlocked successfully

@@ -1,0 +1,10 @@
+{
+   "app_description": {
+      "description": "Sovelluksen kuvaus",
+      "message": "Käytä mitä vain verkkosivua ja estä mainokset ilmaisella VPN proxy -laajennuksellamme"
+   },
+   "app_name": {
+      "description": "Sovelluksen nimi",
+      "message": "Ilmainen VPN Proxy ja mainos blokkaaja - Planet VPN"
+   }
+}

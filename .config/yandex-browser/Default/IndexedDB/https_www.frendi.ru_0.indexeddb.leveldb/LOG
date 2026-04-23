@@ -1,0 +1,6 @@
+2026/03/11-16:50:58.293 146c File /home/bobrik/.config/yandex-browser/Default/IndexedDB/https_www.frendi.ru_0.indexeddb.leveldb is locked for recovering successfully
+2026/03/11-16:50:58.293 146c Creating DB /home/bobrik/.config/yandex-browser/Default/IndexedDB/https_www.frendi.ru_0.indexeddb.leveldb since it was missing.
+2026/03/11-16:50:58.296 146c Reusing MANIFEST /home/bobrik/.config/yandex-browser/Default/IndexedDB/https_www.frendi.ru_0.indexeddb.leveldb/MANIFEST-000001
+2026/03/11-16:51:07.627 146b Deletion DBImpl for /home/bobrik/.config/yandex-browser/Default/IndexedDB/https_www.frendi.ru_0.indexeddb.leveldb, waiting for background work finished
+2026/03/11-16:51:07.627 146b Deletion DBImpl for /home/bobrik/.config/yandex-browser/Default/IndexedDB/https_www.frendi.ru_0.indexeddb.leveldb, background work finished
+2026/03/11-16:51:07.627 146b File /home/bobrik/.config/yandex-browser/Default/IndexedDB/https_www.frendi.ru_0.indexeddb.leveldb unlocked successfully

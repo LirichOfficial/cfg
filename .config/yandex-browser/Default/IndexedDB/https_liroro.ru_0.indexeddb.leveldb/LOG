@@ -1,0 +1,7 @@
+2026/04/13-13:08:03.829 b72d File /home/bobrik/.config/yandex-browser/Default/IndexedDB/https_liroro.ru_0.indexeddb.leveldb is locked for recovering successfully
+2026/04/13-13:08:03.829 b72d Reusing MANIFEST /home/bobrik/.config/yandex-browser/Default/IndexedDB/https_liroro.ru_0.indexeddb.leveldb/MANIFEST-000001
+2026/04/13-13:08:03.829 b72d Recovering log #3
+2026/04/13-13:08:03.829 b72d Reusing old log /home/bobrik/.config/yandex-browser/Default/IndexedDB/https_liroro.ru_0.indexeddb.leveldb/000003.log 
+2026/04/13-13:08:09.718 b72d Deletion DBImpl for /home/bobrik/.config/yandex-browser/Default/IndexedDB/https_liroro.ru_0.indexeddb.leveldb, waiting for background work finished
+2026/04/13-13:08:09.718 b72d Deletion DBImpl for /home/bobrik/.config/yandex-browser/Default/IndexedDB/https_liroro.ru_0.indexeddb.leveldb, background work finished
+2026/04/13-13:08:09.718 b72d File /home/bobrik/.config/yandex-browser/Default/IndexedDB/https_liroro.ru_0.indexeddb.leveldb unlocked successfully

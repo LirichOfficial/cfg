@@ -1,0 +1,7 @@
+2026/03/13-21:23:47.613 146b File /home/bobrik/.config/yandex-browser/Default/IndexedDB/https_zalozhnitsa-lordfillm.ru_0.indexeddb.leveldb is locked for recovering successfully
+2026/03/13-21:23:47.614 146b Reusing MANIFEST /home/bobrik/.config/yandex-browser/Default/IndexedDB/https_zalozhnitsa-lordfillm.ru_0.indexeddb.leveldb/MANIFEST-000001
+2026/03/13-21:23:47.614 146b Recovering log #4
+2026/03/13-21:23:47.652 146b Reusing old log /home/bobrik/.config/yandex-browser/Default/IndexedDB/https_zalozhnitsa-lordfillm.ru_0.indexeddb.leveldb/000004.log 
+2026/03/13-21:24:50.100 146c Deletion DBImpl for /home/bobrik/.config/yandex-browser/Default/IndexedDB/https_zalozhnitsa-lordfillm.ru_0.indexeddb.leveldb, waiting for background work finished
+2026/03/13-21:24:50.100 146c Deletion DBImpl for /home/bobrik/.config/yandex-browser/Default/IndexedDB/https_zalozhnitsa-lordfillm.ru_0.indexeddb.leveldb, background work finished
+2026/03/13-21:24:50.100 146c File /home/bobrik/.config/yandex-browser/Default/IndexedDB/https_zalozhnitsa-lordfillm.ru_0.indexeddb.leveldb unlocked successfully

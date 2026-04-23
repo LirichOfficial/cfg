@@ -1,0 +1,10 @@
+{
+  "app_name": {
+    "message": "Ókeypis VPN Proxy og auglýsingahindrari - Planet VPN",
+    "description": "Nafnið á forritinu"
+  },
+  "app_description": {
+    "message": "Fáðu aðgang að hvaða vefsíðu sem er og hindraðu auglýsingar með ókeypis VPN proxy viðbótinni okkar",
+    "description": "Lýsingin á forritinu"
+  }
+}

@@ -1,0 +1,16 @@
+2026/04/22-09:14:27.670 1c57 File /home/bobrik/.config/yandex-browser/Default/Extension State is locked for recovering successfully
+2026/04/22-09:14:27.670 1c57 Reusing MANIFEST /home/bobrik/.config/yandex-browser/Default/Extension State/MANIFEST-000001
+2026/04/22-09:14:27.671 1c57 Recovering log #110
+2026/04/22-09:14:27.677 1c57 Reusing old log /home/bobrik/.config/yandex-browser/Default/Extension State/000110.log 
+2026/04/22-21:07:15.144 1c4a Level-0 table #114: started
+2026/04/22-21:07:15.151 1c4a Level-0 table #114: 985523 bytes OK
+2026/04/22-21:07:15.153 1c4a Delete type=0 #110
+2026/04/22-21:07:15.154 1c4a Compacting 4@0 + 1@1 files
+2026/04/22-21:07:15.163 1c4a Generated table #115@0: 3 keys, 5661 bytes
+2026/04/22-21:07:15.163 1c4a Compacted 4@0 + 1@1 files => 5661 bytes
+2026/04/22-21:07:15.163 1c4a compacted to: files[ 0 1 0 0 0 0 0 ]
+2026/04/22-21:07:15.163 1c4a Delete type=2 #111
+2026/04/22-21:07:15.163 1c4a Delete type=2 #104
+2026/04/22-21:07:15.163 1c4a Delete type=2 #114
+2026/04/22-21:07:15.163 1c4a Delete type=2 #108
+2026/04/22-21:07:15.163 1c4a Delete type=2 #106

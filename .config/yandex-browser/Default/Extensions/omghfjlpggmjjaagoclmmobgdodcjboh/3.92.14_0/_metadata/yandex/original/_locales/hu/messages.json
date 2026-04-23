@@ -1,0 +1,1794 @@
+{
+  "country_ac": {
+    "message": "Ascension-sziget",
+    "description": ""
+  },
+  "country_ad": {
+    "message": "Andorra",
+    "description": ""
+  },
+  "country_ae": {
+    "message": "Egyesült Arab Emírségek",
+    "description": ""
+  },
+  "country_af": {
+    "message": "Afganisztán",
+    "description": ""
+  },
+  "country_ag": {
+    "message": "Antigua és Barbuda",
+    "description": ""
+  },
+  "country_ai": {
+    "message": "Anguilla",
+    "description": ""
+  },
+  "country_al": {
+    "message": "Albánia",
+    "description": ""
+  },
+  "country_am": {
+    "message": "Örményország",
+    "description": ""
+  },
+  "country_an": {
+    "message": "Holland Antillák",
+    "description": ""
+  },
+  "country_ao": {
+    "message": "Angola",
+    "description": ""
+  },
+  "country_aq": {
+    "message": "Antarktisz",
+    "description": ""
+  },
+  "country_ar": {
+    "message": "Argentína",
+    "description": ""
+  },
+  "country_as": {
+    "message": "Amerikai Szamoa",
+    "description": ""
+  },
+  "country_at": {
+    "message": "Ausztria",
+    "description": ""
+  },
+  "country_au": {
+    "message": "Ausztrália",
+    "description": ""
+  },
+  "country_aw": {
+    "message": "Aruba",
+    "description": ""
+  },
+  "country_ax": {
+    "message": "Åland-szigetek",
+    "description": ""
+  },
+  "country_az": {
+    "message": "Azerbajdzsán",
+    "description": ""
+  },
+  "country_ba": {
+    "message": "Bosznia",
+    "description": ""
+  },
+  "country_bb": {
+    "message": "Barbados",
+    "description": ""
+  },
+  "country_bd": {
+    "message": "Banglades",
+    "description": ""
+  },
+  "country_be": {
+    "message": "Belgium",
+    "description": ""
+  },
+  "country_bf": {
+    "message": "Burkina Faso",
+    "description": ""
+  },
+  "country_bg": {
+    "message": "Bulgária",
+    "description": ""
+  },
+  "country_bh": {
+    "message": "Bahrein",
+    "description": ""
+  },
+  "country_bi": {
+    "message": "Burundi",
+    "description": ""
+  },
+  "country_bj": {
+    "message": "Benin",
+    "description": ""
+  },
+  "country_bl": {
+    "message": "St. Barthélemy",
+    "description": ""
+  },
+  "country_bm": {
+    "message": "Bermuda",
+    "description": ""
+  },
+  "country_bn": {
+    "message": "Brunei",
+    "description": ""
+  },
+  "country_bo": {
+    "message": "Bolívia",
+    "description": ""
+  },
+  "country_bq": {
+    "message": "karibi Hollandia",
+    "description": ""
+  },
+  "country_br": {
+    "message": "Brazília",
+    "description": ""
+  },
+  "country_bs": {
+    "message": "Bahamák",
+    "description": ""
+  },
+  "country_bt": {
+    "message": "Bhután",
+    "description": ""
+  },
+  "country_bv": {
+    "message": "Bouvet-sziget",
+    "description": ""
+  },
+  "country_bw": {
+    "message": "Botswana",
+    "description": ""
+  },
+  "country_by": {
+    "message": "Fehéroroszország",
+    "description": ""
+  },
+  "country_bz": {
+    "message": "Belize",
+    "description": ""
+  },
+  "country_ca": {
+    "message": "Kanada",
+    "description": ""
+  },
+  "country_cc": {
+    "message": "Kókusz (Keeling)-szigetek",
+    "description": ""
+  },
+  "country_cd": {
+    "message": "Kongó (KDK)",
+    "description": ""
+  },
+  "country_cf": {
+    "message": "Közép-Afrikai Köztársaság",
+    "description": ""
+  },
+  "country_cg": {
+    "message": "Kongó (Köztársaság)",
+    "description": ""
+  },
+  "country_ch": {
+    "message": "Svájc",
+    "description": ""
+  },
+  "country_ci": {
+    "message": "Elefántcsontpart",
+    "description": ""
+  },
+  "country_ck": {
+    "message": "Cook-szigetek",
+    "description": ""
+  },
+  "country_cl": {
+    "message": "Chile",
+    "description": ""
+  },
+  "country_cm": {
+    "message": "Kamerun",
+    "description": ""
+  },
+  "country_cn": {
+    "message": "Kína",
+    "description": ""
+  },
+  "country_co": {
+    "message": "Colombia",
+    "description": ""
+  },
+  "country_cp": {
+    "message": "Clipperton-sziget",
+    "description": ""
+  },
+  "country_cr": {
+    "message": "Costa Rica",
+    "description": ""
+  },
+  "country_cu": {
+    "message": "Kuba",
+    "description": ""
+  },
+  "country_cv": {
+    "message": "zöld-fok",
+    "description": ""
+  },
+  "country_cw": {
+    "message": "Curaçao",
+    "description": ""
+  },
+  "country_cx": {
+    "message": "Karácsony-sziget",
+    "description": ""
+  },
+  "country_cy": {
+    "message": "Ciprus",
+    "description": ""
+  },
+  "country_cz": {
+    "message": "Cseh Köztársaság",
+    "description": ""
+  },
+  "country_de": {
+    "message": "Németország",
+    "description": ""
+  },
+  "country_dg": {
+    "message": "Diego Garcia",
+    "description": ""
+  },
+  "country_dj": {
+    "message": "Dzsibuti",
+    "description": ""
+  },
+  "country_dk": {
+    "message": "Dánia",
+    "description": ""
+  },
+  "country_dm": {
+    "message": "Dominika",
+    "description": ""
+  },
+  "country_do": {
+    "message": "Dominikai Köztársaság",
+    "description": ""
+  },
+  "country_dz": {
+    "message": "Algéria",
+    "description": ""
+  },
+  "country_ea": {
+    "message": "Ceuta és Melilla",
+    "description": ""
+  },
+  "country_ec": {
+    "message": "Ecuador",
+    "description": ""
+  },
+  "country_ee": {
+    "message": "Észtország",
+    "description": ""
+  },
+  "country_eg": {
+    "message": "Egyiptom",
+    "description": ""
+  },
+  "country_eh": {
+    "message": "nyugat-Szahara",
+    "description": ""
+  },
+  "country_er": {
+    "message": "Eritrea",
+    "description": ""
+  },
+  "country_es": {
+    "message": "Spanyolország",
+    "description": ""
+  },
+  "country_et": {
+    "message": "Etiópia",
+    "description": ""
+  },
+  "country_eu": {
+    "message": "Európai Únió",
+    "description": ""
+  },
+  "country_fi": {
+    "message": "Finnország",
+    "description": ""
+  },
+  "country_fj": {
+    "message": "Fidzsi-szigetek",
+    "description": ""
+  },
+  "country_fk": {
+    "message": "Falkland-szigetek",
+    "description": ""
+  },
+  "country_fm": {
+    "message": "Mikronézia",
+    "description": ""
+  },
+  "country_fo": {
+    "message": "Faroe Szigetek",
+    "description": ""
+  },
+  "country_fr": {
+    "message": "Franciaország",
+    "description": ""
+  },
+  "country_ga": {
+    "message": "Gabon",
+    "description": ""
+  },
+  "country_gb": {
+    "message": "Egyesült Királyság",
+    "description": ""
+  },
+  "country_gd": {
+    "message": "Grenada",
+    "description": ""
+  },
+  "country_ge": {
+    "message": "Grúzia",
+    "description": ""
+  },
+  "country_gf": {
+    "message": "Francia Guyana",
+    "description": ""
+  },
+  "country_gg": {
+    "message": "Guernsey",
+    "description": ""
+  },
+  "country_gh": {
+    "message": "Ghána",
+    "description": ""
+  },
+  "country_gi": {
+    "message": "Gibraltár",
+    "description": ""
+  },
+  "country_gl": {
+    "message": "Grönland",
+    "description": ""
+  },
+  "country_gm": {
+    "message": "Gambia",
+    "description": ""
+  },
+  "country_gn": {
+    "message": "Guinea",
+    "description": ""
+  },
+  "country_gp": {
+    "message": "Guadeloupe",
+    "description": ""
+  },
+  "country_gq": {
+    "message": "Egyenlítői-Guinea",
+    "description": ""
+  },
+  "country_gr": {
+    "message": "Görögország",
+    "description": ""
+  },
+  "country_gs": {
+    "message": "Dél-Georgia és Déli Sandwich-szigetek",
+    "description": ""
+  },
+  "country_gt": {
+    "message": "Guatemala",
+    "description": ""
+  },
+  "country_gu": {
+    "message": "Guam",
+    "description": ""
+  },
+  "country_gw": {
+    "message": "Bissau-Guinea",
+    "description": ""
+  },
+  "country_gy": {
+    "message": "Guyana",
+    "description": ""
+  },
+  "country_hk": {
+    "message": "Hong Kong",
+    "description": ""
+  },
+  "country_hm": {
+    "message": "Heard és McDonald-szigetek",
+    "description": ""
+  },
+  "country_hn": {
+    "message": "Honduras",
+    "description": ""
+  },
+  "country_hr": {
+    "message": "Horvátország",
+    "description": ""
+  },
+  "country_ht": {
+    "message": "Haiti",
+    "description": ""
+  },
+  "country_hu": {
+    "message": "Magyarország",
+    "description": ""
+  },
+  "country_ic": {
+    "message": "Kanári szigetek",
+    "description": ""
+  },
+  "country_id": {
+    "message": "Indonézia",
+    "description": ""
+  },
+  "country_ie": {
+    "message": "Írország",
+    "description": ""
+  },
+  "country_il": {
+    "message": "Izrael",
+    "description": ""
+  },
+  "country_im": {
+    "message": "Man-sziget",
+    "description": ""
+  },
+  "country_in": {
+    "message": "India",
+    "description": ""
+  },
+  "country_io": {
+    "message": "Brit Indiai-óceáni Terület",
+    "description": ""
+  },
+  "country_iq": {
+    "message": "Irak",
+    "description": ""
+  },
+  "country_ir": {
+    "message": "Irán",
+    "description": ""
+  },
+  "country_is": {
+    "message": "Izland",
+    "description": ""
+  },
+  "country_it": {
+    "message": "Olaszország",
+    "description": ""
+  },
+  "country_je": {
+    "message": "Jersey",
+    "description": ""
+  },
+  "country_jm": {
+    "message": "Jamaica",
+    "description": ""
+  },
+  "country_jo": {
+    "message": "Jordánia",
+    "description": ""
+  },
+  "country_jp": {
+    "message": "Japán",
+    "description": ""
+  },
+  "country_ke": {
+    "message": "Kenya",
+    "description": ""
+  },
+  "country_kg": {
+    "message": "Kirgizisztán",
+    "description": ""
+  },
+  "country_kh": {
+    "message": "Kambodzsa",
+    "description": ""
+  },
+  "country_ki": {
+    "message": "Kiribati",
+    "description": ""
+  },
+  "country_km": {
+    "message": "Comore-szigetek",
+    "description": ""
+  },
+  "country_kn": {
+    "message": "St. Kitts & Nevis",
+    "description": ""
+  },
+  "country_kp": {
+    "message": "Észak Kórea",
+    "description": ""
+  },
+  "country_kr": {
+    "message": "Dél-Korea",
+    "description": ""
+  },
+  "country_kw": {
+    "message": "Kuvait",
+    "description": ""
+  },
+  "country_ky": {
+    "message": "Kajmán-szigetek",
+    "description": ""
+  },
+  "country_kz": {
+    "message": "Kazahsztán",
+    "description": ""
+  },
+  "country_la": {
+    "message": "Laosz",
+    "description": ""
+  },
+  "country_lb": {
+    "message": "Libanon",
+    "description": ""
+  },
+  "country_lc": {
+    "message": "Szent Lucia",
+    "description": ""
+  },
+  "country_li": {
+    "message": "Liechtenstein",
+    "description": ""
+  },
+  "country_lk": {
+    "message": "Sri Lanka",
+    "description": ""
+  },
+  "country_lr": {
+    "message": "Libéria",
+    "description": ""
+  },
+  "country_ls": {
+    "message": "Lesotho",
+    "description": ""
+  },
+  "country_lt": {
+    "message": "Litvánia",
+    "description": ""
+  },
+  "country_lu": {
+    "message": "Luxemburg",
+    "description": ""
+  },
+  "country_lv": {
+    "message": "Lettország",
+    "description": ""
+  },
+  "country_ly": {
+    "message": "Líbia",
+    "description": ""
+  },
+  "country_ma": {
+    "message": "Marokkó",
+    "description": ""
+  },
+  "country_mc": {
+    "message": "Monaco",
+    "description": ""
+  },
+  "country_md": {
+    "message": "Moldova",
+    "description": ""
+  },
+  "country_me": {
+    "message": "Montenegró",
+    "description": ""
+  },
+  "country_mf": {
+    "message": "Szent Márton",
+    "description": ""
+  },
+  "country_mg": {
+    "message": "Madagaszkár",
+    "description": ""
+  },
+  "country_mh": {
+    "message": "Marshall-szigetek",
+    "description": ""
+  },
+  "country_mk": {
+    "message": "Macedónia",
+    "description": ""
+  },
+  "country_ml": {
+    "message": "Mali",
+    "description": ""
+  },
+  "country_mm": {
+    "message": "Mianmar",
+    "description": ""
+  },
+  "country_mn": {
+    "message": "Mongólia",
+    "description": ""
+  },
+  "country_mo": {
+    "message": "Makaó",
+    "description": ""
+  },
+  "country_mp": {
+    "message": "Észak Mariana szigetek",
+    "description": ""
+  },
+  "country_mq": {
+    "message": "Martinique",
+    "description": ""
+  },
+  "country_mr": {
+    "message": "Mauritánia",
+    "description": ""
+  },
+  "country_ms": {
+    "message": "Montserrat",
+    "description": ""
+  },
+  "country_mt": {
+    "message": "Málta",
+    "description": ""
+  },
+  "country_mu": {
+    "message": "Mauritius",
+    "description": ""
+  },
+  "country_mv": {
+    "message": "Maldív-szigetek",
+    "description": ""
+  },
+  "country_mw": {
+    "message": "Malawi",
+    "description": ""
+  },
+  "country_mx": {
+    "message": "Mexikó",
+    "description": ""
+  },
+  "country_my": {
+    "message": "Malaysia",
+    "description": ""
+  },
+  "country_mz": {
+    "message": "Mozambik",
+    "description": ""
+  },
+  "country_na": {
+    "message": "Namíbia",
+    "description": ""
+  },
+  "country_nc": {
+    "message": "Új-Kaledónia",
+    "description": ""
+  },
+  "country_ne": {
+    "message": "Niger",
+    "description": ""
+  },
+  "country_nf": {
+    "message": "Norfolk-sziget",
+    "description": ""
+  },
+  "country_ng": {
+    "message": "Nigéria",
+    "description": ""
+  },
+  "country_ni": {
+    "message": "Nicaragua",
+    "description": ""
+  },
+  "country_nl": {
+    "message": "Hollandia",
+    "description": ""
+  },
+  "country_no": {
+    "message": "Norvégia",
+    "description": ""
+  },
+  "country_np": {
+    "message": "Nepál",
+    "description": ""
+  },
+  "country_nr": {
+    "message": "Nauru",
+    "description": ""
+  },
+  "country_nu": {
+    "message": "Niue",
+    "description": ""
+  },
+  "country_nz": {
+    "message": "Új Zéland",
+    "description": ""
+  },
+  "country_om": {
+    "message": "Omán",
+    "description": ""
+  },
+  "country_pa": {
+    "message": "Panama",
+    "description": ""
+  },
+  "country_pe": {
+    "message": "Peru",
+    "description": ""
+  },
+  "country_pf": {
+    "message": "Francia Polinézia",
+    "description": ""
+  },
+  "country_pg": {
+    "message": "Pápua Új-Guinea",
+    "description": ""
+  },
+  "country_ph": {
+    "message": "Fülöp-szigetek",
+    "description": ""
+  },
+  "country_pk": {
+    "message": "Pakisztán",
+    "description": ""
+  },
+  "country_pl": {
+    "message": "Lengyelország",
+    "description": ""
+  },
+  "country_pm": {
+    "message": "St. Pierre és Miquelon",
+    "description": ""
+  },
+  "country_pn": {
+    "message": "Pitcairn-szigetek",
+    "description": ""
+  },
+  "country_pr": {
+    "message": "Puerto Rico",
+    "description": ""
+  },
+  "country_ps": {
+    "message": "Palesztina",
+    "description": ""
+  },
+  "country_pt": {
+    "message": "Portugália",
+    "description": ""
+  },
+  "country_pw": {
+    "message": "Palau",
+    "description": ""
+  },
+  "country_py": {
+    "message": "Paraguay",
+    "description": ""
+  },
+  "country_qa": {
+    "message": "Katar",
+    "description": ""
+  },
+  "country_qo": {
+    "message": "Külső Óceánia",
+    "description": ""
+  },
+  "country_re": {
+    "message": "Réunion",
+    "description": ""
+  },
+  "country_ro": {
+    "message": "Románia",
+    "description": ""
+  },
+  "country_rs": {
+    "message": "Szerbia",
+    "description": ""
+  },
+  "country_ru": {
+    "message": "Oroszország",
+    "description": ""
+  },
+  "country_rw": {
+    "message": "Ruanda",
+    "description": ""
+  },
+  "country_sa": {
+    "message": "Szaud-Arábia",
+    "description": ""
+  },
+  "country_sb": {
+    "message": "Salamon-szigetek",
+    "description": ""
+  },
+  "country_sc": {
+    "message": "Seychelle-szigetek",
+    "description": ""
+  },
+  "country_sd": {
+    "message": "Szudán",
+    "description": ""
+  },
+  "country_se": {
+    "message": "Svédország",
+    "description": ""
+  },
+  "country_sg": {
+    "message": "Szingapúr",
+    "description": ""
+  },
+  "country_sh": {
+    "message": "Szent Ilona",
+    "description": ""
+  },
+  "country_si": {
+    "message": "Szlovénia",
+    "description": ""
+  },
+  "country_sj": {
+    "message": "Svalbard és Jan Mayen",
+    "description": ""
+  },
+  "country_sk": {
+    "message": "Szlovákia",
+    "description": ""
+  },
+  "country_sl": {
+    "message": "Sierra Leone",
+    "description": ""
+  },
+  "country_sm": {
+    "message": "San Marino",
+    "description": ""
+  },
+  "country_sn": {
+    "message": "Szenegál",
+    "description": ""
+  },
+  "country_so": {
+    "message": "Szomália",
+    "description": ""
+  },
+  "country_sr": {
+    "message": "Suriname",
+    "description": ""
+  },
+  "country_ss": {
+    "message": "Dél Szudán",
+    "description": ""
+  },
+  "country_st": {
+    "message": "São Tomé és Príncipe",
+    "description": ""
+  },
+  "country_sv": {
+    "message": "El Salvador",
+    "description": ""
+  },
+  "country_sx": {
+    "message": "Sint Maarten",
+    "description": ""
+  },
+  "country_sy": {
+    "message": "Szíria",
+    "description": ""
+  },
+  "country_sz": {
+    "message": "Szváziföld",
+    "description": ""
+  },
+  "country_ta": {
+    "message": "Tristan da Cunha",
+    "description": ""
+  },
+  "country_tc": {
+    "message": "Turks és Caicos-szigetek",
+    "description": ""
+  },
+  "country_td": {
+    "message": "Csád",
+    "description": ""
+  },
+  "country_tf": {
+    "message": "Francia déli területek",
+    "description": ""
+  },
+  "country_tg": {
+    "message": "Menni",
+    "description": ""
+  },
+  "country_th": {
+    "message": "Thaiföld",
+    "description": ""
+  },
+  "country_tj": {
+    "message": "Tádzsikisztán",
+    "description": ""
+  },
+  "country_tk": {
+    "message": "Tokelau",
+    "description": ""
+  },
+  "country_tl": {
+    "message": "Kelet-Timor",
+    "description": ""
+  },
+  "country_tm": {
+    "message": "Türkmenisztán",
+    "description": ""
+  },
+  "country_tn": {
+    "message": "Tunézia",
+    "description": ""
+  },
+  "country_to": {
+    "message": "Tonga",
+    "description": ""
+  },
+  "country_tr": {
+    "message": "pulyka",
+    "description": ""
+  },
+  "country_tt": {
+    "message": "Trinidad és Tobago",
+    "description": ""
+  },
+  "country_tv": {
+    "message": "Tuvalu",
+    "description": ""
+  },
+  "country_tw": {
+    "message": "Tajvan",
+    "description": ""
+  },
+  "country_tz": {
+    "message": "Tanzánia",
+    "description": ""
+  },
+  "country_ua": {
+    "message": "Ukrajna",
+    "description": ""
+  },
+  "country_ug": {
+    "message": "Uganda",
+    "description": ""
+  },
+  "country_uk": {
+    "message": "Egyesült Királyság",
+    "description": ""
+  },
+  "country_um": {
+    "message": "Az Egyesült Államok külső szigetei",
+    "description": ""
+  },
+  "country_us": {
+    "message": "Egyesült Államok",
+    "description": ""
+  },
+  "country_usw": {
+    "message": "Egyesült Államok Nyugat",
+    "description": ""
+  },
+  "country_uy": {
+    "message": "Uruguay",
+    "description": ""
+  },
+  "country_uz": {
+    "message": "Üzbegisztán",
+    "description": ""
+  },
+  "country_va": {
+    "message": "Vatikán város",
+    "description": ""
+  },
+  "country_vc": {
+    "message": "St. Vincent és Grenadine-szigetek",
+    "description": ""
+  },
+  "country_ve": {
+    "message": "Venezuela",
+    "description": ""
+  },
+  "country_vg": {
+    "message": "Brit Virgin szigetek",
+    "description": ""
+  },
+  "country_vi": {
+    "message": "Amerikai Virgin-szigetek",
+    "description": ""
+  },
+  "country_vn": {
+    "message": "Vietnam",
+    "description": ""
+  },
+  "country_vu": {
+    "message": "Vanuatu",
+    "description": ""
+  },
+  "country_wf": {
+    "message": "Wallis és Futuna",
+    "description": ""
+  },
+  "country_ws": {
+    "message": "Szamoa",
+    "description": ""
+  },
+  "country_xk": {
+    "message": "Koszovó",
+    "description": ""
+  },
+  "country_ye": {
+    "message": "Jemen",
+    "description": ""
+  },
+  "country_yt": {
+    "message": "Mayotte",
+    "description": ""
+  },
+  "country_za": {
+    "message": "Dél-Afrika",
+    "description": ""
+  },
+  "country_zm": {
+    "message": "Zambia",
+    "description": ""
+  },
+  "country_zw": {
+    "message": "Zimbabwe",
+    "description": ""
+  },
+  "access_internet_via_premium_locations": {
+    "message": "Hozzáférés az internethez további prémium helyeken keresztül.",
+    "description": ""
+  },
+  "add_smart_setting_for_X": {
+    "message": "Intelligens beállítás hozzáadása a XXX számára",
+    "description": ""
+  },
+  "authentication_error_no_connection": {
+    "message": "Hitelesítési hiba: nem lehet csatlakozni a Browsec szerverhez.",
+    "description": ""
+  },
+  "back": {
+    "message": "Vissza",
+    "description": ""
+  },
+  "because_your_proxy_settings_are_blocked": {
+    "message": " A proxybeállításokhoz való hozzáférést egy másik bővítmény blokkolja.",
+    "description": ""
+  },
+  "browsec_activated": {
+    "message": "Aktiválja a Browsec-et",
+    "description": ""
+  },
+  "browsec_can_work_in_private_mode": {
+    "message": "Privát ablakokban nem vezérelheti a Böngészést. De ha a Browsec ikon aktív, Ön védett.\\n\\nA böngészőt a szokásos Firefox ablakban engedélyezheti vagy letilthatja. A Browsec összes beállítása normál és privát módban is működik",
+    "description": ""
+  },
+  "browsec_has_been_installed": {
+    "message": "A Browsec telepítve van!",
+    "description": ""
+  },
+  "browsec_is_enabled": {
+    "message": "A Browsec újra engedélyezve van",
+    "description": ""
+  },
+  "browsec_off": {
+    "message": "Böngészés KI",
+    "description": ""
+  },
+  "browsec_premium": {
+    "message": "Browsec Premium",
+    "description": ""
+  },
+  "browser_action_inactive_title": {
+    "message": "Browsec",
+    "description": ""
+  },
+  "cancel_editing": {
+    "message": "A szerkesztés megszakítása",
+    "description": ""
+  },
+  "cancel_subscription_at_any_time": {
+    "message": "Bármikor lemondhatja az előfizetést",
+    "description": ""
+  },
+  "cant_authenticate_please_contact_browsec_support": {
+    "message": "Nem lehet hitelesíteni. Kérjük, lépjen kapcsolatba a Browsec ügyfélszolgálatával.",
+    "description": ""
+  },
+  "cant_setup_secure_connection": {
+    "message": "A böngésző nem tud biztonságos kapcsolatot beállítani az Ön böngészőjében.",
+    "description": ""
+  },
+  "cant_start_because_your_proxy_settings_blocked": {
+    "message": "A Browsec nem tudja elindítani a VPN-t. A proxy beállításait egy másik bővítmény blokkolja",
+    "description": ""
+  },
+  "change": {
+    "message": "változás",
+    "description": ""
+  },
+  "change_location": {
+    "message": "Helyváltozatás",
+    "description": ""
+  },
+  "change_timezone_according_to_virtual_location": {
+    "message": "Módosítsa a böngésző időzónáját a virtuális tartózkodási helyének megfelelően",
+    "description": ""
+  },
+  "change_timezone_text_1": {
+    "message": "Ez a beállítás módosítja böngészője időzónáját, hogy megfeleljen az Ön virtuális helyének.",
+    "description": ""
+  },
+  "change_timezone_text_2": {
+    "message": "Egyes webhelyek Javascript-funkciók segítségével észlelik a böngésző időzónáját. Ha a böngésző és az IP-cím időzónája eltér, az a VPN-szolgáltatás vagy más névtelenítési technikák használatának jele lehet.",
+    "description": ""
+  },
+  "change_timezone_text_3": {
+    "message": "Ha ez az opció be van kapcsolva, a webhelyek nem tudnak időzóna különbséget észlelni.",
+    "description": ""
+  },
+  "change_virtual_location": {
+    "message": "Változtassa meg a virtuális helyet",
+    "description": ""
+  },
+  "check_browsec_api": {
+    "message": "Ellenőrizze a Browsec API-t",
+    "description": ""
+  },
+  "check_browsec_premium_plans": {
+    "message": "Ellenőrizze a Browsec Premium csomagokat",
+    "description": ""
+  },
+  "check_conflicts_with_other_extensions": {
+    "message": "Ellenőrizze az ütközéseket más bővítményekkel",
+    "description": ""
+  },
+  "check_http_internet_connection": {
+    "message": "Ellenőrizze a HTTP internetkapcsolatot",
+    "description": ""
+  },
+  "check_http_internet_connection_with_browsec": {
+    "message": "Ellenőrizze a HTTP-internetkapcsolatot a Browsec segítségével",
+    "description": ""
+  },
+  "check_https_internet_connection": {
+    "message": "Ellenőrizze a HTTPS internetkapcsolatot",
+    "description": ""
+  },
+  "check_https_internet_connection_with_browsec": {
+    "message": "Ellenőrizze a HTTPS internetkapcsolatot a Browsec segítségével",
+    "description": ""
+  },
+  "check_proxy_settings": {
+    "message": "Ellenőrizze a proxybeállításokat",
+    "description": ""
+  },
+  "choose_your_virtual_location": {
+    "message": "Válassza ki virtuális helyét, és hozzáférjen minden olyan tartalomhoz, amely egyébként nem volt elérhető.",
+    "description": ""
+  },
+  "click_and_then_1": {
+    "message": "Kattintson",
+    "description": ""
+  },
+  "click_and_then_2": {
+    "message": "és akkor",
+    "description": ""
+  },
+  "click_here_to_start_vpn": {
+    "message": "Kattintson ide<br/>a VPN elindításához",
+    "description": ""
+  },
+  "click_here_to_agree_and_start": {
+    "message": "A Browsec VPN alkalmazás használatához<br/>el kell fogadnia<br/>a {DIVIDER} és<br/>{DIVIDER}",
+    "description": ""
+  },
+  "click_here_terms_conditions": {
+    "message": "Szolgáltatás feltételei",
+    "description": ""
+  },
+  "click_here_privacy_policy": {
+    "message": "Adatvédelmi irányelvek",
+    "description": ""
+  },
+  "click_accept_terms_and_conditions": {
+    "message": "Elfogad",
+    "description": ""
+  },
+  "click_icon_on_toolbar_and_turn_on_protection": {
+    "message": "Kattintson a Browsec ikonra az eszköztáron, kapcsolja be a forgalomvédelmet, és már mehet is!",
+    "description": ""
+  },
+  "close_page": {
+    "message": "Oldal bezárása",
+    "description": ""
+  },
+  "completed": {
+    "message": "Befejezve",
+    "description": ""
+  },
+  "congratulations_securing_your_browsing": {
+    "message": "Még egy lépés, és a böngésző teljesen biztonságos.",
+    "description": ""
+  },
+  "contact_support": {
+    "message": "Lépjen kapcsolatba a Browsec ügyfélszolgálatával",
+    "description": ""
+  },
+  "contact_us": {
+    "message": "Lépjen kapcsolatba velünk",
+    "description": ""
+  },
+  "continue_using_browsec_to_open_websites": {
+    "message": "Folytathatja a Browsec használatát. Kösz!",
+    "description": ""
+  },
+  "continue_using_premium": {
+    "message": "Folytassa a Browsec Premium használatát",
+    "description": ""
+  },
+  "copy_to_clipboard": {
+    "message": "Másolja a vágólapra",
+    "description": ""
+  },
+  "dedicated_traffic_lanes": {
+    "message": "A prémium felhasználók dedikált forgalmi sávokat élvezhetnek.",
+    "description": ""
+  },
+  "delete_smart_setting_for_X": {
+    "message": "A XXX intelligens beállításának törlése",
+    "description": ""
+  },
+  "disable": {
+    "message": "Letiltás",
+    "description": ""
+  },
+  "disable_selected_extensions": {
+    "message": "Kiválasztott bővítmények letiltása",
+    "description": ""
+  },
+  "dont_have_an_account": {
+    "message": "Nincs fiókja?",
+    "description": ""
+  },
+  "dont_send_telemetry": {
+    "message": "Ne küldjön telemetriát",
+    "description": ""
+  },
+  "dont_show_promo_offers": {
+    "message": "Ne mutasson promóciós ajánlatokat",
+    "description": ""
+  },
+  "edit_smart_settings": {
+    "message": "Intelligens beállítások szerkesztése",
+    "description": ""
+  },
+  "email": {
+    "message": "Email",
+    "description": ""
+  },
+  "enable_browsec_for_all_sites_excluding_selected_sites": {
+    "message": "A Browsec engedélyezése az összes webhelyen, kivéve a kiválasztott webhelyeket",
+    "description": ""
+  },
+  "enable_browsec_for_all_sites_excluding_selected_sites_description_1": {
+    "message": "Böngészés engedélyezése",
+    "description": ""
+  },
+  "enable_browsec_for_all_sites_excluding_selected_sites_description_2": {
+    "message": "Kattintson az Intelligens beállítások → Intelligens beállítások szerkesztése elemre",
+    "description": ""
+  },
+  "enable_browsec_for_all_sites_excluding_selected_sites_description_3": {
+    "message": "Írja be a kívánt tartományt, válassza az OFF lehetőséget, és kattintson az IMG gombra",
+    "description": ""
+  },
+  "enable_browsec_only_for_selected_sites": {
+    "message": "A Browsec engedélyezése csak a kiválasztott webhelyeken",
+    "description": ""
+  },
+  "enable_browsec_only_for_selected_sites_description_1": {
+    "message": "Böngészés letiltása",
+    "description": ""
+  },
+  "enable_browsec_only_for_selected_sites_description_2": {
+    "message": "Kattintson az Intelligens beállítások → Intelligens beállítások szerkesztése elemre",
+    "description": ""
+  },
+  "enable_browsec_only_for_selected_sites_description_3": {
+    "message": "Írja be a kívánt tartományt, válassza ki a tartomány országát, és kattintson az IMG gombra",
+    "description": ""
+  },
+  "failed": {
+    "message": "nem sikerült",
+    "description": ""
+  },
+  "find_out_how_fix": {
+    "message": "A következőképpen javíthatja ki.",
+    "description": ""
+  },
+  "fix_it": {
+    "message": "Javítsd meg",
+    "description": ""
+  },
+  "fix_proxy_settings": {
+    "message": "Proxybeállítások javítása",
+    "description": ""
+  },
+  "forgot_your_password": {
+    "message": "Elfelejtette a jelszavát?",
+    "description": ""
+  },
+  "for_only": {
+    "message": "csak azért",
+    "description": ""
+  },
+  "free_servers": {
+    "message": "Ingyenes szerverek",
+    "description": ""
+  },
+  "from_only_X_per_month": {
+    "message": "már csak havi XXX!",
+    "description": ""
+  },
+  "get_free_premium": {
+    "message": "Ingyenes prémium!",
+    "description": ""
+  },
+  "get_monthly_premium": {
+    "message": "Szerezzen havi prémiumot",
+    "description": ""
+  },
+  "get_more_with_browsec_premium": {
+    "message": "Szerezzen többet a Browsec Premium segítségével",
+    "description": ""
+  },
+  "get_N_days_free_premium_trial": {
+    "message": "XXX napos ingyenes prémium próbaverzió",
+    "description": ""
+  },
+  "get_premium_now": {
+    "message": "Szerezzen prémiumot most!",
+    "description": ""
+  },
+  "get_turbo_speed": {
+    "message": "Szerezze be a Turbo Speed-et",
+    "description": ""
+  },
+  "go_ahead_and_renew_it": {
+    "message": "Menj és újítsd meg.",
+    "description": ""
+  },
+  "go_back": {
+    "message": "Menjen vissza",
+    "description": ""
+  },
+  "health_check": {
+    "message": "Állapotfelmérés",
+    "description": ""
+  },
+  "help": {
+    "message": "Segítség",
+    "description": ""
+  },
+  "hide_health_check_logs": {
+    "message": "Az állapotellenőrzési naplók elrejtése",
+    "description": ""
+  },
+  "home": {
+    "message": "itthon",
+    "description": ""
+  },
+  "how_to_use_smart_settings": {
+    "message": "Az intelligens beállítások használata",
+    "description": ""
+  },
+  "if_no_write_to_email": {
+    "message": "Ha nem működne, vegye fel velünk a kapcsolatot a telefonszámon",
+    "description": ""
+  },
+  "incorrect_email_or_password": {
+    "message": "Helytelen email vagy jelszó",
+    "description": ""
+  },
+  "i_want_to": {
+    "message": "Akarok:",
+    "description": ""
+  },
+  "locations_help_1": {
+    "message": "A Browsec biztonságos kapcsolatot tud létesíteni ezen országok bármelyikében található szervereink segítségével. Kap egy IP-címet, amely a kiválasztott helyhez tartozik, és úgy böngészhet az interneten, mintha valóban ott lenne.",
+    "description": ""
+  },
+  "locations_help_2": {
+    "message": "A csak egy adott országban elérhető tartalom eléréséhez válassza ki a megfelelő virtuális helyet.",
+    "description": ""
+  },
+  "locations_help_3": {
+    "message": "Tartózkodási helyének elrejtéséhez (adatvédelmi okokból vagy az országában tiltott tartalom eléréséhez) válasszon egy helyet. Vegye figyelembe, hogy minél közelebb van a virtuális hely a valódi helyéhez, annál nagyobb a kapcsolat sebessége.",
+    "description": ""
+  },
+  "N_servers_in_N_virtual_Locations": {
+    "message": "AAA+ szerverek a BBB Virtual Locations-ben",
+    "description": ""
+  },
+  "off": {
+    "message": "KI",
+    "description": ""
+  },
+  "ok_i_got_it": {
+    "message": "Rendben, értem",
+    "description": ""
+  },
+  "on": {
+    "message": "Tovább",
+    "description": ""
+  },
+  "one_smart_setting_description_1": {
+    "message": "Kérjük, frissítsen prémiumra, hogy korlátlan számú intelligens beállítást kapjon, és támogassa a Browsec fejlesztését.",
+    "description": ""
+  },
+  "one_smart_setting_description_2": {
+    "message": "A következőket is kapod:",
+    "description": ""
+  },
+  "one_smart_setting_description_list_1": {
+    "message": "Hozzáférés több mint 40 prémium virtuális helyhez",
+    "description": ""
+  },
+  "one_smart_setting_description_list_2": {
+    "message": "Turbó sebesség",
+    "description": ""
+  },
+  "only_X_per_month": {
+    "message": "csak XXX havonta",
+    "description": ""
+  },
+  "other_websites": {
+    "message": "Egyéb weboldalak",
+    "description": ""
+  },
+  "dependent_website": {
+    "message": "Kapcsolódik",
+    "description": ""
+  },
+  "password": {
+    "message": "Jelszó",
+    "description": ""
+  },
+  "pin_the_browsec_extension": {
+    "message": "Rögzítse a Browsec bővítményt",
+    "description": ""
+  },
+  "please_enter_domain": {
+    "message": "Adjon meg egy domaint",
+    "description": ""
+  },
+  "please_enter_valid_domain": {
+    "message": "Kérjük, adjon meg egy érvényes domaint",
+    "description": ""
+  },
+  "please_try_again_or_contact_support": {
+    "message": "Kérjük, próbálja újra, vagy lépjen kapcsolatba a Browsec ügyfélszolgálatával.",
+    "description": ""
+  },
+  "premium_locations": {
+    "message": "Prémium helyek",
+    "description": ""
+  },
+  "premium_servers": {
+    "message": "Prémium szerverek",
+    "description": ""
+  },
+  "premium_server_authentication_error": {
+    "message": "Prémium szerver hitelesítési hiba. A VPN le van tiltva. Kérjük, csatlakozzon újra a VPN-hez a Browsec kiterjesztésben.",
+    "description": ""
+  },
+  "privacy_protection_disabled": {
+    "message": "Az adatvédelem le van tiltva",
+    "description": ""
+  },
+  "privacy_protection_partially_enabled": {
+    "message": "Aktuális weboldal: Adatvédelem védett",
+    "description": ""
+  },
+  "privacy_protection_partially_disabled": {
+    "message": "Aktuális weboldal: Adatvédelem kikapcsolva",
+    "description": ""
+  },
+  "protect_me": {
+    "message": "Védj meg",
+    "description": ""
+  },
+  "remove_cache_on_authorization_popups": {
+    "message": "Gyorsítótár eltávolítása az engedélyezési előugró ablakokban (kísérleti)",
+    "description": ""
+  },
+  "remove_smart_setting": {
+    "message": "Távolítsa el az intelligens beállítást",
+    "description": ""
+  },
+  "running": {
+    "message": "Futás",
+    "description": ""
+  },
+  "running_dots": {
+    "message": "Futás...",
+    "description": ""
+  },
+  "select": {
+    "message": "Válassza ki",
+    "description": ""
+  },
+  "select_allow_in_popup_window": {
+    "message": "Kattintson az „Engedélyezés” gombra a felugró ablakban",
+    "description": ""
+  },
+  "settings": {
+    "message": "Beállítások",
+    "description": ""
+  },
+  "setting_was_deleted": {
+    "message": "A beállítást törölték",
+    "description": ""
+  },
+  "show_health_check_logs": {
+    "message": "Állapotellenőrzési naplók megjelenítése",
+    "description": ""
+  },
+  "sign_in": {
+    "message": "Bejelentkezés",
+    "description": ""
+  },
+  "sign_in_title": {
+    "message": "Bejelentkezés",
+    "description": ""
+  },
+  "sign_out": {
+    "message": "Kijelentkezés",
+    "description": ""
+  },
+  "sign_up": {
+    "message": "Regisztrálj",
+    "description": ""
+  },
+  "skipped": {
+    "message": "Kihagyva",
+    "description": ""
+  },
+  "smart_settings": {
+    "message": "Intelligens beállítások",
+    "description": ""
+  },
+  "smart_settings_allow_you_to_control": {
+    "message": "Az intelligens beállítások lehetővé teszik a Browsec pontosabb irányítását",
+    "description": ""
+  },
+  "smart_settings_features_1": {
+    "message": "A Browsec engedélyezése csak a kiválasztott webhelyeken",
+    "description": ""
+  },
+  "smart_settings_features_2": {
+    "message": "Ne használja a Browsec-et bizonyos webhelyekhez, még akkor sem, ha az összes többi webhelyen engedélyezve van",
+    "description": ""
+  },
+  "smart_settings_features_3": {
+    "message": "Válasszon különböző virtuális helyeket a különböző webhelyekhez",
+    "description": ""
+  },
+  "something_went_wrong": {
+    "message": "Valami elromlott...",
+    "description": ""
+  },
+  "start": {
+    "message": "Rajt",
+    "description": ""
+  },
+  "start_vpn": {
+    "message": "Indítsa el a VPN-t",
+    "description": ""
+  },
+  "terms_and_conditions_ff": {
+    "message": "Megállapodások és engedélyek a bővítmény használatához",
+    "description": ""
+  },
+  "this_account_is_locked_please_contact_us": {
+    "message": "Ez a fiók zárolva van.\\nKérjük, lépjen kapcsolatba velünk fiókja visszaállításához",
+    "description": ""
+  },
+  "this_domain_already_in_list": {
+    "message": "Ez a domain már szerepel a listán",
+    "description": ""
+  },
+  "this_option_is_available_only_for_premium": {
+    "message": "Ez a lehetőség csak prémium fiókok esetén érhető el",
+    "description": ""
+  },
+  "top_performance_guaranteed": {
+    "message": "Kategóriájában legjobb szervereink garantálják a kiváló teljesítményt.",
+    "description": ""
+  },
+  "try_again": {
+    "message": "Próbáld újra",
+    "description": ""
+  },
+  "turbo_speed": {
+    "message": "Turbó sebesség",
+    "description": ""
+  },
+  "turbo_speed_in_free_premium": {
+    "message": "Turbó sebesség INGYENES prémiumban",
+    "description": ""
+  },
+  "undo": {
+    "message": "Visszavonás",
+    "description": ""
+  },
+  "upgrade_connection_speed": {
+    "message": "Frissítse a kapcsolat sebességét",
+    "description": ""
+  },
+  "upgrade_to_premium": {
+    "message": "Frissítés prémiumra",
+    "description": ""
+  },
+  "use": {
+    "message": "használat",
+    "description": ""
+  },
+  "use_browsec_for_webrtc_connections": {
+    "message": "Használja a Browsec-et a WebRTC kapcsolatokhoz",
+    "description": ""
+  },
+  "use_different_locations_for_different_sites": {
+    "message": "Használjon különböző helyeket a különböző webhelyekhez",
+    "description": ""
+  },
+  "use_different_locations_for_different_sites_description_1": {
+    "message": "Böngészés engedélyezése",
+    "description": ""
+  },
+  "use_different_locations_for_different_sites_description_2": {
+    "message": "Kattintson az Intelligens beállítások → Intelligens beállítások szerkesztése elemre",
+    "description": ""
+  },
+  "use_different_locations_for_different_sites_description_3": {
+    "message": "Írja be a kívánt tartományt, válassza ki a tartomány országát, és kattintson az IMG gombra",
+    "description": ""
+  },
+  "virtual_locations": {
+    "message": "Virtuális helyek",
+    "description": ""
+  },
+  "vpn_blocked": {
+    "message": "A VPN le van tiltva",
+    "description": ""
+  },
+  "warning": {
+    "message": "Figyelem",
+    "description": ""
+  },
+  "webrtc_settings_controlled_by_another_extension": {
+    "message": "A WebRTC beállításokat egy másik bővítmény vezérli",
+    "description": ""
+  },
+  "welcome_back": {
+    "message": "Üdv újra!",
+    "description": ""
+  },
+  "we_have_detected_other_extensions_which_block_access": {
+    "message": "Egyéb bővítményeket észleltünk, amelyek blokkolják a proxybeállításokhoz való hozzáférést. A Browsec használatához tiltsa le ezeket a bővítményeket.",
+    "description": ""
+  },
+  "we_have_detected_other_extensions_which_can_conflict": {
+    "message": "Egyéb bővítményeket észleltünk, amelyek ütközhetnek a Browsec-el. Fontolja meg ezeknek a bővítményeknek a letiltását, ha a Browsec nem működik megfelelően.",
+    "description": ""
+  },
+  "what_is_webrtc_title": {
+    "message": "Mi az a WebRTC?",
+    "description": ""
+  },
+  "what_is_webrtc_text_1": {
+    "message": "A WebRTC (webes valós idejű kommunikáció) egy protokoll, amely lehetővé teszi audio- és videohívások indítását a böngészőből.",
+    "description": ""
+  },
+  "what_is_webrtc_text_2": {
+    "message": "A WebRTC azonban lehetővé teszi a webhelyek számára, hogy megismerjék valódi belső és nyilvános IP-címeit, még akkor is, ha VPN-t használ (ezt WebRTC IP-szivárgásnak nevezik).",
+    "description": ""
+  },
+  "what_is_webrtc_text_3": {
+    "message": "Ez a beállítás megakadályozza a WebRTC IP-cím kiszivárgását, ha a Browsec engedélyezve van. Mellékhatásként befolyásolhatja a böngészőből érkező audio-/videohívások minőségét, így Ön dönti el, mi a fontosabb az Ön számára.",
+    "description": ""
+  },
+  "with_smart_settings_you_can": {
+    "message": "Az intelligens beállításokkal a következőket teheti:",
+    "description": ""
+  },
+  "you_can_enable_these_extensions_later": {
+    "message": "Ezeket a bővítményeket később engedélyezheti a böngésző beállításaiban.",
+    "description": ""
+  },
+  "you_can_have_only_1_smart_setting": {
+    "message": "Ingyenes csomagban csak 1 intelligens beállítás lehet.",
+    "description": ""
+  },
+  "you_just_installed_browsec": {
+    "message": "Most telepítette a Browsec-et!",
+    "description": ""
+  },
+  "you_may_now_open_the_extension": {
+    "message": "Most megnyithatja a bővítményt a VPN elindításához.",
+    "description": ""
+  },
+  "your_browsers_connections_are_not_encrypted": {
+    "message": "A böngésző kapcsolatai nincsenek titkosítva. Az Ön IP-címe és tartózkodási helye harmadik fél számára elérhető.",
+    "description": ""
+  },
+  "subscriber_text": {
+    "message": "Iratkozz fel a Telegram-csatornánkra, hogy mindig naprakész legyél a Browsec legfrissebb híreivel és frissítéseivel kapcsolatban",
+    "description": ""
+  },
+  "your_premium_is_about_to_expire": {
+    "message": "A Browsec Premium hamarosan lejár",
+    "description": ""
+  },
+  "your_privacy_is_protected": {
+    "message": "Az Ön személyes adatai védettek",
+    "description": ""
+  },
+  "your_proxy_settings_are_blocked": {
+    "message": "A proxy beállításait egy másik bővítmény blokkolja",
+    "description": ""
+  },
+  "your_proxy_blocked_by_antivirus": {
+    "message": "Úgy tűnik, hogy olyan vírusirtót használ, amely blokkolja a VPN-t.",
+    "description": ""
+  },
+  "7_days_money_back_guarantee": {
+    "message": "7 nap pénzvisszafizetési garancia",
+    "description": ""
+  },
+  "extension_description": {
+    "message": "Experience the ultimate in VPN super unlimited proxy capabilities with our top-tier service for seamless and secure browsing.",
+    "description": ""
+  },
+  "extension_name": {
+    "message": "Browsec Freedom VPN",
+    "description": ""
+  },
+  "esn": {
+    "message": "Browsec VPN",
+    "description": ""
+  },
+  "reanimator_reconnecting": {
+    "message": "Reconnecting",
+    "description": ""
+  },
+  "reanimator_step": {
+    "message": "Step",
+    "description": ""
+  },
+  "reanimator_of": {
+    "message": "of",
+    "description": ""
+  },
+  "fixit_paywall_title": {
+    "message": "Problémája van a csatlakozással?",
+    "description": ""
+  },
+  "fixit_paywall_body": {
+    "message": "Garantáljuk a prémium szolgáltatást és teljes visszatérítést kínálunk 7 napon belül, ha nem elégedett",
+    "description": ""
+  },
+  "fixit_paywall_get_premium": {
+    "message": "🔥 Frissítés Prémiumra",
+    "description": ""
+  }
+}

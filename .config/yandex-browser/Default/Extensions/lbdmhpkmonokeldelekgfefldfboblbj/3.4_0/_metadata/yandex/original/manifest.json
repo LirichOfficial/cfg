@@ -1,0 +1,36 @@
+{
+"update_url": "https://clients2.google.com/service/update2/crx",
+
+    "manifest_version": 3,
+    "name": "Доступ к Рутрекеру",
+    "short_name": "Rutracker",
+    "version": "3.4",
+    "author": "Artex",
+    "description": "Бесплатный доступ к rutracker.org для граждан РФ",
+    "icons": {
+        "16": "images/rutracker16.png",
+        "48": "images/rutracker48.png",
+        "128": "images/rutracker128.png"
+    },
+    "action": {
+        "default_icon": {
+            "19": "images/rutracker19.png",
+            "38": "images/rutracker38.png"
+        },
+        "default_title": "Доступ к Рутрекеру",
+        "default_popup": "popup.html"
+    },
+    "permissions": [
+        "proxy",
+        "activeTab",
+        "browsingData",
+        "storage"
+    ],
+    "host_permissions": [
+        "https://rtk.rmcontrol.net/",
+        "*://rutracker.org/*"
+    ],
+    "background": {
+        "service_worker": "background.js"
+    }
+}

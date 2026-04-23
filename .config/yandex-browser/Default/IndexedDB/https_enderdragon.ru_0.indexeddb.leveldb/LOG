@@ -1,0 +1,6 @@
+2026/04/08-23:01:02.856 1f991 File /home/bobrik/.config/yandex-browser/Default/IndexedDB/https_enderdragon.ru_0.indexeddb.leveldb is locked for recovering successfully
+2026/04/08-23:01:02.856 1f991 Creating DB /home/bobrik/.config/yandex-browser/Default/IndexedDB/https_enderdragon.ru_0.indexeddb.leveldb since it was missing.
+2026/04/08-23:01:02.858 1f991 Reusing MANIFEST /home/bobrik/.config/yandex-browser/Default/IndexedDB/https_enderdragon.ru_0.indexeddb.leveldb/MANIFEST-000001
+2026/04/09-14:24:51.957 1f9a1 Deletion DBImpl for /home/bobrik/.config/yandex-browser/Default/IndexedDB/https_enderdragon.ru_0.indexeddb.leveldb, waiting for background work finished
+2026/04/09-14:24:51.958 1f9a1 Deletion DBImpl for /home/bobrik/.config/yandex-browser/Default/IndexedDB/https_enderdragon.ru_0.indexeddb.leveldb, background work finished
+2026/04/09-14:24:51.959 1f9a1 File /home/bobrik/.config/yandex-browser/Default/IndexedDB/https_enderdragon.ru_0.indexeddb.leveldb unlocked successfully

@@ -1,0 +1,5 @@
+2026/04/22-09:14:27.113 1c4b File /home/bobrik/.config/yandex-browser/Default/Site Characteristics Database is locked for recovering successfully
+2026/04/22-09:14:27.114 1c4b Reusing MANIFEST /home/bobrik/.config/yandex-browser/Default/Site Characteristics Database/MANIFEST-000001
+2026/04/22-09:14:27.114 1c4b Recovering log #3
+2026/04/22-09:14:27.115 1c4b (ignoring error) /home/bobrik/.config/yandex-browser/Default/Site Characteristics Database/000003.log: dropping 6 bytes; Corruption: missing start of fragmented record(2)
+2026/04/22-09:14:27.115 1c4b Reusing old log /home/bobrik/.config/yandex-browser/Default/Site Characteristics Database/000003.log 

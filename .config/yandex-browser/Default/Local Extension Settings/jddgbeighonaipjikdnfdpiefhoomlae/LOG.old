@@ -1,0 +1,25 @@
+2026/04/21-19:23:25.349 5ed6 File /home/bobrik/.config/yandex-browser/Default/Local Extension Settings/jddgbeighonaipjikdnfdpiefhoomlae is locked for recovering successfully
+2026/04/21-19:23:25.352 5ed6 Reusing MANIFEST /home/bobrik/.config/yandex-browser/Default/Local Extension Settings/jddgbeighonaipjikdnfdpiefhoomlae/MANIFEST-000001
+2026/04/21-19:23:25.353 5ed6 Recovering log #4376
+2026/04/21-19:23:25.358 5ed6 Reusing old log /home/bobrik/.config/yandex-browser/Default/Local Extension Settings/jddgbeighonaipjikdnfdpiefhoomlae/004376.log 
+2026/04/21-19:25:39.948 5eca Level-0 table #4382: started
+2026/04/21-19:25:39.952 5eca Level-0 table #4382: 546326 bytes OK
+2026/04/21-19:25:39.955 5eca Delete type=0 #4376
+2026/04/21-19:31:41.264 5eca Compacting 1@1 + 1@2 files
+2026/04/21-19:31:41.267 5eca Generated table #4383@1: 34 keys, 9214 bytes
+2026/04/21-19:31:41.267 5eca Compacted 1@1 + 1@2 files => 9214 bytes
+2026/04/21-19:31:41.267 5eca compacted to: files[ 0 0 1 0 0 0 0 ]
+2026/04/21-19:31:41.268 5eca Delete type=2 #4382
+2026/04/21-19:31:41.268 5eca Delete type=2 #4379
+2026/04/21-20:18:39.970 5ec9 Level-0 table #4385: started
+2026/04/21-20:18:39.980 5ec9 Level-0 table #4385: 543526 bytes OK
+2026/04/21-20:18:39.981 5ec9 Delete type=0 #4381
+2026/04/21-20:35:10.313 5eca Compacting 1@1 + 1@2 files
+2026/04/21-20:35:10.315 5eca Generated table #4386@1: 34 keys, 9015 bytes
+2026/04/21-20:35:10.315 5eca Compacted 1@1 + 1@2 files => 9015 bytes
+2026/04/21-20:35:10.315 5eca compacted to: files[ 0 0 1 0 0 0 0 ]
+2026/04/21-20:35:10.316 5eca Delete type=2 #4385
+2026/04/21-20:35:10.316 5eca Delete type=2 #4383
+2026/04/21-20:57:40.167 5ecb Level-0 table #4388: started
+2026/04/21-20:57:40.208 5ecb Level-0 table #4388: 552924 bytes OK
+2026/04/21-20:57:40.210 5ecb Delete type=0 #4384

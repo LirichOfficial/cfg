@@ -1,0 +1,4 @@
+2026/02/23-21:06:14.634 28c6 File /home/bobrik/.config/yandex-browser/Default/IndexedDB/https_neuro.translate.yandex.ru_0.indexeddb.leveldb is locked for recovering successfully
+2026/02/23-21:06:14.634 28c6 Reusing MANIFEST /home/bobrik/.config/yandex-browser/Default/IndexedDB/https_neuro.translate.yandex.ru_0.indexeddb.leveldb/MANIFEST-000001
+2026/02/23-21:06:14.634 28c6 Recovering log #3
+2026/02/23-21:06:14.635 28c6 Reusing old log /home/bobrik/.config/yandex-browser/Default/IndexedDB/https_neuro.translate.yandex.ru_0.indexeddb.leveldb/000003.log 

@@ -1,0 +1,10 @@
+{
+  "app_name": {
+    "message": "VPN Proxy แบบฟรี และ ad blocker - Planet VPN",
+    "description": "ชื่อของแอปพลิเคชัน"
+  },
+  "app_description": {
+    "message": "เข้าถึงเว็บไซต์ใดก็ได้และบล็อกโฆษณาด้วยส่วนขยาย VPN proxy แบบฟรีของเรา",
+    "description": "คำอธิบายของแอปพลิเคชัน"
+  }
+}

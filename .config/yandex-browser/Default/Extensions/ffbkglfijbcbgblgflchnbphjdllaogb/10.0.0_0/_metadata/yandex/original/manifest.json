@@ -1,0 +1,61 @@
+{
+"update_url": "https://clients2.google.com/service/update2/crx",
+
+  "name": "__MSG_app_name_title__",
+  "short_name": "__MSG_app_short_name_title__",
+  "description": "__MSG_app_description_text__",
+  "manifest_version": 3,
+  "version": "10.0.0",
+  "icons": {
+    "16": "images/toolbar-icons/toolbar-icon-16.png",
+    "32": "images/toolbar-icons/toolbar-icon-32.png",
+    "48": "images/toolbar-icons/toolbar-icon-48.png",
+    "128": "images/toolbar-icons/toolbar-icon-128.png"
+  },
+  "commands": {
+    "_execute_action": {
+      "suggested_key": {
+        "default": "Ctrl+Shift+X",
+        "mac": "Command+Shift+O"
+      }
+    }
+  },
+  "default_locale": "en",
+  "action": {
+    "default_popup": "src/popup.html",
+    "default_title": "CyberGhost"
+  },
+  "background": {
+    "service_worker": "src/scripts/background.js"
+  },
+  "host_permissions": [
+    "<all_urls>"
+  ],
+  "permissions": [
+    "storage",
+    "tabs",
+    "proxy"
+  ],
+  "web_accessible_resources": [
+    {
+      "matches": [
+        "<all_urls>"
+      ],
+      "resources": [
+        "images/*",
+        "fonts/*"
+      ]
+    }
+  ],
+  "content_security_policy": {
+    "extension_pages": "script-src 'self' ; object-src 'self' "
+  },
+  "externally_connectable": {
+    "matches": [
+      "<all_urls>"
+    ]
+  },
+  "minimum_chrome_version": "116",
+  "author": "CyberGhost",
+  "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAiWWZhFZQ1lVjUgn1AWpaQmWRHjrI9jv5WlrqhZkwiJ17MCakKCCqyyw6E3RUXH/JjfsyWnw+OALOLV4KeIaClsrYMghKDsl5sLiXSul2G0JwYQ85MIgIt7/CRfXchFWw8J4Ir8Ujtzw4ISBFDymZbBrgWD2gkVUBV3FxD3M1OKr4zpWsUMLMmM+adIn9LUvvY0tPPuK7IVRoucb2D6mih+uH53JTPO7h1+z4UsoysRoYBUa8IjYkEA14s154ACpsl5Uh2kgzWCEvk4tA+1kgVyVWu47hAJpKZLyI3ew6ORl+Cu/gvuuwFs4AetAinBC9mFw0cXdbr/LD1KokYPaYvQIDAQAB"
+}

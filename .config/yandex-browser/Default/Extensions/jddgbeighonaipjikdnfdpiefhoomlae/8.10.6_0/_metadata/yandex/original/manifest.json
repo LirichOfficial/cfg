@@ -1,0 +1,229 @@
+{
+"update_url": "https://clients2.google.com/service/update2/crx",
+
+  "manifest_version": 3,
+  "name": "__MSG_extName__",
+  "version": "8.10.6",
+  "description": "__MSG_extDescription__",
+  "permissions": [
+    "proxy",
+    "storage",
+    "webRequest",
+    "webRequestAuthProvider",
+    "activeTab",
+    "tabs",
+    "alarms",
+    "management",
+    "cookies"
+  ],
+  "host_permissions": [
+    "https://*.youtube.com/*",
+    "https://*.youtu.be/*",
+    "https://*.googlevideo.com/*",
+    "https://*.play.google.com/*",
+    "https://*.ytimg.com/*",
+    "https://*.witch.tv/*",
+    "https://staticfiles.cukubst.top/*",
+    "https://uboost.space/*",
+    "https://ubst.space/*",
+    "*://*.vpnn.loan/*",
+    "*://*.yandexcloud.net/*",
+    "<all_urls>"
+  ],
+  "action": {
+    "default_popup": "action/default_popup.html",
+    "default_icon": {
+      "16": "icons/icon16.png",
+      "48": "icons/icon48.png",
+      "128": "icons/icon128.png"
+    }
+  },
+  "content_scripts": [
+    {
+      "matches": [
+        "*://*.ubstv.click/*",
+        "*://*.naruzhu.work/*",
+        "*://*.naruzhu.am/*",
+        "*://*.uboost.am/*"
+      ],
+      "js": [
+        "content_scripts/content-0.js"
+      ],
+      "run_at": "document_start",
+      "css": [
+        "content_scripts/content-0.css",
+        "content_scripts/content-1.css"
+      ]
+    },
+    {
+      "matches": [
+        "*://*.youtube.com/*",
+        "*://*.youtu.be/*"
+      ],
+      "js": [
+        "content_scripts/content-1.js"
+      ],
+      "run_at": "document_idle",
+      "css": [
+        "content_scripts/content-0.css",
+        "content_scripts/content-1.css"
+      ]
+    },
+    {
+      "matches": [
+        "*://*.youtube.com/*",
+        "*://*.google.com/*",
+        "*://*.youtu.be/*"
+      ],
+      "js": [
+        "content_scripts/content-2.js"
+      ],
+      "css": [
+        "content_scripts/content-0.css",
+        "content_scripts/content-1.css"
+      ],
+      "run_at": "document_start"
+    },
+    {
+      "matches": [
+        "*://*.youtube.com/*",
+        "*://*.youtu.be/*",
+        "*://*.googlevideo.com/*",
+        "*://*.play.google.com/*",
+        "*://*.ytimg.com/*",
+        "*://*.witch.tv/*"
+      ],
+      "js": [
+        "content_scripts/content-3.js"
+      ],
+      "run_at": "document_start",
+      "css": [
+        "content_scripts/content-0.css",
+        "content_scripts/content-1.css"
+      ]
+    },
+    {
+      "matches": [
+        "https://storage.googleapis.com/uboost-neo/welcome/*",
+        "https://storage.yandexcloud.net/vpnn-web-configs/uboost-neo/welcome/*",
+        "https://storage.googleapis.com/uboost-neo/welcome-new/*",
+        "https://storage.yandexcloud.net/vpnn-web-configs/uboost-neo/welcome-new/*",
+        "https://storage.googleapis.com/uboost-neo/welcome-back/*",
+        "https://storage.yandexcloud.net/vpnn-web-configs/uboost-neo/welcome-back/*",
+        "https://storage.googleapis.com/uboost/welcome/*",
+        "https://storage.yandexcloud.net/vpnn-web-configs/uboost/welcome/*",
+        "https://storage.googleapis.com/uboost/welcome-new/*",
+        "https://storage.yandexcloud.net/vpnn-web-configs/uboost/welcome-new/*",
+        "https://storage.googleapis.com/uboost/welcome-back/*",
+        "https://storage.yandexcloud.net/vpnn-web-configs/uboost/welcome-back/*"
+      ],
+      "js": [
+        "content_scripts/content-4.js"
+      ],
+      "run_at": "document_start",
+      "css": [
+        "content_scripts/content-0.css",
+        "content_scripts/content-1.css"
+      ]
+    },
+    {
+      "matches": [
+        "*://*.storage.googleapis.com/*",
+        "*://*.storage.yandexcloud.net/*"
+      ],
+      "js": [
+        "content_scripts/content-5.js"
+      ],
+      "css": [
+        "content_scripts/content-0.css",
+        "content_scripts/content-1.css"
+      ],
+      "run_at": "document_idle"
+    }
+  ],
+  "web_accessible_resources": [
+    {
+      "resources": [
+        "fonts/Press_Start_2P/*.ttf"
+      ],
+      "matches": [
+        "<all_urls>"
+      ]
+    },
+    {
+      "resources": [
+        "fonts/CyGrotesk/*.otf"
+      ],
+      "matches": [
+        "<all_urls>"
+      ]
+    },
+    {
+      "resources": [
+        "assets/box_gift.png",
+        "assets/cross.svg",
+        "assets/icon128.png"
+      ],
+      "matches": [
+        "*://*.ubstv.click/*",
+        "*://*.naruzhu.work/*",
+        "*://*.naruzhu.am/*",
+        "*://*.uboost.am/*"
+      ]
+    },
+    {
+      "resources": [
+        "assets/box_gift.png",
+        "assets/cross.svg",
+        "assets/icon128.png",
+        "assets/icon.png"
+      ],
+      "matches": [
+        "*://*.youtube.com/*",
+        "*://*.youtu.be/*"
+      ]
+    },
+    {
+      "resources": [
+        "assets/box_gift.png",
+        "assets/cross.svg",
+        "assets/icon128.png"
+      ],
+      "matches": [
+        "https://storage.googleapis.com/*",
+        "https://storage.yandexcloud.net/*",
+        "https://storage.googleapis.com/*",
+        "https://storage.yandexcloud.net/*",
+        "https://storage.googleapis.com/*",
+        "https://storage.yandexcloud.net/*",
+        "https://storage.googleapis.com/*",
+        "https://storage.yandexcloud.net/*",
+        "https://storage.googleapis.com/*",
+        "https://storage.yandexcloud.net/*",
+        "https://storage.googleapis.com/*",
+        "https://storage.yandexcloud.net/*"
+      ]
+    },
+    {
+      "resources": [
+        "assets/box_gift.png",
+        "assets/cross.svg",
+        "assets/icon128.png",
+        "assets/icon.png"
+      ],
+      "matches": [
+        "*://*.storage.googleapis.com/*",
+        "*://*.storage.yandexcloud.net/*"
+      ]
+    }
+  ],
+  "icons": {
+    "16": "icons/icon16.png",
+    "48": "icons/icon48.png",
+    "128": "icons/icon128.png"
+  },
+  "default_locale": "ru",
+  "background": {
+    "service_worker": "background/service_worker.js"
+  }
+}

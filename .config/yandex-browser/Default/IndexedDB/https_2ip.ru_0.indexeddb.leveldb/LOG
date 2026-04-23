@@ -1,0 +1,7 @@
+2026/03/20-11:40:37.436 15f6 File /home/bobrik/.config/yandex-browser/Default/IndexedDB/https_2ip.ru_0.indexeddb.leveldb is locked for recovering successfully
+2026/03/20-11:40:37.437 15f6 Reusing MANIFEST /home/bobrik/.config/yandex-browser/Default/IndexedDB/https_2ip.ru_0.indexeddb.leveldb/MANIFEST-000001
+2026/03/20-11:40:37.438 15f6 Recovering log #3
+2026/03/20-11:40:37.439 15f6 Reusing old log /home/bobrik/.config/yandex-browser/Default/IndexedDB/https_2ip.ru_0.indexeddb.leveldb/000003.log 
+2026/03/20-11:40:47.639 15f6 Deletion DBImpl for /home/bobrik/.config/yandex-browser/Default/IndexedDB/https_2ip.ru_0.indexeddb.leveldb, waiting for background work finished
+2026/03/20-11:40:47.639 15f6 Deletion DBImpl for /home/bobrik/.config/yandex-browser/Default/IndexedDB/https_2ip.ru_0.indexeddb.leveldb, background work finished
+2026/03/20-11:40:47.640 15f6 File /home/bobrik/.config/yandex-browser/Default/IndexedDB/https_2ip.ru_0.indexeddb.leveldb unlocked successfully

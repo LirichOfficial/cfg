@@ -1,0 +1,11 @@
+2026/04/18-08:45:40.493 50aa File /home/bobrik/.config/yandex-browser/Default/IndexedDB/https_alfabank.ru_0.indexeddb.leveldb is locked for recovering successfully
+2026/04/18-08:45:40.493 50aa Reusing MANIFEST /home/bobrik/.config/yandex-browser/Default/IndexedDB/https_alfabank.ru_0.indexeddb.leveldb/MANIFEST-000001
+2026/04/18-08:45:40.493 50aa Recovering log #3
+2026/04/18-08:45:40.493 50aa Reusing old log /home/bobrik/.config/yandex-browser/Default/IndexedDB/https_alfabank.ru_0.indexeddb.leveldb/000003.log 
+2026/04/18-09:40:32.658 50aa Level-0 table #5: started
+2026/04/18-09:40:32.659 50aa Level-0 table #5: 3807 bytes OK
+2026/04/18-09:40:32.660 50aa Delete type=0 #3
+2026/04/18-09:40:32.660 50aa Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2026/04/18-09:40:32.660 50a9 Deletion DBImpl for /home/bobrik/.config/yandex-browser/Default/IndexedDB/https_alfabank.ru_0.indexeddb.leveldb, waiting for background work finished
+2026/04/18-09:40:32.660 50a9 Deletion DBImpl for /home/bobrik/.config/yandex-browser/Default/IndexedDB/https_alfabank.ru_0.indexeddb.leveldb, background work finished
+2026/04/18-09:40:32.660 50a9 File /home/bobrik/.config/yandex-browser/Default/IndexedDB/https_alfabank.ru_0.indexeddb.leveldb unlocked successfully

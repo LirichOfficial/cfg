@@ -1,0 +1,7 @@
+2026/04/22-09:14:29.400 1c58 File /home/bobrik/.config/yandex-browser/Default/GCM Store is locked for recovering successfully
+2026/04/22-09:14:29.400 1c58 Reusing MANIFEST /home/bobrik/.config/yandex-browser/Default/GCM Store/MANIFEST-000001
+2026/04/22-09:14:29.400 1c58 Recovering log #3
+2026/04/22-09:14:29.401 1c58 Reusing old log /home/bobrik/.config/yandex-browser/Default/GCM Store/000003.log 
+2026/04/22-15:02:08.932 1c56 Deletion DBImpl for /home/bobrik/.config/yandex-browser/Default/GCM Store, waiting for background work finished
+2026/04/22-15:02:08.932 1c56 Deletion DBImpl for /home/bobrik/.config/yandex-browser/Default/GCM Store, background work finished
+2026/04/22-15:02:08.932 1c56 File /home/bobrik/.config/yandex-browser/Default/GCM Store unlocked successfully

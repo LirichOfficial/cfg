@@ -1,0 +1,10 @@
+2026/04/08-18:36:52.839 6fef File /home/bobrik/.config/yandex-browser/Default/IndexedDB/https_foncode.ru_0.indexeddb.leveldb is locked for recovering successfully
+2026/04/08-18:36:52.839 6fef Creating DB /home/bobrik/.config/yandex-browser/Default/IndexedDB/https_foncode.ru_0.indexeddb.leveldb since it was missing.
+2026/04/08-18:36:52.842 6fef Reusing MANIFEST /home/bobrik/.config/yandex-browser/Default/IndexedDB/https_foncode.ru_0.indexeddb.leveldb/MANIFEST-000001
+2026/04/08-18:37:14.083 6ff0 Level-0 table #5: started
+2026/04/08-18:37:14.084 6ff0 Level-0 table #5: 1835 bytes OK
+2026/04/08-18:37:14.085 6ff0 Delete type=0 #3
+2026/04/08-18:37:14.085 6ff0 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2026/04/08-18:37:14.085 6fef Deletion DBImpl for /home/bobrik/.config/yandex-browser/Default/IndexedDB/https_foncode.ru_0.indexeddb.leveldb, waiting for background work finished
+2026/04/08-18:37:14.085 6fef Deletion DBImpl for /home/bobrik/.config/yandex-browser/Default/IndexedDB/https_foncode.ru_0.indexeddb.leveldb, background work finished
+2026/04/08-18:37:14.085 6fef File /home/bobrik/.config/yandex-browser/Default/IndexedDB/https_foncode.ru_0.indexeddb.leveldb unlocked successfully

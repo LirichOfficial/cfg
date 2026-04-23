@@ -1,0 +1,107 @@
+{
+"update_url": "https://clients2.google.com/service/update2/crx",
+
+  "manifest_version": 3,
+  "version": "3.1.0",
+  "name": "__MSG_app_name__",
+  "description": "__MSG_app_description__",
+  "default_locale": "en",
+  "minimum_chrome_version": "120",
+  "icons": {
+    "16": "icons/icon-16.png",
+    "48": "icons/icon-48.png",
+    "96": "icons/icon-96.png",
+    "128": "icons/icon-128.png"
+  },
+  "background": {
+    "service_worker": "background.js",
+    "type": "module"
+  },
+  "permissions": [
+    "proxy",
+    "storage",
+    "unlimitedStorage",
+    "history",
+    "webRequest",
+    "webRequestAuthProvider",
+    "declarativeNetRequest",
+    "declarativeNetRequestFeedback",
+    "tabs",
+    "privacy",
+    "management",
+    "scripting",
+    "offscreen",
+    "notifications"
+  ],
+  "host_permissions": [
+    "<all_urls>"
+  ],
+  "content_scripts": [
+    {
+      "matches": [
+        "https://freevpnplanet.com/*",
+        "https://planetvpnarab.com/*",
+        "https://freevpnplanet.net/*"
+      ],
+      "runAt": "document_start",
+      "js": [
+        "content/pin-modal/script.js"
+      ],
+      "css": [
+        "content/pin-modal/styles.css"
+      ]
+    }
+  ],
+  "action": {
+    "default_icon": {
+      "16": "icons/icon-16.png",
+      "19": "icons/icon-19.png",
+      "32": "icons/icon-38.png",
+      "38": "icons/icon-38.png"
+    },
+    "default_title": "Planet VPN",
+    "default_popup": "popup.html"
+  },
+  "web_accessible_resources": [
+    {
+      "resources": [
+        "blocked.html",
+        "blocked.js",
+        "icons/icon-48.png"
+      ],
+      "matches": [
+        "http://*/*",
+        "https://*/*"
+      ]
+    }
+  ],
+  "externally_connectable": {
+    "matches": [
+      "*://localhost/*",
+      "*://freevpnplanet.com/*",
+      "*://*.freevpnplanet.com/*"
+    ]
+  },
+  "declarative_net_request": {
+    "rule_resources": [
+      {
+        "id": "tracking",
+        "enabled": false,
+        "path": "rulesets/trackingRuleset.json"
+      },
+      {
+        "id": "adblocker_1",
+        "enabled": false,
+        "path": "rulesets/adblockerRuleset_1.json"
+      },
+      {
+        "id": "adblocker_2",
+        "enabled": false,
+        "path": "rulesets/adblockerRuleset_2.json"
+      }
+    ]
+  },
+  "content_security_policy": {
+    "extension_pages": "script-src 'self'; object-src 'self'"
+  }
+}

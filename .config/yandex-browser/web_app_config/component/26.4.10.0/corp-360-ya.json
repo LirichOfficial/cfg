@@ -1,0 +1,170 @@
+{
+   "apps_api": [],
+   "apps_blacklist": [],
+   "apps_prepopulate_whitelist": [
+      "https://mail.yandex.ru/*",
+      "https://calendar.yandex.ru/*",
+      "https://yandex.ru/maps/*",
+      "https://yandex.ru/pogoda/*",
+      "https://market.yandex.ru/*",
+      "https://music.yandex.ru/*",
+      "https://translate.yandex.ru/*",
+      "https://hd.kinopoisk.ru/*",
+      "https://local.yandex.ru/*",
+      "https://yandex.ru/q/*",
+      "https://taxi.yandex.ru/*",
+      "https://eda.yandex/*",
+      "https://yandex.ru/uslugi*",
+      "https://travel.yandex.ru/*",
+      "https://telemost.yandex.ru/*",
+      "https://direct.yandex.ru/*",
+      "https://metrika.yandex.ru/*",
+      "https://yandex.ru/games/*",
+      "https://disk.yandex.ru/*"
+   ],
+   "apps_list_autoinstall": [
+      "https://calendar.yandex.ru/*",
+      "https://yandex.ru/maps/*",
+      "https://yandex.ru/pogoda/*",
+      "https://market.yandex.ru/*"
+   ],
+   "apps_store": [
+      {
+         "apps": [
+            {
+               "scope": "https://mail.yandex.ru/"
+            },
+            {
+               "scope": "https://calendar.yandex.ru/"
+            },
+            {
+               "scope": "https://disk.yandex.ru/client/disk/"
+            },
+            {
+               "scope": "https://disk.yandex.ru/notes/"
+            },
+            {
+               "scope": "https://translate.yandex.ru/"
+            }
+         ],
+         "name": "Сервисы"
+      },
+      {
+         "apps": [
+            {
+               "scope": "https://yandex.ru/chat#/"
+            },
+            {
+               "scope": "https://telemost.yandex.ru/"
+            },
+            {
+               "scope": "https://wiki.yandex.ru/"
+            },
+            {
+               "scope": "https://tracker.yandex.ru/"
+            },
+            {
+               "scope": "https://docs.yandex.ru/docs/docx/"
+            },
+            {
+               "scope": "https://docs.yandex.ru/docs/xlsx/"
+            },
+            {
+               "scope": "https://docs.yandex.ru/docs/pptx/"
+            }
+         ],
+         "name": "Совместная работа"
+      }
+   ],
+   "brand_default_apps": [
+      {
+         "install": "all",
+         "scope": "https://translate.yandex.ru/",
+         "is_pinned": false,
+         "create_desktop_shortcut": false,
+         "launch_after_install": false,
+         "brands": [
+            "yandex"
+         ],
+         "partners": [
+            "87863",
+            "163476"
+         ]
+      },
+      {
+         "install": "all",
+         "scope": "https://yandex.ru/chat#/",
+         "is_pinned": false,
+         "create_desktop_shortcut": true,
+         "hide_side_panel_icon": true,
+         "launch_after_install": false,
+         "brands": [
+            "yandex"
+         ],
+         "partners": [
+            "87863",
+            "163476"
+         ]
+      },
+      {
+         "install": "all",
+         "scope": "https://mail.yandex.ru/",
+         "is_pinned": true,
+         "create_desktop_shortcut": true,
+         "hide_side_panel_icon": true,
+         "launch_after_install": false,
+         "brands": [
+            "yandex"
+         ],
+         "partners": [
+            "87863",
+            "163476"
+         ]
+      },
+      {
+         "install": "all",
+         "scope": "https://calendar.yandex.ru/",
+         "is_pinned": true,
+         "create_desktop_shortcut": true,
+         "hide_side_panel_icon": true,
+         "launch_after_install": false,
+         "brands": [
+            "yandex"
+         ],
+         "partners": [
+            "87863",
+            "163476"
+         ]
+      },
+      {
+         "install": "all",
+         "scope": "https://disk.yandex.ru/client/disk/",
+         "is_pinned": true,
+         "create_desktop_shortcut": true,
+         "hide_side_panel_icon": true,
+         "launch_after_install": false,
+         "brands": [
+            "yandex"
+         ],
+         "partners": [
+            "87863",
+            "163476"
+         ]
+      },
+      {
+         "install": "all",
+         "scope": "https://telemost.yandex.ru/",
+         "is_pinned": true,
+         "create_desktop_shortcut": true,
+         "hide_side_panel_icon": true,
+         "launch_after_install": false,
+         "brands": [
+            "yandex"
+         ],
+         "partners": [
+            "87863",
+            "163476"
+         ]
+      }
+   ]
+}

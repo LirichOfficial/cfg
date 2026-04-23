@@ -1,0 +1,24 @@
+{
+   "action": {
+      "default_icon": "assets/img/icon/icon_BW_48.png",
+      "default_popup": "ui/popup.html"
+   },
+   "background": {
+      "service_worker": "background.js",
+      "type": "module"
+   },
+   "default_locale": "en",
+   "description": "Secure your connection with one click. Encrypt traffic, protect your privacy, and access the open internet on restricted networks.",
+   "host_permissions": [ "http://10.11.0.2:7000/*", "https://safe.ultrasurfing.com/*" ],
+   "icons": {
+      "128": "assets/img/icon/icon_128.png",
+      "16": "assets/img/icon/icon_16.png",
+      "48": "assets/img/icon/icon_48.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAkP/qhw6s3LqmrXpsBqgNxh0jxGDcYuXx6Puds+3trx3avmMA0AhhF8wFPDyc5oHLJ/J31ckmEq6OEO5VNrDLtmzAxd2S2boxqTJ0lrAWdNERn/n+7L2lMroFZ436dEe8XEROKdsUWvZkeAu31qEFAhNDPp1CQhgUWO5zMmwaknZe+wf3NgFoVg8u4STvW3ihvg11eYqxKvHKFhWcWHCySWmZ1tc8FrHBRIOjCS2lwNf/jipBfW0rLFLcBAw/aGAFBiQXfNTADT3gDJh0OQCnrh1CA1t9wgdpGUylGGzhkvbAFaCozp5XlGg1jIExhTVZv3WhMQVYoABGBPjU0VEILQIDAQAB",
+   "manifest_version": 3,
+   "name": "UltraSurf Security, Privacy & Freedom VPN",
+   "permissions": [ "storage", "proxy", "alarms", "tabs", "webNavigation" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "1.9.1"
+}

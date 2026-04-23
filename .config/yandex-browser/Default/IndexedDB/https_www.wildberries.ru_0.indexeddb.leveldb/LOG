@@ -1,0 +1,57 @@
+2026/03/27-17:33:28.983 1aba File /home/bobrik/.config/yandex-browser/Default/IndexedDB/https_www.wildberries.ru_0.indexeddb.leveldb is locked for recovering successfully
+2026/03/27-17:33:28.984 1aba Reusing MANIFEST /home/bobrik/.config/yandex-browser/Default/IndexedDB/https_www.wildberries.ru_0.indexeddb.leveldb/MANIFEST-000001
+2026/03/27-17:33:28.985 1aba Recovering log #514
+2026/03/27-17:33:28.996 1aba Reusing old log /home/bobrik/.config/yandex-browser/Default/IndexedDB/https_www.wildberries.ru_0.indexeddb.leveldb/000514.log 
+2026/03/27-17:33:29.021 1ac5 Compacting 1@1 + 4@2 files
+2026/03/27-17:33:29.053 1ac5 Generated table #531@1: 32695 keys, 2176276 bytes
+2026/03/27-17:33:29.080 1ac5 Generated table #532@1: 38474 keys, 2190225 bytes
+2026/03/27-17:33:29.106 1ac5 Generated table #533@1: 80927 keys, 2229964 bytes
+2026/03/27-17:33:29.114 1ac5 Generated table #534@1: 4250 keys, 989170 bytes
+2026/03/27-17:33:29.114 1ac5 Compacted 1@1 + 4@2 files => 7585635 bytes
+2026/03/27-17:33:29.114 1ac5 compacted to: files[ 0 5 14 0 0 0 0 ]
+2026/03/27-17:33:29.718 1ac5 Level-0 table #536: started
+2026/03/27-17:33:29.728 1ac5 Level-0 table #536: 1020148 bytes OK
+2026/03/27-17:33:29.728 1ac5 Delete type=2 #443
+2026/03/27-17:33:29.728 1ac5 Delete type=2 #444
+2026/03/27-17:33:29.728 1ac5 Delete type=2 #440
+2026/03/27-17:33:29.729 1ac5 Delete type=2 #524
+2026/03/27-17:33:29.729 1ac5 Delete type=2 #439
+2026/03/27-17:33:29.729 1ac5 Delete type=0 #514
+2026/03/27-17:33:29.731 1ac5 Compacting 1@0 + 5@1 files
+2026/03/27-17:33:29.752 1ac5 Generated table #537@0: 31355 keys, 2171387 bytes
+2026/03/27-17:33:29.776 1ac5 Generated table #538@0: 9186 keys, 2143475 bytes
+2026/03/27-17:33:29.783 1ac5 Generated table #539@0: 2338 keys, 724162 bytes
+2026/03/27-17:33:29.801 1ac5 Generated table #540@0: 20677 keys, 2157058 bytes
+2026/03/27-17:33:29.820 1ac5 Generated table #541@0: 82674 keys, 1241575 bytes
+2026/03/27-17:33:29.820 1ac5 Compacted 1@0 + 5@1 files => 8437657 bytes
+2026/03/27-17:33:29.820 1ac5 compacted to: files[ 0 5 14 0 0 0 0 ]
+2026/03/27-17:33:29.821 1ac5 Delete type=2 #529
+2026/03/27-17:33:29.821 1ac5 Delete type=2 #526
+2026/03/27-17:33:29.821 1ac5 Delete type=2 #525
+2026/03/27-17:33:29.821 1ac5 Delete type=2 #528
+2026/03/27-17:33:29.821 1ac5 Delete type=2 #527
+2026/03/27-17:33:29.821 1ac5 Delete type=2 #536
+2026/03/27-17:33:30.174 1ac6 Compacting 1@1 + 7@2 files
+2026/03/27-17:33:30.200 1ac6 Generated table #542@1: 43305 keys, 2194380 bytes
+2026/03/27-17:33:30.224 1ac6 Generated table #543@1: 55899 keys, 2210571 bytes
+2026/03/27-17:33:30.245 1ac6 Generated table #544@1: 53988 keys, 2196309 bytes
+2026/03/27-17:33:30.263 1ac6 Generated table #545@1: 8994 keys, 2143031 bytes
+2026/03/27-17:33:30.282 1ac6 Generated table #546@1: 9238 keys, 2142494 bytes
+2026/03/27-17:33:30.298 1ac6 Generated table #547@1: 9628 keys, 2143745 bytes
+2026/03/27-17:33:30.298 1ac6 Level-0 table #549: started
+2026/03/27-17:33:30.307 1ac6 Level-0 table #549: 930802 bytes OK
+2026/03/27-17:33:30.309 1ac6 Delete type=0 #535
+2026/03/27-17:33:30.312 1ac6 Generated table #550@1: 1276 keys, 282353 bytes
+2026/03/27-17:33:30.312 1ac6 Compacted 1@1 + 7@2 files => 13312883 bytes
+2026/03/27-17:33:30.313 1ac6 compacted to: files[ 1 4 14 0 0 0 0 ]
+2026/03/27-17:33:30.313 1ac6 Delete type=2 #445
+2026/03/27-17:33:30.313 1ac6 Delete type=2 #531
+2026/03/27-17:33:30.313 1ac6 Delete type=2 #534
+2026/03/27-17:33:30.313 1ac6 Delete type=2 #449
+2026/03/27-17:33:30.313 1ac6 Delete type=2 #448
+2026/03/27-17:33:30.313 1ac6 Delete type=2 #532
+2026/03/27-17:33:30.313 1ac6 Delete type=2 #533
+2026/03/27-17:33:30.313 1ac6 Delete type=2 #537
+2026/03/27-17:33:32.419 1ab8 Deletion DBImpl for /home/bobrik/.config/yandex-browser/Default/IndexedDB/https_www.wildberries.ru_0.indexeddb.leveldb, waiting for background work finished
+2026/03/27-17:33:32.420 1ab8 Deletion DBImpl for /home/bobrik/.config/yandex-browser/Default/IndexedDB/https_www.wildberries.ru_0.indexeddb.leveldb, background work finished
+2026/03/27-17:33:32.420 1ab8 File /home/bobrik/.config/yandex-browser/Default/IndexedDB/https_www.wildberries.ru_0.indexeddb.leveldb unlocked successfully

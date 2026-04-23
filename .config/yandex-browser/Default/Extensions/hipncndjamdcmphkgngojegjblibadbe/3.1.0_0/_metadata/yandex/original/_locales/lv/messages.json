@@ -1,0 +1,10 @@
+{
+  "app_name": {
+    "message": "Bezmaksas VPN starpniekserveris un reklāmu bloķētājs - Planet VPN",
+    "description": "Aplikācijas nosaukums"
+  },
+  "app_description": {
+    "message": "Iegūstiet piekļuvi jebkurai vietnei un bloķējiet reklāmas ar mūsu bezmaksas VPN starpniekservera paplašinājumu",
+    "description": "Aplikācijas apraksts"
+  }
+}

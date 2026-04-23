@@ -1,0 +1,10 @@
+{
+   "app_description": {
+      "description": "Beskrivelse af applikationen",
+      "message": "Få adgang til alle hjemmesider, og bloker reklamer med vores gratis VPN-proxyudvidelse"
+   },
+   "app_name": {
+      "description": "Navnet på applikationen",
+      "message": "Gratis VPN-proxy og annonceblokering - Planet VPN"
+   }
+}

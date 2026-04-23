@@ -1,0 +1,7 @@
+2026/04/23-11:54:25.293 1c49 File /home/bobrik/.config/yandex-browser/Default/IndexedDB/https_chatgpt.com_0.indexeddb.leveldb is locked for recovering successfully
+2026/04/23-11:54:25.293 1c49 Reusing MANIFEST /home/bobrik/.config/yandex-browser/Default/IndexedDB/https_chatgpt.com_0.indexeddb.leveldb/MANIFEST-000001
+2026/04/23-11:54:25.293 1c49 Recovering log #31
+2026/04/23-11:54:25.294 1c49 Reusing old log /home/bobrik/.config/yandex-browser/Default/IndexedDB/https_chatgpt.com_0.indexeddb.leveldb/000031.log 
+2026/04/23-11:54:29.030 1c49 Deletion DBImpl for /home/bobrik/.config/yandex-browser/Default/IndexedDB/https_chatgpt.com_0.indexeddb.leveldb, waiting for background work finished
+2026/04/23-11:54:29.030 1c49 Deletion DBImpl for /home/bobrik/.config/yandex-browser/Default/IndexedDB/https_chatgpt.com_0.indexeddb.leveldb, background work finished
+2026/04/23-11:54:29.030 1c49 File /home/bobrik/.config/yandex-browser/Default/IndexedDB/https_chatgpt.com_0.indexeddb.leveldb unlocked successfully

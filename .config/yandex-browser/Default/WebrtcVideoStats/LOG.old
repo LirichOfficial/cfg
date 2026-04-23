@@ -1,0 +1,4 @@
+2026/04/13-21:10:41.953 63c19 File /home/bobrik/.config/yandex-browser/Default/WebrtcVideoStats is locked for recovering successfully
+2026/04/13-21:10:41.953 63c19 Deletion DBImpl for /home/bobrik/.config/yandex-browser/Default/WebrtcVideoStats, waiting for background work finished
+2026/04/13-21:10:41.953 63c19 Deletion DBImpl for /home/bobrik/.config/yandex-browser/Default/WebrtcVideoStats, background work finished
+2026/04/13-21:10:41.953 63c19 File /home/bobrik/.config/yandex-browser/Default/WebrtcVideoStats unlocked successfully

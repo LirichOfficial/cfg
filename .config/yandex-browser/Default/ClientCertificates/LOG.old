@@ -1,0 +1,4 @@
+2026/04/21-19:23:25.142 5eca File /home/bobrik/.config/yandex-browser/Default/ClientCertificates is locked for recovering successfully
+2026/04/21-19:23:25.142 5eca Deletion DBImpl for /home/bobrik/.config/yandex-browser/Default/ClientCertificates, waiting for background work finished
+2026/04/21-19:23:25.142 5eca Deletion DBImpl for /home/bobrik/.config/yandex-browser/Default/ClientCertificates, background work finished
+2026/04/21-19:23:25.142 5eca File /home/bobrik/.config/yandex-browser/Default/ClientCertificates unlocked successfully

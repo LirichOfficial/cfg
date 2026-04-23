@@ -1,0 +1,10 @@
+{
+  "app_name": {
+    "message": "VPN proxy bla ħlas u mblokkatur tar-reklami - Planet VPN",
+    "description": "Isem l-applikazzjoni"
+  },
+  "app_description": {
+    "message": "Ikseb aċċess għal kwalunkwe websajt u mblokka r-reklami bl-estensjoni tal-VPN proxy bla ħlas tagħna",
+    "description": "Id-deskrizzjoni tal-applikazzjoni"
+  }
+}

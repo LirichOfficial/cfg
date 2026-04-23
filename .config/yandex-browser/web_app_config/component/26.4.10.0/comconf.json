@@ -1,0 +1,121 @@
+{
+   "apps_api": [],
+   "apps_blacklist": [],
+   "apps_store": [
+      {
+         "apps": [
+            {
+               "scope": "https://telemost.yandex.ru/"
+            },
+            {
+               "scope": "https://web.whatsapp.com/"
+            },
+            {
+               "scope": "https://web.telegram.org/"
+            },
+            {
+               "scope": "https://vk.com/"
+            },
+            {
+               "scope": "https://web.max.ru/"
+            },
+            {
+               "scope": "https://ok.ru/"
+            }
+         ],
+         "name": "Общение"
+      },
+      {
+         "apps": [
+            {
+               "scope": "https://mail.yandex.ru/"
+            },
+            {
+               "scope": "https://e.mail.ru/"
+            },
+            {
+               "scope": "https://mail.google.com/"
+            },
+            {
+               "scope": "https://www.gosuslugi.ru/"
+            },
+            {
+               "scope": "https://disk.yandex.ru/"
+            },
+            {
+               "scope": "https://docs.yandex.ru/docs/docx/"
+            },
+            {
+               "scope": "https://docs.yandex.ru/docs/xlsx/"
+            },
+            {
+               "scope": "https://docs.yandex.ru/docs/pptx/"
+            },
+            {
+               "scope": "https://translate.yandex.ru/"
+            },
+            {
+               "scope": "https://online.sberbank.ru/"
+            }
+         ],
+         "name": "Сервисы"
+      },
+      {
+         "apps": [
+            {
+               "scope": "https://hd.kinopoisk.ru/"
+            },
+            {
+               "scope": "https://music.yandex.ru/"
+            },
+            {
+               "scope": "https://yandex.ru/games"
+            },
+            {
+               "scope": "https://afisha.yandex.ru/"
+            },
+            {
+               "scope": "https://www.youtube.com/"
+            },
+            {
+               "scope": "https://www.tiktok.com/"
+            },
+            {
+               "scope": "https://www.twitch.tv/"
+            }
+         ],
+         "name": "Развлечения"
+      },
+      {
+         "apps": [
+            {
+               "scope": "https://market.yandex.ru/"
+            },
+            {
+               "scope": "https://www.ozon.ru/"
+            },
+            {
+               "scope": "https://www.avito.ru/"
+            },
+            {
+               "scope": "https://aliexpress.ru/"
+            }
+         ],
+         "name": "Покупки"
+      }
+   ],
+   "default_apps": [
+      {
+         "install": "all",
+         "scope": "https://mail.yandex.ru/"
+      },
+      {
+         "install": "all",
+         "scope": "https://disk.yandex.ru/"
+      },
+      {
+         "install": "all",
+         "scope": "https://telemost.yandex.ru/"
+      }
+   ]
+}

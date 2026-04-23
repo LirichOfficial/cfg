@@ -1,0 +1,10 @@
+{
+  "app_name": {
+    "message": "Ingyenes VPN proxy és reklámblokkoló - Planet VPN",
+    "description": "Az alkalmazás neve"
+  },
+  "app_description": {
+    "message": "Hozzáférés bármely weboldalhoz és a hirdetések blokkolása az ingyenes VPN proxy bővítményünkkel",
+    "description": "Az alkalmazás leírása"
+  }
+}

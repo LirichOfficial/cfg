@@ -1,0 +1,10 @@
+{
+  "app_name": {
+    "message": "Brezplačni VPN Proxy in blokator oglasov - Planet VPN",
+    "description": "Ime aplikacije"
+  },
+  "app_description": {
+    "message": "Dostop do vseh spletnih strani in blokiranje oglasov z našo brezplačno razširitvijo VPN proxy",
+    "description": "Opis aplikacije"
+  }
+}

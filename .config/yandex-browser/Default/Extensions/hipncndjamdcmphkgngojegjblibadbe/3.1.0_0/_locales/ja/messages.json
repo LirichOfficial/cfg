@@ -1,0 +1,10 @@
+{
+   "app_description": {
+      "description": "アプリケーションの説明",
+      "message": "無料の VPN プロキシ拡張機能を使用して、あらゆる ウェブ サイトにアクセスし、広告をブロックします。"
+   },
+   "app_name": {
+      "description": "アプリケーションの名前",
+      "message": "無料の VPN プロキシと広告ブロッカー - Planet VPN"
+   }
+}

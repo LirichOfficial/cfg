@@ -1,0 +1,1794 @@
+{
+  "country_ac": {
+    "message": "Insula Ascensiunii",
+    "description": ""
+  },
+  "country_ad": {
+    "message": "Andorra",
+    "description": ""
+  },
+  "country_ae": {
+    "message": "Emiratele Arabe Unite",
+    "description": ""
+  },
+  "country_af": {
+    "message": "Afganistan",
+    "description": ""
+  },
+  "country_ag": {
+    "message": "Antigua & Barbuda",
+    "description": ""
+  },
+  "country_ai": {
+    "message": "Anguilla",
+    "description": ""
+  },
+  "country_al": {
+    "message": "Albania",
+    "description": ""
+  },
+  "country_am": {
+    "message": "Armenia",
+    "description": ""
+  },
+  "country_an": {
+    "message": "Antilele Olandeze",
+    "description": ""
+  },
+  "country_ao": {
+    "message": "Angola",
+    "description": ""
+  },
+  "country_aq": {
+    "message": "Antarctica",
+    "description": ""
+  },
+  "country_ar": {
+    "message": "Argentina",
+    "description": ""
+  },
+  "country_as": {
+    "message": "Samoa Americană",
+    "description": ""
+  },
+  "country_at": {
+    "message": "Austria",
+    "description": ""
+  },
+  "country_au": {
+    "message": "Australia",
+    "description": ""
+  },
+  "country_aw": {
+    "message": "Aruba",
+    "description": ""
+  },
+  "country_ax": {
+    "message": "Insulele Aland",
+    "description": ""
+  },
+  "country_az": {
+    "message": "Azerbaidjan",
+    "description": ""
+  },
+  "country_ba": {
+    "message": "Bosnia",
+    "description": ""
+  },
+  "country_bb": {
+    "message": "Barbados",
+    "description": ""
+  },
+  "country_bd": {
+    "message": "Bangladesh",
+    "description": ""
+  },
+  "country_be": {
+    "message": "Belgia",
+    "description": ""
+  },
+  "country_bf": {
+    "message": "Burkina Faso",
+    "description": ""
+  },
+  "country_bg": {
+    "message": "Bulgaria",
+    "description": ""
+  },
+  "country_bh": {
+    "message": "Bahrain",
+    "description": ""
+  },
+  "country_bi": {
+    "message": "Burundi",
+    "description": ""
+  },
+  "country_bj": {
+    "message": "Benin",
+    "description": ""
+  },
+  "country_bl": {
+    "message": "Sf. Bartolomeu",
+    "description": ""
+  },
+  "country_bm": {
+    "message": "Bermude",
+    "description": ""
+  },
+  "country_bn": {
+    "message": "Brunei",
+    "description": ""
+  },
+  "country_bo": {
+    "message": "Bolivia",
+    "description": ""
+  },
+  "country_bq": {
+    "message": "Țările de Jos din Caraibe",
+    "description": ""
+  },
+  "country_br": {
+    "message": "Brazilia",
+    "description": ""
+  },
+  "country_bs": {
+    "message": "Bahamas",
+    "description": ""
+  },
+  "country_bt": {
+    "message": "Bhutan",
+    "description": ""
+  },
+  "country_bv": {
+    "message": "Insula Bouvet",
+    "description": ""
+  },
+  "country_bw": {
+    "message": "Botswana",
+    "description": ""
+  },
+  "country_by": {
+    "message": "Bielorusia",
+    "description": ""
+  },
+  "country_bz": {
+    "message": "Belize",
+    "description": ""
+  },
+  "country_ca": {
+    "message": "Canada",
+    "description": ""
+  },
+  "country_cc": {
+    "message": "Insulele Cocos (Keeling).",
+    "description": ""
+  },
+  "country_cd": {
+    "message": "Congo (RDC)",
+    "description": ""
+  },
+  "country_cf": {
+    "message": "Republica Centrafricană",
+    "description": ""
+  },
+  "country_cg": {
+    "message": "Congo (Republica)",
+    "description": ""
+  },
+  "country_ch": {
+    "message": "Elveţia",
+    "description": ""
+  },
+  "country_ci": {
+    "message": "Coasta de Fildeș",
+    "description": ""
+  },
+  "country_ck": {
+    "message": "Insulele Cook",
+    "description": ""
+  },
+  "country_cl": {
+    "message": "Chile",
+    "description": ""
+  },
+  "country_cm": {
+    "message": "Camerun",
+    "description": ""
+  },
+  "country_cn": {
+    "message": "China",
+    "description": ""
+  },
+  "country_co": {
+    "message": "Columbia",
+    "description": ""
+  },
+  "country_cp": {
+    "message": "Insula Clipperton",
+    "description": ""
+  },
+  "country_cr": {
+    "message": "Costa Rica",
+    "description": ""
+  },
+  "country_cu": {
+    "message": "Cuba",
+    "description": ""
+  },
+  "country_cv": {
+    "message": "capul Verde",
+    "description": ""
+  },
+  "country_cw": {
+    "message": "Curaçao",
+    "description": ""
+  },
+  "country_cx": {
+    "message": "Insula Craciunului",
+    "description": ""
+  },
+  "country_cy": {
+    "message": "Cipru",
+    "description": ""
+  },
+  "country_cz": {
+    "message": "Republica Cehă",
+    "description": ""
+  },
+  "country_de": {
+    "message": "Germania",
+    "description": ""
+  },
+  "country_dg": {
+    "message": "Diego Garcia",
+    "description": ""
+  },
+  "country_dj": {
+    "message": "Djibouti",
+    "description": ""
+  },
+  "country_dk": {
+    "message": "Danemarca",
+    "description": ""
+  },
+  "country_dm": {
+    "message": "Dominica",
+    "description": ""
+  },
+  "country_do": {
+    "message": "Republica Dominicană",
+    "description": ""
+  },
+  "country_dz": {
+    "message": "Algeria",
+    "description": ""
+  },
+  "country_ea": {
+    "message": "Ceuta & Melilla",
+    "description": ""
+  },
+  "country_ec": {
+    "message": "Ecuador",
+    "description": ""
+  },
+  "country_ee": {
+    "message": "Estonia",
+    "description": ""
+  },
+  "country_eg": {
+    "message": "Egipt",
+    "description": ""
+  },
+  "country_eh": {
+    "message": "sahara de Vest",
+    "description": ""
+  },
+  "country_er": {
+    "message": "Eritreea",
+    "description": ""
+  },
+  "country_es": {
+    "message": "Spania",
+    "description": ""
+  },
+  "country_et": {
+    "message": "Etiopia",
+    "description": ""
+  },
+  "country_eu": {
+    "message": "Uniunea Europeană",
+    "description": ""
+  },
+  "country_fi": {
+    "message": "Finlanda",
+    "description": ""
+  },
+  "country_fj": {
+    "message": "Fiji",
+    "description": ""
+  },
+  "country_fk": {
+    "message": "Insulele Falkland",
+    "description": ""
+  },
+  "country_fm": {
+    "message": "Micronezia",
+    "description": ""
+  },
+  "country_fo": {
+    "message": "Insulele Feroe",
+    "description": ""
+  },
+  "country_fr": {
+    "message": "Franţa",
+    "description": ""
+  },
+  "country_ga": {
+    "message": "Gabon",
+    "description": ""
+  },
+  "country_gb": {
+    "message": "Regatul Unit",
+    "description": ""
+  },
+  "country_gd": {
+    "message": "Grenada",
+    "description": ""
+  },
+  "country_ge": {
+    "message": "Georgia",
+    "description": ""
+  },
+  "country_gf": {
+    "message": "Guyana Franceză",
+    "description": ""
+  },
+  "country_gg": {
+    "message": "Guernsey",
+    "description": ""
+  },
+  "country_gh": {
+    "message": "Ghana",
+    "description": ""
+  },
+  "country_gi": {
+    "message": "Gibraltar",
+    "description": ""
+  },
+  "country_gl": {
+    "message": "Groenlanda",
+    "description": ""
+  },
+  "country_gm": {
+    "message": "Gambia",
+    "description": ""
+  },
+  "country_gn": {
+    "message": "Guineea",
+    "description": ""
+  },
+  "country_gp": {
+    "message": "Guadelupa",
+    "description": ""
+  },
+  "country_gq": {
+    "message": "Guineea Ecuatorială",
+    "description": ""
+  },
+  "country_gr": {
+    "message": "Grecia",
+    "description": ""
+  },
+  "country_gs": {
+    "message": "Georgia de Sud și Insulele Sandwich de Sud",
+    "description": ""
+  },
+  "country_gt": {
+    "message": "Guatemala",
+    "description": ""
+  },
+  "country_gu": {
+    "message": "Guam",
+    "description": ""
+  },
+  "country_gw": {
+    "message": "Guineea-Bissau",
+    "description": ""
+  },
+  "country_gy": {
+    "message": "Guyana",
+    "description": ""
+  },
+  "country_hk": {
+    "message": "Hong Kong",
+    "description": ""
+  },
+  "country_hm": {
+    "message": "Insulele Heard și McDonald",
+    "description": ""
+  },
+  "country_hn": {
+    "message": "Honduras",
+    "description": ""
+  },
+  "country_hr": {
+    "message": "Croaţia",
+    "description": ""
+  },
+  "country_ht": {
+    "message": "Haiti",
+    "description": ""
+  },
+  "country_hu": {
+    "message": "Ungaria",
+    "description": ""
+  },
+  "country_ic": {
+    "message": "Insulele Canare",
+    "description": ""
+  },
+  "country_id": {
+    "message": "Indonezia",
+    "description": ""
+  },
+  "country_ie": {
+    "message": "Irlanda",
+    "description": ""
+  },
+  "country_il": {
+    "message": "Israel",
+    "description": ""
+  },
+  "country_im": {
+    "message": "insula Barbatului",
+    "description": ""
+  },
+  "country_in": {
+    "message": "India",
+    "description": ""
+  },
+  "country_io": {
+    "message": "Teritoriul Britanic al Oceanului Indian",
+    "description": ""
+  },
+  "country_iq": {
+    "message": "Irak",
+    "description": ""
+  },
+  "country_ir": {
+    "message": "Iranul",
+    "description": ""
+  },
+  "country_is": {
+    "message": "Islanda",
+    "description": ""
+  },
+  "country_it": {
+    "message": "Italia",
+    "description": ""
+  },
+  "country_je": {
+    "message": "Jersey",
+    "description": ""
+  },
+  "country_jm": {
+    "message": "Jamaica",
+    "description": ""
+  },
+  "country_jo": {
+    "message": "Iordania",
+    "description": ""
+  },
+  "country_jp": {
+    "message": "Japonia",
+    "description": ""
+  },
+  "country_ke": {
+    "message": "Kenya",
+    "description": ""
+  },
+  "country_kg": {
+    "message": "Kârgâzstan",
+    "description": ""
+  },
+  "country_kh": {
+    "message": "Cambodgia",
+    "description": ""
+  },
+  "country_ki": {
+    "message": "Kiribati",
+    "description": ""
+  },
+  "country_km": {
+    "message": "Comore",
+    "description": ""
+  },
+  "country_kn": {
+    "message": "St. Kitts & Nevis",
+    "description": ""
+  },
+  "country_kp": {
+    "message": "Coreea de Nord",
+    "description": ""
+  },
+  "country_kr": {
+    "message": "Coreea de Sud",
+    "description": ""
+  },
+  "country_kw": {
+    "message": "Kuweit",
+    "description": ""
+  },
+  "country_ky": {
+    "message": "Insulele Cayman",
+    "description": ""
+  },
+  "country_kz": {
+    "message": "Kazahstan",
+    "description": ""
+  },
+  "country_la": {
+    "message": "Laos",
+    "description": ""
+  },
+  "country_lb": {
+    "message": "Liban",
+    "description": ""
+  },
+  "country_lc": {
+    "message": "St Lucia",
+    "description": ""
+  },
+  "country_li": {
+    "message": "Liechtenstein",
+    "description": ""
+  },
+  "country_lk": {
+    "message": "Sri Lanka",
+    "description": ""
+  },
+  "country_lr": {
+    "message": "Liberia",
+    "description": ""
+  },
+  "country_ls": {
+    "message": "Lesotho",
+    "description": ""
+  },
+  "country_lt": {
+    "message": "Lituania",
+    "description": ""
+  },
+  "country_lu": {
+    "message": "Luxemburg",
+    "description": ""
+  },
+  "country_lv": {
+    "message": "Letonia",
+    "description": ""
+  },
+  "country_ly": {
+    "message": "Libia",
+    "description": ""
+  },
+  "country_ma": {
+    "message": "Maroc",
+    "description": ""
+  },
+  "country_mc": {
+    "message": "Monaco",
+    "description": ""
+  },
+  "country_md": {
+    "message": "Moldova",
+    "description": ""
+  },
+  "country_me": {
+    "message": "Muntenegru",
+    "description": ""
+  },
+  "country_mf": {
+    "message": "Sf. Martin",
+    "description": ""
+  },
+  "country_mg": {
+    "message": "Madagascar",
+    "description": ""
+  },
+  "country_mh": {
+    "message": "Insulele Marshall",
+    "description": ""
+  },
+  "country_mk": {
+    "message": "Macedonia",
+    "description": ""
+  },
+  "country_ml": {
+    "message": "Mali",
+    "description": ""
+  },
+  "country_mm": {
+    "message": "Myanmar",
+    "description": ""
+  },
+  "country_mn": {
+    "message": "Mongolia",
+    "description": ""
+  },
+  "country_mo": {
+    "message": "Macao",
+    "description": ""
+  },
+  "country_mp": {
+    "message": "Insulele Mariane de Nord",
+    "description": ""
+  },
+  "country_mq": {
+    "message": "Martinica",
+    "description": ""
+  },
+  "country_mr": {
+    "message": "Mauritania",
+    "description": ""
+  },
+  "country_ms": {
+    "message": "Montserrat",
+    "description": ""
+  },
+  "country_mt": {
+    "message": "Malta",
+    "description": ""
+  },
+  "country_mu": {
+    "message": "Mauritius",
+    "description": ""
+  },
+  "country_mv": {
+    "message": "Maldive",
+    "description": ""
+  },
+  "country_mw": {
+    "message": "Malawi",
+    "description": ""
+  },
+  "country_mx": {
+    "message": "Mexic",
+    "description": ""
+  },
+  "country_my": {
+    "message": "Malaezia",
+    "description": ""
+  },
+  "country_mz": {
+    "message": "Mozambic",
+    "description": ""
+  },
+  "country_na": {
+    "message": "Namibia",
+    "description": ""
+  },
+  "country_nc": {
+    "message": "Noua Caledonie",
+    "description": ""
+  },
+  "country_ne": {
+    "message": "Niger",
+    "description": ""
+  },
+  "country_nf": {
+    "message": "Insula Norfolk",
+    "description": ""
+  },
+  "country_ng": {
+    "message": "Nigeria",
+    "description": ""
+  },
+  "country_ni": {
+    "message": "Nicaragua",
+    "description": ""
+  },
+  "country_nl": {
+    "message": "Olanda",
+    "description": ""
+  },
+  "country_no": {
+    "message": "Norvegia",
+    "description": ""
+  },
+  "country_np": {
+    "message": "Nepal",
+    "description": ""
+  },
+  "country_nr": {
+    "message": "Nauru",
+    "description": ""
+  },
+  "country_nu": {
+    "message": "Niue",
+    "description": ""
+  },
+  "country_nz": {
+    "message": "Noua Zeelandă",
+    "description": ""
+  },
+  "country_om": {
+    "message": "Oman",
+    "description": ""
+  },
+  "country_pa": {
+    "message": "Panama",
+    "description": ""
+  },
+  "country_pe": {
+    "message": "Peru",
+    "description": ""
+  },
+  "country_pf": {
+    "message": "Polinezia Franceză",
+    "description": ""
+  },
+  "country_pg": {
+    "message": "Papua Noua Guinee",
+    "description": ""
+  },
+  "country_ph": {
+    "message": "Filipine",
+    "description": ""
+  },
+  "country_pk": {
+    "message": "Pakistan",
+    "description": ""
+  },
+  "country_pl": {
+    "message": "Polonia",
+    "description": ""
+  },
+  "country_pm": {
+    "message": "St. Pierre & Miquelon",
+    "description": ""
+  },
+  "country_pn": {
+    "message": "Insulele Pitcairn",
+    "description": ""
+  },
+  "country_pr": {
+    "message": "Puerto Rico",
+    "description": ""
+  },
+  "country_ps": {
+    "message": "Palestina",
+    "description": ""
+  },
+  "country_pt": {
+    "message": "Portugalia",
+    "description": ""
+  },
+  "country_pw": {
+    "message": "Palau",
+    "description": ""
+  },
+  "country_py": {
+    "message": "Paraguay",
+    "description": ""
+  },
+  "country_qa": {
+    "message": "Qatar",
+    "description": ""
+  },
+  "country_qo": {
+    "message": "Oceania periferică",
+    "description": ""
+  },
+  "country_re": {
+    "message": "Reuniune",
+    "description": ""
+  },
+  "country_ro": {
+    "message": "România",
+    "description": ""
+  },
+  "country_rs": {
+    "message": "Serbia",
+    "description": ""
+  },
+  "country_ru": {
+    "message": "Rusia",
+    "description": ""
+  },
+  "country_rw": {
+    "message": "Rwanda",
+    "description": ""
+  },
+  "country_sa": {
+    "message": "Arabia Saudită",
+    "description": ""
+  },
+  "country_sb": {
+    "message": "Insulele Solomon",
+    "description": ""
+  },
+  "country_sc": {
+    "message": "Seychelles",
+    "description": ""
+  },
+  "country_sd": {
+    "message": "Sudan",
+    "description": ""
+  },
+  "country_se": {
+    "message": "Suedia",
+    "description": ""
+  },
+  "country_sg": {
+    "message": "Singapore",
+    "description": ""
+  },
+  "country_sh": {
+    "message": "Sf. Elena",
+    "description": ""
+  },
+  "country_si": {
+    "message": "Slovenia",
+    "description": ""
+  },
+  "country_sj": {
+    "message": "Svalbard și Jan Mayen",
+    "description": ""
+  },
+  "country_sk": {
+    "message": "Slovacia",
+    "description": ""
+  },
+  "country_sl": {
+    "message": "Sierra Leone",
+    "description": ""
+  },
+  "country_sm": {
+    "message": "San Marino",
+    "description": ""
+  },
+  "country_sn": {
+    "message": "Senegal",
+    "description": ""
+  },
+  "country_so": {
+    "message": "Somalia",
+    "description": ""
+  },
+  "country_sr": {
+    "message": "Surinam",
+    "description": ""
+  },
+  "country_ss": {
+    "message": "Sudul Sudanului",
+    "description": ""
+  },
+  "country_st": {
+    "message": "São Tomé și Príncipe",
+    "description": ""
+  },
+  "country_sv": {
+    "message": "El Salvador",
+    "description": ""
+  },
+  "country_sx": {
+    "message": "Sint Maarten",
+    "description": ""
+  },
+  "country_sy": {
+    "message": "Siria",
+    "description": ""
+  },
+  "country_sz": {
+    "message": "Swaziland",
+    "description": ""
+  },
+  "country_ta": {
+    "message": "Tristan da Cunha",
+    "description": ""
+  },
+  "country_tc": {
+    "message": "Insulele Turks și Caicos",
+    "description": ""
+  },
+  "country_td": {
+    "message": "Ciad",
+    "description": ""
+  },
+  "country_tf": {
+    "message": "teritoriile din sudul Frantei",
+    "description": ""
+  },
+  "country_tg": {
+    "message": "A merge",
+    "description": ""
+  },
+  "country_th": {
+    "message": "Tailanda",
+    "description": ""
+  },
+  "country_tj": {
+    "message": "Tadjikistan",
+    "description": ""
+  },
+  "country_tk": {
+    "message": "Tokelau",
+    "description": ""
+  },
+  "country_tl": {
+    "message": "Timorul de Est",
+    "description": ""
+  },
+  "country_tm": {
+    "message": "Turkmenistan",
+    "description": ""
+  },
+  "country_tn": {
+    "message": "Tunisia",
+    "description": ""
+  },
+  "country_to": {
+    "message": "Tonga",
+    "description": ""
+  },
+  "country_tr": {
+    "message": "Curcan",
+    "description": ""
+  },
+  "country_tt": {
+    "message": "Trinidad și Tobago",
+    "description": ""
+  },
+  "country_tv": {
+    "message": "Tuvalu",
+    "description": ""
+  },
+  "country_tw": {
+    "message": "Taiwan",
+    "description": ""
+  },
+  "country_tz": {
+    "message": "Tanzania",
+    "description": ""
+  },
+  "country_ua": {
+    "message": "Ucraina",
+    "description": ""
+  },
+  "country_ug": {
+    "message": "Uganda",
+    "description": ""
+  },
+  "country_uk": {
+    "message": "Regatul Unit",
+    "description": ""
+  },
+  "country_um": {
+    "message": "Insulele periferice ale SUA",
+    "description": ""
+  },
+  "country_us": {
+    "message": "Statele Unite",
+    "description": ""
+  },
+  "country_usw": {
+    "message": "Vestul Statelor Unite",
+    "description": ""
+  },
+  "country_uy": {
+    "message": "Uruguay",
+    "description": ""
+  },
+  "country_uz": {
+    "message": "Uzbekistan",
+    "description": ""
+  },
+  "country_va": {
+    "message": "Orasul Vatican",
+    "description": ""
+  },
+  "country_vc": {
+    "message": "St. Vincent și Grenadine",
+    "description": ""
+  },
+  "country_ve": {
+    "message": "Venezuela",
+    "description": ""
+  },
+  "country_vg": {
+    "message": "Insulele Virgine Britanice",
+    "description": ""
+  },
+  "country_vi": {
+    "message": "Insulele Virgine americane",
+    "description": ""
+  },
+  "country_vn": {
+    "message": "Vietnam",
+    "description": ""
+  },
+  "country_vu": {
+    "message": "Vanuatu",
+    "description": ""
+  },
+  "country_wf": {
+    "message": "Wallis & Futuna",
+    "description": ""
+  },
+  "country_ws": {
+    "message": "Samoa",
+    "description": ""
+  },
+  "country_xk": {
+    "message": "Kosovo",
+    "description": ""
+  },
+  "country_ye": {
+    "message": "Yemen",
+    "description": ""
+  },
+  "country_yt": {
+    "message": "Mayotte",
+    "description": ""
+  },
+  "country_za": {
+    "message": "Africa de Sud",
+    "description": ""
+  },
+  "country_zm": {
+    "message": "Zambia",
+    "description": ""
+  },
+  "country_zw": {
+    "message": "Zimbabwe",
+    "description": ""
+  },
+  "access_internet_via_premium_locations": {
+    "message": "Accesați Internetul prin locații Premium suplimentare.",
+    "description": ""
+  },
+  "add_smart_setting_for_X": {
+    "message": "Adăugați o setare inteligentă pentru XXX",
+    "description": ""
+  },
+  "authentication_error_no_connection": {
+    "message": "Eroare de autentificare: nu se poate conecta la serverul Browsec.",
+    "description": ""
+  },
+  "back": {
+    "message": "Înapoi",
+    "description": ""
+  },
+  "because_your_proxy_settings_are_blocked": {
+    "message": " Accesul la setările proxy este blocat de o altă extensie.",
+    "description": ""
+  },
+  "browsec_activated": {
+    "message": "Activați Browsec",
+    "description": ""
+  },
+  "browsec_can_work_in_private_mode": {
+    "message": "Nu puteți controla Browsec în ferestre private. Dar dacă pictograma Browsec este activă, ești protejat.\\n\\nPuteți activa sau dezactiva Browsec în fereastra Firefox obișnuită. Toate setările tale Browsec funcționează atât pentru modul obișnuit, cât și pentru cel privat",
+    "description": ""
+  },
+  "browsec_has_been_installed": {
+    "message": "Browsec a fost instalat!",
+    "description": ""
+  },
+  "browsec_is_enabled": {
+    "message": "Browsec este reactivat",
+    "description": ""
+  },
+  "browsec_off": {
+    "message": "Browsec OFF",
+    "description": ""
+  },
+  "browsec_premium": {
+    "message": "Browsec Premium",
+    "description": ""
+  },
+  "browser_action_inactive_title": {
+    "message": "Browsec",
+    "description": ""
+  },
+  "cancel_editing": {
+    "message": "Anulați editarea",
+    "description": ""
+  },
+  "cancel_subscription_at_any_time": {
+    "message": "Anulați abonamentul în orice moment",
+    "description": ""
+  },
+  "cant_authenticate_please_contact_browsec_support": {
+    "message": "Nu se poate autentifica. Vă rugăm să contactați asistența Browsec.",
+    "description": ""
+  },
+  "cant_setup_secure_connection": {
+    "message": "Browserul nu poate configura o conexiune sigură în browser.",
+    "description": ""
+  },
+  "cant_start_because_your_proxy_settings_blocked": {
+    "message": "Browsec nu poate porni VPN. Setările dvs. proxy sunt blocate de o altă extensie",
+    "description": ""
+  },
+  "change": {
+    "message": "Schimbare",
+    "description": ""
+  },
+  "change_location": {
+    "message": "Schimbă locația",
+    "description": ""
+  },
+  "change_timezone_according_to_virtual_location": {
+    "message": "Schimbați fusul orar al browserului în funcție de locația dvs. virtuală",
+    "description": ""
+  },
+  "change_timezone_text_1": {
+    "message": "Această opțiune modifică fusul orar al browserului dvs. pentru a se potrivi cu locația dvs. virtuală.",
+    "description": ""
+  },
+  "change_timezone_text_2": {
+    "message": "Unele site-uri web detectează fusul orar al browserului utilizând funcțiile Javascript. Dacă fusurile orare ale browserului și ale adresei IP diferă, poate fi un semn al utilizării serviciului VPN sau a altor tehnici de anonimizare.",
+    "description": ""
+  },
+  "change_timezone_text_3": {
+    "message": "Cu această opțiune activată, site-urile web nu pot detecta nicio diferență de fus orar.",
+    "description": ""
+  },
+  "change_virtual_location": {
+    "message": "Schimbați locația virtuală",
+    "description": ""
+  },
+  "check_browsec_api": {
+    "message": "Verificați API-ul Browsec",
+    "description": ""
+  },
+  "check_browsec_premium_plans": {
+    "message": "Verificați planurile Browsec Premium",
+    "description": ""
+  },
+  "check_conflicts_with_other_extensions": {
+    "message": "Verificați conflictele cu alte extensii",
+    "description": ""
+  },
+  "check_http_internet_connection": {
+    "message": "Verificați conexiunea la Internet HTTP",
+    "description": ""
+  },
+  "check_http_internet_connection_with_browsec": {
+    "message": "Verificați conexiunea la Internet HTTP cu Browsec",
+    "description": ""
+  },
+  "check_https_internet_connection": {
+    "message": "Verificați conexiunea la internet HTTPS",
+    "description": ""
+  },
+  "check_https_internet_connection_with_browsec": {
+    "message": "Verificați conexiunea la Internet HTTPS cu Browsec",
+    "description": ""
+  },
+  "check_proxy_settings": {
+    "message": "Verificați setările proxy",
+    "description": ""
+  },
+  "choose_your_virtual_location": {
+    "message": "Alegeți locația dvs. virtuală și accesați orice conținut care nu era disponibil altfel.",
+    "description": ""
+  },
+  "click_and_then_1": {
+    "message": "Clic",
+    "description": ""
+  },
+  "click_and_then_2": {
+    "message": "și apoi",
+    "description": ""
+  },
+  "click_here_to_start_vpn": {
+    "message": "Faceți clic aici<br/>pentru a porni VPN",
+    "description": ""
+  },
+  "click_here_to_agree_and_start": {
+    "message": "Pentru a utiliza aplicația Browsec VPN<br/>trebuie să acceptați<br/>{DIVIDER} și<br/>{DIVIDER}",
+    "description": ""
+  },
+  "click_here_terms_conditions": {
+    "message": "Termenii serviciului",
+    "description": ""
+  },
+  "click_here_privacy_policy": {
+    "message": "Politica de confidențialitate",
+    "description": ""
+  },
+  "click_accept_terms_and_conditions": {
+    "message": "Accept",
+    "description": ""
+  },
+  "click_icon_on_toolbar_and_turn_on_protection": {
+    "message": "Faceți clic pe pictograma Browsec din bara de instrumente, activați protecția traficului și sunteți gata!",
+    "description": ""
+  },
+  "close_page": {
+    "message": "Închide pagina",
+    "description": ""
+  },
+  "completed": {
+    "message": "Efectuat",
+    "description": ""
+  },
+  "congratulations_securing_your_browsing": {
+    "message": "Încă un pas, iar browserul tău este complet sigur.",
+    "description": ""
+  },
+  "contact_support": {
+    "message": "Contactați asistența Browsec",
+    "description": ""
+  },
+  "contact_us": {
+    "message": "Contactaţi-ne",
+    "description": ""
+  },
+  "continue_using_browsec_to_open_websites": {
+    "message": "Puteți continua să utilizați Browsec. Mulțumiri!",
+    "description": ""
+  },
+  "continue_using_premium": {
+    "message": "Continuați să utilizați Browsec Premium",
+    "description": ""
+  },
+  "copy_to_clipboard": {
+    "message": "Copiați în clipboard",
+    "description": ""
+  },
+  "dedicated_traffic_lanes": {
+    "message": "Utilizatorii premium se bucură de benzi de circulație dedicate.",
+    "description": ""
+  },
+  "delete_smart_setting_for_X": {
+    "message": "Ștergeți setarea inteligentă pentru XXX",
+    "description": ""
+  },
+  "disable": {
+    "message": "Dezactivați",
+    "description": ""
+  },
+  "disable_selected_extensions": {
+    "message": "Dezactivați extensiile selectate",
+    "description": ""
+  },
+  "dont_have_an_account": {
+    "message": "Nu ai un cont?",
+    "description": ""
+  },
+  "dont_send_telemetry": {
+    "message": "Nu trimite telemetrie",
+    "description": ""
+  },
+  "dont_show_promo_offers": {
+    "message": "Nu afișa oferte promoționale",
+    "description": ""
+  },
+  "edit_smart_settings": {
+    "message": "Editați setările inteligente",
+    "description": ""
+  },
+  "email": {
+    "message": "E-mail",
+    "description": ""
+  },
+  "enable_browsec_for_all_sites_excluding_selected_sites": {
+    "message": "Activați Browsec pentru toate site-urile web, cu excepția site-urilor web selectate",
+    "description": ""
+  },
+  "enable_browsec_for_all_sites_excluding_selected_sites_description_1": {
+    "message": "Activați Browsec",
+    "description": ""
+  },
+  "enable_browsec_for_all_sites_excluding_selected_sites_description_2": {
+    "message": "Faceți clic pe Setări inteligente → Editați setări inteligente",
+    "description": ""
+  },
+  "enable_browsec_for_all_sites_excluding_selected_sites_description_3": {
+    "message": "Tastați domeniul dorit, selectați OFF și faceți clic pe IMG",
+    "description": ""
+  },
+  "enable_browsec_only_for_selected_sites": {
+    "message": "Activați Browsec numai pentru site-urile web selectate",
+    "description": ""
+  },
+  "enable_browsec_only_for_selected_sites_description_1": {
+    "message": "Dezactivați Browsec",
+    "description": ""
+  },
+  "enable_browsec_only_for_selected_sites_description_2": {
+    "message": "Faceți clic pe Setări inteligente → Editați setări inteligente",
+    "description": ""
+  },
+  "enable_browsec_only_for_selected_sites_description_3": {
+    "message": "Tastați domeniul dorit, selectați țara pentru acest domeniu și faceți clic pe IMG",
+    "description": ""
+  },
+  "failed": {
+    "message": "A eșuat",
+    "description": ""
+  },
+  "find_out_how_fix": {
+    "message": "Iată cum să o remediați.",
+    "description": ""
+  },
+  "fix_it": {
+    "message": "Repara-l",
+    "description": ""
+  },
+  "fix_proxy_settings": {
+    "message": "Remediați setările proxy",
+    "description": ""
+  },
+  "forgot_your_password": {
+    "message": "Ați uitat parola?",
+    "description": ""
+  },
+  "for_only": {
+    "message": "numai pentru",
+    "description": ""
+  },
+  "free_servers": {
+    "message": "Servere gratuite",
+    "description": ""
+  },
+  "from_only_X_per_month": {
+    "message": "de la doar XXX pe lună!",
+    "description": ""
+  },
+  "get_free_premium": {
+    "message": "Obțineți Premium gratuit!",
+    "description": ""
+  },
+  "get_monthly_premium": {
+    "message": "Primiți Premium lunar",
+    "description": ""
+  },
+  "get_more_with_browsec_premium": {
+    "message": "Obțineți mai mult cu Browsec Premium",
+    "description": ""
+  },
+  "get_N_days_free_premium_trial": {
+    "message": "Obțineți o perioadă de încercare premium gratuită de XXX zile",
+    "description": ""
+  },
+  "get_premium_now": {
+    "message": "Obțineți Premium acum!",
+    "description": ""
+  },
+  "get_turbo_speed": {
+    "message": "Obțineți Turbo Speed",
+    "description": ""
+  },
+  "go_ahead_and_renew_it": {
+    "message": "Continuă și reînnoiește-l.",
+    "description": ""
+  },
+  "go_back": {
+    "message": "Întoarce-te",
+    "description": ""
+  },
+  "health_check": {
+    "message": "Control medical",
+    "description": ""
+  },
+  "help": {
+    "message": "Ajutor",
+    "description": ""
+  },
+  "hide_health_check_logs": {
+    "message": "Ascundeți jurnalele de verificare a stării de sănătate",
+    "description": ""
+  },
+  "home": {
+    "message": "Acasă",
+    "description": ""
+  },
+  "how_to_use_smart_settings": {
+    "message": "Cum să utilizați Setările inteligente",
+    "description": ""
+  },
+  "if_no_write_to_email": {
+    "message": "Dacă nu a funcționat, contactați-ne la",
+    "description": ""
+  },
+  "incorrect_email_or_password": {
+    "message": "Adresă de e-mail sau parolă incorecte",
+    "description": ""
+  },
+  "i_want_to": {
+    "message": "Vreau să:",
+    "description": ""
+  },
+  "locations_help_1": {
+    "message": "Browsec poate stabili o conexiune sigură folosind serverele noastre situate în oricare dintre aceste țări. Veți obține o adresă IP care aparține locației alese și veți naviga pe web ca și cum ați fi acolo.",
+    "description": ""
+  },
+  "locations_help_2": {
+    "message": "Pentru a accesa conținutul disponibil numai pentru o anumită țară, alegeți locația virtuală corespunzătoare.",
+    "description": ""
+  },
+  "locations_help_3": {
+    "message": "Pentru a vă ascunde locația (din motive de confidențialitate sau pentru a ajunge la conținut interzis în țara dvs.), alegeți orice locație. Rețineți că, cu cât locația virtuală este mai aproape de cea reală, cu atât aveți o viteză mai mare de conectare.",
+    "description": ""
+  },
+  "N_servers_in_N_virtual_Locations": {
+    "message": "Servere AAA+ în locații virtuale BBB",
+    "description": ""
+  },
+  "off": {
+    "message": "OFF",
+    "description": ""
+  },
+  "ok_i_got_it": {
+    "message": "OK am luat-o",
+    "description": ""
+  },
+  "on": {
+    "message": "Pe",
+    "description": ""
+  },
+  "one_smart_setting_description_1": {
+    "message": "Vă rugăm să faceți upgrade la Premium pentru a obține setări inteligente nelimitate și pentru a sprijini dezvoltarea Browsec.",
+    "description": ""
+  },
+  "one_smart_setting_description_2": {
+    "message": "De asemenea, vei primi:",
+    "description": ""
+  },
+  "one_smart_setting_description_list_1": {
+    "message": "Acces la peste 40 de locații virtuale Premium",
+    "description": ""
+  },
+  "one_smart_setting_description_list_2": {
+    "message": "Viteza turbo",
+    "description": ""
+  },
+  "only_X_per_month": {
+    "message": "doar XXX pe lună",
+    "description": ""
+  },
+  "other_websites": {
+    "message": "Alte site-uri web",
+    "description": ""
+  },
+  "dependent_website": {
+    "message": "Conectat cu",
+    "description": ""
+  },
+  "password": {
+    "message": "Parola",
+    "description": ""
+  },
+  "pin_the_browsec_extension": {
+    "message": "Fixați extensia Browsec",
+    "description": ""
+  },
+  "please_enter_domain": {
+    "message": "Vă rugăm să introduceți un domeniu",
+    "description": ""
+  },
+  "please_enter_valid_domain": {
+    "message": "Vă rugăm să introduceți un domeniu valid",
+    "description": ""
+  },
+  "please_try_again_or_contact_support": {
+    "message": "Încercați din nou sau contactați asistența Browsec.",
+    "description": ""
+  },
+  "premium_locations": {
+    "message": "Locații premium",
+    "description": ""
+  },
+  "premium_servers": {
+    "message": "Servere premium",
+    "description": ""
+  },
+  "premium_server_authentication_error": {
+    "message": "Eroare de autentificare pe serverul premium. VPN-ul este dezactivat. Vă rugăm să vă reconectați la VPN în extensia Browsec.",
+    "description": ""
+  },
+  "privacy_protection_disabled": {
+    "message": "Protecția confidențialității este dezactivată",
+    "description": ""
+  },
+  "privacy_protection_partially_enabled": {
+    "message": "Site-ul curent: Confidențialitate protejată",
+    "description": ""
+  },
+  "privacy_protection_partially_disabled": {
+    "message": "Site-ul curent: Confidențialitate dezactivată",
+    "description": ""
+  },
+  "protect_me": {
+    "message": "Protejează-mă",
+    "description": ""
+  },
+  "remove_cache_on_authorization_popups": {
+    "message": "Eliminați memoria cache din ferestrele pop-up de autorizare (experimental)",
+    "description": ""
+  },
+  "remove_smart_setting": {
+    "message": "Eliminați setarea inteligentă",
+    "description": ""
+  },
+  "running": {
+    "message": "Alergare",
+    "description": ""
+  },
+  "running_dots": {
+    "message": "Alergare...",
+    "description": ""
+  },
+  "select": {
+    "message": "Selectați",
+    "description": ""
+  },
+  "select_allow_in_popup_window": {
+    "message": "Faceți clic pe „Permite” în fereastra pop-up",
+    "description": ""
+  },
+  "settings": {
+    "message": "Setări",
+    "description": ""
+  },
+  "setting_was_deleted": {
+    "message": "Setarea a fost ștearsă",
+    "description": ""
+  },
+  "show_health_check_logs": {
+    "message": "Afișați jurnalele de verificare a stării de sănătate",
+    "description": ""
+  },
+  "sign_in": {
+    "message": "Conectare",
+    "description": ""
+  },
+  "sign_in_title": {
+    "message": "Conectare",
+    "description": ""
+  },
+  "sign_out": {
+    "message": "Sign out",
+    "description": ""
+  },
+  "sign_up": {
+    "message": "Inscrie-te",
+    "description": ""
+  },
+  "skipped": {
+    "message": "Sărit",
+    "description": ""
+  },
+  "smart_settings": {
+    "message": "Setări inteligente",
+    "description": ""
+  },
+  "smart_settings_allow_you_to_control": {
+    "message": "Setările inteligente vă permit să aveți mai mult control asupra Browsec",
+    "description": ""
+  },
+  "smart_settings_features_1": {
+    "message": "Activați Browsec numai pentru site-urile web selectate",
+    "description": ""
+  },
+  "smart_settings_features_2": {
+    "message": "Nu utilizați Browsec pentru site-urile web selectate, chiar dacă este activat pentru toate celelalte site-uri web",
+    "description": ""
+  },
+  "smart_settings_features_3": {
+    "message": "Selectați diferite locații virtuale pentru diferite site-uri web",
+    "description": ""
+  },
+  "something_went_wrong": {
+    "message": "Ceva n-a mers bine...",
+    "description": ""
+  },
+  "start": {
+    "message": "start",
+    "description": ""
+  },
+  "start_vpn": {
+    "message": "Porniți VPN",
+    "description": ""
+  },
+  "terms_and_conditions_ff": {
+    "message": "Acorduri și permisiuni pentru utilizarea extensiei",
+    "description": ""
+  },
+  "this_account_is_locked_please_contact_us": {
+    "message": "Acest cont este blocat.\\nVă rugăm să ne contactați pentru a vă restabili contul",
+    "description": ""
+  },
+  "this_domain_already_in_list": {
+    "message": "Acest domeniu este deja în listă",
+    "description": ""
+  },
+  "this_option_is_available_only_for_premium": {
+    "message": "Această opțiune este disponibilă numai pentru conturile Premium",
+    "description": ""
+  },
+  "top_performance_guaranteed": {
+    "message": "Cele mai bune servere ale noastre garantează performanță de top.",
+    "description": ""
+  },
+  "try_again": {
+    "message": "Încearcă din nou",
+    "description": ""
+  },
+  "turbo_speed": {
+    "message": "Viteza turbo",
+    "description": ""
+  },
+  "turbo_speed_in_free_premium": {
+    "message": "Turbo Speed ​​în Premium GRATUIT",
+    "description": ""
+  },
+  "undo": {
+    "message": "Anula",
+    "description": ""
+  },
+  "upgrade_connection_speed": {
+    "message": "Actualizați viteza conexiunii",
+    "description": ""
+  },
+  "upgrade_to_premium": {
+    "message": "Faceți upgrade la Premium",
+    "description": ""
+  },
+  "use": {
+    "message": "utilizare",
+    "description": ""
+  },
+  "use_browsec_for_webrtc_connections": {
+    "message": "Utilizați Browsec pentru conexiuni WebRTC",
+    "description": ""
+  },
+  "use_different_locations_for_different_sites": {
+    "message": "Utilizați locații diferite pentru site-uri web diferite",
+    "description": ""
+  },
+  "use_different_locations_for_different_sites_description_1": {
+    "message": "Activați Browsec",
+    "description": ""
+  },
+  "use_different_locations_for_different_sites_description_2": {
+    "message": "Faceți clic pe Setări inteligente → Editați setări inteligente",
+    "description": ""
+  },
+  "use_different_locations_for_different_sites_description_3": {
+    "message": "Tastați domeniul dorit, selectați țara pentru acest domeniu și faceți clic pe IMG",
+    "description": ""
+  },
+  "virtual_locations": {
+    "message": "Locații virtuale",
+    "description": ""
+  },
+  "vpn_blocked": {
+    "message": "VPN este blocat",
+    "description": ""
+  },
+  "warning": {
+    "message": "Avertizare",
+    "description": ""
+  },
+  "webrtc_settings_controlled_by_another_extension": {
+    "message": "Setările WebRTC sunt controlate de o altă extensie",
+    "description": ""
+  },
+  "welcome_back": {
+    "message": "Bine ai revenit!",
+    "description": ""
+  },
+  "we_have_detected_other_extensions_which_block_access": {
+    "message": "Am detectat alte extensii care blochează accesul la setările proxy. Dezactivați aceste extensii pentru a utiliza Browsec.",
+    "description": ""
+  },
+  "we_have_detected_other_extensions_which_can_conflict": {
+    "message": "Am detectat alte extensii care pot intra în conflict cu Browsec. Luați în considerare dezactivarea acestor extensii dacă Browsec nu funcționează corect.",
+    "description": ""
+  },
+  "what_is_webrtc_title": {
+    "message": "Ce este WebRTC?",
+    "description": ""
+  },
+  "what_is_webrtc_text_1": {
+    "message": "WebRTC (web real time communication) este un protocol care permite efectuarea de apeluri audio și video din browser.",
+    "description": ""
+  },
+  "what_is_webrtc_text_2": {
+    "message": "Cu toate acestea, WebRTC permite, de asemenea, site-urilor web să cunoască IP-urile dvs. interne și publice reale, chiar dacă utilizați VPN (este cunoscut sub numele de scurgere IP WebRTC).",
+    "description": ""
+  },
+  "what_is_webrtc_text_3": {
+    "message": "Această opțiune va preveni scurgerea IP WebRTC atunci când Browsec este activat. Ca efect secundar, poate afecta calitatea apelurilor audio/video din browser, așa că depinde de tine să alegi ce este mai important pentru tine.",
+    "description": ""
+  },
+  "with_smart_settings_you_can": {
+    "message": "Cu Setări inteligente puteți:",
+    "description": ""
+  },
+  "you_can_enable_these_extensions_later": {
+    "message": "Puteți activa aceste extensii mai târziu în setările browserului.",
+    "description": ""
+  },
+  "you_can_have_only_1_smart_setting": {
+    "message": "Puteți avea doar 1 setare inteligentă în planul gratuit.",
+    "description": ""
+  },
+  "you_just_installed_browsec": {
+    "message": "Tocmai ați instalat Browsec!",
+    "description": ""
+  },
+  "you_may_now_open_the_extension": {
+    "message": "Acum puteți deschide extensia pentru a porni VPN.",
+    "description": ""
+  },
+  "your_browsers_connections_are_not_encrypted": {
+    "message": "Conexiunile browserului dvs. nu sunt criptate. IP-ul și locația dvs. sunt disponibile pentru terți.",
+    "description": ""
+  },
+  "subscriber_text": {
+    "message": "Abonează-te la canalul nostru de Telegram pentru a fi mereu la curent cu cele mai recente știri și actualizări de la Browsec",
+    "description": ""
+  },
+  "your_premium_is_about_to_expire": {
+    "message": "Browsec Premium este pe cale să expire",
+    "description": ""
+  },
+  "your_privacy_is_protected": {
+    "message": "Confidențialitatea dvs. este protejată",
+    "description": ""
+  },
+  "your_proxy_settings_are_blocked": {
+    "message": "Setările dumneavoastră proxy sunt blocate de o altă extensie",
+    "description": ""
+  },
+  "your_proxy_blocked_by_antivirus": {
+    "message": "Se pare că utilizați un antivirus care blochează VPN-ul.",
+    "description": ""
+  },
+  "7_days_money_back_guarantee": {
+    "message": "7 zile garanție de returnare a banilor",
+    "description": ""
+  },
+  "extension_description": {
+    "message": "VPN gratuit pentru a debloca Youtube, Facebook, Instagram și alte servicii populare cu un singur clic. Obțineți cel mai bun VPN gratuit",
+    "description": ""
+  },
+  "extension_name": {
+    "message": "Browsec VPN - Extensie VPN gratuită",
+    "description": ""
+  },
+  "esn": {
+    "message": "Browsec VPN",
+    "description": ""
+  },
+  "reanimator_reconnecting": {
+    "message": "Reconnecting",
+    "description": ""
+  },
+  "reanimator_step": {
+    "message": "Step",
+    "description": ""
+  },
+  "reanimator_of": {
+    "message": "of",
+    "description": ""
+  },
+  "fixit_paywall_title": {
+    "message": "Aveți probleme cu conectarea?",
+    "description": ""
+  },
+  "fixit_paywall_body": {
+    "message": "Garantăm serviciul Premium și oferim rambursare completă în 7 zile dacă nu sunteți mulțumit",
+    "description": ""
+  },
+  "fixit_paywall_get_premium": {
+    "message": "🔥 Treceți la Premium",
+    "description": ""
+  }
+}

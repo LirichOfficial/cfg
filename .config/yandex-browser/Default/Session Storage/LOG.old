@@ -1,0 +1,10 @@
+2026/04/21-19:23:08.374 5 File /home/bobrik/.config/yandex-browser/Default/Session Storage is locked for recovering successfully
+2026/04/21-19:23:08.375 5 Reusing MANIFEST /home/bobrik/.config/yandex-browser/Default/Session Storage/MANIFEST-000001
+2026/04/21-19:23:08.376 5 Recovering log #97
+2026/04/21-19:23:08.376 5 Reusing old log /home/bobrik/.config/yandex-browser/Default/Session Storage/000097.log 
+2026/04/21-19:23:24.502 7 Level-0 table #101: started
+2026/04/21-19:23:24.517 7 Level-0 table #101: 19042 bytes OK
+2026/04/21-19:23:24.519 7 Delete type=0 #97
+2026/04/21-19:23:24.676 5 Deletion DBImpl for /home/bobrik/.config/yandex-browser/Default/Session Storage, waiting for background work finished
+2026/04/21-19:23:24.676 5 Deletion DBImpl for /home/bobrik/.config/yandex-browser/Default/Session Storage, background work finished
+2026/04/21-19:23:24.676 5 File /home/bobrik/.config/yandex-browser/Default/Session Storage unlocked successfully

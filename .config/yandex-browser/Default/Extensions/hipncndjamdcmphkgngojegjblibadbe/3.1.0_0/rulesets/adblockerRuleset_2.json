@@ -1,0 +1,9672 @@
+[
+  {
+    "id": 51349,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://push.esputnik.com.ua/*"
+    }
+  },
+  {
+    "id": 51350,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://ru/line/*"
+    }
+  },
+  {
+    "id": 51351,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://ru/lines/*"
+    }
+  },
+  {
+    "id": 51352,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://secure.esputnik.com.ua/*"
+    }
+  },
+  {
+    "id": 51353,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://showbiz.ua/videofeed.js/*"
+    }
+  },
+  {
+    "id": 51354,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://ua/lines/*"
+    }
+  },
+  {
+    "id": 51355,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://yakutia.io/*"
+    }
+  },
+  {
+    "id": 51356,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://youtube.com/subscribe_widget/*"
+    }
+  },
+  {
+    "id": 51357,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://2cab.ru/*"
+    }
+  },
+  {
+    "id": 51358,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://2callback.ru/*"
+    }
+  },
+  {
+    "id": 51359,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://2calls.ru/*"
+    }
+  },
+  {
+    "id": 51360,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://admeo.ru/*"
+    }
+  },
+  {
+    "id": 51361,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://b.art.su/*"
+    }
+  },
+  {
+    "id": 51362,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://binotel.com/*"
+    }
+  },
+  {
+    "id": 51363,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://callback.onlinepbx.ru/*"
+    }
+  },
+  {
+    "id": 51364,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://callback.pw/*"
+    }
+  },
+  {
+    "id": 51365,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://callbackhunter.com/*"
+    }
+  },
+  {
+    "id": 51366,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://callbackkiller.com/*"
+    }
+  },
+  {
+    "id": 51367,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://callbaska.ru/*"
+    }
+  },
+  {
+    "id": 51368,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://callkeeper.ru/*"
+    }
+  },
+  {
+    "id": 51369,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://callme.voip.com.ua/*"
+    }
+  },
+  {
+    "id": 51370,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://callmenow.com.ua/*"
+    }
+  },
+  {
+    "id": 51371,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://calltouch.ru/*"
+    }
+  },
+  {
+    "id": 51372,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://carrotquest.io/*"
+    }
+  },
+  {
+    "id": 51373,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://cashmyvisit.com/*"
+    }
+  },
+  {
+    "id": 51374,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://cb-killer.ru/*"
+    }
+  },
+  {
+    "id": 51375,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://chaser.ru/*"
+    }
+  },
+  {
+    "id": 51376,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://cleversite.ru/*"
+    }
+  },
+  {
+    "id": 51377,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://clicktex.ru/*"
+    }
+  },
+  {
+    "id": 51378,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://client-caller.com/*"
+    }
+  },
+  {
+    "id": 51379,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://clientcaller.com/*"
+    }
+  },
+  {
+    "id": 51380,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://consultsystems.ru/*"
+    }
+  },
+  {
+    "id": 51381,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://driveback.ru/*"
+    }
+  },
+  {
+    "id": 51382,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://envybox.io/*"
+    }
+  },
+  {
+    "id": 51383,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://everystraus.ru/*"
+    }
+  },
+  {
+    "id": 51384,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://experasoft.com/*"
+    }
+  },
+  {
+    "id": 51385,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://eyenewton.ru/*"
+    }
+  },
+  {
+    "id": 51386,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://fastcallagent.com/*"
+    }
+  },
+  {
+    "id": 51387,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://gaze.pro/*"
+    }
+  },
+  {
+    "id": 51388,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://hucksterbot.com/*"
+    }
+  },
+  {
+    "id": 51389,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://intercom.io/*"
+    }
+  },
+  {
+    "id": 51390,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://jivosite.com/*"
+    }
+  },
+  {
+    "id": 51391,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://leadback.ru/*"
+    }
+  },
+  {
+    "id": 51392,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://leadcase.ru/*"
+    }
+  },
+  {
+    "id": 51393,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://leadgenic.com/*"
+    }
+  },
+  {
+    "id": 51394,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://leadhit.ru/*"
+    }
+  },
+  {
+    "id": 51395,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://leadnumber.ru/*"
+    }
+  },
+  {
+    "id": 51396,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://lediacloud.com/*"
+    }
+  },
+  {
+    "id": 51397,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://lptracker.ru/*"
+    }
+  },
+  {
+    "id": 51398,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://moclients.com/*"
+    }
+  },
+  {
+    "id": 51399,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://my.zadarma.com/callbackWidget/*"
+    }
+  },
+  {
+    "id": 51400,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://netroxsc.ru/*"
+    }
+  },
+  {
+    "id": 51401,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://onicon.ru/*"
+    }
+  },
+  {
+    "id": 51402,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://p3chat.com/*"
+    }
+  },
+  {
+    "id": 51403,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://perezvoni.com/*"
+    }
+  },
+  {
+    "id": 51404,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://pogodiwidget.com/*"
+    }
+  },
+  {
+    "id": 51405,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://pozvonim.com/*"
+    }
+  },
+  {
+    "id": 51406,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://pravoved.ru/*"
+    }
+  },
+  {
+    "id": 51407,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://prostor-lite.ru/*"
+    }
+  },
+  {
+    "id": 51408,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://secure.livechatinc.com/*"
+    }
+  },
+  {
+    "id": 51409,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://sendsay.ru/*"
+    }
+  },
+  {
+    "id": 51410,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://service.dialogwidget.ru/*"
+    }
+  },
+  {
+    "id": 51411,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://siteheart.com/*"
+    }
+  },
+  {
+    "id": 51412,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://smartcallback.ru/*"
+    }
+  },
+  {
+    "id": 51413,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://streamwood.ru/*"
+    }
+  },
+  {
+    "id": 51414,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://upcallback.com/*"
+    }
+  },
+  {
+    "id": 51415,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://uptocall.com/*"
+    }
+  },
+  {
+    "id": 51416,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://venyoo.ru/*"
+    }
+  },
+  {
+    "id": 51417,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://vn.beeline.ru/com.broadsoft.xsi-actions/*"
+    }
+  },
+  {
+    "id": 51418,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://web.redhelper.ru/*"
+    }
+  },
+  {
+    "id": 51419,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://webim.ru/*"
+    }
+  },
+  {
+    "id": 51420,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://whitesaas.com/*"
+    }
+  },
+  {
+    "id": 51421,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://widgets.mango-office.ru/*"
+    }
+  },
+  {
+    "id": 51422,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://zopim.com/*"
+    }
+  },
+  {
+    "id": 51423,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://adsblockkpush.com/*"
+    }
+  },
+  {
+    "id": 51424,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://aquarepush.com/*"
+    }
+  },
+  {
+    "id": 51425,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://bttm.guru/*"
+    }
+  },
+  {
+    "id": 51426,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://ceetoaho.com/*"
+    }
+  },
+  {
+    "id": 51427,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://contentsitesrv.com/*"
+    }
+  },
+  {
+    "id": 51428,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://datswebnnews.com/*"
+    }
+  },
+  {
+    "id": 51429,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://epital.gdn/*"
+    }
+  },
+  {
+    "id": 51430,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://getpush.net/*"
+    }
+  },
+  {
+    "id": 51431,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://glattepush.com/*"
+    }
+  },
+  {
+    "id": 51432,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://gravitec.net/*"
+    }
+  },
+  {
+    "id": 51433,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://gresokie.com/*"
+    }
+  },
+  {
+    "id": 51434,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://irondeux.com/*"
+    }
+  },
+  {
+    "id": 51435,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://jeapie.com/*"
+    }
+  },
+  {
+    "id": 51436,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://messagefeed.support/*"
+    }
+  },
+  {
+    "id": 51437,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://mortypush.com/*"
+    }
+  },
+  {
+    "id": 51438,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://panaur.com/*"
+    }
+  },
+  {
+    "id": 51439,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://push-free.com/*"
+    }
+  },
+  {
+    "id": 51440,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://push-news.net/*"
+    }
+  },
+  {
+    "id": 51441,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://push.expert/*"
+    }
+  },
+  {
+    "id": 51442,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://push4site.com/*"
+    }
+  },
+  {
+    "id": 51443,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://pushall.ru/*"
+    }
+  },
+  {
+    "id": 51444,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://pushme.io/*"
+    }
+  },
+  {
+    "id": 51445,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://pushout.ru/*"
+    }
+  },
+  {
+    "id": 51446,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://pushprofit.net/*"
+    }
+  },
+  {
+    "id": 51447,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://pushvip.ru/*"
+    }
+  },
+  {
+    "id": 51448,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://send-notice.com/*"
+    }
+  },
+  {
+    "id": 51449,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://serviceproworker.com/*"
+    }
+  },
+  {
+    "id": 51450,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://takepush.com/*"
+    }
+  },
+  {
+    "id": 51451,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://tpstr.pro/*"
+    }
+  },
+  {
+    "id": 51452,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://ugrastes.uk/*"
+    }
+  },
+  {
+    "id": 51453,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://uinform.me/*"
+    }
+  },
+  {
+    "id": 51454,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://wpu.sh/*"
+    }
+  },
+  {
+    "id": 51455,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://zaycevfeed.ru/*"
+    }
+  },
+  {
+    "id": 51456,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://icefm.ru/*"
+    }
+  },
+  {
+    "id": 51457,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://icefm.ru/*"
+    }
+  },
+  {
+    "id": 51458,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://myradio24.com/*"
+    }
+  },
+  {
+    "id": 51459,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://myradio24.com/*"
+    }
+  },
+  {
+    "id": 51460,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://bagnet.org/informer/*"
+    }
+  },
+  {
+    "id": 51461,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://calend.ru/*"
+    }
+  },
+  {
+    "id": 51462,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://cnews.ru/inc/*"
+    }
+  },
+  {
+    "id": 51463,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://coingecko.com/*"
+    }
+  },
+  {
+    "id": 51464,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://crossss.com/*"
+    }
+  },
+  {
+    "id": 51465,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://feed.ntdtv.ru/*"
+    }
+  },
+  {
+    "id": 51466,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://fxclub.org/*"
+    }
+  },
+  {
+    "id": 51467,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://inf.mtml.ru/*"
+    }
+  },
+  {
+    "id": 51468,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://info.weather.yandex.net/*"
+    }
+  },
+  {
+    "id": 51469,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://informer.gismeteo./*"
+    }
+  },
+  {
+    "id": 51470,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://informer.ibcs-mail.com/*"
+    }
+  },
+  {
+    "id": 51471,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://inforotor.net/*"
+    }
+  },
+  {
+    "id": 51472,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://marker.ru/*"
+    }
+  },
+  {
+    "id": 51473,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://mediarepost.ru/*"
+    }
+  },
+  {
+    "id": 51474,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://meteofox.com/*"
+    }
+  },
+  {
+    "id": 51475,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://meteoprog.ua/*"
+    }
+  },
+  {
+    "id": 51476,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://newsfiber.com/*"
+    }
+  },
+  {
+    "id": 51477,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://opogode.ua/*"
+    }
+  },
+  {
+    "id": 51478,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://pojelanie.ru/inf/*"
+    }
+  },
+  {
+    "id": 51479,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://static.feed.rbc.ru/*"
+    }
+  },
+  {
+    "id": 51480,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://timeout.ru/*"
+    }
+  },
+  {
+    "id": 51481,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://webdiscover.ru/*"
+    }
+  },
+  {
+    "id": 51482,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://www.rb.ru/*"
+    }
+  },
+  {
+    "id": 51483,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://101widgets.com/*"
+    }
+  },
+  {
+    "id": 51484,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://2142-stats.com/*"
+    }
+  },
+  {
+    "id": 51485,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://7pisem.ru/*"
+    }
+  },
+  {
+    "id": 51486,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://allbible.info/ajax/*"
+    }
+  },
+  {
+    "id": 51487,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://ametric.ru/*"
+    }
+  },
+  {
+    "id": 51488,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://animashka.info/*"
+    }
+  },
+  {
+    "id": 51489,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://animating.ru/*"
+    }
+  },
+  {
+    "id": 51490,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://autometric.ru/*"
+    }
+  },
+  {
+    "id": 51491,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://babysfirstsite.org/*"
+    }
+  },
+  {
+    "id": 51492,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://backloggery.com/*"
+    }
+  },
+  {
+    "id": 51493,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://badges.steamprofile.com/*"
+    }
+  },
+  {
+    "id": 51494,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://battletracker.com/*"
+    }
+  },
+  {
+    "id": 51495,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://best-animation.ru/*"
+    }
+  },
+  {
+    "id": 51496,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://bf2sig.l0ser.net/*"
+    }
+  },
+  {
+    "id": 51497,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://bf3stats.com/*"
+    }
+  },
+  {
+    "id": 51498,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://bigbars.ru/*"
+    }
+  },
+  {
+    "id": 51499,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://blestki.com/*"
+    }
+  },
+  {
+    "id": 51500,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://blogkislorod.ru/wp-content/uploads/*"
+    }
+  },
+  {
+    "id": 51501,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://card.psnprofiles.com/*"
+    }
+  },
+  {
+    "id": 51502,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://cartprotector.com/*"
+    }
+  },
+  {
+    "id": 51503,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://centrfan.ru/*"
+    }
+  },
+  {
+    "id": 51504,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://chasikov.net.ru/*"
+    }
+  },
+  {
+    "id": 51505,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://chat.kino-dom.tv/*"
+    }
+  },
+  {
+    "id": 51506,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://chatango.com/*"
+    }
+  },
+  {
+    "id": 51507,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://chatbro.com/embed_chats/*"
+    }
+  },
+  {
+    "id": 51508,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://clock-desktop.com/*"
+    }
+  },
+  {
+    "id": 51509,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://clocklink.com/*"
+    }
+  },
+  {
+    "id": 51510,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://colnyshko.ru/*"
+    }
+  },
+  {
+    "id": 51511,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://copperchickens.com/*"
+    }
+  },
+  {
+    "id": 51512,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://corton.io/*"
+    }
+  },
+  {
+    "id": 51513,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://crazyprofile.com/*"
+    }
+  },
+  {
+    "id": 51514,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://daisypath.com/*"
+    }
+  },
+  {
+    "id": 51515,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://dashamail.ru/*"
+    }
+  },
+  {
+    "id": 51516,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://fantasiya.net/fon/line/*"
+    }
+  },
+  {
+    "id": 51517,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://flash-clocks.com/*"
+    }
+  },
+  {
+    "id": 51518,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://flines.ru/*"
+    }
+  },
+  {
+    "id": 51519,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://forum-lines.ru/*"
+    }
+  },
+  {
+    "id": 51520,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://freetickers.net/*"
+    }
+  },
+  {
+    "id": 51521,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://g.bfbcs.com/*"
+    }
+  },
+  {
+    "id": 51522,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://galaxie.ru/*"
+    }
+  },
+  {
+    "id": 51523,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://gamehits.ru/games/*"
+    }
+  },
+  {
+    "id": 51524,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://gamerhandles.com/sig/*"
+    }
+  },
+  {
+    "id": 51525,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://gifr.ru/data/gifs/*"
+    }
+  },
+  {
+    "id": 51526,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://glitter-graphics.net/*"
+    }
+  },
+  {
+    "id": 51527,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://glitterfy.com/*"
+    }
+  },
+  {
+    "id": 51528,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://gta-real.com/fanzone/*"
+    }
+  },
+  {
+    "id": 51529,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://halocharts.com/*"
+    }
+  },
+  {
+    "id": 51530,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://imagegen.last.fm/*"
+    }
+  },
+  {
+    "id": 51531,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://informer.uinov.ru/*"
+    }
+  },
+  {
+    "id": 51532,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://internetmap.info/*"
+    }
+  },
+  {
+    "id": 51533,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://jobs.staya.vc/widget?/*"
+    }
+  },
+  {
+    "id": 51534,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://kilat.ru/*"
+    }
+  },
+  {
+    "id": 51535,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://kinoafisha.ua/informer/*"
+    }
+  },
+  {
+    "id": 51536,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://lilypie.com/*"
+    }
+  },
+  {
+    "id": 51537,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://line4auto.ru/*"
+    }
+  },
+  {
+    "id": 51538,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://lineek.net/*"
+    }
+  },
+  {
+    "id": 51539,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://lineika.info/*"
+    }
+  },
+  {
+    "id": 51540,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://lusogamer.com/*"
+    }
+  },
+  {
+    "id": 51541,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://mailfire.io/*"
+    }
+  },
+  {
+    "id": 51542,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://mailganer.com/*"
+    }
+  },
+  {
+    "id": 51543,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://mamalines.org.ua/*"
+    }
+  },
+  {
+    "id": 51544,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://miniprofile.xfire.com/*"
+    }
+  },
+  {
+    "id": 51545,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://mygamercard.net/*"
+    }
+  },
+  {
+    "id": 51546,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://mygamercard.ru/*"
+    }
+  },
+  {
+    "id": 51547,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://nick-name.ru/*"
+    }
+  },
+  {
+    "id": 51548,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://nomer.avtobeginner.ru/*"
+    }
+  },
+  {
+    "id": 51549,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://ourlines.ru/*"
+    }
+  },
+  {
+    "id": 51550,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://playstation.com/psn/profile/*"
+    }
+  },
+  {
+    "id": 51551,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://playstation.com/psn/profile/*"
+    }
+  },
+  {
+    "id": 51552,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://podpisi.net.ru/*"
+    }
+  },
+  {
+    "id": 51553,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://pomni.exe.by/*"
+    }
+  },
+  {
+    "id": 51554,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://pour-bientot.com/*"
+    }
+  },
+  {
+    "id": 51555,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://psnprofiles.com/card/*"
+    }
+  },
+  {
+    "id": 51556,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://puzkarapuz.ru/*"
+    }
+  },
+  {
+    "id": 51557,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://sarafanpro.ru/*"
+    }
+  },
+  {
+    "id": 51558,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://schitalka.ru/*"
+    }
+  },
+  {
+    "id": 51559,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://sharpay.io/*"
+    }
+  },
+  {
+    "id": 51560,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://smayli.ru/*"
+    }
+  },
+  {
+    "id": 51561,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://smiles.clan.su/*"
+    }
+  },
+  {
+    "id": 51562,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://social.wakoopa.com/*"
+    }
+  },
+  {
+    "id": 51563,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://sparklee.com/*"
+    }
+  },
+  {
+    "id": 51564,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://speedtest.net/result/*"
+    }
+  },
+  {
+    "id": 51565,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://statsverse.com/*"
+    }
+  },
+  {
+    "id": 51566,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://steamcard.com/*"
+    }
+  },
+  {
+    "id": 51567,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://steamsignature.com/*"
+    }
+  },
+  {
+    "id": 51568,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://strossle.com/strossle-widget-/*"
+    }
+  },
+  {
+    "id": 51569,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://swfcabin.com/*"
+    }
+  },
+  {
+    "id": 51570,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://tac.families.com/*"
+    }
+  },
+  {
+    "id": 51571,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://tickercentral.com/*"
+    }
+  },
+  {
+    "id": 51572,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://tickersbycindy.com/*"
+    }
+  },
+  {
+    "id": 51573,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://torrent.proxylife.org/*"
+    }
+  },
+  {
+    "id": 51574,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://traviangp.com/*"
+    }
+  },
+  {
+    "id": 51575,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://ubars.ru/*"
+    }
+  },
+  {
+    "id": 51576,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://userba.ru/*"
+    }
+  },
+  {
+    "id": 51577,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://userbarov.net/*"
+    }
+  },
+  {
+    "id": 51578,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://userbars.ru/*"
+    }
+  },
+  {
+    "id": 51579,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://userreport.com/*"
+    }
+  },
+  {
+    "id": 51580,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://vashkontrol.ru/widget/*"
+    }
+  },
+  {
+    "id": 51581,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://vsdi.net/*"
+    }
+  },
+  {
+    "id": 51582,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://web.webformscr.com/*"
+    }
+  },
+  {
+    "id": 51583,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://widget.funtest.io/*"
+    }
+  },
+  {
+    "id": 51584,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://widget.replain.cc/*"
+    }
+  },
+  {
+    "id": 51585,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://wieistmeineip.de/*"
+    }
+  },
+  {
+    "id": 51586,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://wunschkinder.net/*"
+    }
+  },
+  {
+    "id": 51587,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://x-lines.ru/*"
+    }
+  },
+  {
+    "id": 51588,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://xboxamerica.com/gamercards/*"
+    }
+  },
+  {
+    "id": 51589,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://xboxgamertag.com/*"
+    }
+  },
+  {
+    "id": 51590,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://xboxlc.com/cards/*"
+    }
+  },
+  {
+    "id": 51591,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://yourgamercards.net/*"
+    }
+  },
+  {
+    "id": 51592,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://yraaa.ru/*"
+    }
+  },
+  {
+    "id": 51593,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://zaers.ru/*"
+    }
+  },
+  {
+    "id": 51594,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://zoometric.ru/*"
+    }
+  },
+  {
+    "id": 51595,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://androidphone.su/wp-content/themes/ribbon/game/*"
+    }
+  },
+  {
+    "id": 51596,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://btu.org.ua/uploads/help/*"
+    }
+  },
+  {
+    "id": 51597,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://champion.com.ua/get_battle_list/*"
+    }
+  },
+  {
+    "id": 51598,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://content.printdirect.ru/*"
+    }
+  },
+  {
+    "id": 51599,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://falan.ru/*"
+    }
+  },
+  {
+    "id": 51600,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://games.mail.ru/js/old_design/core.js/*"
+    }
+  },
+  {
+    "id": 51601,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://games.mail.ru/pic/pocket/pc-banner/*"
+    }
+  },
+  {
+    "id": 51602,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://karelia.ru/widget_spoiler.js/*"
+    }
+  },
+  {
+    "id": 51603,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://levonevski.net/*"
+    }
+  },
+  {
+    "id": 51604,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://mozilla-russia.org/images/*"
+    }
+  },
+  {
+    "id": 51605,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://mygold.pp.ua/*"
+    }
+  },
+  {
+    "id": 51606,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://nix.ru/*"
+    }
+  },
+  {
+    "id": 51607,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://onvix.tv/beta/promo/*"
+    }
+  },
+  {
+    "id": 51608,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://promote.opera.com/*"
+    }
+  },
+  {
+    "id": 51609,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://rosdip.ru/*"
+    }
+  },
+  {
+    "id": 51610,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://rosdiplom.ru/*"
+    }
+  },
+  {
+    "id": 51611,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://rublacklist.net/media/*"
+    }
+  },
+  {
+    "id": 51612,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://rublacklist.net/media/*"
+    }
+  },
+  {
+    "id": 51613,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://sdamgia.ru/notifications?ajax/*"
+    }
+  },
+  {
+    "id": 51614,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://static-mon.yandex.net/static/main.js?pid=yandex_mail/*"
+    }
+  },
+  {
+    "id": 51615,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://telvanil.ru/*"
+    }
+  },
+  {
+    "id": 51616,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://arc.io/*"
+    }
+  },
+  {
+    "id": 51617,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://bildirnet.com/*"
+    }
+  },
+  {
+    "id": 51618,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://braze.com/*"
+    }
+  },
+  {
+    "id": 51619,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://cappushino.com/*"
+    }
+  },
+  {
+    "id": 51620,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://centrnotify.com/*"
+    }
+  },
+  {
+    "id": 51621,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://checkpost.club/*"
+    }
+  },
+  {
+    "id": 51622,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://conforama-push.com/*"
+    }
+  },
+  {
+    "id": 51623,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://contentsitesrv.com/js/push/*"
+    }
+  },
+  {
+    "id": 51624,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://digipush.io/*"
+    }
+  },
+  {
+    "id": 51625,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://easyfeeed.com/*"
+    }
+  },
+  {
+    "id": 51626,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://farteniuson.com/*"
+    }
+  },
+  {
+    "id": 51627,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://getnotification.me/*"
+    }
+  },
+  {
+    "id": 51628,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://iopushtech.com/*"
+    }
+  },
+  {
+    "id": 51629,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://irpush.com/*"
+    }
+  },
+  {
+    "id": 51630,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://jubi.ai/buttonbot/*"
+    }
+  },
+  {
+    "id": 51631,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://jubi.ai/buttonbot/*"
+    }
+  },
+  {
+    "id": 51632,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://krakenoptimize.com/*"
+    }
+  },
+  {
+    "id": 51633,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://mab.mediaset.es/*"
+    }
+  },
+  {
+    "id": 51634,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://neopush.io/*"
+    }
+  },
+  {
+    "id": 51635,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://news2day.me/*"
+    }
+  },
+  {
+    "id": 51636,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://notification-time.com/*"
+    }
+  },
+  {
+    "id": 51637,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://notix.io/*"
+    }
+  },
+  {
+    "id": 51638,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://ntvsw.com/*"
+    }
+  },
+  {
+    "id": 51639,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://propush.net/*"
+    }
+  },
+  {
+    "id": 51640,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://puscomosca.com/*"
+    }
+  },
+  {
+    "id": 51641,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://push-centr.com/*"
+    }
+  },
+  {
+    "id": 51642,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://push-centr.net/*"
+    }
+  },
+  {
+    "id": 51643,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://push-notifications.top/*"
+    }
+  },
+  {
+    "id": 51644,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://push.daksham.in/*"
+    }
+  },
+  {
+    "id": 51645,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://push.delivery/*"
+    }
+  },
+  {
+    "id": 51646,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://push.rent/*"
+    }
+  },
+  {
+    "id": 51647,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://push.rollout.io/*"
+    }
+  },
+  {
+    "id": 51648,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://push.world/*"
+    }
+  },
+  {
+    "id": 51649,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://pushaddict.com/*"
+    }
+  },
+  {
+    "id": 51650,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://pushango.com/*"
+    }
+  },
+  {
+    "id": 51651,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://pushassist.com/*"
+    }
+  },
+  {
+    "id": 51652,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://pushaya.com/*"
+    }
+  },
+  {
+    "id": 51653,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://pushbots.com/*"
+    }
+  },
+  {
+    "id": 51654,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://pushbox.info/*"
+    }
+  },
+  {
+    "id": 51655,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://pushchev.info/*"
+    }
+  },
+  {
+    "id": 51656,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://pushcrew.com/*"
+    }
+  },
+  {
+    "id": 51657,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://pushe.co/*"
+    }
+  },
+  {
+    "id": 51658,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://pusherapp.com/*"
+    }
+  },
+  {
+    "id": 51659,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://pushinpage.com/*"
+    }
+  },
+  {
+    "id": 51660,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://pushinstruments.com/*"
+    }
+  },
+  {
+    "id": 51661,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://pushkahouse.com/*"
+    }
+  },
+  {
+    "id": 51662,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://pushkaplus.com/*"
+    }
+  },
+  {
+    "id": 51663,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://pushkintop.ru/*"
+    }
+  },
+  {
+    "id": 51664,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://pushly.com/*"
+    }
+  },
+  {
+    "id": 51665,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://pushmejs.com/*"
+    }
+  },
+  {
+    "id": 51666,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://pushnami.com/*"
+    }
+  },
+  {
+    "id": 51667,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://pushnews.eu/*"
+    }
+  },
+  {
+    "id": 51668,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://pushnotifications.click/*"
+    }
+  },
+  {
+    "id": 51669,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://pushowl.com/*"
+    }
+  },
+  {
+    "id": 51670,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://pushpad.xyz/*"
+    }
+  },
+  {
+    "id": 51671,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://pushpanda.io/*"
+    }
+  },
+  {
+    "id": 51672,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://pushpro.io/*"
+    }
+  },
+  {
+    "id": 51673,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://pushprospush.com/*"
+    }
+  },
+  {
+    "id": 51674,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://pushpushgo.com/*"
+    }
+  },
+  {
+    "id": 51675,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://pushstack.it/*"
+    }
+  },
+  {
+    "id": 51676,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://pushwhy.com/*"
+    }
+  },
+  {
+    "id": 51677,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://quarepush.com/*"
+    }
+  },
+  {
+    "id": 51678,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://quaruzon.com/*"
+    }
+  },
+  {
+    "id": 51679,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://revpusher.com/*"
+    }
+  },
+  {
+    "id": 51680,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://sendyourpush.com/*"
+    }
+  },
+  {
+    "id": 51681,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://signaly.co/*"
+    }
+  },
+  {
+    "id": 51682,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://snrcdn.net/*"
+    }
+  },
+  {
+    "id": 51683,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://system-notify.app/*"
+    }
+  },
+  {
+    "id": 51684,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://topswp.com/*"
+    }
+  },
+  {
+    "id": 51685,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://virtualpushplatform.com/*"
+    }
+  },
+  {
+    "id": 51686,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://webpush.jp/*"
+    }
+  },
+  {
+    "id": 51687,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://webpushr.com/*"
+    }
+  },
+  {
+    "id": 51688,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://webpushs.com/*"
+    }
+  },
+  {
+    "id": 51689,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://worldpush.co/*"
+    }
+  },
+  {
+    "id": 51690,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://wpshsdk.com/*"
+    }
+  },
+  {
+    "id": 51691,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://wpush.biz/*"
+    }
+  },
+  {
+    "id": 51692,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://wpushsdk.com/*"
+    }
+  },
+  {
+    "id": 51693,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://xedo.me/*"
+    }
+  },
+  {
+    "id": 51694,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://accengage.net/*"
+    }
+  },
+  {
+    "id": 51695,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://actirinius.com/*"
+    }
+  },
+  {
+    "id": 51696,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://aimtell.com/*"
+    }
+  },
+  {
+    "id": 51697,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://alertme.news/*"
+    }
+  },
+  {
+    "id": 51698,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://aswpsdkeu.com/*"
+    }
+  },
+  {
+    "id": 51699,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://aswpsdkus.com/*"
+    }
+  },
+  {
+    "id": 51700,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://bildirt.com/*"
+    }
+  },
+  {
+    "id": 51701,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://bosspush.com/*"
+    }
+  },
+  {
+    "id": 51702,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://browserpusher.com/*"
+    }
+  },
+  {
+    "id": 51703,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://cdn-sitegainer.com/*"
+    }
+  },
+  {
+    "id": 51704,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://cleverpush.com/*"
+    }
+  },
+  {
+    "id": 51705,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://copush.com/*"
+    }
+  },
+  {
+    "id": 51706,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://cracataum.com/*"
+    }
+  },
+  {
+    "id": 51707,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://danorenius.com/*"
+    }
+  },
+  {
+    "id": 51708,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://edrone.me/*"
+    }
+  },
+  {
+    "id": 51709,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://feedify.net/*"
+    }
+  },
+  {
+    "id": 51710,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://fernomius.com/*"
+    }
+  },
+  {
+    "id": 51711,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://fkondate.com/*"
+    }
+  },
+  {
+    "id": 51712,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://foxpush.com/*"
+    }
+  },
+  {
+    "id": 51713,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://foxpush.net/*"
+    }
+  },
+  {
+    "id": 51714,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://getback.ch/*"
+    }
+  },
+  {
+    "id": 51715,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://getpushmonkey.com/*"
+    }
+  },
+  {
+    "id": 51716,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://jeeng.com/*"
+    }
+  },
+  {
+    "id": 51717,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://master-push.net/*"
+    }
+  },
+  {
+    "id": 51718,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://moengage.com/*"
+    }
+  },
+  {
+    "id": 51719,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://najva.com/*"
+    }
+  },
+  {
+    "id": 51720,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://notifadz.com/*"
+    }
+  },
+  {
+    "id": 51721,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://notifpush.com/*"
+    }
+  },
+  {
+    "id": 51722,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://notify.solutions/*"
+    }
+  },
+  {
+    "id": 51723,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://olgtex.com/*"
+    }
+  },
+  {
+    "id": 51724,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://on-push.com/*"
+    }
+  },
+  {
+    "id": 51725,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://onepush.app/*"
+    }
+  },
+  {
+    "id": 51726,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://onesignal.com/*"
+    }
+  },
+  {
+    "id": 51727,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://provesrc.com/*"
+    }
+  },
+  {
+    "id": 51728,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://psh.one/*"
+    }
+  },
+  {
+    "id": 51729,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://push-ad.com/*"
+    }
+  },
+  {
+    "id": 51730,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://pushalert.co/*"
+    }
+  },
+  {
+    "id": 51731,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://pushbird.com/*"
+    }
+  },
+  {
+    "id": 51732,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://pushbullet.com/*"
+    }
+  },
+  {
+    "id": 51733,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://pushengage.com/*"
+    }
+  },
+  {
+    "id": 51734,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://pushex.io/*"
+    }
+  },
+  {
+    "id": 51735,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://pushible.com/*"
+    }
+  },
+  {
+    "id": 51736,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://pushify.com/*"
+    }
+  },
+  {
+    "id": 51737,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://pushwoosh.com/*"
+    }
+  },
+  {
+    "id": 51738,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://reprocautious.com/*"
+    }
+  },
+  {
+    "id": 51739,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://sendpulse.com/*"
+    }
+  },
+  {
+    "id": 51740,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://shroughtened.com/*"
+    }
+  },
+  {
+    "id": 51741,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://sm-epsilon.com/*"
+    }
+  },
+  {
+    "id": 51742,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://snd.tc/*"
+    }
+  },
+  {
+    "id": 51743,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://subscribers.com/*"
+    }
+  },
+  {
+    "id": 51744,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://truepush.com/*"
+    }
+  },
+  {
+    "id": 51745,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://urbanairship.com/*"
+    }
+  },
+  {
+    "id": 51746,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://viapush.com/*"
+    }
+  },
+  {
+    "id": 51747,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://webpu.sh/*"
+    }
+  },
+  {
+    "id": 51748,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://whiteclick.biz/*"
+    }
+  },
+  {
+    "id": 51749,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://wonderpush.com/*"
+    }
+  },
+  {
+    "id": 51750,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://wwclicktm.club/*"
+    }
+  },
+  {
+    "id": 51751,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://xtremepush.com/*"
+    }
+  },
+  {
+    "id": 51752,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://mobi24.net/*"
+    }
+  },
+  {
+    "id": 51753,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://addnow.com/*"
+    }
+  },
+  {
+    "id": 51754,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://addthis.com/*"
+    }
+  },
+  {
+    "id": 51755,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://addtoany.com/*"
+    }
+  },
+  {
+    "id": 51756,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://ahalogy.com/*"
+    }
+  },
+  {
+    "id": 51757,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://angel.co/embed/button.html/*"
+    }
+  },
+  {
+    "id": 51758,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://api-read.facebook.com/restserver.php?api_key=/*"
+    }
+  },
+  {
+    "id": 51759,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://api.groupon.com/*"
+    }
+  },
+  {
+    "id": 51760,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://api.starsmp.com/*"
+    }
+  },
+  {
+    "id": 51761,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://assets.pinterest.com/js/pinit.js/*"
+    }
+  },
+  {
+    "id": 51762,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://assets.pinterest.com/pidget.html/*"
+    }
+  },
+  {
+    "id": 51763,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://assets.tumblr.com/assets/html/iframe/o.html/*"
+    }
+  },
+  {
+    "id": 51764,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://assets.tumblr.com/assets/html/iframe/teaser.html?/*"
+    }
+  },
+  {
+    "id": 51765,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://b.hatena.ne.jp/*"
+    }
+  },
+  {
+    "id": 51766,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://badge.facebook.com/*"
+    }
+  },
+  {
+    "id": 51767,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://badges.instagram.com/*"
+    }
+  },
+  {
+    "id": 51768,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://bloglovin.com/widget/*"
+    }
+  },
+  {
+    "id": 51769,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://bshare.cn/*"
+    }
+  },
+  {
+    "id": 51770,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://bufferapp.com/*"
+    }
+  },
+  {
+    "id": 51771,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://button.like.co/*"
+    }
+  },
+  {
+    "id": 51772,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://buttons.github.io/buttons.js/*"
+    }
+  },
+  {
+    "id": 51773,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://buttons.reddit.com/*"
+    }
+  },
+  {
+    "id": 51774,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://buzzbuttons.com/*"
+    }
+  },
+  {
+    "id": 51775,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://cdn.wibiya.com/*"
+    }
+  },
+  {
+    "id": 51776,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://connect.ok.ru/*"
+    }
+  },
+  {
+    "id": 51777,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://conversionsbox.com/*"
+    }
+  },
+  {
+    "id": 51778,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://crowdynews.com/*"
+    }
+  },
+  {
+    "id": 51779,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://dailymotion.com/badge/user/*"
+    }
+  },
+  {
+    "id": 51780,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://digg.com/*"
+    }
+  },
+  {
+    "id": 51781,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://digg.com/*"
+    }
+  },
+  {
+    "id": 51782,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://digg.com/*"
+    }
+  },
+  {
+    "id": 51783,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://facebook.com/plugins/activity.php?/*"
+    }
+  },
+  {
+    "id": 51784,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://facebook.com/plugins/facepile.php?/*"
+    }
+  },
+  {
+    "id": 51785,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://facebook.com/plugins/fan.php?/*"
+    }
+  },
+  {
+    "id": 51786,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://facebook.com/plugins/follow.php/*"
+    }
+  },
+  {
+    "id": 51787,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://facebook.com/plugins/follow?/*"
+    }
+  },
+  {
+    "id": 51788,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://facebook.com/plugins/like_box.php/*"
+    }
+  },
+  {
+    "id": 51789,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://facebook.com/plugins/likebox/*"
+    }
+  },
+  {
+    "id": 51790,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://facebook.com/plugins/page.php?/*"
+    }
+  },
+  {
+    "id": 51791,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://facebook.com/plugins/recommendations.php?/*"
+    }
+  },
+  {
+    "id": 51792,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://facebook.com/plugins/recommendations_bar.php?/*"
+    }
+  },
+  {
+    "id": 51793,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://facebook.com/plugins/save.php?/*"
+    }
+  },
+  {
+    "id": 51794,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://facebook.com/plugins/send.php?/*"
+    }
+  },
+  {
+    "id": 51795,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://facebook.com/plugins/subscribe.php/*"
+    }
+  },
+  {
+    "id": 51796,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://facebook.com/plugins/subscribe?/*"
+    }
+  },
+  {
+    "id": 51797,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://facebook.com/whitepages/wpminiprofile.php/*"
+    }
+  },
+  {
+    "id": 51798,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://facebook.com/widgets/activity.php?/*"
+    }
+  },
+  {
+    "id": 51799,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://facebook.com/widgets/fan.php?/*"
+    }
+  },
+  {
+    "id": 51800,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://facebook.com/widgets/like.php?/*"
+    }
+  },
+  {
+    "id": 51801,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://facebook.com/widgets/recommendations.php?/*"
+    }
+  },
+  {
+    "id": 51802,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://fark.com/*"
+    }
+  },
+  {
+    "id": 51803,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://fark.com/*"
+    }
+  },
+  {
+    "id": 51804,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://feedly.com/img/follows/*"
+    }
+  },
+  {
+    "id": 51805,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://figshare.com/*"
+    }
+  },
+  {
+    "id": 51806,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://filamentapp-assets.s3.amazonaws.com/*"
+    }
+  },
+  {
+    "id": 51807,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://filamentapp.s3.amazonaws.com/*"
+    }
+  },
+  {
+    "id": 51808,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://fireworkapi.com/*"
+    }
+  },
+  {
+    "id": 51809,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://fireworkapi1.com/*"
+    }
+  },
+  {
+    "id": 51810,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://fireworktv.com/*"
+    }
+  },
+  {
+    "id": 51811,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://flickr.com/badge_code_/*"
+    }
+  },
+  {
+    "id": 51812,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://flipboard.com/web/buttons/*"
+    }
+  },
+  {
+    "id": 51813,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://followistic.com/*"
+    }
+  },
+  {
+    "id": 51814,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://friends2follow.com/*"
+    }
+  },
+  {
+    "id": 51815,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://friends2follow.com/*"
+    }
+  },
+  {
+    "id": 51816,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://fwcdn2.com/*"
+    }
+  },
+  {
+    "id": 51817,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://fwcdn3.com/*"
+    }
+  },
+  {
+    "id": 51818,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://getbutton.io/widget-send-button/*"
+    }
+  },
+  {
+    "id": 51819,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://getpocket.com/button?/*"
+    }
+  },
+  {
+    "id": 51820,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://getsocial.io/widget/*"
+    }
+  },
+  {
+    "id": 51821,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://google.com/_/+1/*"
+    }
+  },
+  {
+    "id": 51822,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://gotchosen.com/*"
+    }
+  },
+  {
+    "id": 51823,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://gplusapi.appspot.com/*"
+    }
+  },
+  {
+    "id": 51824,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://graph.facebook.com/fql?q=SELECT/*"
+    }
+  },
+  {
+    "id": 51825,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://handll.com/*"
+    }
+  },
+  {
+    "id": 51826,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://hatena.ne.jp/entry/button/*"
+    }
+  },
+  {
+    "id": 51827,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://herokuapp.com/button.html?/*"
+    }
+  },
+  {
+    "id": 51828,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://hn-button.herokuapp.com/*"
+    }
+  },
+  {
+    "id": 51829,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://houzz.com/buttonWidget?/*"
+    }
+  },
+  {
+    "id": 51830,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://iconosquare.com/widget.php/*"
+    }
+  },
+  {
+    "id": 51831,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://insidesoci.al/*"
+    }
+  },
+  {
+    "id": 51832,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://instagramfollowbutton.com/*"
+    }
+  },
+  {
+    "id": 51833,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://instawidget.net/*"
+    }
+  },
+  {
+    "id": 51834,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://intagme.com/in/?u=/*"
+    }
+  },
+  {
+    "id": 51835,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://jiathis.com/*"
+    }
+  },
+  {
+    "id": 51836,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://jit.su/frame/*"
+    }
+  },
+  {
+    "id": 51837,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://jsoon.digitiminimi.com/*"
+    }
+  },
+  {
+    "id": 51838,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://karmacracy.com/widget/*"
+    }
+  },
+  {
+    "id": 51839,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://lessbuttons.com/*"
+    }
+  },
+  {
+    "id": 51840,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://likebtn.com/*"
+    }
+  },
+  {
+    "id": 51841,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://line.me/js/line-button.js?/*"
+    }
+  },
+  {
+    "id": 51842,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://linkedin.com/countserv/*"
+    }
+  },
+  {
+    "id": 51843,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://linkedin.com/img/*"
+    }
+  },
+  {
+    "id": 51844,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://linkedin.com/uas/js/userspace?/*"
+    }
+  },
+  {
+    "id": 51845,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://linksalpha.com/*"
+    }
+  },
+  {
+    "id": 51846,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://loveclaw.com/*"
+    }
+  },
+  {
+    "id": 51847,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://managewp.org/*"
+    }
+  },
+  {
+    "id": 51848,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://markerly.com/*"
+    }
+  },
+  {
+    "id": 51849,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://massrelevance.com/*"
+    }
+  },
+  {
+    "id": 51850,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://meebo.com/*"
+    }
+  },
+  {
+    "id": 51851,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://meerkatapp.co/btn/*"
+    }
+  },
+  {
+    "id": 51852,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://messengerpeople.com/*"
+    }
+  },
+  {
+    "id": 51853,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://milotree.com/*"
+    }
+  },
+  {
+    "id": 51854,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://networkedblogs.com/*"
+    }
+  },
+  {
+    "id": 51855,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://newsharecounts.com/*"
+    }
+  },
+  {
+    "id": 51856,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://opensharecount.com/*"
+    }
+  },
+  {
+    "id": 51857,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://patreon.com/becomePatronButton.bundle.js/*"
+    }
+  },
+  {
+    "id": 51858,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://pepper.com/*"
+    }
+  },
+  {
+    "id": 51859,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://pinterest.com/images/*"
+    }
+  },
+  {
+    "id": 51860,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://pinterest.com/js/pinit_main.js/*"
+    }
+  },
+  {
+    "id": 51861,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://pinterest.com/v1/urls/count.json/*"
+    }
+  },
+  {
+    "id": 51862,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://platform.foursquare.com/*"
+    }
+  },
+  {
+    "id": 51863,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://platform.linkedin.com/*"
+    }
+  },
+  {
+    "id": 51864,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://platform.tumblr.com/*"
+    }
+  },
+  {
+    "id": 51865,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://platform.twitter.com/anywhere.js/*"
+    }
+  },
+  {
+    "id": 51866,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://platform.twitter.com/js/button./*"
+    }
+  },
+  {
+    "id": 51867,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://plista.com/like.php/*"
+    }
+  },
+  {
+    "id": 51868,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://plusone.google.com/*"
+    }
+  },
+  {
+    "id": 51869,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://po.st/share/*"
+    }
+  },
+  {
+    "id": 51870,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://po.st/static/*"
+    }
+  },
+  {
+    "id": 51871,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://reactandshare.com/*"
+    }
+  },
+  {
+    "id": 51872,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://readrboard.com/*"
+    }
+  },
+  {
+    "id": 51873,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://reddit.com/api/info.json?/*"
+    }
+  },
+  {
+    "id": 51874,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://reddit.com/button.js?/*"
+    }
+  },
+  {
+    "id": 51875,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://reddit.com/buttonlite.js/*"
+    }
+  },
+  {
+    "id": 51876,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://reddit.com/buttonlite?/*"
+    }
+  },
+  {
+    "id": 51877,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://reddit.com/domain/*"
+    }
+  },
+  {
+    "id": 51878,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://reddit.com/static/*"
+    }
+  },
+  {
+    "id": 51879,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://revinate.com/*"
+    }
+  },
+  {
+    "id": 51880,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://scoop.it/*"
+    }
+  },
+  {
+    "id": 51881,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://search.twitter.com/*"
+    }
+  },
+  {
+    "id": 51882,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://share.itraffic.su/*"
+    }
+  },
+  {
+    "id": 51883,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://share.pluso.ru/*"
+    }
+  },
+  {
+    "id": 51884,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://share.static.skyrock.net/*"
+    }
+  },
+  {
+    "id": 51885,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://share.yandex.ru/*"
+    }
+  },
+  {
+    "id": 51886,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://shareaholic.com/*"
+    }
+  },
+  {
+    "id": 51887,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://sharedcount.com/*"
+    }
+  },
+  {
+    "id": 51888,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://sharethis.com/*"
+    }
+  },
+  {
+    "id": 51889,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://sharexy.com/*"
+    }
+  },
+  {
+    "id": 51890,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://shpg.org/*"
+    }
+  },
+  {
+    "id": 51891,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://simplesharebuttons.com/*"
+    }
+  },
+  {
+    "id": 51892,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://social9.com/*"
+    }
+  },
+  {
+    "id": 51893,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://socialannex.com/*"
+    }
+  },
+  {
+    "id": 51894,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://socialmarker.com/*"
+    }
+  },
+  {
+    "id": 51895,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://socialmediabuttons.com/*"
+    }
+  },
+  {
+    "id": 51896,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://socialmediatabs.com/*"
+    }
+  },
+  {
+    "id": 51897,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://socialproof.it/*"
+    }
+  },
+  {
+    "id": 51898,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://socialrest.com/*"
+    }
+  },
+  {
+    "id": 51899,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://socialtools.fm/*"
+    }
+  },
+  {
+    "id": 51900,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://softwebzone.com/*"
+    }
+  },
+  {
+    "id": 51901,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://spiceworks.com/share/*"
+    }
+  },
+  {
+    "id": 51902,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://spotify.com/follow/*"
+    }
+  },
+  {
+    "id": 51903,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://statigr.am/widget.php/*"
+    }
+  },
+  {
+    "id": 51904,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://stipple.cachefly.net/*"
+    }
+  },
+  {
+    "id": 51905,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://stipple.com/*"
+    }
+  },
+  {
+    "id": 51906,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://storeya.com/externalscript/*"
+    }
+  },
+  {
+    "id": 51907,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://stumbleupon.com/badge/*"
+    }
+  },
+  {
+    "id": 51908,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://stumbleupon.com/hostedbadge/*"
+    }
+  },
+  {
+    "id": 51909,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://stumbleupon.com/services/*"
+    }
+  },
+  {
+    "id": 51910,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://syndication.twimg.com/widgets/*"
+    }
+  },
+  {
+    "id": 51911,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://trendemon.com/*"
+    }
+  },
+  {
+    "id": 51912,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://tweetboard.com/*"
+    }
+  },
+  {
+    "id": 51913,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://tweetgrid.com/*"
+    }
+  },
+  {
+    "id": 51914,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://tweetmeme.com/*"
+    }
+  },
+  {
+    "id": 51915,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://tweetriver.com/*"
+    }
+  },
+  {
+    "id": 51916,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://twinesocial.com/*"
+    }
+  },
+  {
+    "id": 51917,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://twitbuttons.com/*"
+    }
+  },
+  {
+    "id": 51918,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://twitcker.com/*"
+    }
+  },
+  {
+    "id": 51919,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://twitcount.com/*"
+    }
+  },
+  {
+    "id": 51920,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://twitstat.us/*"
+    }
+  },
+  {
+    "id": 51921,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://twitter.com/account/*"
+    }
+  },
+  {
+    "id": 51922,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://twitter.com/javascripts/*"
+    }
+  },
+  {
+    "id": 51923,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://twitter.com/js/timeline./*"
+    }
+  },
+  {
+    "id": 51924,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://twitter.com/js/timeline./*"
+    }
+  },
+  {
+    "id": 51925,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://twittercounter.com/*"
+    }
+  },
+  {
+    "id": 51926,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://twitterforweb.com/*"
+    }
+  },
+  {
+    "id": 51927,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://twittericon.com/*"
+    }
+  },
+  {
+    "id": 51928,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://twittermysite.com/*"
+    }
+  },
+  {
+    "id": 51929,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://twitthis.com/*"
+    }
+  },
+  {
+    "id": 51930,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://usocial.pro/*"
+    }
+  },
+  {
+    "id": 51931,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://vk.com/share.php?/*"
+    }
+  },
+  {
+    "id": 51932,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://vk.com/widget_community.php/*"
+    }
+  },
+  {
+    "id": 51933,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://vk.com/widget_community_messages.php?/*"
+    }
+  },
+  {
+    "id": 51934,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://vk.com/widget_like.php/*"
+    }
+  },
+  {
+    "id": 51935,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://vkontakte.ru/share.php?/*"
+    }
+  },
+  {
+    "id": 51936,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://vkontakte.ru/widget_community.php/*"
+    }
+  },
+  {
+    "id": 51937,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://vkontakte.ru/widget_like.php/*"
+    }
+  },
+  {
+    "id": 51938,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://vuukle.com/widgets/emotes.html/*"
+    }
+  },
+  {
+    "id": 51939,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://vuukle.com/widgets/powerbar.html/*"
+    }
+  },
+  {
+    "id": 51940,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://vuukle.com/widgets/powerbar/*"
+    }
+  },
+  {
+    "id": 51941,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://w.uptolike.com/*"
+    }
+  },
+  {
+    "id": 51942,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://weheartit.com/*"
+    }
+  },
+  {
+    "id": 51943,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://weibo.com/staticjs/weiboshare.html/*"
+    }
+  },
+  {
+    "id": 51944,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://wer-kennt-wen.de/js/widgets/external/*"
+    }
+  },
+  {
+    "id": 51945,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://werkenntwen.de/images/empfehlen_buttons/*"
+    }
+  },
+  {
+    "id": 51946,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://whatsapp-sharing.com/*"
+    }
+  },
+  {
+    "id": 51947,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://whatsbroadcast.com/*"
+    }
+  },
+  {
+    "id": 51948,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://widget.stagram.com/*"
+    }
+  },
+  {
+    "id": 51949,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://widget.weibo.com/*"
+    }
+  },
+  {
+    "id": 51950,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://widget.whatshelp.io/*"
+    }
+  },
+  {
+    "id": 51951,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://widgets.fbshare.me/*"
+    }
+  },
+  {
+    "id": 51952,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://widgets.getpocket.com/*"
+    }
+  },
+  {
+    "id": 51953,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://widgets.itaringa.net/*"
+    }
+  },
+  {
+    "id": 51954,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://widgets.wp.com/likes/*"
+    }
+  },
+  {
+    "id": 51955,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://wykop.pl/dataprovider/diggerwidget/*"
+    }
+  },
+  {
+    "id": 51956,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://xing-share.com/*"
+    }
+  },
+  {
+    "id": 51957,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://xing.com/img/buttons/*"
+    }
+  },
+  {
+    "id": 51958,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://youtube.com/subscribe_embed?/*"
+    }
+  },
+  {
+    "id": 51959,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://youtube.com/subscribe_widget/*"
+    }
+  },
+  {
+    "id": 51960,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://zextit.com/partners/*"
+    }
+  },
+  {
+    "id": 51961,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://123cursors.com/*"
+    }
+  },
+  {
+    "id": 51962,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://1worldonline.com/*"
+    }
+  },
+  {
+    "id": 51963,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://24smi.org/*"
+    }
+  },
+  {
+    "id": 51964,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://2kurl.com/*"
+    }
+  },
+  {
+    "id": 51965,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://37signals.com/*"
+    }
+  },
+  {
+    "id": 51966,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://a.mailmunch.co/app/*"
+    }
+  },
+  {
+    "id": 51967,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://a.mailmunch.co/app/*"
+    }
+  },
+  {
+    "id": 51968,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://actionbutton.co/*"
+    }
+  },
+  {
+    "id": 51969,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://activehosted.com/*"
+    }
+  },
+  {
+    "id": 51970,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://addinto.com/*"
+    }
+  },
+  {
+    "id": 51971,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://adobe-campaign.com/*"
+    }
+  },
+  {
+    "id": 51972,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://advantagemedia.com/*"
+    }
+  },
+  {
+    "id": 51973,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://affiliates.eblastengine.com/*"
+    }
+  },
+  {
+    "id": 51974,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://allpass.salemwebnetwork.com/*"
+    }
+  },
+  {
+    "id": 51975,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://alluremedia.com.au/s/au.js/*"
+    }
+  },
+  {
+    "id": 51976,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://amazonaws.com/mailmunch/*"
+    }
+  },
+  {
+    "id": 51977,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://apester.com/*"
+    }
+  },
+  {
+    "id": 51978,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://api.branch.io/*"
+    }
+  },
+  {
+    "id": 51979,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://api.traq.li/*"
+    }
+  },
+  {
+    "id": 51980,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://app.convertful.com/*"
+    }
+  },
+  {
+    "id": 51981,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://app.e2ma.net/*"
+    }
+  },
+  {
+    "id": 51982,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://appboy.eu/*"
+    }
+  },
+  {
+    "id": 51983,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://assets.simplifydigital.co.uk/*"
+    }
+  },
+  {
+    "id": 51984,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://asterilivestream.com/*"
+    }
+  },
+  {
+    "id": 51985,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://autolinkmaker.itunes.apple.com/*"
+    }
+  },
+  {
+    "id": 51986,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://badges.alltop.com/*"
+    }
+  },
+  {
+    "id": 51987,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://badgeville.com/*"
+    }
+  },
+  {
+    "id": 51988,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://banana-splash.com/*"
+    }
+  },
+  {
+    "id": 51989,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://batch.com/*"
+    }
+  },
+  {
+    "id": 51990,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://beeketing.com/*"
+    }
+  },
+  {
+    "id": 51991,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://beopinion.com/*"
+    }
+  },
+  {
+    "id": 51992,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://bibblio.org/*"
+    }
+  },
+  {
+    "id": 51993,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://bigdoor.com/*"
+    }
+  },
+  {
+    "id": 51994,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://bing.com/widget/render/*"
+    }
+  },
+  {
+    "id": 51995,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://blockmetrics.com/*"
+    }
+  },
+  {
+    "id": 51996,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://blogcatalog.com/*"
+    }
+  },
+  {
+    "id": 51997,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://blogengage.com/*"
+    }
+  },
+  {
+    "id": 51998,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://bloggergreetbox.googlecode.com/*"
+    }
+  },
+  {
+    "id": 51999,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://bloglines.com/*"
+    }
+  },
+  {
+    "id": 52000,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://blogtopsites.com/*"
+    }
+  },
+  {
+    "id": 52001,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://bookmrk.us/*"
+    }
+  },
+  {
+    "id": 52002,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://brightinfo.com/*"
+    }
+  },
+  {
+    "id": 52003,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://btn.createsend1.com/*"
+    }
+  },
+  {
+    "id": 52004,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://bufferapp.com/js/button.js/*"
+    }
+  },
+  {
+    "id": 52005,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://bumpin.com/*"
+    }
+  },
+  {
+    "id": 52006,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://buzz-stats.com/*"
+    }
+  },
+  {
+    "id": 52007,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://buzzzoo.net/*"
+    }
+  },
+  {
+    "id": 52008,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://celebjihad.com/*"
+    }
+  },
+  {
+    "id": 52009,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://civicscience.com/widget/jspoll/*"
+    }
+  },
+  {
+    "id": 52010,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://clearbit.com/*"
+    }
+  },
+  {
+    "id": 52011,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://clevergirlscollective.com/*"
+    }
+  },
+  {
+    "id": 52012,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://cmpmedica.com/ssonp/networkbar.js/*"
+    }
+  },
+  {
+    "id": 52013,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://coinhive.com/*"
+    }
+  },
+  {
+    "id": 52014,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://communicatoremail.com/*"
+    }
+  },
+  {
+    "id": 52015,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://communicatoremail.com/*"
+    }
+  },
+  {
+    "id": 52016,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://complexmedianetwork.com/*"
+    }
+  },
+  {
+    "id": 52017,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://connect.ekomi.de/*"
+    }
+  },
+  {
+    "id": 52018,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://connect.nosto.com/*"
+    }
+  },
+  {
+    "id": 52019,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://content-recommendation.net/*"
+    }
+  },
+  {
+    "id": 52020,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://contentexchange.me/*"
+    }
+  },
+  {
+    "id": 52021,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://contextly.com/*"
+    }
+  },
+  {
+    "id": 52022,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://convertflow.co/*"
+    }
+  },
+  {
+    "id": 52023,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://convertsocial.com/*"
+    }
+  },
+  {
+    "id": 52024,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://creativecommons.org/*"
+    }
+  },
+  {
+    "id": 52025,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://creativecommons.org/*"
+    }
+  },
+  {
+    "id": 52026,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://ctctcdn.com/js/signup-form-widget/*"
+    }
+  },
+  {
+    "id": 52027,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://curiyo.com/*"
+    }
+  },
+  {
+    "id": 52028,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://cursors-4u.net/*"
+    }
+  },
+  {
+    "id": 52029,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://customfit.ai/*"
+    }
+  },
+  {
+    "id": 52030,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://cxpublic.com/*"
+    }
+  },
+  {
+    "id": 52031,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://devscroll.com/*"
+    }
+  },
+  {
+    "id": 52032,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://digsby.com/*"
+    }
+  },
+  {
+    "id": 52033,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://diigo.com/images/diigo-icon/*"
+    }
+  },
+  {
+    "id": 52034,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://dotmailer-surveys.com/*"
+    }
+  },
+  {
+    "id": 52035,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://dotnetkicks.com/*"
+    }
+  },
+  {
+    "id": 52036,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://dotnetshoutout.com/*"
+    }
+  },
+  {
+    "id": 52037,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://download.skype.com/share/*"
+    }
+  },
+  {
+    "id": 52038,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://dukecms.com/deals2/*"
+    }
+  },
+  {
+    "id": 52039,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://eff.org/bloggers/badges/*"
+    }
+  },
+  {
+    "id": 52040,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://embed.e2ma.net/*"
+    }
+  },
+  {
+    "id": 52041,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://emojics.com/*"
+    }
+  },
+  {
+    "id": 52042,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://emsecure.net/*"
+    }
+  },
+  {
+    "id": 52043,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://emsecure.net/*"
+    }
+  },
+  {
+    "id": 52044,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://engage.im/*"
+    }
+  },
+  {
+    "id": 52045,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://enquoted.com/*"
+    }
+  },
+  {
+    "id": 52046,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://eventful.com/*"
+    }
+  },
+  {
+    "id": 52047,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://exitintel.com/*"
+    }
+  },
+  {
+    "id": 52048,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://factors.ai/*"
+    }
+  },
+  {
+    "id": 52049,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://fark.com/js/*"
+    }
+  },
+  {
+    "id": 52050,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://feed.mikle.com/*"
+    }
+  },
+  {
+    "id": 52051,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://feedage.com/*"
+    }
+  },
+  {
+    "id": 52052,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://feedage.net/*"
+    }
+  },
+  {
+    "id": 52053,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://feedaty.com/*"
+    }
+  },
+  {
+    "id": 52054,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://feedbackify.com/f.js/*"
+    }
+  },
+  {
+    "id": 52055,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://feedblitz.com/*"
+    }
+  },
+  {
+    "id": 52056,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://feedburner.com/*"
+    }
+  },
+  {
+    "id": 52057,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://feedburner.com/*"
+    }
+  },
+  {
+    "id": 52058,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://feefo.com/*"
+    }
+  },
+  {
+    "id": 52059,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://fem-inc.com/*"
+    }
+  },
+  {
+    "id": 52060,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://flashgroup.com/*"
+    }
+  },
+  {
+    "id": 52061,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://fluidsurveys.com/*"
+    }
+  },
+  {
+    "id": 52062,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://folloyu.com/*"
+    }
+  },
+  {
+    "id": 52063,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://formstack.com/forms/*"
+    }
+  },
+  {
+    "id": 52064,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://freetellafriend.com/*"
+    }
+  },
+  {
+    "id": 52065,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://frizbit.com/*"
+    }
+  },
+  {
+    "id": 52066,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://fwix.com/*"
+    }
+  },
+  {
+    "id": 52067,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://garss.tv/*"
+    }
+  },
+  {
+    "id": 52068,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://georiot.com/*"
+    }
+  },
+  {
+    "id": 52069,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://get8bit.com/*"
+    }
+  },
+  {
+    "id": 52070,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://getdrip.com/*"
+    }
+  },
+  {
+    "id": 52071,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://getglue.com/*"
+    }
+  },
+  {
+    "id": 52072,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://getkudos.me/*"
+    }
+  },
+  {
+    "id": 52073,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://getmailcounter.com/*"
+    }
+  },
+  {
+    "id": 52074,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://getresponse.com/*"
+    }
+  },
+  {
+    "id": 52075,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://getscoutapp.com/*"
+    }
+  },
+  {
+    "id": 52076,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://getsitecontrol.com/*"
+    }
+  },
+  {
+    "id": 52077,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://getsmily.com/*"
+    }
+  },
+  {
+    "id": 52078,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://getwoohoo.com/*"
+    }
+  },
+  {
+    "id": 52079,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://githubbadge.appspot.com/*"
+    }
+  },
+  {
+    "id": 52080,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://givealittle.co.nz/widget/*"
+    }
+  },
+  {
+    "id": 52081,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://givealittle.co.nz/widget/*"
+    }
+  },
+  {
+    "id": 52082,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://goemotify.com/*"
+    }
+  },
+  {
+    "id": 52083,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://goroost.com/*"
+    }
+  },
+  {
+    "id": 52084,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://govdelivery.com/*"
+    }
+  },
+  {
+    "id": 52085,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://gravityrd-services.com/*"
+    }
+  },
+  {
+    "id": 52086,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://grazeit.com/*"
+    }
+  },
+  {
+    "id": 52087,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://healthgrades.com/*"
+    }
+  },
+  {
+    "id": 52088,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://hellobar.com/*"
+    }
+  },
+  {
+    "id": 52089,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://hnbutton.appspot.com/*"
+    }
+  },
+  {
+    "id": 52090,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://hnlike.com/*"
+    }
+  },
+  {
+    "id": 52091,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://honcode.ch/*"
+    }
+  },
+  {
+    "id": 52092,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://hoodline.com/*"
+    }
+  },
+  {
+    "id": 52093,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://hsleadflows.net/*"
+    }
+  },
+  {
+    "id": 52094,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://httpschecker.net/*"
+    }
+  },
+  {
+    "id": 52095,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://identi.ca/js/identica-badge.js/*"
+    }
+  },
+  {
+    "id": 52096,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://images.hitwise.co.uk/*"
+    }
+  },
+  {
+    "id": 52097,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://img.fark.net/pub/*"
+    }
+  },
+  {
+    "id": 52098,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://informvisitors.com/*"
+    }
+  },
+  {
+    "id": 52099,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://instaemail.net/*"
+    }
+  },
+  {
+    "id": 52100,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://instapaper.com/e2/*"
+    }
+  },
+  {
+    "id": 52101,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://instapaper.com/javascript/*"
+    }
+  },
+  {
+    "id": 52102,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://intern.forskning.no/*"
+    }
+  },
+  {
+    "id": 52103,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://internetdefenseleague.org/*"
+    }
+  },
+  {
+    "id": 52104,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://invite.linescale.com/*"
+    }
+  },
+  {
+    "id": 52105,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://jisbar.com/*"
+    }
+  },
+  {
+    "id": 52106,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://jobamatic.com/*"
+    }
+  },
+  {
+    "id": 52107,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://jobs.thejobnetwork.com/*"
+    }
+  },
+  {
+    "id": 52108,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://jobthread.com/*"
+    }
+  },
+  {
+    "id": 52109,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://jobvite.com/widget20.js/*"
+    }
+  },
+  {
+    "id": 52110,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://js.brow.si/*"
+    }
+  },
+  {
+    "id": 52111,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://jugglu.com/*"
+    }
+  },
+  {
+    "id": 52112,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://justanswer.com/*"
+    }
+  },
+  {
+    "id": 52113,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://kaango.com/feCustomWidgetDisplay/*"
+    }
+  },
+  {
+    "id": 52114,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://knowd.com/*"
+    }
+  },
+  {
+    "id": 52115,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://leadacity.net/*"
+    }
+  },
+  {
+    "id": 52116,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://leadpages.co/*"
+    }
+  },
+  {
+    "id": 52117,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://letreach.com/*"
+    }
+  },
+  {
+    "id": 52118,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://letsgetsocialnow.com/*"
+    }
+  },
+  {
+    "id": 52119,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://licensebuttons.net/*"
+    }
+  },
+  {
+    "id": 52120,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://licensebuttons.net/*"
+    }
+  },
+  {
+    "id": 52121,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://ligatus.com/*"
+    }
+  },
+  {
+    "id": 52122,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://linkwithin.com/*"
+    }
+  },
+  {
+    "id": 52123,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://list-manage1.com/subscriber-count?/*"
+    }
+  },
+  {
+    "id": 52124,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://live4sport.net/*"
+    }
+  },
+  {
+    "id": 52125,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://liveintent.com/*"
+    }
+  },
+  {
+    "id": 52126,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://lpages.co/serve-leadbox/*"
+    }
+  },
+  {
+    "id": 52127,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://madmimi.com/signups/*"
+    }
+  },
+  {
+    "id": 52128,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://magimg.com/random?/*"
+    }
+  },
+  {
+    "id": 52129,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://mail.bonnier-subscriptions.com/*"
+    }
+  },
+  {
+    "id": 52130,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://mailjet.com/statics/js/widget.modal.js/*"
+    }
+  },
+  {
+    "id": 52131,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://mailjet.com/widget/*"
+    }
+  },
+  {
+    "id": 52132,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://manychat.com/*"
+    }
+  },
+  {
+    "id": 52133,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://mg2connext.com/*"
+    }
+  },
+  {
+    "id": 52134,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://misosoup.io/*"
+    }
+  },
+  {
+    "id": 52135,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://mobj.space/js/appsdiscover/*"
+    }
+  },
+  {
+    "id": 52136,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://moreshare.com/*"
+    }
+  },
+  {
+    "id": 52137,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://mozo.com.au/widgets/*"
+    }
+  },
+  {
+    "id": 52138,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://my.leadpages.net/*"
+    }
+  },
+  {
+    "id": 52139,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://my.sendinblue.com/users/subscribe/*"
+    }
+  },
+  {
+    "id": 52140,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://myeffecto.com/*"
+    }
+  },
+  {
+    "id": 52141,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://myvoicenation.com/*"
+    }
+  },
+  {
+    "id": 52142,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://newsgator.com/*"
+    }
+  },
+  {
+    "id": 52143,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://newsletter2go.com/*"
+    }
+  },
+  {
+    "id": 52144,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://newswhip.com/*"
+    }
+  },
+  {
+    "id": 52145,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://nonissue.com/*"
+    }
+  },
+  {
+    "id": 52146,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://notifyon.com/*"
+    }
+  },
+  {
+    "id": 52147,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://nrcdn.com/custom-script/*"
+    }
+  },
+  {
+    "id": 52148,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://nrelate.com/*"
+    }
+  },
+  {
+    "id": 52149,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://opinary.com/*"
+    }
+  },
+  {
+    "id": 52150,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://opiniac.com/*"
+    }
+  },
+  {
+    "id": 52151,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://opinionbar.com/*"
+    }
+  },
+  {
+    "id": 52152,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://opinionstage.com/*"
+    }
+  },
+  {
+    "id": 52153,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://opmnstr.com/*"
+    }
+  },
+  {
+    "id": 52154,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://optimonk.com/*"
+    }
+  },
+  {
+    "id": 52155,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://optkit.com/*"
+    }
+  },
+  {
+    "id": 52156,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://optmnstr.com/*"
+    }
+  },
+  {
+    "id": 52157,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://optmstr.com/*"
+    }
+  },
+  {
+    "id": 52158,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://optnmnstr.com/*"
+    }
+  },
+  {
+    "id": 52159,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://optnmstr.com/*"
+    }
+  },
+  {
+    "id": 52160,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://os.tc/*"
+    }
+  },
+  {
+    "id": 52161,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://page2rss.com/*"
+    }
+  },
+  {
+    "id": 52162,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://parse.ly/*"
+    }
+  },
+  {
+    "id": 52163,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://partner.dw.com/*"
+    }
+  },
+  {
+    "id": 52164,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://pippity.com/*"
+    }
+  },
+  {
+    "id": 52165,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://placehold.it/*"
+    }
+  },
+  {
+    "id": 52166,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://plaxo.com/*"
+    }
+  },
+  {
+    "id": 52167,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://player.anyclip.com/*"
+    }
+  },
+  {
+    "id": 52168,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://player.anyclip.com/*"
+    }
+  },
+  {
+    "id": 52169,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://plista.com/*"
+    }
+  },
+  {
+    "id": 52170,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://plugin.me2day.net/*"
+    }
+  },
+  {
+    "id": 52171,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://postquare.com/*"
+    }
+  },
+  {
+    "id": 52172,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://powerjobs.com/*"
+    }
+  },
+  {
+    "id": 52173,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://pressly.com/*"
+    }
+  },
+  {
+    "id": 52174,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://primetag.net/*"
+    }
+  },
+  {
+    "id": 52175,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://privy.com/*"
+    }
+  },
+  {
+    "id": 52176,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://promoshq.wildfireapp.com/*"
+    }
+  },
+  {
+    "id": 52177,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://promotion.monster.com/*"
+    }
+  },
+  {
+    "id": 52178,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://promotions.newegg.com/*"
+    }
+  },
+  {
+    "id": 52179,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://publisher.monster.com/*"
+    }
+  },
+  {
+    "id": 52180,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://punchtab.com/*"
+    }
+  },
+  {
+    "id": 52181,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://purch.com/*"
+    }
+  },
+  {
+    "id": 52182,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://purch.com/*"
+    }
+  },
+  {
+    "id": 52183,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://qeryz.com/*"
+    }
+  },
+  {
+    "id": 52184,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://qrius.me/*"
+    }
+  },
+  {
+    "id": 52185,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://quote.fm/services/button/*"
+    }
+  },
+  {
+    "id": 52186,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://r42tag.com/*"
+    }
+  },
+  {
+    "id": 52187,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://rankdirectory.org/*"
+    }
+  },
+  {
+    "id": 52188,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://rating-widget.com/*"
+    }
+  },
+  {
+    "id": 52189,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://rdstation.com.br/*"
+    }
+  },
+  {
+    "id": 52190,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://readability.com/embed.js/*"
+    }
+  },
+  {
+    "id": 52191,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://recommendedbookies.co.uk/*"
+    }
+  },
+  {
+    "id": 52192,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://reevoo.com/*"
+    }
+  },
+  {
+    "id": 52193,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://reftagger.com/*"
+    }
+  },
+  {
+    "id": 52194,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://repost.us/*"
+    }
+  },
+  {
+    "id": 52195,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://research.net/*"
+    }
+  },
+  {
+    "id": 52196,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://rightmessage.com/*"
+    }
+  },
+  {
+    "id": 52197,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://rokt.com/*"
+    }
+  },
+  {
+    "id": 52198,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://roost.me/*"
+    }
+  },
+  {
+    "id": 52199,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://royapp.com/*"
+    }
+  },
+  {
+    "id": 52200,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://rsspump.com/*"
+    }
+  },
+  {
+    "id": 52201,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://s3.amazonaws.com/scripts.hellobar.com/*"
+    }
+  },
+  {
+    "id": 52202,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://sail-horizon.com/scout/*"
+    }
+  },
+  {
+    "id": 52203,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://sail-horizon.com/*"
+    }
+  },
+  {
+    "id": 52204,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://sail-personalize.com/*"
+    }
+  },
+  {
+    "id": 52205,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://sailthru.com/*"
+    }
+  },
+  {
+    "id": 52206,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://sales-pop-dot-autoketing-production-sdk.appspot.com/*"
+    }
+  },
+  {
+    "id": 52207,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://savvysource.com/*"
+    }
+  },
+  {
+    "id": 52208,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://scorespro.com/*"
+    }
+  },
+  {
+    "id": 52209,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://scoutle.com/*"
+    }
+  },
+  {
+    "id": 52210,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://screenpopper.com/*"
+    }
+  },
+  {
+    "id": 52211,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://scribol.com/*"
+    }
+  },
+  {
+    "id": 52212,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://scripts.mailfire.io/*"
+    }
+  },
+  {
+    "id": 52213,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://scrolltotop.com/*"
+    }
+  },
+  {
+    "id": 52214,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://secretrune.com/*"
+    }
+  },
+  {
+    "id": 52215,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://senzari.com/*"
+    }
+  },
+  {
+    "id": 52216,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://services.webklipper.com/geoip/*"
+    }
+  },
+  {
+    "id": 52217,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://sg-autorepondeur.com/*"
+    }
+  },
+  {
+    "id": 52218,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://sharenice.org/*"
+    }
+  },
+  {
+    "id": 52219,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://sidelinesapp.com/*"
+    }
+  },
+  {
+    "id": 52220,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://siteswithcontent.com/*"
+    }
+  },
+  {
+    "id": 52221,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://skysa.com/*"
+    }
+  },
+  {
+    "id": 52222,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://slashdot.org/*"
+    }
+  },
+  {
+    "id": 52223,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://sleeknote.com/*"
+    }
+  },
+  {
+    "id": 52224,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://sleeknoteboxcontent.sleeknote.com/*"
+    }
+  },
+  {
+    "id": 52225,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://snapwidget.com/*"
+    }
+  },
+  {
+    "id": 52226,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://sociallist.org/*"
+    }
+  },
+  {
+    "id": 52227,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://socialoomph.com/*"
+    }
+  },
+  {
+    "id": 52228,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://socialtwist.com/*"
+    }
+  },
+  {
+    "id": 52229,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://socialvibe.com/*"
+    }
+  },
+  {
+    "id": 52230,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://sodahead.com/*"
+    }
+  },
+  {
+    "id": 52231,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://statictapcdn-a.akamaihd.net/*"
+    }
+  },
+  {
+    "id": 52232,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://storystack.com/*"
+    }
+  },
+  {
+    "id": 52233,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://streamspread.com/*"
+    }
+  },
+  {
+    "id": 52234,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://styld-by.com/*"
+    }
+  },
+  {
+    "id": 52235,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://substack.com/embed/*"
+    }
+  },
+  {
+    "id": 52236,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://superwidget-assets.gowatchit.com/*"
+    }
+  },
+  {
+    "id": 52237,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://surfingbird.ru/*"
+    }
+  },
+  {
+    "id": 52238,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://survey.constantcontact.com/*"
+    }
+  },
+  {
+    "id": 52239,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://survey.io/*"
+    }
+  },
+  {
+    "id": 52240,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://swishu.com/*"
+    }
+  },
+  {
+    "id": 52241,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://synapsys.us/*"
+    }
+  },
+  {
+    "id": 52242,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://systeme.io/*"
+    }
+  },
+  {
+    "id": 52243,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://techbeat.com/wp-content/custom-php/*"
+    }
+  },
+  {
+    "id": 52244,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://technorati.com/*"
+    }
+  },
+  {
+    "id": 52245,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://theechosystem.com/*"
+    }
+  },
+  {
+    "id": 52246,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://thelovebucks.com/*"
+    }
+  },
+  {
+    "id": 52247,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://theoutplay.com/*"
+    }
+  },
+  {
+    "id": 52248,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://theslingshot.com/*"
+    }
+  },
+  {
+    "id": 52249,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://tinker.com/*"
+    }
+  },
+  {
+    "id": 52250,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://tippola.com/*"
+    }
+  },
+  {
+    "id": 52251,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://toolbar.avg.com/*"
+    }
+  },
+  {
+    "id": 52252,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://toolbar.complex.com/*"
+    }
+  },
+  {
+    "id": 52253,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://top100-images.rambler.ru/*"
+    }
+  },
+  {
+    "id": 52254,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://top100.ru/*"
+    }
+  },
+  {
+    "id": 52255,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://topsy.com/*"
+    }
+  },
+  {
+    "id": 52256,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://tuenti.com/*"
+    }
+  },
+  {
+    "id": 52257,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://turnsocial.com/*"
+    }
+  },
+  {
+    "id": 52258,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://twackle.com/*"
+    }
+  },
+  {
+    "id": 52259,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://tweetup.com/*"
+    }
+  },
+  {
+    "id": 52260,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://uatu.newsquestdigital.co.uk/*"
+    }
+  },
+  {
+    "id": 52261,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://upscri.be/*"
+    }
+  },
+  {
+    "id": 52262,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://usablenet.com/*"
+    }
+  },
+  {
+    "id": 52263,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://usefomo.com/*"
+    }
+  },
+  {
+    "id": 52264,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://userdatatrust.com/*"
+    }
+  },
+  {
+    "id": 52265,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://vhmengine.com/*"
+    }
+  },
+  {
+    "id": 52266,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://vicomi.com/*"
+    }
+  },
+  {
+    "id": 52267,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://vk.com/images/*"
+    }
+  },
+  {
+    "id": 52268,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://volomedia.com/*"
+    }
+  },
+  {
+    "id": 52269,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://wahwahnetworks.com/*"
+    }
+  },
+  {
+    "id": 52270,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://web.delighted.com/*"
+    }
+  },
+  {
+    "id": 52271,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://weworkremotely.com/*"
+    }
+  },
+  {
+    "id": 52272,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://widget.adviceiq.com/*"
+    }
+  },
+  {
+    "id": 52273,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://widget.breakingburner.com/*"
+    }
+  },
+  {
+    "id": 52274,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://widget.clipix.com/*"
+    }
+  },
+  {
+    "id": 52275,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://widget.clutch.co/*"
+    }
+  },
+  {
+    "id": 52276,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://widget.pico.tools/*"
+    }
+  },
+  {
+    "id": 52277,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://widget.trustpilot.com/*"
+    }
+  },
+  {
+    "id": 52278,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://widget.zoorate.com/*"
+    }
+  },
+  {
+    "id": 52279,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://widgets.dzone.com/*"
+    }
+  },
+  {
+    "id": 52280,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://widgets.itunes.apple.com/*"
+    }
+  },
+  {
+    "id": 52281,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://widgets.tapcdn.com/*"
+    }
+  },
+  {
+    "id": 52282,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://widgetsplus.com/*"
+    }
+  },
+  {
+    "id": 52283,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://wisepops.com/*"
+    }
+  },
+  {
+    "id": 52284,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://wishpond.com/*"
+    }
+  },
+  {
+    "id": 52285,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://woobox.com/*"
+    }
+  },
+  {
+    "id": 52286,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://worldgravity.com/*"
+    }
+  },
+  {
+    "id": 52287,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://xhamsterlive.com/api/external/*"
+    }
+  },
+  {
+    "id": 52288,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://yottos.com/*"
+    }
+  },
+  {
+    "id": 52289,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://youappi.com/widget/*"
+    }
+  },
+  {
+    "id": 52290,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://zaparena.com/*"
+    }
+  },
+  {
+    "id": 52291,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://zeddit.com/*"
+    }
+  },
+  {
+    "id": 52292,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://zergnet.com/*"
+    }
+  },
+  {
+    "id": 52293,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://zfacts.com/*"
+    }
+  },
+  {
+    "id": 52294,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://zimbio.com/images/badges/*"
+    }
+  },
+  {
+    "id": 52295,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://ziprecruiter.com/jobs-widget/*"
+    }
+  },
+  {
+    "id": 52296,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://zoomanalytics.co/*"
+    }
+  },
+  {
+    "id": 52297,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://channel.io/plugin/*"
+    }
+  },
+  {
+    "id": 52298,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://chat.octadesk.services/embed/static/media/*"
+    }
+  },
+  {
+    "id": 52299,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://cliengo.com/*"
+    }
+  },
+  {
+    "id": 52300,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://collectcdn.com/*"
+    }
+  },
+  {
+    "id": 52301,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://fxcity.pl/images/mp4/*"
+    }
+  },
+  {
+    "id": 52302,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://goftino.com/static/assets/*"
+    }
+  },
+  {
+    "id": 52303,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://leadgenic.ru/production/*"
+    }
+  },
+  {
+    "id": 52304,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://livebeep.com/visitor/events/*"
+    }
+  },
+  {
+    "id": 52305,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://qualified.com/packs/*"
+    }
+  },
+  {
+    "id": 52306,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://shopify.com/s/files/*"
+    }
+  },
+  {
+    "id": 52307,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://static.widget.trengo.eu/assets/*"
+    }
+  },
+  {
+    "id": 52308,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://tars-file-upload.s3.amazonaws.com/*"
+    }
+  },
+  {
+    "id": 52309,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://tidiochat.com/*"
+    }
+  },
+  {
+    "id": 52310,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://widget.awhy.it/chat/img/*"
+    }
+  },
+  {
+    "id": 52311,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://zdassets.com/web_widget/*"
+    }
+  },
+  {
+    "id": 52312,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://taboola.com/*"
+    }
+  },
+  {
+    "id": 52313,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://taboolasyndication.com/*"
+    }
+  },
+  {
+    "id": 52314,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://outbrain.com/*"
+    }
+  },
+  {
+    "id": 52315,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://sendtonews.com/player/sidebar.php?/*"
+    }
+  }
+]

@@ -1,0 +1,61 @@
+{
+  "app_description_text": {
+    "message": "Easily unblock the content you want and websites you need with our Chrome proxy—an essential Chrome extension for 2025.",
+    "description": "The description of the application"
+  },
+  "app_description_@firefox@_text": {
+    "message": "Unblock any restricted website with CyberGhost VPN Proxy! One-Click connect to secure your connection! Unlimited traffic –100% FREE!",
+    "description": "The description of the application"
+  },
+  "app_name_title": {
+    "message": "CyberGhost VPN – Proxy for Chrome",
+    "description": "The name of the application"
+  },
+  "app_name_@firefox@_title": {
+    "message": "Stay secure with CyberGhost VPN Free Proxy",
+    "description": "The name of the application"
+  },
+  "app_name_title_beta": {
+    "message": "CyberGhost VPN Beta"
+  },
+  "app_short_name_title": {
+    "message": "CyberGhost",
+    "description": "The short name of the application"
+  },
+  "header": {
+    "message": "CyberGhost VPN"
+  },
+  "startConnecting": {
+    "message": "Start a Connection"
+  },
+  "connected": {
+    "message": "Connected"
+  },
+  "disconnecting": {
+    "message": "Disconnecting..."
+  },
+  "connecting": {
+    "message": "Connecting..."
+  },
+  "error": {
+    "message": "Error"
+  },
+  "connectTo": {
+    "message": "Connect to:"
+  },
+  "connectedTo": {
+    "message": "Connected to:"
+  },
+  "warningHeader": {
+    "message":  "Proxy warning!"
+  },
+  "warningText": {
+    "message": "Proxy warning! Another browser extension is controlling your proxy settings, preventing CyberGhost from working. Please disable any conflicting extension."
+  },
+  "warningButton": {
+    "message":  "Manage Extensions"
+  },
+  "incognitoWarningText": {
+    "message": "Firefox now requires addons to run in Private Windows to update proxy settings.<br/><br/>Please visit the \"about:addons\" page, select the \"CyberGhost\" addon, and set \"Run in Private Windows\" to \"Allow\"."
+  }
+}

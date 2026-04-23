@@ -1,0 +1,31 @@
+{
+   "background": {
+      "page": "background.html"
+   },
+   "browser_action": {
+      "default_icon": {
+         "19": "i/icons/38/trans.png",
+         "38": "i/icons/38/trans.png"
+      },
+      "default_popup": "popup.html"
+   },
+   "default_locale": "en",
+   "description": "__MSG_appDesc__",
+   "developer": {
+      "name": "dotvpncom"
+   },
+   "icons": {
+      "128": "i/icons/icon128.png",
+      "16": "i/icons/icon16.png",
+      "32": "i/icons/icon32.png",
+      "48": "i/icons/icon48.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAwge5h+6U0A/+RO0NCbLSCUTTKQXDlP7VDJMVhxLhmN3m3bGULv31jDnDiSq8zMFHQ+bm5lOms3bYOzBzXTKmbawHGwjv+rCykCE6qbR73NOM9GJa7XumCtxFgrUOyeKzFaU7XFO1ekkvJ6fR8JDAyIrt6h3Uwcqdcah0AtQFR9ONUhsOi30g6zs8FanwTAAUxztRCI4dSAvxqORy09QvmV9JzKA4A5mjIomZF3KkCb7LDdMd7LwwJQpS1QfPVdtLtmAVqu7NTDqgDG6wnuaGJnHw3aXGAclFLWulUfy8QlamgviWgeur9D32YbawQGF1wZ893rnOo1ckuchtLq/kZQIDAQAB",
+   "manifest_version": 2,
+   "minimum_chrome_version": "18",
+   "name": "__MSG_appName__",
+   "permissions": [ "proxy", "webRequest", "webRequestBlocking", "http://*/*", "https://*/*", "ftp://*/*", "management" ],
+   "short_name": "__MSG_appShortName__",
+   "update_url": "https://extension-updates.opera.com/api/omaha/update/",
+   "version": "2.2.12"
+}

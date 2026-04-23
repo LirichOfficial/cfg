@@ -1,0 +1,6 @@
+2026/02/20-23:28:12.903 f1b5 File /home/bobrik/.config/yandex-browser/Default/IndexedDB/https_2ip.ru_0.indexeddb.leveldb is locked for recovering successfully
+2026/02/20-23:28:12.904 f1b5 Creating DB /home/bobrik/.config/yandex-browser/Default/IndexedDB/https_2ip.ru_0.indexeddb.leveldb since it was missing.
+2026/02/20-23:28:12.909 f1b5 Reusing MANIFEST /home/bobrik/.config/yandex-browser/Default/IndexedDB/https_2ip.ru_0.indexeddb.leveldb/MANIFEST-000001
+2026/02/20-23:28:41.051 f1b5 Deletion DBImpl for /home/bobrik/.config/yandex-browser/Default/IndexedDB/https_2ip.ru_0.indexeddb.leveldb, waiting for background work finished
+2026/02/20-23:28:41.052 f1b5 Deletion DBImpl for /home/bobrik/.config/yandex-browser/Default/IndexedDB/https_2ip.ru_0.indexeddb.leveldb, background work finished
+2026/02/20-23:28:41.052 f1b5 File /home/bobrik/.config/yandex-browser/Default/IndexedDB/https_2ip.ru_0.indexeddb.leveldb unlocked successfully

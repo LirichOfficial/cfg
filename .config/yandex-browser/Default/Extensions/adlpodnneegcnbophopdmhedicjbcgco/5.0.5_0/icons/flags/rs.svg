@@ -1,0 +1,18 @@
+<svg width="14" height="10" viewBox="0 0 14 10" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect x="0.25" y="0.25" width="13.5" height="9.5" rx="1.75" fill="white" stroke="#F5F5F5" stroke-width="0.5"/>
+<mask id="mask0_142:39" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="0" y="0" width="14" height="10">
+<rect x="0.25" y="0.25" width="13.5" height="9.5" rx="1.75" fill="white" stroke="white" stroke-width="0.5"/>
+</mask>
+<g mask="url(#mask0_142:39)">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M0 6.66665H14V3.33331H0V6.66665Z" fill="#17508F"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M0 3.33333H14V0H0V3.33333Z" fill="#E1444D"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M3 4.99998C3 4.73841 3.11302 4.21637 3.20744 3.82587C3.27803 3.5339 3.54162 3.33331 3.84201 3.33331H4.82585C5.12568 3.33331 5.38893 3.53316 5.45969 3.82452C5.55402 4.21286 5.66667 4.73261 5.66667 4.99998C5.66667 5.3469 5.44968 6.21895 5.36584 6.54293C5.34461 6.62498 5.30766 6.70158 5.25202 6.76551C5.09047 6.95114 4.7119 7.33331 4.33333 7.33331C3.95436 7.33331 3.57539 6.95033 3.41413 6.76492C3.35884 6.70135 3.32203 6.62526 3.30078 6.54373C3.21691 6.222 3 5.35548 3 4.99998Z" fill="white"/>
+<mask id="mask1_142:39" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="3" y="3" width="3" height="5">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M3 4.99998C3 4.73841 3.11302 4.21637 3.20744 3.82587C3.27803 3.5339 3.54162 3.33331 3.84201 3.33331H4.82585C5.12568 3.33331 5.38893 3.53316 5.45969 3.82452C5.55402 4.21286 5.66667 4.73261 5.66667 4.99998C5.66667 5.3469 5.44968 6.21895 5.36584 6.54293C5.34461 6.62498 5.30766 6.70158 5.25202 6.76551C5.09047 6.95114 4.7119 7.33331 4.33333 7.33331C3.95436 7.33331 3.57539 6.95033 3.41413 6.76492C3.35884 6.70135 3.32203 6.62526 3.30078 6.54373C3.21691 6.222 3 5.35548 3 4.99998Z" fill="white"/>
+</mask>
+<g mask="url(#mask1_142:39)">
+<path d="M5.66666 3.66665L2.99999 6.99998" stroke="#E1444D" stroke-width="1.33333" stroke-linecap="square"/>
+<path d="M3 3.66665L5.66667 6.99998" stroke="#E1444D" stroke-width="1.33333" stroke-linecap="square"/>
+</g>
+</g>
+</svg>

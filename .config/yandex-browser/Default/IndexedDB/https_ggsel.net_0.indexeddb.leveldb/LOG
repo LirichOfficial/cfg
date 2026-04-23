@@ -1,0 +1,54 @@
+2026/04/02-08:15:48.594 517a File /home/bobrik/.config/yandex-browser/Default/IndexedDB/https_ggsel.net_0.indexeddb.leveldb is locked for recovering successfully
+2026/04/02-08:15:48.594 517a Reusing MANIFEST /home/bobrik/.config/yandex-browser/Default/IndexedDB/https_ggsel.net_0.indexeddb.leveldb/MANIFEST-000001
+2026/04/02-08:15:48.594 517a Recovering log #4
+2026/04/02-08:15:48.594 517a Reusing old log /home/bobrik/.config/yandex-browser/Default/IndexedDB/https_ggsel.net_0.indexeddb.leveldb/000004.log 
+2026/04/02-08:15:49.275 517a Level-0 table #8: started
+2026/04/02-08:15:49.276 517a Level-0 table #8: 1595 bytes OK
+2026/04/02-08:15:49.277 517a Delete type=0 #4
+2026/04/02-08:15:49.277 5189 Manual compaction at level-0 from '\x00\x04\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x05\x00\x00\x00' @ 0 : 0; will stop at (end)
+2026/04/02-08:15:49.278 517d Level-0 table #10: started
+2026/04/02-08:15:49.279 517d Level-0 table #10: 1238 bytes OK
+2026/04/02-08:15:49.280 517d Delete type=0 #7
+2026/04/02-08:15:49.280 517d Manual compaction at level-0 from '\x00\x05\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x06\x00\x00\x00' @ 0 : 0; will stop at '\x00\x05\x00\x00\x05' @ 146 : 1
+2026/04/02-08:15:49.280 517d Compacting 1@0 + 1@1 files
+2026/04/02-08:15:49.281 517d Generated table #11@0: 67 keys, 1544 bytes
+2026/04/02-08:15:49.281 517d Compacted 1@0 + 1@1 files => 1544 bytes
+2026/04/02-08:15:49.282 517d compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/04/02-08:15:49.282 517d Delete type=2 #10
+2026/04/02-08:15:49.282 517a Manual compaction at level-0 from '\x00\x05\x00\x00\x05' @ 146 : 1 .. '\x00\x06\x00\x00\x00' @ 0 : 0; will stop at (end)
+2026/04/02-08:15:49.282 517a Level-0 table #13: started
+2026/04/02-08:15:49.283 517a Level-0 table #13: 1252 bytes OK
+2026/04/02-08:15:49.283 517a Delete type=2 #8
+2026/04/02-08:15:49.283 517a Delete type=0 #9
+2026/04/02-08:15:49.284 517a Manual compaction at level-0 from '\x00\x06\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x07\x00\x00\x00' @ 0 : 0; will stop at '\x00\x07\x00\x00\xc8\x18\x00f\x00i\x00r\x00e\x00b\x00a\x00s\x00e\x00-\x00h\x00e\x00a\x00r\x00t\x00b\x00e\x00a\x00t\x00-\x00s\x00t\x00o\x00r\x00e' @ 195 : 1
+2026/04/02-08:15:49.284 517a Compacting 1@0 + 1@1 files
+2026/04/02-08:15:49.284 517a Generated table #14@0: 96 keys, 1867 bytes
+2026/04/02-08:15:49.284 517a Compacted 1@0 + 1@1 files => 1867 bytes
+2026/04/02-08:15:49.285 517a compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/04/02-08:15:49.285 517a Delete type=2 #13
+2026/04/02-08:15:49.285 517a Manual compaction at level-0 from '\x00\x07\x00\x00\xc8\x18\x00f\x00i\x00r\x00e\x00b\x00a\x00s\x00e\x00-\x00h\x00e\x00a\x00r\x00t\x00b\x00e\x00a\x00t\x00-\x00s\x00t\x00o\x00r\x00e' @ 195 : 1 .. '\x00\x07\x00\x00\x00' @ 0 : 0; will stop at (end)
+2026/04/02-08:15:49.714 517d Level-0 table #16: started
+2026/04/02-08:15:49.715 517d Level-0 table #16: 1342 bytes OK
+2026/04/02-08:15:49.716 517d Delete type=0 #12
+2026/04/02-08:15:49.716 517d Delete type=2 #11
+2026/04/02-08:15:49.716 518a Manual compaction at level-0 from '\x00\x08\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x09\x00\x00\x00' @ 0 : 0; will stop at '\x00\x08\x00\x00\x05' @ 250 : 1
+2026/04/02-08:15:49.716 518a Compacting 1@0 + 1@1 files
+2026/04/02-08:15:49.717 518a Generated table #17@0: 112 keys, 2409 bytes
+2026/04/02-08:15:49.717 518a Compacted 1@0 + 1@1 files => 2409 bytes
+2026/04/02-08:15:49.718 518a compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/04/02-08:15:49.718 518a Delete type=2 #16
+2026/04/02-08:15:49.718 517a Manual compaction at level-0 from '\x00\x08\x00\x00\x05' @ 250 : 1 .. '\x00\x09\x00\x00\x00' @ 0 : 0; will stop at (end)
+2026/04/02-08:15:50.705 517d Level-0 table #19: started
+2026/04/02-08:15:50.706 517d Level-0 table #19: 9718 bytes OK
+2026/04/02-08:15:50.706 517d Delete type=0 #15
+2026/04/02-08:15:50.706 517d Delete type=2 #14
+2026/04/02-08:15:50.707 517d Manual compaction at level-0 from '\x00\x0a\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x0b\x00\x00\x00' @ 0 : 0; will stop at '\x00\x0a\x00\x00\x05' @ 936 : 1
+2026/04/02-08:15:50.707 517d Compacting 1@0 + 1@1 files
+2026/04/02-08:15:50.707 517d Generated table #20@0: 484 keys, 7168 bytes
+2026/04/02-08:15:50.707 517d Compacted 1@0 + 1@1 files => 7168 bytes
+2026/04/02-08:15:50.708 517d compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/04/02-08:15:50.708 517d Delete type=2 #19
+2026/04/02-08:15:50.708 517b Manual compaction at level-0 from '\x00\x0a\x00\x00\x05' @ 936 : 1 .. '\x00\x0b\x00\x00\x00' @ 0 : 0; will stop at (end)
+2026/04/02-08:16:25.058 517d Deletion DBImpl for /home/bobrik/.config/yandex-browser/Default/IndexedDB/https_ggsel.net_0.indexeddb.leveldb, waiting for background work finished
+2026/04/02-08:16:25.058 517d Deletion DBImpl for /home/bobrik/.config/yandex-browser/Default/IndexedDB/https_ggsel.net_0.indexeddb.leveldb, background work finished
+2026/04/02-08:16:25.058 517d File /home/bobrik/.config/yandex-browser/Default/IndexedDB/https_ggsel.net_0.indexeddb.leveldb unlocked successfully

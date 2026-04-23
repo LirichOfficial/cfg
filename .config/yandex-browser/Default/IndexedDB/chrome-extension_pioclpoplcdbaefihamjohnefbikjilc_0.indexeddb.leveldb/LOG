@@ -1,0 +1,32 @@
+2026/04/22-09:14:27.784 1c4a File /home/bobrik/.config/yandex-browser/Default/IndexedDB/chrome-extension_pioclpoplcdbaefihamjohnefbikjilc_0.indexeddb.leveldb is locked for recovering successfully
+2026/04/22-09:14:27.786 1c4a Reusing MANIFEST /home/bobrik/.config/yandex-browser/Default/IndexedDB/chrome-extension_pioclpoplcdbaefihamjohnefbikjilc_0.indexeddb.leveldb/MANIFEST-000001
+2026/04/22-09:14:27.786 1c4a Recovering log #163
+2026/04/22-09:14:27.791 1c4a Reusing old log /home/bobrik/.config/yandex-browser/Default/IndexedDB/chrome-extension_pioclpoplcdbaefihamjohnefbikjilc_0.indexeddb.leveldb/000163.log 
+2026/04/22-15:02:08.906 1c57 Level-0 table #170: started
+2026/04/22-15:02:08.908 1c57 Level-0 table #170: 527116 bytes OK
+2026/04/22-15:02:08.909 1c57 Delete type=0 #163
+2026/04/22-15:41:54.756 1c4a Level-0 table #172: started
+2026/04/22-15:41:54.765 1c4a Level-0 table #172: 441290 bytes OK
+2026/04/22-15:41:54.766 1c4a Delete type=0 #169
+2026/04/23-11:34:20.448 1c4a Level-0 table #174: started
+2026/04/23-11:34:20.451 1c4a Level-0 table #174: 441337 bytes OK
+2026/04/23-11:34:20.452 1c4a Delete type=0 #171
+2026/04/23-11:51:19.268 1c49 Compacting 2@0 + 1@1 files
+2026/04/23-11:51:19.272 1c49 Generated table #175@0: 356 keys, 17548 bytes
+2026/04/23-11:51:19.273 1c49 Compacted 2@0 + 1@1 files => 17548 bytes
+2026/04/23-11:51:19.273 1c49 compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/04/23-11:51:19.273 1c49 Delete type=2 #172
+2026/04/23-11:51:19.273 1c49 Delete type=2 #170
+2026/04/23-11:51:19.273 1c49 Delete type=2 #174
+2026/04/23-11:57:07.780 1c4a Level-0 table #177: started
+2026/04/23-11:57:07.783 1c4a Level-0 table #177: 440130 bytes OK
+2026/04/23-11:57:07.784 1c4a Delete type=0 #173
+2026/04/23-12:20:52.328 1c49 Compacting 1@0 + 1@1 files
+2026/04/23-12:20:52.332 1c49 Generated table #178@0: 484 keys, 18789 bytes
+2026/04/23-12:20:52.332 1c49 Compacted 1@0 + 1@1 files => 18789 bytes
+2026/04/23-12:20:52.332 1c49 compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/04/23-12:20:52.332 1c49 Delete type=2 #177
+2026/04/23-12:20:52.333 1c49 Delete type=2 #175
+2026/04/23-12:20:55.960 1c4b Level-0 table #180: started
+2026/04/23-12:20:55.963 1c4b Level-0 table #180: 516937 bytes OK
+2026/04/23-12:20:55.964 1c4b Delete type=0 #176

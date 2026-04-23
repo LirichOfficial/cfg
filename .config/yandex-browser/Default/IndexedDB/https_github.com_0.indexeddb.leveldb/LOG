@@ -1,0 +1,19 @@
+2026/04/23-12:24:17.251 1c49 File /home/bobrik/.config/yandex-browser/Default/IndexedDB/https_github.com_0.indexeddb.leveldb is locked for recovering successfully
+2026/04/23-12:24:17.251 1c49 Reusing MANIFEST /home/bobrik/.config/yandex-browser/Default/IndexedDB/https_github.com_0.indexeddb.leveldb/MANIFEST-000001
+2026/04/23-12:24:17.252 1c49 Recovering log #19
+2026/04/23-12:24:17.252 1c49 Reusing old log /home/bobrik/.config/yandex-browser/Default/IndexedDB/https_github.com_0.indexeddb.leveldb/000019.log 
+2026/04/23-12:24:22.709 1c4b Level-0 table #24: started
+2026/04/23-12:24:22.709 1c4b Level-0 table #24: 2713 bytes OK
+2026/04/23-12:24:22.710 1c4b Delete type=0 #19
+2026/04/23-12:24:22.710 1c4b Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2026/04/23-12:24:22.710 1c4b Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x02\x01\x02\x01H\x00k\x00e\x00y\x00-\x00[\x00"\x00g\x00l\x00o\x00b\x00a\x00l\x00-\x00n\x00a\x00v\x00-\x00s\x00i\x00d\x00e\x00-\x00p\x00a\x00n\x00e\x00l\x00"\x00,\x00"\x00/\x00_\x00s\x00i\x00d\x00e\x00-\x00p\x00a\x00n\x00e\x00l\x00s\x00/\x00g\x00l\x00o\x00b\x00a\x00l\x00.\x00j\x00s\x00o\x00n\x00"\x00,\x005\x00,\x002\x000\x00,\x00n\x00u\x00l\x00l\x00,\x00n\x00u\x00l\x00l\x00]' @ 218 : 1
+2026/04/23-12:24:22.710 1c4b Compacting 1@1 + 1@2 files
+2026/04/23-12:24:22.711 1c4b Generated table #25@1: 50 keys, 53705 bytes
+2026/04/23-12:24:22.711 1c4b Compacted 1@1 + 1@2 files => 53705 bytes
+2026/04/23-12:24:22.712 1c4b compacted to: files[ 0 0 1 0 0 0 0 ]
+2026/04/23-12:24:22.712 1c4b Delete type=2 #21
+2026/04/23-12:24:22.712 1c4b Delete type=2 #24
+2026/04/23-12:24:22.712 1c4b Manual compaction at level-1 from '\x00\x02\x01\x02\x01H\x00k\x00e\x00y\x00-\x00[\x00"\x00g\x00l\x00o\x00b\x00a\x00l\x00-\x00n\x00a\x00v\x00-\x00s\x00i\x00d\x00e\x00-\x00p\x00a\x00n\x00e\x00l\x00"\x00,\x00"\x00/\x00_\x00s\x00i\x00d\x00e\x00-\x00p\x00a\x00n\x00e\x00l\x00s\x00/\x00g\x00l\x00o\x00b\x00a\x00l\x00.\x00j\x00s\x00o\x00n\x00"\x00,\x005\x00,\x002\x000\x00,\x00n\x00u\x00l\x00l\x00,\x00n\x00u\x00l\x00l\x00]' @ 218 : 1 .. (end); will stop at (end)
+2026/04/23-12:24:22.712 1c4a Deletion DBImpl for /home/bobrik/.config/yandex-browser/Default/IndexedDB/https_github.com_0.indexeddb.leveldb, waiting for background work finished
+2026/04/23-12:24:22.712 1c4a Deletion DBImpl for /home/bobrik/.config/yandex-browser/Default/IndexedDB/https_github.com_0.indexeddb.leveldb, background work finished
+2026/04/23-12:24:22.712 1c4a File /home/bobrik/.config/yandex-browser/Default/IndexedDB/https_github.com_0.indexeddb.leveldb unlocked successfully

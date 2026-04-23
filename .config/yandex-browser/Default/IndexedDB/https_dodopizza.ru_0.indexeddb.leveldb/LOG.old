@@ -1,0 +1,10 @@
+2026/04/07-13:59:37.739 16ff File /home/bobrik/.config/yandex-browser/Default/IndexedDB/https_dodopizza.ru_0.indexeddb.leveldb is locked for recovering successfully
+2026/04/07-13:59:37.739 16ff Creating DB /home/bobrik/.config/yandex-browser/Default/IndexedDB/https_dodopizza.ru_0.indexeddb.leveldb since it was missing.
+2026/04/07-13:59:37.741 16ff Reusing MANIFEST /home/bobrik/.config/yandex-browser/Default/IndexedDB/https_dodopizza.ru_0.indexeddb.leveldb/MANIFEST-000001
+2026/04/07-13:59:39.766 1700 Level-0 table #5: started
+2026/04/07-13:59:39.766 1700 Level-0 table #5: 856 bytes OK
+2026/04/07-13:59:39.767 1700 Delete type=0 #3
+2026/04/07-13:59:39.767 1700 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2026/04/07-13:59:39.767 16ff Deletion DBImpl for /home/bobrik/.config/yandex-browser/Default/IndexedDB/https_dodopizza.ru_0.indexeddb.leveldb, waiting for background work finished
+2026/04/07-13:59:39.767 16ff Deletion DBImpl for /home/bobrik/.config/yandex-browser/Default/IndexedDB/https_dodopizza.ru_0.indexeddb.leveldb, background work finished
+2026/04/07-13:59:39.767 16ff File /home/bobrik/.config/yandex-browser/Default/IndexedDB/https_dodopizza.ru_0.indexeddb.leveldb unlocked successfully

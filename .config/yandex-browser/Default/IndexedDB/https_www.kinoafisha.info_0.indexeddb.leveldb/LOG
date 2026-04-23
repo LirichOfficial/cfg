@@ -1,0 +1,10 @@
+2026/04/02-09:27:00.964 517b File /home/bobrik/.config/yandex-browser/Default/IndexedDB/https_www.kinoafisha.info_0.indexeddb.leveldb is locked for recovering successfully
+2026/04/02-09:27:00.965 517b Creating DB /home/bobrik/.config/yandex-browser/Default/IndexedDB/https_www.kinoafisha.info_0.indexeddb.leveldb since it was missing.
+2026/04/02-09:27:00.967 517b Reusing MANIFEST /home/bobrik/.config/yandex-browser/Default/IndexedDB/https_www.kinoafisha.info_0.indexeddb.leveldb/MANIFEST-000001
+2026/04/02-10:14:29.935 517b Level-0 table #5: started
+2026/04/02-10:14:29.936 517b Level-0 table #5: 13680 bytes OK
+2026/04/02-10:14:29.937 517b Delete type=0 #3
+2026/04/02-10:14:29.938 517b Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2026/04/02-10:14:29.938 517a Deletion DBImpl for /home/bobrik/.config/yandex-browser/Default/IndexedDB/https_www.kinoafisha.info_0.indexeddb.leveldb, waiting for background work finished
+2026/04/02-10:14:29.938 517a Deletion DBImpl for /home/bobrik/.config/yandex-browser/Default/IndexedDB/https_www.kinoafisha.info_0.indexeddb.leveldb, background work finished
+2026/04/02-10:14:29.938 517a File /home/bobrik/.config/yandex-browser/Default/IndexedDB/https_www.kinoafisha.info_0.indexeddb.leveldb unlocked successfully

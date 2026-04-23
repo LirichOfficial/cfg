@@ -1,0 +1,10 @@
+{
+   "app_description": {
+      "description": "Programėlės aprašymas",
+      "message": "Gaukite prieigą prie bet kurios svetainės ir blokuokite skelbimus naudodami nemokamą VPN tarpinio serverio plėtinį"
+   },
+   "app_name": {
+      "description": "Programėlės pavadinimas",
+      "message": "Nemokamas VPN tarpinis serveris ir reklamos blokatorius - Planet VPN"
+   }
+}

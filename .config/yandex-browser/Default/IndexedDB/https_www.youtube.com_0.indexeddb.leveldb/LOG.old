@@ -1,0 +1,7 @@
+2026/04/20-14:27:06.199 11052 File /home/bobrik/.config/yandex-browser/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb is locked for recovering successfully
+2026/04/20-14:27:06.205 11052 Reusing MANIFEST /home/bobrik/.config/yandex-browser/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2026/04/20-14:27:06.205 11052 Recovering log #33
+2026/04/20-14:27:06.206 11052 Reusing old log /home/bobrik/.config/yandex-browser/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/000033.log 
+2026/04/20-14:27:40.426 11052 Deletion DBImpl for /home/bobrik/.config/yandex-browser/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb, waiting for background work finished
+2026/04/20-14:27:40.426 11052 Deletion DBImpl for /home/bobrik/.config/yandex-browser/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb, background work finished
+2026/04/20-14:27:40.426 11052 File /home/bobrik/.config/yandex-browser/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb unlocked successfully

@@ -1,0 +1,7 @@
+2026/04/20-19:27:47.608 14154 File /home/bobrik/.config/yandex-browser/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb is locked for recovering successfully
+2026/04/20-19:27:47.609 14154 Reusing MANIFEST /home/bobrik/.config/yandex-browser/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2026/04/20-19:27:47.609 14154 Recovering log #124
+2026/04/20-19:27:47.610 14154 Reusing old log /home/bobrik/.config/yandex-browser/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/000124.log 
+2026/04/20-19:28:13.535 14154 Level-0 table #130: started
+2026/04/20-19:28:13.558 14154 Level-0 table #130: 3215724 bytes OK
+2026/04/20-19:28:13.559 14154 Delete type=0 #124

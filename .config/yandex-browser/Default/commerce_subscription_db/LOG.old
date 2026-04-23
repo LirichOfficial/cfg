@@ -1,0 +1,4 @@
+2026/04/21-19:23:25.154 5ed9 File /home/bobrik/.config/yandex-browser/Default/commerce_subscription_db is locked for recovering successfully
+2026/04/21-19:23:25.154 5ed9 Deletion DBImpl for /home/bobrik/.config/yandex-browser/Default/commerce_subscription_db, waiting for background work finished
+2026/04/21-19:23:25.154 5ed9 Deletion DBImpl for /home/bobrik/.config/yandex-browser/Default/commerce_subscription_db, background work finished
+2026/04/21-19:23:25.154 5ed9 File /home/bobrik/.config/yandex-browser/Default/commerce_subscription_db unlocked successfully

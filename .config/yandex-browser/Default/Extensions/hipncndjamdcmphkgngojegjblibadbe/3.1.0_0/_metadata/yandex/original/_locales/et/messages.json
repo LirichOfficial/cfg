@@ -1,0 +1,10 @@
+{
+  "app_name": {
+    "message": "Tasuta VPN proxy ja reklaamide blokeerija - Planet VPN",
+    "description": "Rakenduse nimi"
+  },
+  "app_description": {
+    "message": "Saage juurdepääs kõikidele veebisaitidele ja blokeerige reklaamid meie tasuta VPN proxy laiendusega",
+    "description": "Taotluse kirjeldus"
+  }
+}

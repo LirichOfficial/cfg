@@ -1,0 +1,63 @@
+{
+   "action": {
+      "default_icon": {
+         "16": "icons/icon-16.png",
+         "19": "icons/icon-19.png",
+         "32": "icons/icon-38.png",
+         "38": "icons/icon-38.png"
+      },
+      "default_popup": "popup.html",
+      "default_title": "Planet VPN"
+   },
+   "background": {
+      "service_worker": "background.js",
+      "type": "module"
+   },
+   "content_scripts": [ {
+      "css": [ "content/pin-modal/styles.css" ],
+      "js": [ "content/pin-modal/script.js" ],
+      "matches": [ "https://freevpnplanet.com/*", "https://planetvpnarab.com/*", "https://freevpnplanet.net/*" ],
+      "runAt": "document_start"
+   } ],
+   "content_security_policy": {
+      "extension_pages": "script-src 'self'; object-src 'self'"
+   },
+   "declarative_net_request": {
+      "rule_resources": [ {
+         "enabled": false,
+         "id": "tracking",
+         "path": "rulesets/trackingRuleset.json"
+      }, {
+         "enabled": false,
+         "id": "adblocker_1",
+         "path": "rulesets/adblockerRuleset_1.json"
+      }, {
+         "enabled": false,
+         "id": "adblocker_2",
+         "path": "rulesets/adblockerRuleset_2.json"
+      } ]
+   },
+   "default_locale": "en",
+   "description": "__MSG_app_description__",
+   "externally_connectable": {
+      "matches": [ "*://localhost/*", "*://freevpnplanet.com/*", "*://*.freevpnplanet.com/*" ]
+   },
+   "host_permissions": [ "\u003Call_urls>" ],
+   "icons": {
+      "128": "icons/icon-128.png",
+      "16": "icons/icon-16.png",
+      "48": "icons/icon-48.png",
+      "96": "icons/icon-96.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAgm/4aC3YhfMeduXiCQGmazyy1MF8mu4kJfwboEN0eTJ1dNaV71lcA0IWKEaY2sUK1mZKv99F5bpjYoLAZBQs5fUzvxBOKH7wjA9ni93TI3EGQN+P26YtF9POjq2HzzveLSq0sm/d4BELGld6dd2f1L9dgZNUIoVT+tBVZU/dMWA4CBzsUom+m7Aed4T47EeCzW1O1F7pnStcEIcpddcRLGgEVF/5Li+cm34lUwikdOP6qG4quQwQT5rOTq5dDVBNaFKKoTxxkC7+TagsDPuD/HdyV7G3cfLG5UrSCVSmcSVupaAWOva0mNmuuSrSFXEWlmhVyPKdPjau1QmWQ7MHQwIDAQAB",
+   "manifest_version": 3,
+   "minimum_chrome_version": "120",
+   "name": "__MSG_app_name__",
+   "permissions": [ "proxy", "storage", "unlimitedStorage", "history", "webRequest", "webRequestAuthProvider", "declarativeNetRequest", "declarativeNetRequestFeedback", "tabs", "privacy", "management", "scripting", "offscreen", "notifications" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "3.1.0",
+   "web_accessible_resources": [ {
+      "matches": [ "http://*/*", "https://*/*" ],
+      "resources": [ "blocked.html", "blocked.js", "icons/icon-48.png" ]
+   } ]
+}

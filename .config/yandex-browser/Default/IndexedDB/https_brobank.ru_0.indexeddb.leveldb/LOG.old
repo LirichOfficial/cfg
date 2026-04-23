@@ -1,0 +1,10 @@
+2026/04/20-14:17:09.463 11052 File /home/bobrik/.config/yandex-browser/Default/IndexedDB/https_brobank.ru_0.indexeddb.leveldb is locked for recovering successfully
+2026/04/20-14:17:09.463 11052 Creating DB /home/bobrik/.config/yandex-browser/Default/IndexedDB/https_brobank.ru_0.indexeddb.leveldb since it was missing.
+2026/04/20-14:17:09.464 11052 Reusing MANIFEST /home/bobrik/.config/yandex-browser/Default/IndexedDB/https_brobank.ru_0.indexeddb.leveldb/MANIFEST-000001
+2026/04/20-14:17:48.880 11053 Level-0 table #5: started
+2026/04/20-14:17:48.881 11053 Level-0 table #5: 8971 bytes OK
+2026/04/20-14:17:48.882 11053 Delete type=0 #3
+2026/04/20-14:17:48.882 11053 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2026/04/20-14:17:48.882 11052 Deletion DBImpl for /home/bobrik/.config/yandex-browser/Default/IndexedDB/https_brobank.ru_0.indexeddb.leveldb, waiting for background work finished
+2026/04/20-14:17:48.882 11052 Deletion DBImpl for /home/bobrik/.config/yandex-browser/Default/IndexedDB/https_brobank.ru_0.indexeddb.leveldb, background work finished
+2026/04/20-14:17:48.882 11052 File /home/bobrik/.config/yandex-browser/Default/IndexedDB/https_brobank.ru_0.indexeddb.leveldb unlocked successfully

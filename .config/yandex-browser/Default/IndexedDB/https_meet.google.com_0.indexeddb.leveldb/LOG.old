@@ -1,0 +1,19 @@
+2026/04/20-19:28:13.175 14153 File /home/bobrik/.config/yandex-browser/Default/IndexedDB/https_meet.google.com_0.indexeddb.leveldb is locked for recovering successfully
+2026/04/20-19:28:13.175 14153 Reusing MANIFEST /home/bobrik/.config/yandex-browser/Default/IndexedDB/https_meet.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2026/04/20-19:28:13.175 14153 Recovering log #31
+2026/04/20-19:28:13.176 14153 Reusing old log /home/bobrik/.config/yandex-browser/Default/IndexedDB/https_meet.google.com_0.indexeddb.leveldb/000031.log 
+2026/04/20-19:30:16.973 14153 Level-0 table #36: started
+2026/04/20-19:30:16.974 14153 Level-0 table #36: 5156 bytes OK
+2026/04/20-19:30:16.975 14153 Delete type=0 #31
+2026/04/20-19:30:16.976 14153 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2026/04/20-19:30:16.976 14153 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x02\x01\x02\x01\x1f\xff\xfd\xff\xfd\xff\xfd\x00\x16\x00\x0f\xff\xfd\x00w\x006\x00F\x00[\x00@\xff\xfd\x00\x18\x00?\x00\x17\xff\xfd\xff\xfd\xff\xfd\x00f\x00D\xff\xfd\x00%\x00+\xff\xfd\x00I\xff\xfd\x00\x1f\xff\xfd\xff\xfd\xff\xfd\xff\xfd' @ 1344 : 0
+2026/04/20-19:30:16.976 14153 Compacting 1@1 + 1@2 files
+2026/04/20-19:30:16.976 14153 Generated table #37@1: 36 keys, 2964 bytes
+2026/04/20-19:30:16.976 14153 Compacted 1@1 + 1@2 files => 2964 bytes
+2026/04/20-19:30:16.977 14153 compacted to: files[ 0 0 1 0 0 0 0 ]
+2026/04/20-19:30:16.977 14153 Delete type=2 #33
+2026/04/20-19:30:16.977 14153 Delete type=2 #36
+2026/04/20-19:30:16.977 14153 Manual compaction at level-1 from '\x00\x02\x01\x02\x01\x1f\xff\xfd\xff\xfd\xff\xfd\x00\x16\x00\x0f\xff\xfd\x00w\x006\x00F\x00[\x00@\xff\xfd\x00\x18\x00?\x00\x17\xff\xfd\xff\xfd\xff\xfd\x00f\x00D\xff\xfd\x00%\x00+\xff\xfd\x00I\xff\xfd\x00\x1f\xff\xfd\xff\xfd\xff\xfd\xff\xfd' @ 1344 : 0 .. (end); will stop at (end)
+2026/04/20-19:30:16.978 14154 Deletion DBImpl for /home/bobrik/.config/yandex-browser/Default/IndexedDB/https_meet.google.com_0.indexeddb.leveldb, waiting for background work finished
+2026/04/20-19:30:16.978 14154 Deletion DBImpl for /home/bobrik/.config/yandex-browser/Default/IndexedDB/https_meet.google.com_0.indexeddb.leveldb, background work finished
+2026/04/20-19:30:16.978 14154 File /home/bobrik/.config/yandex-browser/Default/IndexedDB/https_meet.google.com_0.indexeddb.leveldb unlocked successfully

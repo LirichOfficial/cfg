@@ -1,0 +1,7 @@
+2026/04/11-09:06:57.887 1a84 File /home/bobrik/.config/yandex-browser/Default/IndexedDB/https_codeforces.com_0.indexeddb.leveldb is locked for recovering successfully
+2026/04/11-09:06:57.887 1a84 Reusing MANIFEST /home/bobrik/.config/yandex-browser/Default/IndexedDB/https_codeforces.com_0.indexeddb.leveldb/MANIFEST-000001
+2026/04/11-09:06:57.888 1a84 Recovering log #11
+2026/04/11-09:06:57.888 1a84 Reusing old log /home/bobrik/.config/yandex-browser/Default/IndexedDB/https_codeforces.com_0.indexeddb.leveldb/000011.log 
+2026/04/11-09:06:59.934 1a83 Deletion DBImpl for /home/bobrik/.config/yandex-browser/Default/IndexedDB/https_codeforces.com_0.indexeddb.leveldb, waiting for background work finished
+2026/04/11-09:06:59.934 1a83 Deletion DBImpl for /home/bobrik/.config/yandex-browser/Default/IndexedDB/https_codeforces.com_0.indexeddb.leveldb, background work finished
+2026/04/11-09:06:59.934 1a83 File /home/bobrik/.config/yandex-browser/Default/IndexedDB/https_codeforces.com_0.indexeddb.leveldb unlocked successfully

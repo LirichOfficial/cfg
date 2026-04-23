@@ -1,0 +1,7 @@
+2026/03/27-18:38:28.179 1ab8 File /home/bobrik/.config/yandex-browser/Default/IndexedDB/https_tabu-lordfilm.ru_0.indexeddb.leveldb is locked for recovering successfully
+2026/03/27-18:38:28.179 1ab8 Reusing MANIFEST /home/bobrik/.config/yandex-browser/Default/IndexedDB/https_tabu-lordfilm.ru_0.indexeddb.leveldb/MANIFEST-000001
+2026/03/27-18:38:28.179 1ab8 Recovering log #4
+2026/03/27-18:38:28.179 1ab8 Reusing old log /home/bobrik/.config/yandex-browser/Default/IndexedDB/https_tabu-lordfilm.ru_0.indexeddb.leveldb/000004.log 
+2026/03/27-18:38:44.085 1ab8 Deletion DBImpl for /home/bobrik/.config/yandex-browser/Default/IndexedDB/https_tabu-lordfilm.ru_0.indexeddb.leveldb, waiting for background work finished
+2026/03/27-18:38:44.085 1ab8 Deletion DBImpl for /home/bobrik/.config/yandex-browser/Default/IndexedDB/https_tabu-lordfilm.ru_0.indexeddb.leveldb, background work finished
+2026/03/27-18:38:44.085 1ab8 File /home/bobrik/.config/yandex-browser/Default/IndexedDB/https_tabu-lordfilm.ru_0.indexeddb.leveldb unlocked successfully

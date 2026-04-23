@@ -1,0 +1,10 @@
+{
+  "app_name": {
+    "message": "Darmowy serwer proxy VPN i bloker reklam - Planet VPN.",
+    "description": "Nazwa aplikacji"
+  },
+  "app_description": {
+    "message": "Uzyskaj dostęp do dowolnej strony internetowej i blokuj reklamy dzięki naszemu bezpłatnemu rozszerzeniu proxy VPN.",
+    "description": "Opis aplikacji"
+  }
+}

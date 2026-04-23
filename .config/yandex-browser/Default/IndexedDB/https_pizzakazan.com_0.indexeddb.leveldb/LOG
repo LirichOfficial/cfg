@@ -1,0 +1,14 @@
+2026/04/07-14:02:29.984 16ff File /home/bobrik/.config/yandex-browser/Default/IndexedDB/https_pizzakazan.com_0.indexeddb.leveldb is locked for recovering successfully
+2026/04/07-14:02:29.984 16ff Creating DB /home/bobrik/.config/yandex-browser/Default/IndexedDB/https_pizzakazan.com_0.indexeddb.leveldb since it was missing.
+2026/04/07-14:02:29.985 16ff Reusing MANIFEST /home/bobrik/.config/yandex-browser/Default/IndexedDB/https_pizzakazan.com_0.indexeddb.leveldb/MANIFEST-000001
+2026/04/07-14:02:30.308 16ff Level-0 table #5: started
+2026/04/07-14:02:30.309 16ff Level-0 table #5: 1182 bytes OK
+2026/04/07-14:02:30.310 16ff Delete type=0 #3
+2026/04/07-14:02:30.310 16ff Manual compaction at level-0 from '\x00\x02\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x03\x00\x00\x00' @ 0 : 0; will stop at (end)
+2026/04/07-14:02:30.327 1701 Level-0 table #7: started
+2026/04/07-14:02:30.328 1701 Level-0 table #7: 740 bytes OK
+2026/04/07-14:02:30.329 1701 Delete type=0 #4
+2026/04/07-14:02:30.329 1701 Manual compaction at level-0 from '\x00\x03\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x04\x00\x00\x00' @ 0 : 0; will stop at (end)
+2026/04/07-14:02:59.033 16ff Deletion DBImpl for /home/bobrik/.config/yandex-browser/Default/IndexedDB/https_pizzakazan.com_0.indexeddb.leveldb, waiting for background work finished
+2026/04/07-14:02:59.033 16ff Deletion DBImpl for /home/bobrik/.config/yandex-browser/Default/IndexedDB/https_pizzakazan.com_0.indexeddb.leveldb, background work finished
+2026/04/07-14:02:59.033 16ff File /home/bobrik/.config/yandex-browser/Default/IndexedDB/https_pizzakazan.com_0.indexeddb.leveldb unlocked successfully

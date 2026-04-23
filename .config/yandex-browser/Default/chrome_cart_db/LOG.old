@@ -1,0 +1,4 @@
+2026/04/21-19:23:25.154 5ef0 File /home/bobrik/.config/yandex-browser/Default/chrome_cart_db is locked for recovering successfully
+2026/04/21-19:23:25.154 5ef0 Deletion DBImpl for /home/bobrik/.config/yandex-browser/Default/chrome_cart_db, waiting for background work finished
+2026/04/21-19:23:25.154 5ef0 Deletion DBImpl for /home/bobrik/.config/yandex-browser/Default/chrome_cart_db, background work finished
+2026/04/21-19:23:25.154 5ef0 File /home/bobrik/.config/yandex-browser/Default/chrome_cart_db unlocked successfully

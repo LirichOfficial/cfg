@@ -1,0 +1,1794 @@
+{
+   "7_days_money_back_guarantee": {
+      "description": "",
+      "message": "7 ημέρες εγγύηση επιστροφής χρημάτων"
+   },
+   "N_servers_in_N_virtual_Locations": {
+      "description": "",
+      "message": "Διακομιστές AAA+ σε εικονικές τοποθεσίες BBB"
+   },
+   "access_internet_via_premium_locations": {
+      "description": "",
+      "message": "Πρόσβαση στο Διαδίκτυο μέσω πρόσθετων τοποθεσιών Premium."
+   },
+   "add_smart_setting_for_X": {
+      "description": "",
+      "message": "Προσθήκη έξυπνης ρύθμισης για XXX"
+   },
+   "authentication_error_no_connection": {
+      "description": "",
+      "message": "Σφάλμα ελέγχου ταυτότητας: δεν είναι δυνατή η σύνδεση με τον διακομιστή Browsec."
+   },
+   "back": {
+      "description": "",
+      "message": "Πίσω"
+   },
+   "because_your_proxy_settings_are_blocked": {
+      "description": "",
+      "message": " Η πρόσβαση στις ρυθμίσεις διακομιστή μεσολάβησης αποκλείεται από άλλη επέκταση."
+   },
+   "browsec_activated": {
+      "description": "",
+      "message": "Ενεργοποιήστε το Browsec"
+   },
+   "browsec_can_work_in_private_mode": {
+      "description": "",
+      "message": "Δεν μπορείτε να ελέγξετε το Browsec στα ιδιωτικά παράθυρα. Ωστόσο, εάν το εικονίδιο Browsec είναι ενεργό, προστατεύεστε.\\n\\nΜπορείτε να ενεργοποιήσετε ή να απενεργοποιήσετε το Browsec στο κανονικό σας παράθυρο του Firefox. Όλες οι ρυθμίσεις περιήγησης λειτουργούν τόσο για κανονική όσο και για ιδιωτική λειτουργία"
+   },
+   "browsec_has_been_installed": {
+      "description": "",
+      "message": "Το Browsec έχει εγκατασταθεί!"
+   },
+   "browsec_is_enabled": {
+      "description": "",
+      "message": "Το Browsec ενεργοποιήθηκε ξανά"
+   },
+   "browsec_off": {
+      "description": "",
+      "message": "Περιήγηση ΑΠΕΝΕΡΓΟΠΟΙΗΣΗ"
+   },
+   "browsec_premium": {
+      "description": "",
+      "message": "Περιήγηση στο Premium"
+   },
+   "browser_action_inactive_title": {
+      "description": "",
+      "message": "Περιήγηση σε"
+   },
+   "cancel_editing": {
+      "description": "",
+      "message": "Ακύρωση επεξεργασίας"
+   },
+   "cancel_subscription_at_any_time": {
+      "description": "",
+      "message": "Ακυρώστε τη συνδρομή ανά πάσα στιγμή"
+   },
+   "cant_authenticate_please_contact_browsec_support": {
+      "description": "",
+      "message": "Δεν είναι δυνατός ο έλεγχος ταυτότητας. Επικοινωνήστε με την υποστήριξη του Browsec."
+   },
+   "cant_setup_secure_connection": {
+      "description": "",
+      "message": "Το πρόγραμμα περιήγησης δεν μπορεί να ρυθμίσει μια ασφαλή σύνδεση στο πρόγραμμα περιήγησής σας."
+   },
+   "cant_start_because_your_proxy_settings_blocked": {
+      "description": "",
+      "message": "Το Browsec δεν μπορεί να ξεκινήσει το VPN. Οι ρυθμίσεις διακομιστή μεσολάβησης έχουν αποκλειστεί από άλλη επέκταση"
+   },
+   "change": {
+      "description": "",
+      "message": "Αλλαγή"
+   },
+   "change_location": {
+      "description": "",
+      "message": "Αλλαγή τοποθεσίας"
+   },
+   "change_timezone_according_to_virtual_location": {
+      "description": "",
+      "message": "Αλλάξτε τη ζώνη ώρας του προγράμματος περιήγησης σύμφωνα με την εικονική σας τοποθεσία"
+   },
+   "change_timezone_text_1": {
+      "description": "",
+      "message": "Αυτή η επιλογή αλλάζει τη ζώνη ώρας του προγράμματος περιήγησής σας ώστε να ταιριάζει με την εικονική σας τοποθεσία."
+   },
+   "change_timezone_text_2": {
+      "description": "",
+      "message": "Ορισμένοι ιστότοποι εντοπίζουν τη ζώνη ώρας του προγράμματος περιήγησης χρησιμοποιώντας λειτουργίες Javascript. Εάν οι ζώνες ώρας του προγράμματος περιήγησής σας και της διεύθυνσης IP διαφέρουν, αυτό μπορεί να είναι ένδειξη χρήσης της υπηρεσίας VPN ή άλλων τεχνικών ανωνυμοποίησης."
+   },
+   "change_timezone_text_3": {
+      "description": "",
+      "message": "Με ενεργοποιημένη αυτήν την επιλογή, οι ιστότοποι δεν μπορούν να εντοπίσουν διαφορά ζώνης ώρας."
+   },
+   "change_virtual_location": {
+      "description": "",
+      "message": "Αλλαγή εικονικής τοποθεσίας"
+   },
+   "check_browsec_api": {
+      "description": "",
+      "message": "Ελέγξτε το Browsec API"
+   },
+   "check_browsec_premium_plans": {
+      "description": "",
+      "message": "Ελέγξτε τα προγράμματα Browsec Premium"
+   },
+   "check_conflicts_with_other_extensions": {
+      "description": "",
+      "message": "Ελέγξτε τις διενέξεις με άλλες επεκτάσεις"
+   },
+   "check_http_internet_connection": {
+      "description": "",
+      "message": "Ελέγξτε τη σύνδεση στο Διαδίκτυο HTTP"
+   },
+   "check_http_internet_connection_with_browsec": {
+      "description": "",
+      "message": "Ελέγξτε τη σύνδεση στο Διαδίκτυο HTTP με το Browsec"
+   },
+   "check_https_internet_connection": {
+      "description": "",
+      "message": "Ελέγξτε τη σύνδεση στο Διαδίκτυο HTTPS"
+   },
+   "check_https_internet_connection_with_browsec": {
+      "description": "",
+      "message": "Ελέγξτε τη σύνδεση στο Διαδίκτυο HTTPS με το Browsec"
+   },
+   "check_proxy_settings": {
+      "description": "",
+      "message": "Ελέγξτε τις ρυθμίσεις διακομιστή μεσολάβησης"
+   },
+   "choose_your_virtual_location": {
+      "description": "",
+      "message": "Επιλέξτε την εικονική τοποθεσία σας και αποκτήστε πρόσβαση σε οποιοδήποτε περιεχόμενο δεν ήταν διαθέσιμο διαφορετικά."
+   },
+   "click_accept_terms_and_conditions": {
+      "description": "",
+      "message": "Αποδέχομαι"
+   },
+   "click_and_then_1": {
+      "description": "",
+      "message": "Κάντε κλικ"
+   },
+   "click_and_then_2": {
+      "description": "",
+      "message": "και μετά"
+   },
+   "click_here_privacy_policy": {
+      "description": "",
+      "message": "Πολιτική Απορρήτου"
+   },
+   "click_here_terms_conditions": {
+      "description": "",
+      "message": "Όροι χρήσης"
+   },
+   "click_here_to_agree_and_start": {
+      "description": "",
+      "message": "Για να χρησιμοποιήσετε την εφαρμογή Browsec VPN\u003Cbr/>πρέπει να αποδεχτείτε\u003Cbr/>το {DIVIDER} και το\u003Cbr/>{DIVIDER}"
+   },
+   "click_here_to_start_vpn": {
+      "description": "",
+      "message": "Κάντε κλικ εδώ\u003Cbr/>για να ξεκινήσετε το VPN"
+   },
+   "click_icon_on_toolbar_and_turn_on_protection": {
+      "description": "",
+      "message": "Κάντε κλικ στο εικονίδιο Browseec στη γραμμή εργαλείων, ενεργοποιήστε την προστασία κυκλοφορίας και είστε έτοιμοι!"
+   },
+   "close_page": {
+      "description": "",
+      "message": "Κλείσιμο σελίδας"
+   },
+   "completed": {
+      "description": "",
+      "message": "Ολοκληρώθηκε το"
+   },
+   "congratulations_securing_your_browsing": {
+      "description": "",
+      "message": "Ένα ακόμη βήμα και το πρόγραμμα περιήγησής σας είναι απόλυτα ασφαλές."
+   },
+   "contact_support": {
+      "description": "",
+      "message": "Επικοινωνήστε με την υποστήριξη του Browsec"
+   },
+   "contact_us": {
+      "description": "",
+      "message": "Επικοινωνήστε μαζί μας"
+   },
+   "continue_using_browsec_to_open_websites": {
+      "description": "",
+      "message": "Μπορείτε να συνεχίσετε να χρησιμοποιείτε το Browseec. Ευχαριστώ!"
+   },
+   "continue_using_premium": {
+      "description": "",
+      "message": "Συνεχίστε να χρησιμοποιείτε το Browsec Premium"
+   },
+   "copy_to_clipboard": {
+      "description": "",
+      "message": "Αντιγραφή στο πρόχειρο"
+   },
+   "country_ac": {
+      "description": "",
+      "message": "Νησί της Ανάληψης"
+   },
+   "country_ad": {
+      "description": "",
+      "message": "Ανδόρα"
+   },
+   "country_ae": {
+      "description": "",
+      "message": "Ηνωμένα Αραβικά Εμιράτα"
+   },
+   "country_af": {
+      "description": "",
+      "message": "Αφγανιστάν"
+   },
+   "country_ag": {
+      "description": "",
+      "message": "Αντίγκουα & Μπαρμπούντα"
+   },
+   "country_ai": {
+      "description": "",
+      "message": "Ανγκουίλα"
+   },
+   "country_al": {
+      "description": "",
+      "message": "Αλβανία"
+   },
+   "country_am": {
+      "description": "",
+      "message": "Αρμενία"
+   },
+   "country_an": {
+      "description": "",
+      "message": "Ολλανδικές Αντίλλες"
+   },
+   "country_ao": {
+      "description": "",
+      "message": "Αγκόλα"
+   },
+   "country_aq": {
+      "description": "",
+      "message": "Ανταρκτική"
+   },
+   "country_ar": {
+      "description": "",
+      "message": "Αργεντίνη"
+   },
+   "country_as": {
+      "description": "",
+      "message": "Αμερικάνικη Σαμόα"
+   },
+   "country_at": {
+      "description": "",
+      "message": "Αυστρία"
+   },
+   "country_au": {
+      "description": "",
+      "message": "Αυστραλία"
+   },
+   "country_aw": {
+      "description": "",
+      "message": "Αρούμπα"
+   },
+   "country_ax": {
+      "description": "",
+      "message": "Νησιά Åland"
+   },
+   "country_az": {
+      "description": "",
+      "message": "Αζερμπαϊτζάν"
+   },
+   "country_ba": {
+      "description": "",
+      "message": "Βοσνία"
+   },
+   "country_bb": {
+      "description": "",
+      "message": "Μπαρμπάντος"
+   },
+   "country_bd": {
+      "description": "",
+      "message": "Μπαγκλαντές"
+   },
+   "country_be": {
+      "description": "",
+      "message": "Βέλγιο"
+   },
+   "country_bf": {
+      "description": "",
+      "message": "Μπουρκίνα Φάσο"
+   },
+   "country_bg": {
+      "description": "",
+      "message": "Βουλγαρία"
+   },
+   "country_bh": {
+      "description": "",
+      "message": "Μπαχρέιν"
+   },
+   "country_bi": {
+      "description": "",
+      "message": "Μπουρούντι"
+   },
+   "country_bj": {
+      "description": "",
+      "message": "Μπενίν"
+   },
+   "country_bl": {
+      "description": "",
+      "message": "Άγιος Βαρθολομαίος"
+   },
+   "country_bm": {
+      "description": "",
+      "message": "Βερμούδα"
+   },
+   "country_bn": {
+      "description": "",
+      "message": "Μπρουνέι"
+   },
+   "country_bo": {
+      "description": "",
+      "message": "Βολιβία"
+   },
+   "country_bq": {
+      "description": "",
+      "message": "Ολλανδία Καραϊβικής"
+   },
+   "country_br": {
+      "description": "",
+      "message": "Βραζιλία"
+   },
+   "country_bs": {
+      "description": "",
+      "message": "Μπαχάμες"
+   },
+   "country_bt": {
+      "description": "",
+      "message": "Μπουτάν"
+   },
+   "country_bv": {
+      "description": "",
+      "message": "Νησί Μπουβέ"
+   },
+   "country_bw": {
+      "description": "",
+      "message": "Μποτσουάνα"
+   },
+   "country_by": {
+      "description": "",
+      "message": "Λευκορωσία"
+   },
+   "country_bz": {
+      "description": "",
+      "message": "Μπελίζ"
+   },
+   "country_ca": {
+      "description": "",
+      "message": "Καναδάς"
+   },
+   "country_cc": {
+      "description": "",
+      "message": "Νησιά Cocos (Keeling)."
+   },
+   "country_cd": {
+      "description": "",
+      "message": "Κονγκό (ΛΔΚ)"
+   },
+   "country_cf": {
+      "description": "",
+      "message": "Δημοκρατία Κεντρικής Αφρικής"
+   },
+   "country_cg": {
+      "description": "",
+      "message": "Κονγκό (Δημοκρατία)"
+   },
+   "country_ch": {
+      "description": "",
+      "message": "Ελβετία"
+   },
+   "country_ci": {
+      "description": "",
+      "message": "Ακτή Ελεφαντοστού"
+   },
+   "country_ck": {
+      "description": "",
+      "message": "Νησιά Κουκ"
+   },
+   "country_cl": {
+      "description": "",
+      "message": "χιλή"
+   },
+   "country_cm": {
+      "description": "",
+      "message": "Καμερούν"
+   },
+   "country_cn": {
+      "description": "",
+      "message": "Κίνα"
+   },
+   "country_co": {
+      "description": "",
+      "message": "Κολομβία"
+   },
+   "country_cp": {
+      "description": "",
+      "message": "Νησί Κλίπερτον"
+   },
+   "country_cr": {
+      "description": "",
+      "message": "Κόστα Ρίκα"
+   },
+   "country_cu": {
+      "description": "",
+      "message": "Κούβα"
+   },
+   "country_cv": {
+      "description": "",
+      "message": "Πράσινο Ακρωτήριο"
+   },
+   "country_cw": {
+      "description": "",
+      "message": "Κουράσω"
+   },
+   "country_cx": {
+      "description": "",
+      "message": "Νησί των Χριστουγέννων"
+   },
+   "country_cy": {
+      "description": "",
+      "message": "Κύπρος"
+   },
+   "country_cz": {
+      "description": "",
+      "message": "Τσεχική Δημοκρατία"
+   },
+   "country_de": {
+      "description": "",
+      "message": "Γερμανία"
+   },
+   "country_dg": {
+      "description": "",
+      "message": "Ντιέγκο Γκαρσία"
+   },
+   "country_dj": {
+      "description": "",
+      "message": "Τζιμπουτί"
+   },
+   "country_dk": {
+      "description": "",
+      "message": "Δανία"
+   },
+   "country_dm": {
+      "description": "",
+      "message": "Δομίνικα"
+   },
+   "country_do": {
+      "description": "",
+      "message": "Δομινικανή Δημοκρατία"
+   },
+   "country_dz": {
+      "description": "",
+      "message": "Αλγερία"
+   },
+   "country_ea": {
+      "description": "",
+      "message": "Θέουτα & Μελίλια"
+   },
+   "country_ec": {
+      "description": "",
+      "message": "Εκουαδόρ"
+   },
+   "country_ee": {
+      "description": "",
+      "message": "Εσθονία"
+   },
+   "country_eg": {
+      "description": "",
+      "message": "Αίγυπτος"
+   },
+   "country_eh": {
+      "description": "",
+      "message": "Δυτική Σαχάρα"
+   },
+   "country_er": {
+      "description": "",
+      "message": "Ερυθραία"
+   },
+   "country_es": {
+      "description": "",
+      "message": "Ισπανία"
+   },
+   "country_et": {
+      "description": "",
+      "message": "Αιθιοπία"
+   },
+   "country_eu": {
+      "description": "",
+      "message": "Ευρωπαϊκή Ένωση"
+   },
+   "country_fi": {
+      "description": "",
+      "message": "Φινλανδία"
+   },
+   "country_fj": {
+      "description": "",
+      "message": "Φίτζι"
+   },
+   "country_fk": {
+      "description": "",
+      "message": "Νησιά Φώκλαντ"
+   },
+   "country_fm": {
+      "description": "",
+      "message": "Μικρονησία"
+   },
+   "country_fo": {
+      "description": "",
+      "message": "Νήσοι Φερόες"
+   },
+   "country_fr": {
+      "description": "",
+      "message": "Γαλλία"
+   },
+   "country_ga": {
+      "description": "",
+      "message": "Γκαμπόν"
+   },
+   "country_gb": {
+      "description": "",
+      "message": "Ηνωμένο Βασίλειο"
+   },
+   "country_gd": {
+      "description": "",
+      "message": "Γρενάδα"
+   },
+   "country_ge": {
+      "description": "",
+      "message": "Γεωργία"
+   },
+   "country_gf": {
+      "description": "",
+      "message": "Γαλλική Γουιάνα"
+   },
+   "country_gg": {
+      "description": "",
+      "message": "Γκέρνσεϊ"
+   },
+   "country_gh": {
+      "description": "",
+      "message": "Γκάνα"
+   },
+   "country_gi": {
+      "description": "",
+      "message": "Γιβραλτάρ"
+   },
+   "country_gl": {
+      "description": "",
+      "message": "Γροιλανδία"
+   },
+   "country_gm": {
+      "description": "",
+      "message": "Γκάμπια"
+   },
+   "country_gn": {
+      "description": "",
+      "message": "Γκινέα"
+   },
+   "country_gp": {
+      "description": "",
+      "message": "Γουαδελούπη"
+   },
+   "country_gq": {
+      "description": "",
+      "message": "Ισημερινή Γουινέα"
+   },
+   "country_gr": {
+      "description": "",
+      "message": "Ελλάδα"
+   },
+   "country_gs": {
+      "description": "",
+      "message": "Νότια Τζόρτζια και Νήσοι Σάντουιτς"
+   },
+   "country_gt": {
+      "description": "",
+      "message": "Γουατεμάλα"
+   },
+   "country_gu": {
+      "description": "",
+      "message": "Γκουάμ"
+   },
+   "country_gw": {
+      "description": "",
+      "message": "Γουινέα-Μπισάου"
+   },
+   "country_gy": {
+      "description": "",
+      "message": "Γουιάνα"
+   },
+   "country_hk": {
+      "description": "",
+      "message": "Χονγκ Κονγκ"
+   },
+   "country_hm": {
+      "description": "",
+      "message": "Νήσοι Χερντ & Μακ Ντόναλντ"
+   },
+   "country_hn": {
+      "description": "",
+      "message": "Ονδούρα"
+   },
+   "country_hr": {
+      "description": "",
+      "message": "την Κροατία"
+   },
+   "country_ht": {
+      "description": "",
+      "message": "Αΐτη"
+   },
+   "country_hu": {
+      "description": "",
+      "message": "Ουγγαρία"
+   },
+   "country_ic": {
+      "description": "",
+      "message": "Κανάριοι Νήσοι"
+   },
+   "country_id": {
+      "description": "",
+      "message": "Ινδονησία"
+   },
+   "country_ie": {
+      "description": "",
+      "message": "Ιρλανδία"
+   },
+   "country_il": {
+      "description": "",
+      "message": "Ισραήλ"
+   },
+   "country_im": {
+      "description": "",
+      "message": "Isle of Man"
+   },
+   "country_in": {
+      "description": "",
+      "message": "Ινδία"
+   },
+   "country_io": {
+      "description": "",
+      "message": "Βρετανική επικράτεια Ινδικού Ωκεανού"
+   },
+   "country_iq": {
+      "description": "",
+      "message": "Ιράκ"
+   },
+   "country_ir": {
+      "description": "",
+      "message": "Ιράν"
+   },
+   "country_is": {
+      "description": "",
+      "message": "Ισλανδία"
+   },
+   "country_it": {
+      "description": "",
+      "message": "Ιταλία"
+   },
+   "country_je": {
+      "description": "",
+      "message": "Φανέλα"
+   },
+   "country_jm": {
+      "description": "",
+      "message": "Ιαμαϊκή"
+   },
+   "country_jo": {
+      "description": "",
+      "message": "Ιορδανία"
+   },
+   "country_jp": {
+      "description": "",
+      "message": "Ιαπωνία"
+   },
+   "country_ke": {
+      "description": "",
+      "message": "Κενύα"
+   },
+   "country_kg": {
+      "description": "",
+      "message": "Κιργιζιστάν"
+   },
+   "country_kh": {
+      "description": "",
+      "message": "Καμπότζη"
+   },
+   "country_ki": {
+      "description": "",
+      "message": "Κιριμπάτι"
+   },
+   "country_km": {
+      "description": "",
+      "message": "Κομόρες"
+   },
+   "country_kn": {
+      "description": "",
+      "message": "Σεντ Κιτς & Νέβις"
+   },
+   "country_kp": {
+      "description": "",
+      "message": "Βόρεια Κορέα"
+   },
+   "country_kr": {
+      "description": "",
+      "message": "Νότια Κορέα"
+   },
+   "country_kw": {
+      "description": "",
+      "message": "Κουβέιτ"
+   },
+   "country_ky": {
+      "description": "",
+      "message": "Νησιά Κέιμαν"
+   },
+   "country_kz": {
+      "description": "",
+      "message": "Καζακστάν"
+   },
+   "country_la": {
+      "description": "",
+      "message": "Λάος"
+   },
+   "country_lb": {
+      "description": "",
+      "message": "Λίβανος"
+   },
+   "country_lc": {
+      "description": "",
+      "message": "Αγία Λουκία"
+   },
+   "country_li": {
+      "description": "",
+      "message": "Λιχτενστάιν"
+   },
+   "country_lk": {
+      "description": "",
+      "message": "Σρι Λάνκα"
+   },
+   "country_lr": {
+      "description": "",
+      "message": "Λιβερία"
+   },
+   "country_ls": {
+      "description": "",
+      "message": "Λεσότο"
+   },
+   "country_lt": {
+      "description": "",
+      "message": "Λιθουανία"
+   },
+   "country_lu": {
+      "description": "",
+      "message": "Λουξεμβούργο"
+   },
+   "country_lv": {
+      "description": "",
+      "message": "Λετονία"
+   },
+   "country_ly": {
+      "description": "",
+      "message": "Λιβύη"
+   },
+   "country_ma": {
+      "description": "",
+      "message": "Μαρόκο"
+   },
+   "country_mc": {
+      "description": "",
+      "message": "Μονακό"
+   },
+   "country_md": {
+      "description": "",
+      "message": "Μολδαβία"
+   },
+   "country_me": {
+      "description": "",
+      "message": "Μαυροβούνιο"
+   },
+   "country_mf": {
+      "description": "",
+      "message": "Άγιος Μάρτιν"
+   },
+   "country_mg": {
+      "description": "",
+      "message": "Μαδαγασκάρη"
+   },
+   "country_mh": {
+      "description": "",
+      "message": "Νήσοι Μάρσαλ"
+   },
+   "country_mk": {
+      "description": "",
+      "message": "Μακεδόνια"
+   },
+   "country_ml": {
+      "description": "",
+      "message": "Μάλι"
+   },
+   "country_mm": {
+      "description": "",
+      "message": "Μιανμάρ"
+   },
+   "country_mn": {
+      "description": "",
+      "message": "Μογγολία"
+   },
+   "country_mo": {
+      "description": "",
+      "message": "Μακάο"
+   },
+   "country_mp": {
+      "description": "",
+      "message": "Βορεια Νησια Μαριανα"
+   },
+   "country_mq": {
+      "description": "",
+      "message": "Μαρτινίκα"
+   },
+   "country_mr": {
+      "description": "",
+      "message": "Μαυριτανία"
+   },
+   "country_ms": {
+      "description": "",
+      "message": "Μονσεράτ"
+   },
+   "country_mt": {
+      "description": "",
+      "message": "Μάλτα"
+   },
+   "country_mu": {
+      "description": "",
+      "message": "Μαυρίκιος"
+   },
+   "country_mv": {
+      "description": "",
+      "message": "Μαλδίβες"
+   },
+   "country_mw": {
+      "description": "",
+      "message": "Μαλάουι"
+   },
+   "country_mx": {
+      "description": "",
+      "message": "Μεξικό"
+   },
+   "country_my": {
+      "description": "",
+      "message": "Μαλαισία"
+   },
+   "country_mz": {
+      "description": "",
+      "message": "Μοζαμβίκη"
+   },
+   "country_na": {
+      "description": "",
+      "message": "Ναμίμπια"
+   },
+   "country_nc": {
+      "description": "",
+      "message": "Νέα Καληδονία"
+   },
+   "country_ne": {
+      "description": "",
+      "message": "Νίγηρας"
+   },
+   "country_nf": {
+      "description": "",
+      "message": "Νησί Νόρφολκ"
+   },
+   "country_ng": {
+      "description": "",
+      "message": "Νιγηρία"
+   },
+   "country_ni": {
+      "description": "",
+      "message": "Νικαράγουα"
+   },
+   "country_nl": {
+      "description": "",
+      "message": "Ολλανδία"
+   },
+   "country_no": {
+      "description": "",
+      "message": "Νορβηγία"
+   },
+   "country_np": {
+      "description": "",
+      "message": "Νεπάλ"
+   },
+   "country_nr": {
+      "description": "",
+      "message": "Ναούρου"
+   },
+   "country_nu": {
+      "description": "",
+      "message": "Niue"
+   },
+   "country_nz": {
+      "description": "",
+      "message": "Νέα Ζηλανδία"
+   },
+   "country_om": {
+      "description": "",
+      "message": "Ομάν"
+   },
+   "country_pa": {
+      "description": "",
+      "message": "Παναμάς"
+   },
+   "country_pe": {
+      "description": "",
+      "message": "Περού"
+   },
+   "country_pf": {
+      "description": "",
+      "message": "Γαλλική Πολυνησία"
+   },
+   "country_pg": {
+      "description": "",
+      "message": "Παπούα Νέα Γουινέα"
+   },
+   "country_ph": {
+      "description": "",
+      "message": "Φιλιππίνες"
+   },
+   "country_pk": {
+      "description": "",
+      "message": "Πακιστάν"
+   },
+   "country_pl": {
+      "description": "",
+      "message": "Πολωνία"
+   },
+   "country_pm": {
+      "description": "",
+      "message": "St. Pierre & Miquelon"
+   },
+   "country_pn": {
+      "description": "",
+      "message": "Νησιά Πίτκερν"
+   },
+   "country_pr": {
+      "description": "",
+      "message": "Πουέρτο Ρίκο"
+   },
+   "country_ps": {
+      "description": "",
+      "message": "Παλαιστίνη"
+   },
+   "country_pt": {
+      "description": "",
+      "message": "Πορτογαλία"
+   },
+   "country_pw": {
+      "description": "",
+      "message": "Παλάου"
+   },
+   "country_py": {
+      "description": "",
+      "message": "Παραγουάη"
+   },
+   "country_qa": {
+      "description": "",
+      "message": "Κατάρ"
+   },
+   "country_qo": {
+      "description": "",
+      "message": "Απομακρυσμένη Ωκεανία"
+   },
+   "country_re": {
+      "description": "",
+      "message": "Επανένωση"
+   },
+   "country_ro": {
+      "description": "",
+      "message": "Ρουμανία"
+   },
+   "country_rs": {
+      "description": "",
+      "message": "Σερβία"
+   },
+   "country_ru": {
+      "description": "",
+      "message": "Ρωσία"
+   },
+   "country_rw": {
+      "description": "",
+      "message": "Ρουάντα"
+   },
+   "country_sa": {
+      "description": "",
+      "message": "Σαουδική Αραβία"
+   },
+   "country_sb": {
+      "description": "",
+      "message": "Νησιά του Σολομώντα"
+   },
+   "country_sc": {
+      "description": "",
+      "message": "Σεϋχέλλες"
+   },
+   "country_sd": {
+      "description": "",
+      "message": "Σουδάν"
+   },
+   "country_se": {
+      "description": "",
+      "message": "Σουηδία"
+   },
+   "country_sg": {
+      "description": "",
+      "message": "Σιγκαπούρη"
+   },
+   "country_sh": {
+      "description": "",
+      "message": "Αγία Ελένη"
+   },
+   "country_si": {
+      "description": "",
+      "message": "Σλοβενία"
+   },
+   "country_sj": {
+      "description": "",
+      "message": "Svalbard & Jan Mayen"
+   },
+   "country_sk": {
+      "description": "",
+      "message": "Σλοβακία"
+   },
+   "country_sl": {
+      "description": "",
+      "message": "Σιέρρα Λεόνε"
+   },
+   "country_sm": {
+      "description": "",
+      "message": "Σαν Μαρίνο"
+   },
+   "country_sn": {
+      "description": "",
+      "message": "Σενεγάλη"
+   },
+   "country_so": {
+      "description": "",
+      "message": "Σομαλία"
+   },
+   "country_sr": {
+      "description": "",
+      "message": "Σουρινάμ"
+   },
+   "country_ss": {
+      "description": "",
+      "message": "Νότιο Σουδάν"
+   },
+   "country_st": {
+      "description": "",
+      "message": "Σάο Τομέ & Πρίνσιπε"
+   },
+   "country_sv": {
+      "description": "",
+      "message": "Ελ Σαλβαδόρ"
+   },
+   "country_sx": {
+      "description": "",
+      "message": "Sint Maarten"
+   },
+   "country_sy": {
+      "description": "",
+      "message": "Συρία"
+   },
+   "country_sz": {
+      "description": "",
+      "message": "Σουαζιλάνδη"
+   },
+   "country_ta": {
+      "description": "",
+      "message": "Τριστάν ντα Κούνια"
+   },
+   "country_tc": {
+      "description": "",
+      "message": "Νησιά Turks & Caicos"
+   },
+   "country_td": {
+      "description": "",
+      "message": "Τσαντ"
+   },
+   "country_tf": {
+      "description": "",
+      "message": "Γαλλικά Νότια Εδάφη"
+   },
+   "country_tg": {
+      "description": "",
+      "message": "Να πάω"
+   },
+   "country_th": {
+      "description": "",
+      "message": "Ταϊλάνδη"
+   },
+   "country_tj": {
+      "description": "",
+      "message": "Τατζικιστάν"
+   },
+   "country_tk": {
+      "description": "",
+      "message": "Τοκελάου"
+   },
+   "country_tl": {
+      "description": "",
+      "message": "Ανατολικό Τιμόρ"
+   },
+   "country_tm": {
+      "description": "",
+      "message": "Τουρκμενιστάν"
+   },
+   "country_tn": {
+      "description": "",
+      "message": "Τυνησία"
+   },
+   "country_to": {
+      "description": "",
+      "message": "Τόνγκα"
+   },
+   "country_tr": {
+      "description": "",
+      "message": "Τουρκία"
+   },
+   "country_tt": {
+      "description": "",
+      "message": "Τρινιντάντ & Τομπάγκο"
+   },
+   "country_tv": {
+      "description": "",
+      "message": "Τουβαλού"
+   },
+   "country_tw": {
+      "description": "",
+      "message": "Ταϊβάν"
+   },
+   "country_tz": {
+      "description": "",
+      "message": "Τανζανία"
+   },
+   "country_ua": {
+      "description": "",
+      "message": "Ουκρανία"
+   },
+   "country_ug": {
+      "description": "",
+      "message": "Ουγκάντα"
+   },
+   "country_uk": {
+      "description": "",
+      "message": "Ηνωμένο Βασίλειο"
+   },
+   "country_um": {
+      "description": "",
+      "message": "Απομακρυσμένα νησιά των ΗΠΑ"
+   },
+   "country_us": {
+      "description": "",
+      "message": "Ηνωμένες Πολιτείες"
+   },
+   "country_usw": {
+      "description": "",
+      "message": "Ηνωμένες Πολιτείες Δύση"
+   },
+   "country_uy": {
+      "description": "",
+      "message": "Ουρουγουάη"
+   },
+   "country_uz": {
+      "description": "",
+      "message": "Ουζμπεκιστάν"
+   },
+   "country_va": {
+      "description": "",
+      "message": "Η πόλη του Βατικανού"
+   },
+   "country_vc": {
+      "description": "",
+      "message": "Άγιος Βικέντιος & Γρεναδίνες"
+   },
+   "country_ve": {
+      "description": "",
+      "message": "Βενεζουέλα"
+   },
+   "country_vg": {
+      "description": "",
+      "message": "Βρετανικές Παρθένοι Νήσοι"
+   },
+   "country_vi": {
+      "description": "",
+      "message": "Παρθένοι Νήσοι των ΗΠΑ"
+   },
+   "country_vn": {
+      "description": "",
+      "message": "Βιετνάμ"
+   },
+   "country_vu": {
+      "description": "",
+      "message": "Βανουάτου"
+   },
+   "country_wf": {
+      "description": "",
+      "message": "Wallis & Futuna"
+   },
+   "country_ws": {
+      "description": "",
+      "message": "Σαμόα"
+   },
+   "country_xk": {
+      "description": "",
+      "message": "Κοσσυφοπέδιο"
+   },
+   "country_ye": {
+      "description": "",
+      "message": "Γέμενη"
+   },
+   "country_yt": {
+      "description": "",
+      "message": "Μαγιότ"
+   },
+   "country_za": {
+      "description": "",
+      "message": "Νότια Αφρική"
+   },
+   "country_zm": {
+      "description": "",
+      "message": "Ζάμπια"
+   },
+   "country_zw": {
+      "description": "",
+      "message": "Ζιμπάμπουε"
+   },
+   "dedicated_traffic_lanes": {
+      "description": "",
+      "message": "Οι χρήστες Premium απολαμβάνουν αποκλειστικές λωρίδες κυκλοφορίας."
+   },
+   "delete_smart_setting_for_X": {
+      "description": "",
+      "message": "Διαγραφή Έξυπνης Ρύθμισης για XXX"
+   },
+   "dependent_website": {
+      "description": "",
+      "message": "Συνδεδεμένο με"
+   },
+   "disable": {
+      "description": "",
+      "message": "Καθιστώ ανίκανο"
+   },
+   "disable_selected_extensions": {
+      "description": "",
+      "message": "Απενεργοποιήστε τις επιλεγμένες επεκτάσεις"
+   },
+   "dont_have_an_account": {
+      "description": "",
+      "message": "Δεν έχετε λογαριασμό;"
+   },
+   "dont_send_telemetry": {
+      "description": "",
+      "message": "Μην στέλνετε τηλεμετρία"
+   },
+   "dont_show_promo_offers": {
+      "description": "",
+      "message": "Μην εμφανίζετε προσφορές προώθησης"
+   },
+   "edit_smart_settings": {
+      "description": "",
+      "message": "Επεξεργασία έξυπνων ρυθμίσεων"
+   },
+   "email": {
+      "description": "",
+      "message": "ΗΛΕΚΤΡΟΝΙΚΗ ΔΙΕΥΘΥΝΣΗ"
+   },
+   "enable_browsec_for_all_sites_excluding_selected_sites": {
+      "description": "",
+      "message": "Ενεργοποιήστε το Browsec για όλους τους ιστότοπους εκτός από επιλεγμένους ιστότοπους"
+   },
+   "enable_browsec_for_all_sites_excluding_selected_sites_description_1": {
+      "description": "",
+      "message": "Ενεργοποιήστε το Browseec"
+   },
+   "enable_browsec_for_all_sites_excluding_selected_sites_description_2": {
+      "description": "",
+      "message": "Κάντε κλικ στις Έξυπνες ρυθμίσεις → Επεξεργασία έξυπνων ρυθμίσεων"
+   },
+   "enable_browsec_for_all_sites_excluding_selected_sites_description_3": {
+      "description": "",
+      "message": "Πληκτρολογήστε τον τομέα που θέλετε, επιλέξτε OFF και κάντε κλικ στο IMG"
+   },
+   "enable_browsec_only_for_selected_sites": {
+      "description": "",
+      "message": "Ενεργοποιήστε το Browsec μόνο για επιλεγμένους ιστότοπους"
+   },
+   "enable_browsec_only_for_selected_sites_description_1": {
+      "description": "",
+      "message": "Απενεργοποιήστε το Browsec"
+   },
+   "enable_browsec_only_for_selected_sites_description_2": {
+      "description": "",
+      "message": "Κάντε κλικ στις Έξυπνες ρυθμίσεις → Επεξεργασία έξυπνων ρυθμίσεων"
+   },
+   "enable_browsec_only_for_selected_sites_description_3": {
+      "description": "",
+      "message": "Πληκτρολογήστε τον επιθυμητό τομέα, επιλέξτε χώρα για αυτόν τον τομέα και κάντε κλικ στο IMG"
+   },
+   "esn": {
+      "description": "",
+      "message": "Browsec VPN"
+   },
+   "extension_description": {
+      "description": "",
+      "message": "Discover the power of VPN free online for secure browsing and privacy protection with our reliable service"
+   },
+   "extension_name": {
+      "description": "",
+      "message": "Browsec VPN - Δωρεάν επέκταση VPN"
+   },
+   "failed": {
+      "description": "",
+      "message": "Απέτυχε"
+   },
+   "find_out_how_fix": {
+      "description": "",
+      "message": "Δείτε πώς μπορείτε να το διορθώσετε."
+   },
+   "fix_it": {
+      "description": "",
+      "message": "Φτιάξτο"
+   },
+   "fix_proxy_settings": {
+      "description": "",
+      "message": "Διορθώστε τις ρυθμίσεις διακομιστή μεσολάβησης"
+   },
+   "fixit_paywall_body": {
+      "description": "",
+      "message": "Εγγυούμαστε την υπηρεσία Premium και προσφέρουμε πλήρη επιστροφή χρημάτων εντός 7 ημερών αν δεν είστε ικανοποιημένοι"
+   },
+   "fixit_paywall_get_premium": {
+      "description": "",
+      "message": "🔥 Αναβάθμιση σε Premium"
+   },
+   "fixit_paywall_title": {
+      "description": "",
+      "message": "Αντιμετωπίζετε πρόβλημα σύνδεσης;"
+   },
+   "for_only": {
+      "description": "",
+      "message": "μόνο για"
+   },
+   "forgot_your_password": {
+      "description": "",
+      "message": "Ξεχάσατε τον κωδικό σας;"
+   },
+   "free_servers": {
+      "description": "",
+      "message": "Δωρεάν διακομιστές"
+   },
+   "from_only_X_per_month": {
+      "description": "",
+      "message": "από μόνο XXX ανά μήνα!"
+   },
+   "get_N_days_free_premium_trial": {
+      "description": "",
+      "message": "Αποκτήστε δωρεάν δοκιμή premium XXX ημερών"
+   },
+   "get_free_premium": {
+      "description": "",
+      "message": "Αποκτήστε δωρεάν Premium!"
+   },
+   "get_monthly_premium": {
+      "description": "",
+      "message": "Αποκτήστε Μηνιαίο Premium"
+   },
+   "get_more_with_browsec_premium": {
+      "description": "",
+      "message": "Αποκτήστε περισσότερα με το Browsec Premium"
+   },
+   "get_premium_now": {
+      "description": "",
+      "message": "Αποκτήστε Premium τώρα!"
+   },
+   "get_turbo_speed": {
+      "description": "",
+      "message": "Αποκτήστε ταχύτητα Turbo"
+   },
+   "go_ahead_and_renew_it": {
+      "description": "",
+      "message": "Προχωρήστε και ανανεώστε το."
+   },
+   "go_back": {
+      "description": "",
+      "message": "Πήγαινε πίσω"
+   },
+   "health_check": {
+      "description": "",
+      "message": "Ελεγχος υγείας"
+   },
+   "help": {
+      "description": "",
+      "message": "Βοήθεια"
+   },
+   "hide_health_check_logs": {
+      "description": "",
+      "message": "Απόκρυψη αρχείων καταγραφής ελέγχου υγείας"
+   },
+   "home": {
+      "description": "",
+      "message": "Σπίτι"
+   },
+   "how_to_use_smart_settings": {
+      "description": "",
+      "message": "Πώς να χρησιμοποιήσετε τις Έξυπνες ρυθμίσεις"
+   },
+   "i_want_to": {
+      "description": "",
+      "message": "Θέλω να:"
+   },
+   "if_no_write_to_email": {
+      "description": "",
+      "message": "Εάν δεν λειτούργησε, επικοινωνήστε μαζί μας στο"
+   },
+   "incorrect_email_or_password": {
+      "description": "",
+      "message": "Λάθος email ή κωδικός πρόσβασης"
+   },
+   "locations_help_1": {
+      "description": "",
+      "message": "Το Browsec μπορεί να δημιουργήσει ασφαλή σύνδεση χρησιμοποιώντας τους διακομιστές μας που βρίσκονται σε οποιαδήποτε από αυτές τις χώρες. Θα λάβετε μια διεύθυνση IP που ανήκει στην επιλεγμένη τοποθεσία και θα περιηγηθείτε στον Ιστό σαν να ήσασταν πραγματικά εκεί."
+   },
+   "locations_help_2": {
+      "description": "",
+      "message": "Για πρόσβαση στο περιεχόμενο που είναι διαθέσιμο μόνο για μια συγκεκριμένη χώρα, επιλέξτε την αντίστοιχη εικονική τοποθεσία."
+   },
+   "locations_help_3": {
+      "description": "",
+      "message": "Για να αποκρύψετε την τοποθεσία σας (για λόγους απορρήτου ή για να προσεγγίσετε περιεχόμενο που έχει απαγορευτεί στη χώρα σας), επιλέξτε οποιαδήποτε τοποθεσία. Σημειώστε ότι όσο πιο κοντά είναι η εικονική τοποθεσία στην πραγματική σας, τόσο μεγαλύτερη ταχύτητα σύνδεσης έχετε."
+   },
+   "off": {
+      "description": "",
+      "message": "ΜΑΚΡΙΑ ΑΠΟ"
+   },
+   "ok_i_got_it": {
+      "description": "",
+      "message": "Εντάξει, το κατάλαβα"
+   },
+   "on": {
+      "description": "",
+      "message": "Επί"
+   },
+   "one_smart_setting_description_1": {
+      "description": "",
+      "message": "Κάντε αναβάθμιση σε Premium για να λάβετε απεριόριστες Smart Settings και να υποστηρίξετε την ανάπτυξη Browsec."
+   },
+   "one_smart_setting_description_2": {
+      "description": "",
+      "message": "Θα λάβετε επίσης:"
+   },
+   "one_smart_setting_description_list_1": {
+      "description": "",
+      "message": "Πρόσβαση σε 40+ Premium εικονικές τοποθεσίες"
+   },
+   "one_smart_setting_description_list_2": {
+      "description": "",
+      "message": "Ταχύτητα Turbo"
+   },
+   "only_X_per_month": {
+      "description": "",
+      "message": "μόνο XXX ανά μήνα"
+   },
+   "other_websites": {
+      "description": "",
+      "message": "Άλλοι ιστότοποι"
+   },
+   "password": {
+      "description": "",
+      "message": "Κωδικός πρόσβασης"
+   },
+   "pin_the_browsec_extension": {
+      "description": "",
+      "message": "Καρφιτσώστε την επέκταση Browsec"
+   },
+   "please_enter_domain": {
+      "description": "",
+      "message": "Εισαγάγετε έναν τομέα"
+   },
+   "please_enter_valid_domain": {
+      "description": "",
+      "message": "Εισαγάγετε έναν έγκυρο τομέα"
+   },
+   "please_try_again_or_contact_support": {
+      "description": "",
+      "message": "Δοκιμάστε ξανά ή επικοινωνήστε με την υποστήριξη του Browsec."
+   },
+   "premium_locations": {
+      "description": "",
+      "message": "Premium τοποθεσίες"
+   },
+   "premium_server_authentication_error": {
+      "description": "",
+      "message": "Σφάλμα πιστοποίησης premium διακομιστή. Το VPN είναι απενεργοποιημένο. Συνδεθείτε ξανά στο VPN στην επέκταση Browsec."
+   },
+   "premium_servers": {
+      "description": "",
+      "message": "Διακομιστές Premium"
+   },
+   "privacy_protection_disabled": {
+      "description": "",
+      "message": "Η προστασία απορρήτου απενεργοποιήθηκε"
+   },
+   "privacy_protection_partially_disabled": {
+      "description": "",
+      "message": "Τρέχων ιστότοπος: Προστασία ιδιωτικότητας απενεργοποιημένη"
+   },
+   "privacy_protection_partially_enabled": {
+      "description": "",
+      "message": "Τρέχων ιστότοπος: Προστασία ιδιωτικότητας ενεργοποιημένη"
+   },
+   "protect_me": {
+      "description": "",
+      "message": "Προστάτεψέ με"
+   },
+   "reanimator_of": {
+      "description": "",
+      "message": "of"
+   },
+   "reanimator_reconnecting": {
+      "description": "",
+      "message": "Reconnecting"
+   },
+   "reanimator_step": {
+      "description": "",
+      "message": "Step"
+   },
+   "remove_cache_on_authorization_popups": {
+      "description": "",
+      "message": "Κατάργηση προσωρινής μνήμης στα αναδυόμενα παράθυρα εξουσιοδότησης (πειραματικό)"
+   },
+   "remove_smart_setting": {
+      "description": "",
+      "message": "Καταργήστε την έξυπνη ρύθμιση"
+   },
+   "running": {
+      "description": "",
+      "message": "Τρέξιμο"
+   },
+   "running_dots": {
+      "description": "",
+      "message": "Τρέξιμο..."
+   },
+   "select": {
+      "description": "",
+      "message": "Επιλέγω"
+   },
+   "select_allow_in_popup_window": {
+      "description": "",
+      "message": "Κάντε κλικ στο «Να επιτρέπεται» στο αναδυόμενο παράθυρο"
+   },
+   "setting_was_deleted": {
+      "description": "",
+      "message": "Η ρύθμιση διαγράφηκε"
+   },
+   "settings": {
+      "description": "",
+      "message": "Ρυθμίσεις"
+   },
+   "show_health_check_logs": {
+      "description": "",
+      "message": "Εμφάνιση αρχείων καταγραφής ελέγχου υγείας"
+   },
+   "sign_in": {
+      "description": "",
+      "message": "Συνδεθείτε"
+   },
+   "sign_in_title": {
+      "description": "",
+      "message": "Συνδεθείτε"
+   },
+   "sign_out": {
+      "description": "",
+      "message": "Αποσύνδεση"
+   },
+   "sign_up": {
+      "description": "",
+      "message": "Εγγραφείτε"
+   },
+   "skipped": {
+      "description": "",
+      "message": "Παράλειψη"
+   },
+   "smart_settings": {
+      "description": "",
+      "message": "Έξυπνες ρυθμίσεις"
+   },
+   "smart_settings_allow_you_to_control": {
+      "description": "",
+      "message": "Οι Έξυπνες Ρυθμίσεις σάς επιτρέπουν να έχετε περισσότερο έλεγχο στο Browsec"
+   },
+   "smart_settings_features_1": {
+      "description": "",
+      "message": "Ενεργοποιήστε το Browsec μόνο για επιλεγμένους ιστότοπους"
+   },
+   "smart_settings_features_2": {
+      "description": "",
+      "message": "Μην χρησιμοποιείτε το Browsec για επιλεγμένους ιστότοπους, ακόμη και όταν είναι ενεργοποιημένο για όλους τους άλλους ιστότοπους"
+   },
+   "smart_settings_features_3": {
+      "description": "",
+      "message": "Επιλέξτε διαφορετικές εικονικές τοποθεσίες για διαφορετικούς ιστότοπους"
+   },
+   "something_went_wrong": {
+      "description": "",
+      "message": "Κάτι πήγε στραβά..."
+   },
+   "start": {
+      "description": "",
+      "message": "Αρχή"
+   },
+   "start_vpn": {
+      "description": "",
+      "message": "Εκκίνηση VPN"
+   },
+   "subscriber_text": {
+      "description": "",
+      "message": "Εγγραφείτε στο κανάλι μας στο Telegram για να είστε πάντα ενήμεροι για τα τελευταία νέα και ενημερώσεις από την υπηρεσία Browsec"
+   },
+   "terms_and_conditions_ff": {
+      "description": "",
+      "message": "Συμφωνίες και άδειες χρήσης της επέκτασης"
+   },
+   "this_account_is_locked_please_contact_us": {
+      "description": "",
+      "message": "Αυτός ο λογαριασμός είναι κλειδωμένος.\\nΕπικοινωνήστε μαζί μας για να επαναφέρετε τον λογαριασμό σας"
+   },
+   "this_domain_already_in_list": {
+      "description": "",
+      "message": "Αυτός ο τομέας είναι ήδη στη λίστα"
+   },
+   "this_option_is_available_only_for_premium": {
+      "description": "",
+      "message": "Αυτή η επιλογή είναι διαθέσιμη μόνο για λογαριασμούς Premium"
+   },
+   "top_performance_guaranteed": {
+      "description": "",
+      "message": "Οι καλύτεροι διακομιστές μας εγγυώνται κορυφαία απόδοση."
+   },
+   "try_again": {
+      "description": "",
+      "message": "Προσπάθησε ξανά"
+   },
+   "turbo_speed": {
+      "description": "",
+      "message": "Ταχύτητα Turbo"
+   },
+   "turbo_speed_in_free_premium": {
+      "description": "",
+      "message": "Turbo Speed ​​σε ΔΩΡΕΑΝ Premium"
+   },
+   "undo": {
+      "description": "",
+      "message": "Ξεκάνω"
+   },
+   "upgrade_connection_speed": {
+      "description": "",
+      "message": "Αναβάθμιση ταχύτητας σύνδεσης"
+   },
+   "upgrade_to_premium": {
+      "description": "",
+      "message": "Αναβάθμιση σε premium"
+   },
+   "use": {
+      "description": "",
+      "message": "χρήση"
+   },
+   "use_browsec_for_webrtc_connections": {
+      "description": "",
+      "message": "Χρησιμοποιήστε το Browsec για συνδέσεις WebRTC"
+   },
+   "use_different_locations_for_different_sites": {
+      "description": "",
+      "message": "Χρησιμοποιήστε διαφορετικές τοποθεσίες για διαφορετικούς ιστότοπους"
+   },
+   "use_different_locations_for_different_sites_description_1": {
+      "description": "",
+      "message": "Ενεργοποιήστε το Browseec"
+   },
+   "use_different_locations_for_different_sites_description_2": {
+      "description": "",
+      "message": "Κάντε κλικ στις Έξυπνες ρυθμίσεις → Επεξεργασία έξυπνων ρυθμίσεων"
+   },
+   "use_different_locations_for_different_sites_description_3": {
+      "description": "",
+      "message": "Πληκτρολογήστε τον επιθυμητό τομέα, επιλέξτε χώρα για αυτόν τον τομέα και κάντε κλικ στο IMG"
+   },
+   "virtual_locations": {
+      "description": "",
+      "message": "Εικονικές τοποθεσίες"
+   },
+   "vpn_blocked": {
+      "description": "",
+      "message": "Το VPN είναι αποκλεισμένο"
+   },
+   "warning": {
+      "description": "",
+      "message": "Προειδοποίηση"
+   },
+   "we_have_detected_other_extensions_which_block_access": {
+      "description": "",
+      "message": "Εντοπίσαμε άλλες επεκτάσεις που εμποδίζουν την πρόσβαση στις ρυθμίσεις διακομιστή μεσολάβησης. Απενεργοποιήστε αυτές τις επεκτάσεις για να χρησιμοποιήσετε το Browsec."
+   },
+   "we_have_detected_other_extensions_which_can_conflict": {
+      "description": "",
+      "message": "Εντοπίσαμε άλλες επεκτάσεις που μπορεί να έρχονται σε διένεξη με το Browsec. Εξετάστε το ενδεχόμενο να απενεργοποιήσετε αυτές τις επεκτάσεις εάν το Browseec δεν λειτουργεί σωστά."
+   },
+   "webrtc_settings_controlled_by_another_extension": {
+      "description": "",
+      "message": "Οι ρυθμίσεις WebRTC ελέγχονται από άλλη επέκταση"
+   },
+   "welcome_back": {
+      "description": "",
+      "message": "Καλως ορισες πισω!"
+   },
+   "what_is_webrtc_text_1": {
+      "description": "",
+      "message": "Το WebRTC (επικοινωνία web σε πραγματικό χρόνο) είναι ένα πρωτόκολλο που επιτρέπει την πραγματοποίηση κλήσεων ήχου και βίντεο από το πρόγραμμα περιήγησης."
+   },
+   "what_is_webrtc_text_2": {
+      "description": "",
+      "message": "Ωστόσο, το WebRTC επιτρέπει επίσης στους ιστότοπους να γνωρίζουν τις πραγματικές εσωτερικές και δημόσιες IP σας ακόμη και αν χρησιμοποιείτε VPN (είναι γνωστό ως διαρροή IP WebRTC)."
+   },
+   "what_is_webrtc_text_3": {
+      "description": "",
+      "message": "Αυτή η επιλογή θα αποτρέψει τη διαρροή WebRTC IP όταν είναι ενεργοποιημένο το Browsec. Ως παρενέργεια μπορεί να επηρεάσει την ποιότητα των κλήσεων ήχου/εικόνας από το πρόγραμμα περιήγησης, επομένως είναι στο χέρι σας να επιλέξετε τι είναι πιο σημαντικό για εσάς."
+   },
+   "what_is_webrtc_title": {
+      "description": "",
+      "message": "Τι είναι το WebRTC;"
+   },
+   "with_smart_settings_you_can": {
+      "description": "",
+      "message": "Με τις Έξυπνες ρυθμίσεις μπορείτε:"
+   },
+   "you_can_enable_these_extensions_later": {
+      "description": "",
+      "message": "Μπορείτε να ενεργοποιήσετε αυτές τις επεκτάσεις αργότερα στις ρυθμίσεις του προγράμματος περιήγησης."
+   },
+   "you_can_have_only_1_smart_setting": {
+      "description": "",
+      "message": "Μπορείτε να έχετε μόνο 1 Έξυπνη ρύθμιση σε δωρεάν πρόγραμμα."
+   },
+   "you_just_installed_browsec": {
+      "description": "",
+      "message": "Μόλις εγκαταστήσατε το Browsec!"
+   },
+   "you_may_now_open_the_extension": {
+      "description": "",
+      "message": "Μπορείτε τώρα να ανοίξετε την επέκταση για να ξεκινήσετε το VPN."
+   },
+   "your_browsers_connections_are_not_encrypted": {
+      "description": "",
+      "message": "Οι συνδέσεις του προγράμματος περιήγησής σας δεν είναι κρυπτογραφημένες. Η IP και η τοποθεσία σας είναι διαθέσιμα για τρίτους."
+   },
+   "your_premium_is_about_to_expire": {
+      "description": "",
+      "message": "Το Browsec Premium πρόκειται να λήξει"
+   },
+   "your_privacy_is_protected": {
+      "description": "",
+      "message": "Το απόρρητό σας προστατεύεται"
+   },
+   "your_proxy_blocked_by_antivirus": {
+      "description": "",
+      "message": "Φαίνεται ότι χρησιμοποιείτε ένα πρόγραμμα προστασίας από ιούς που μπλοκάρει το VPN."
+   },
+   "your_proxy_settings_are_blocked": {
+      "description": "",
+      "message": "Οι ρυθμίσεις διακομιστή μεσολάβησης έχουν αποκλειστεί από άλλη επέκταση"
+   }
+}

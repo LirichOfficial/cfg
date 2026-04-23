@@ -1,0 +1,61 @@
+2026/02/19-18:53:36.300 15ff File /home/bobrik/.config/yandex-browser/Default/IndexedDB/https_www.perplexity.ai_0.indexeddb.leveldb is locked for recovering successfully
+2026/02/19-18:53:36.301 15ff Reusing MANIFEST /home/bobrik/.config/yandex-browser/Default/IndexedDB/https_www.perplexity.ai_0.indexeddb.leveldb/MANIFEST-000001
+2026/02/19-18:53:36.301 15ff Recovering log #36
+2026/02/19-18:53:36.305 15ff Reusing old log /home/bobrik/.config/yandex-browser/Default/IndexedDB/https_www.perplexity.ai_0.indexeddb.leveldb/000036.log 
+2026/02/19-18:53:36.539 15f1 Compacting 3@0 + 1@1 files
+2026/02/19-18:53:36.546 15f1 Generated table #39@0: 2343 keys, 176936 bytes
+2026/02/19-18:53:36.546 15f1 Compacted 3@0 + 1@1 files => 176936 bytes
+2026/02/19-18:53:36.547 15f1 compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/02/19-18:53:36.547 15f1 Delete type=2 #35
+2026/02/19-18:53:36.547 15f1 Delete type=2 #33
+2026/02/19-18:53:36.547 15f1 Delete type=2 #31
+2026/02/19-18:53:36.547 15f1 Delete type=2 #37
+2026/02/19-18:53:36.549 15f1 Compacting 1@1 + 1@2 files
+2026/02/19-18:53:36.553 15f1 Generated table #40@1: 855 keys, 707925 bytes
+2026/02/19-18:53:36.553 15f1 Compacted 1@1 + 1@2 files => 707925 bytes
+2026/02/19-18:53:36.553 15f1 compacted to: files[ 0 0 1 0 0 0 0 ]
+2026/02/19-18:53:36.554 15f1 Delete type=2 #39
+2026/02/19-18:53:36.554 15f1 Delete type=2 #28
+2026/02/19-18:53:36.556 15f1 Level-0 table #42: started
+2026/02/19-18:53:36.561 15f1 Level-0 table #42: 1215995 bytes OK
+2026/02/19-18:53:36.562 15f1 Delete type=0 #36
+2026/02/19-18:53:38.468 15f0 Compacting 1@1 + 1@2 files
+2026/02/19-18:53:38.473 15f0 Generated table #43@1: 1581 keys, 897467 bytes
+2026/02/19-18:53:38.473 15f0 Compacted 1@1 + 1@2 files => 897467 bytes
+2026/02/19-18:53:38.474 15f0 compacted to: files[ 0 0 1 0 0 0 0 ]
+2026/02/19-18:53:38.474 15f0 Delete type=2 #42
+2026/02/19-18:53:38.474 15f0 Delete type=2 #40
+2026/02/19-18:53:59.865 15f1 Level-0 table #45: started
+2026/02/19-18:53:59.871 15f1 Level-0 table #45: 1054123 bytes OK
+2026/02/19-18:53:59.872 15f1 Delete type=0 #41
+2026/02/19-18:54:00.967 15f1 Level-0 table #47: started
+2026/02/19-18:54:00.972 15f1 Level-0 table #47: 966569 bytes OK
+2026/02/19-18:54:00.973 15f1 Delete type=0 #44
+2026/02/19-19:44:16.236 15f1 Compacting 1@1 + 1@2 files
+2026/02/19-19:44:16.237 15f1 Level-0 table #50: started
+2026/02/19-19:44:16.240 15f1 Level-0 table #50: 787866 bytes OK
+2026/02/19-19:44:16.241 15f1 Delete type=0 #46
+2026/02/19-19:44:16.247 15f1 Generated table #48@1: 857 keys, 735725 bytes
+2026/02/19-19:44:16.247 15f1 Compacted 1@1 + 1@2 files => 735725 bytes
+2026/02/19-19:44:16.248 15f1 compacted to: files[ 2 0 1 0 0 0 0 ]
+2026/02/19-19:44:16.248 15f1 Delete type=2 #43
+2026/02/19-19:44:16.248 15f1 Delete type=2 #45
+2026/02/19-19:44:16.248 15f1 Manual compaction at level-0 from (begin) .. (end); will stop at '\x00\x02\x01\x02\x01b\x00[\x00"\x00p\x00p\x00l\x00x\x00-\x00q\x00u\x00e\x00r\x00y\x00-\x00c\x00a\x00c\x00h\x00e\x00-\x003\x00e\x00b\x000\x002\x007\x003\x00"\x00,\x00"\x00a\x00l\x00l\x00_\x00r\x00e\x00s\x00u\x00l\x00t\x00s\x00"\x00,\x00"\x00s\x00t\x00i\x00m\x00-\x00n\x00e\x00-\x00z\x00a\x00p\x00u\x00s\x00k\x00a\x00e\x00t\x00-\x00i\x00g\x00r\x00y\x00-\x00n\x00a\x00-\x00d\x00i\x00s\x00k\x00-\x00Z\x00m\x00h\x00E\x00F\x00L\x00N\x00u\x00R\x00J\x00y\x00.\x00d\x00z\x00h\x002\x00H\x00D\x00h\x00u\x00R\x00Q\x00"\x00]' @ 40846 : 1
+2026/02/19-19:44:16.248 15f1 Compacting 2@0 + 0@1 files
+2026/02/19-19:44:16.251 15f1 Generated table #51@0: 384 keys, 30306 bytes
+2026/02/19-19:44:16.251 15f1 Compacted 2@0 + 0@1 files => 30306 bytes
+2026/02/19-19:44:16.251 15f1 compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/02/19-19:44:16.251 15f1 Delete type=2 #50
+2026/02/19-19:44:16.252 15f1 Delete type=2 #47
+2026/02/19-19:44:16.252 15f1 Manual compaction at level-0 from '\x00\x02\x01\x02\x01b\x00[\x00"\x00p\x00p\x00l\x00x\x00-\x00q\x00u\x00e\x00r\x00y\x00-\x00c\x00a\x00c\x00h\x00e\x00-\x003\x00e\x00b\x000\x002\x007\x003\x00"\x00,\x00"\x00a\x00l\x00l\x00_\x00r\x00e\x00s\x00u\x00l\x00t\x00s\x00"\x00,\x00"\x00s\x00t\x00i\x00m\x00-\x00n\x00e\x00-\x00z\x00a\x00p\x00u\x00s\x00k\x00a\x00e\x00t\x00-\x00i\x00g\x00r\x00y\x00-\x00n\x00a\x00-\x00d\x00i\x00s\x00k\x00-\x00Z\x00m\x00h\x00E\x00F\x00L\x00N\x00u\x00R\x00J\x00y\x00.\x00d\x00z\x00h\x002\x00H\x00D\x00h\x00u\x00R\x00Q\x00"\x00]' @ 40846 : 1 .. (end); will stop at (end)
+2026/02/19-19:44:16.252 15f1 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x03\x01 \x03\x00\xe0\x11\xb5i\xc7yB\x00\x01c\x00p\x00p\x00l\x00x\x00-\x00h\x00t\x00m\x00l\x00-\x00v\x002\x00|\x00h\x00t\x00t\x00p\x00s\x00:\x00/\x00/\x00w\x00w\x00w\x00.\x00p\x00e\x00r\x00p\x00l\x00e\x00x\x00i\x00t\x00y\x00.\x00a\x00i\x00/\x00s\x00e\x00a\x00r\x00c\x00h\x00/\x00s\x00t\x00i\x00m\x00-\x00n\x00e\x00-\x00z\x00a\x00p\x00u\x00s\x00k\x00a\x00e\x00t\x00-\x00i\x00g\x00r\x00y\x00-\x00n\x00a\x00-\x00d\x00i\x00s\x00k\x00-\x00Y\x00p\x00x\x00p\x00R\x00s\x00O\x004\x00R\x00Q\x00.\x002\x00z\x00N\x002\x00s\x00Q\x00L\x00s\x00U\x00M\x00g' @ 41919 : 0
+2026/02/19-19:44:16.252 15f1 Compacting 1@1 + 1@2 files
+2026/02/19-19:44:16.255 15f1 Generated table #52@1: 842 keys, 729029 bytes
+2026/02/19-19:44:16.256 15f1 Compacted 1@1 + 1@2 files => 729029 bytes
+2026/02/19-19:44:16.256 15f1 compacted to: files[ 0 0 1 0 0 0 0 ]
+2026/02/19-19:44:16.256 15f1 Delete type=2 #48
+2026/02/19-19:44:16.256 15f1 Delete type=2 #51
+2026/02/19-19:44:16.256 15f1 Manual compaction at level-1 from '\x00\x03\x01 \x03\x00\xe0\x11\xb5i\xc7yB\x00\x01c\x00p\x00p\x00l\x00x\x00-\x00h\x00t\x00m\x00l\x00-\x00v\x002\x00|\x00h\x00t\x00t\x00p\x00s\x00:\x00/\x00/\x00w\x00w\x00w\x00.\x00p\x00e\x00r\x00p\x00l\x00e\x00x\x00i\x00t\x00y\x00.\x00a\x00i\x00/\x00s\x00e\x00a\x00r\x00c\x00h\x00/\x00s\x00t\x00i\x00m\x00-\x00n\x00e\x00-\x00z\x00a\x00p\x00u\x00s\x00k\x00a\x00e\x00t\x00-\x00i\x00g\x00r\x00y\x00-\x00n\x00a\x00-\x00d\x00i\x00s\x00k\x00-\x00Y\x00p\x00x\x00p\x00R\x00s\x00O\x004\x00R\x00Q\x00.\x002\x00z\x00N\x002\x00s\x00Q\x00L\x00s\x00U\x00M\x00g' @ 41919 : 0 .. (end); will stop at (end)
+2026/02/19-19:44:16.257 15f0 Deletion DBImpl for /home/bobrik/.config/yandex-browser/Default/IndexedDB/https_www.perplexity.ai_0.indexeddb.leveldb, waiting for background work finished
+2026/02/19-19:44:16.257 15f0 Deletion DBImpl for /home/bobrik/.config/yandex-browser/Default/IndexedDB/https_www.perplexity.ai_0.indexeddb.leveldb, background work finished
+2026/02/19-19:44:16.257 15f0 File /home/bobrik/.config/yandex-browser/Default/IndexedDB/https_www.perplexity.ai_0.indexeddb.leveldb unlocked successfully

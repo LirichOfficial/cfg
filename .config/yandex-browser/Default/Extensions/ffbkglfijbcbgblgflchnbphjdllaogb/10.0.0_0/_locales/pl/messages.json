@@ -1,0 +1,55 @@
+{
+   "app_description_@firefox@_text": {
+      "description": "The description of the application",
+      "message": "Unblock any restricted website with CyberGhost VPN Proxy! One-Click connect to secure your connection! Unlimited traffic –100% FREE!"
+   },
+   "app_description_text": {
+      "description": "The description of the application",
+      "message": "Easily unblock the content you want and websites you need with our Chrome proxy—an essential Chrome extension for 2025."
+   },
+   "app_name_@firefox@_title": {
+      "description": "The name of the application",
+      "message": "Stay secure with CyberGhost VPN Free Proxy"
+   },
+   "app_name_title": {
+      "description": "The name of the application",
+      "message": "CyberGhost VPN – Proxy for Chrome"
+   },
+   "app_name_title_beta": {
+      "message": "CyberGhost VPN Beta"
+   },
+   "app_short_name_title": {
+      "description": "The short name of the application",
+      "message": "CyberGhost"
+   },
+   "connectTo": {
+      "message": "Podłącz do:"
+   },
+   "connected": {
+      "message": "Połączono"
+   },
+   "connectedTo": {
+      "message": "Podłączono do:"
+   },
+   "connecting": {
+      "message": "Łączenie..."
+   },
+   "disconnecting": {
+      "message": "Rozłączanie..."
+   },
+   "header": {
+      "message": "CyberGhost VPN"
+   },
+   "startConnecting": {
+      "message": "Rozpocznij połączenie"
+   },
+   "warningButton": {
+      "message": "Zarządzanie rozszerzeniami"
+   },
+   "warningHeader": {
+      "message": "Ostrzeżenie o serwerze proxy!"
+   },
+   "warningText": {
+      "message": "Ostrzeżenie o serwerze proxy! Inne rozszerzenie przeglądarki kontroluje ustawienia serwera proxy, uniemożliwiając usłudze CyberGhost pracę. Wyłącz wszelkie rozszerzenia będące w konflikcie."
+   }
+}

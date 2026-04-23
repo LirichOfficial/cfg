@@ -1,0 +1,6 @@
+2026/04/07-17:14:20.639 16ea File /home/bobrik/.config/yandex-browser/Default/IndexedDB/https_wink.ru_0.indexeddb.leveldb is locked for recovering successfully
+2026/04/07-17:14:20.639 16ea Creating DB /home/bobrik/.config/yandex-browser/Default/IndexedDB/https_wink.ru_0.indexeddb.leveldb since it was missing.
+2026/04/07-17:14:20.642 16ea Reusing MANIFEST /home/bobrik/.config/yandex-browser/Default/IndexedDB/https_wink.ru_0.indexeddb.leveldb/MANIFEST-000001
+2026/04/07-17:14:30.480 16ea Deletion DBImpl for /home/bobrik/.config/yandex-browser/Default/IndexedDB/https_wink.ru_0.indexeddb.leveldb, waiting for background work finished
+2026/04/07-17:14:30.480 16ea Deletion DBImpl for /home/bobrik/.config/yandex-browser/Default/IndexedDB/https_wink.ru_0.indexeddb.leveldb, background work finished
+2026/04/07-17:14:30.480 16ea File /home/bobrik/.config/yandex-browser/Default/IndexedDB/https_wink.ru_0.indexeddb.leveldb unlocked successfully

@@ -1,0 +1,96 @@
+{
+"update_url": "https://clients2.google.com/service/update2/crx",
+
+  "manifest_version": 3,
+  "short_name": "NordVPN",
+  "version": "5.5.0",
+  "host_permissions": [
+    "<all_urls>"
+  ],
+  "incognito": "spanning",
+  "icons": {
+    "16": "icons/nordvpn-16-active.png",
+    "32": "icons/nordvpn-32-active.png",
+    "48": "icons/nordvpn-48-active.png",
+    "128": "icons/nordvpn-128-active.png"
+  },
+  "action": {
+    "default_icon": "icons/nordvpn-48-active.png",
+    "default_popup": "index.html",
+    "default_title": "NordVPN"
+  },
+  "web_accessible_resources": [
+    {
+      "matches": [
+        "<all_urls>"
+      ],
+      "resources": [
+        "*.css",
+        "/icons/*",
+        "/fonts/*"
+      ]
+    }
+  ],
+  "content_scripts": [
+    {
+      "run_at": "document_start",
+      "matches": [
+        "<all_urls>"
+      ],
+      "css": [
+        "fonts.bundle.css"
+      ]
+    },
+    {
+      "run_at": "document_start",
+      "matches": [
+        "<all_urls>"
+      ],
+      "js": [
+        "csSpoofGeoIsolated.bundle.js"
+      ],
+      "all_frames": false,
+      "world": "ISOLATED"
+    },
+    {
+      "run_at": "document_start",
+      "matches": [
+        "<all_urls>"
+      ],
+      "js": [
+        "csSpoofGeoMain.bundle.js"
+      ],
+      "all_frames": true,
+      "match_about_blank": true,
+      "match_origin_as_fallback": true,
+      "world": "MAIN"
+    }
+  ],
+  "background": {
+    "service_worker": "background.bundle.js"
+  },
+  "permissions": [
+    "alarms",
+    "scripting",
+    "proxy",
+    "webRequest",
+    "webNavigation",
+    "privacy",
+    "storage",
+    "notifications",
+    "tabs",
+    "contextMenus",
+    "activeTab",
+    "unlimitedStorage",
+    "downloads",
+    "declarativeNetRequestWithHostAccess",
+    "webRequestAuthProvider",
+    "offscreen"
+  ],
+  "content_security_policy": {
+    "extension_pages": "script-src 'self'; object-src 'self'"
+  },
+  "name": "VPN for Chrome: NordVPN proxy protection",
+  "description": "Connect to the fastest VPN out there — NordVPN. Hide your IP, block ads, and be safer online with our VPN proxy extension for Chrome",
+  "minimum_chrome_version": "122"
+}

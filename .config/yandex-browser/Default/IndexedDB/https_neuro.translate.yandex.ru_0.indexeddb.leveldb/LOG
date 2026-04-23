@@ -1,0 +1,11 @@
+2026/02/25-21:48:52.258 5240 File /home/bobrik/.config/yandex-browser/Default/IndexedDB/https_neuro.translate.yandex.ru_0.indexeddb.leveldb is locked for recovering successfully
+2026/02/25-21:48:52.258 5240 Reusing MANIFEST /home/bobrik/.config/yandex-browser/Default/IndexedDB/https_neuro.translate.yandex.ru_0.indexeddb.leveldb/MANIFEST-000001
+2026/02/25-21:48:52.258 5240 Recovering log #3
+2026/02/25-21:48:52.259 5240 Reusing old log /home/bobrik/.config/yandex-browser/Default/IndexedDB/https_neuro.translate.yandex.ru_0.indexeddb.leveldb/000003.log 
+2026/02/27-11:41:24.697 5240 Level-0 table #5: started
+2026/02/27-11:41:24.698 5240 Level-0 table #5: 2387 bytes OK
+2026/02/27-11:41:24.699 5240 Delete type=0 #3
+2026/02/27-11:41:24.699 5240 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2026/02/27-11:41:24.699 523f Deletion DBImpl for /home/bobrik/.config/yandex-browser/Default/IndexedDB/https_neuro.translate.yandex.ru_0.indexeddb.leveldb, waiting for background work finished
+2026/02/27-11:41:24.699 523f Deletion DBImpl for /home/bobrik/.config/yandex-browser/Default/IndexedDB/https_neuro.translate.yandex.ru_0.indexeddb.leveldb, background work finished
+2026/02/27-11:41:24.699 523f File /home/bobrik/.config/yandex-browser/Default/IndexedDB/https_neuro.translate.yandex.ru_0.indexeddb.leveldb unlocked successfully

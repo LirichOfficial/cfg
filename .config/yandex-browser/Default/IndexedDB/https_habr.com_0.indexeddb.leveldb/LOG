@@ -1,0 +1,4 @@
+2026/04/22-09:15:22.180 1c4a File /home/bobrik/.config/yandex-browser/Default/IndexedDB/https_habr.com_0.indexeddb.leveldb is locked for recovering successfully
+2026/04/22-09:15:22.180 1c4a Reusing MANIFEST /home/bobrik/.config/yandex-browser/Default/IndexedDB/https_habr.com_0.indexeddb.leveldb/MANIFEST-000001
+2026/04/22-09:15:22.181 1c4a Recovering log #7
+2026/04/22-09:15:22.182 1c4a Reusing old log /home/bobrik/.config/yandex-browser/Default/IndexedDB/https_habr.com_0.indexeddb.leveldb/000007.log 

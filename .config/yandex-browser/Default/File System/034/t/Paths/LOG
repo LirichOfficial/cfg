@@ -1,0 +1,6 @@
+2026/03/16-21:46:32.236 28fa File /home/bobrik/.config/yandex-browser/Default/File System/034/t/Paths is locked for recovering successfully
+2026/03/16-21:46:32.237 28fa Creating DB /home/bobrik/.config/yandex-browser/Default/File System/034/t/Paths since it was missing.
+2026/03/16-21:46:32.238 28fa Reusing MANIFEST /home/bobrik/.config/yandex-browser/Default/File System/034/t/Paths/MANIFEST-000001
+2026/03/17-10:39:00.764 28fa Deletion DBImpl for /home/bobrik/.config/yandex-browser/Default/File System/034/t/Paths, waiting for background work finished
+2026/03/17-10:39:00.764 28fa Deletion DBImpl for /home/bobrik/.config/yandex-browser/Default/File System/034/t/Paths, background work finished
+2026/03/17-10:39:00.764 28fa File /home/bobrik/.config/yandex-browser/Default/File System/034/t/Paths unlocked successfully

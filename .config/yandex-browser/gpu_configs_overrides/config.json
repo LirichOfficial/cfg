@@ -1,0 +1,1 @@
+[{"entries":[{"browser_version":{"op":">","value":"23.7.1.925"},"description":"BROWSER-165374: Test blocklist entry","features":[],"id":999}],"name":"software rendering list"},{"entries":[{"browser_version":{"op":">","value":"23.7.1.925"},"description":"BROWSER-165374: Test driver bug list entry","features":[],"id":999}],"name":"gpu driver bug list"}]

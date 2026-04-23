@@ -1,0 +1,6 @@
+2026/04/15-13:32:20.969 1682 File /home/bobrik/.config/yandex-browser/Default/IndexedDB/https_itmo.ru_0.indexeddb.leveldb is locked for recovering successfully
+2026/04/15-13:32:20.969 1682 Creating DB /home/bobrik/.config/yandex-browser/Default/IndexedDB/https_itmo.ru_0.indexeddb.leveldb since it was missing.
+2026/04/15-13:32:20.972 1682 Reusing MANIFEST /home/bobrik/.config/yandex-browser/Default/IndexedDB/https_itmo.ru_0.indexeddb.leveldb/MANIFEST-000001
+2026/04/15-13:33:37.604 1681 Deletion DBImpl for /home/bobrik/.config/yandex-browser/Default/IndexedDB/https_itmo.ru_0.indexeddb.leveldb, waiting for background work finished
+2026/04/15-13:33:37.604 1681 Deletion DBImpl for /home/bobrik/.config/yandex-browser/Default/IndexedDB/https_itmo.ru_0.indexeddb.leveldb, background work finished
+2026/04/15-13:33:37.604 1681 File /home/bobrik/.config/yandex-browser/Default/IndexedDB/https_itmo.ru_0.indexeddb.leveldb unlocked successfully

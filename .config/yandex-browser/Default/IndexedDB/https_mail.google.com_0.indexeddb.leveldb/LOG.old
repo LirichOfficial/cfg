@@ -1,0 +1,44 @@
+2026/04/18-10:18:52.786 50a9 File /home/bobrik/.config/yandex-browser/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb is locked for recovering successfully
+2026/04/18-10:18:52.786 50a9 Reusing MANIFEST /home/bobrik/.config/yandex-browser/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2026/04/18-10:18:52.787 50a9 Recovering log #116
+2026/04/18-10:18:52.788 50a9 Reusing old log /home/bobrik/.config/yandex-browser/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/000116.log 
+2026/04/18-10:18:54.245 50a9 Compacting 1@0 + 1@1 files
+2026/04/18-10:18:54.265 50a9 Generated table #119@0: 1191 keys, 2274307 bytes
+2026/04/18-10:18:54.274 50a9 Generated table #120@0: 170 keys, 873703 bytes
+2026/04/18-10:18:54.274 50a9 Compacted 1@0 + 1@1 files => 3148010 bytes
+2026/04/18-10:18:54.276 50a9 compacted to: files[ 0 2 1 0 0 0 0 ]
+2026/04/18-10:18:54.276 50a9 Delete type=2 #117
+2026/04/18-10:18:54.276 50a9 Delete type=2 #115
+2026/04/18-10:19:00.454 50a9 Expanding@1 1+1 (2274307+1191649 bytes) to 2+1 (3148010+1191649 bytes)
+2026/04/18-10:19:00.454 50a9 Compacting 2@1 + 1@2 files
+2026/04/18-10:19:00.469 50a9 Generated table #121@1: 274 keys, 1235448 bytes
+2026/04/18-10:19:00.469 50a9 Compacted 2@1 + 1@2 files => 1235448 bytes
+2026/04/18-10:19:00.470 50a9 compacted to: files[ 0 0 1 0 0 0 0 ]
+2026/04/18-10:19:00.470 50a9 Delete type=2 #120
+2026/04/18-10:19:00.470 50a9 Delete type=2 #113
+2026/04/18-10:19:00.471 50a9 Delete type=2 #119
+2026/04/18-10:19:15.606 50aa Level-0 table #123: started
+2026/04/18-10:19:15.628 50aa Level-0 table #123: 3211792 bytes OK
+2026/04/18-10:19:15.630 50aa Delete type=0 #116
+2026/04/18-10:20:52.105 50aa Level-0 table #125: started
+2026/04/18-10:20:52.115 50aa Level-0 table #125: 1354346 bytes OK
+2026/04/18-10:20:52.116 50aa Delete type=0 #122
+2026/04/18-10:20:52.117 50aa Manual compaction at level-0 from (begin) .. (end); will stop at '\x00\x01\x01\x02\x01(\x00S\x00t\x00o\x00r\x00e\x00d\x00N\x00e\x00t\x00w\x00o\x00r\x00k\x00F\x00e\x00t\x00c\x00h\x00C\x00o\x00u\x00n\x00t\x00e\x00r\x00s\x00:\x00:\x00S\x00T\x00A\x00T\x00I\x00C\x00_\x00A\x00S\x00S\x00E\x00T' @ 58303 : 0
+2026/04/18-10:20:52.117 50aa Compacting 1@0 + 1@1 files
+2026/04/18-10:20:52.136 50aa Generated table #126@0: 1195 keys, 1331087 bytes
+2026/04/18-10:20:52.136 50aa Compacted 1@0 + 1@1 files => 1331087 bytes
+2026/04/18-10:20:52.136 50aa compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/04/18-10:20:52.137 50aa Delete type=2 #123
+2026/04/18-10:20:52.137 50aa Delete type=2 #125
+2026/04/18-10:20:52.138 50aa Manual compaction at level-0 from '\x00\x01\x01\x02\x01(\x00S\x00t\x00o\x00r\x00e\x00d\x00N\x00e\x00t\x00w\x00o\x00r\x00k\x00F\x00e\x00t\x00c\x00h\x00C\x00o\x00u\x00n\x00t\x00e\x00r\x00s\x00:\x00:\x00S\x00T\x00A\x00T\x00I\x00C\x00_\x00A\x00S\x00S\x00E\x00T' @ 58303 : 0 .. (end); will stop at (end)
+2026/04/18-10:20:52.138 50aa Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x01\x01\x02\x01(\x00S\x00t\x00o\x00r\x00e\x00d\x00N\x00e\x00t\x00w\x00o\x00r\x00k\x00F\x00e\x00t\x00c\x00h\x00C\x00o\x00u\x00n\x00t\x00e\x00r\x00s\x00:\x00:\x00S\x00T\x00A\x00T\x00I\x00C\x00_\x00A\x00S\x00S\x00E\x00T' @ 58894 : 1
+2026/04/18-10:20:52.138 50aa Compacting 1@1 + 1@2 files
+2026/04/18-10:20:52.145 50aa Generated table #127@1: 99 keys, 377271 bytes
+2026/04/18-10:20:52.145 50aa Compacted 1@1 + 1@2 files => 377271 bytes
+2026/04/18-10:20:52.146 50aa compacted to: files[ 0 0 1 0 0 0 0 ]
+2026/04/18-10:20:52.146 50aa Delete type=2 #121
+2026/04/18-10:20:52.146 50aa Delete type=2 #126
+2026/04/18-10:20:52.147 50aa Manual compaction at level-1 from '\x00\x01\x01\x02\x01(\x00S\x00t\x00o\x00r\x00e\x00d\x00N\x00e\x00t\x00w\x00o\x00r\x00k\x00F\x00e\x00t\x00c\x00h\x00C\x00o\x00u\x00n\x00t\x00e\x00r\x00s\x00:\x00:\x00S\x00T\x00A\x00T\x00I\x00C\x00_\x00A\x00S\x00S\x00E\x00T' @ 58894 : 1 .. (end); will stop at (end)
+2026/04/18-10:20:52.147 50a9 Deletion DBImpl for /home/bobrik/.config/yandex-browser/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb, waiting for background work finished
+2026/04/18-10:20:52.147 50a9 Deletion DBImpl for /home/bobrik/.config/yandex-browser/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb, background work finished
+2026/04/18-10:20:52.147 50a9 File /home/bobrik/.config/yandex-browser/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb unlocked successfully

@@ -1,0 +1,10 @@
+2026/04/15-17:46:27.219 1681 File /home/bobrik/.config/yandex-browser/Default/IndexedDB/https_www.amazon.com_0.indexeddb.leveldb is locked for recovering successfully
+2026/04/15-17:46:27.219 1681 Creating DB /home/bobrik/.config/yandex-browser/Default/IndexedDB/https_www.amazon.com_0.indexeddb.leveldb since it was missing.
+2026/04/15-17:46:27.221 1681 Reusing MANIFEST /home/bobrik/.config/yandex-browser/Default/IndexedDB/https_www.amazon.com_0.indexeddb.leveldb/MANIFEST-000001
+2026/04/15-17:46:29.237 1682 Level-0 table #5: started
+2026/04/15-17:46:29.238 1682 Level-0 table #5: 860 bytes OK
+2026/04/15-17:46:29.239 1682 Delete type=0 #3
+2026/04/15-17:46:29.239 1682 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2026/04/15-17:46:29.239 1681 Deletion DBImpl for /home/bobrik/.config/yandex-browser/Default/IndexedDB/https_www.amazon.com_0.indexeddb.leveldb, waiting for background work finished
+2026/04/15-17:46:29.239 1681 Deletion DBImpl for /home/bobrik/.config/yandex-browser/Default/IndexedDB/https_www.amazon.com_0.indexeddb.leveldb, background work finished
+2026/04/15-17:46:29.239 1681 File /home/bobrik/.config/yandex-browser/Default/IndexedDB/https_www.amazon.com_0.indexeddb.leveldb unlocked successfully

@@ -1,0 +1,269 @@
+{
+   "checksum": "344d3de5c53936685ed25ef0cea486ce",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13328461936990945",
+            "date_last_used": "0",
+            "guid": "c01c6043-38c0-4fe9-89a0-e4ac28eb1a21",
+            "id": "8",
+            "name": "Gmail",
+            "signature": "4473B5F849D13E53EB051B1CB18B41EB832E4FFE81C97A014FB33A3D445AB750",
+            "type": "url",
+            "url": "https://accounts.google.com/b/0/AddMailService"
+         }, {
+            "date_added": "13328461936993078",
+            "date_last_used": "0",
+            "guid": "961ca8bd-634b-43b2-b5b6-adc599174264",
+            "id": "9",
+            "name": "YouTube",
+            "signature": "BA1309001B297B36820C4E35F68B335F593B99B30298E4AE0635B671D123071A",
+            "type": "url",
+            "url": "https://youtube.com/"
+         }, {
+            "date_added": "13328461936993888",
+            "date_last_used": "0",
+            "guid": "7b4e5245-6de3-4734-8b19-97e64ff8935b",
+            "id": "10",
+            "name": "Карты",
+            "signature": "310E603CA9F0435F9EF27BE374BCF85EEFE85FBD556D26F8AAEFFB2704339145",
+            "type": "url",
+            "url": "https://maps.google.com/"
+         }, {
+            "date_added": "13223174590945145",
+            "date_last_used": "0",
+            "guid": "dab1353b-50fd-4b80-abac-a61022797a40",
+            "id": "11",
+            "name": "https://kalk.pro/stairs-wooden/angle180-saddle-2x/",
+            "signature": "DC5E79CA048B8C3F2DE8C0748F82225BD0593B619FC09092088301312243F9A5",
+            "type": "url",
+            "url": "http://kalk.pro/stairs-wooden/angle180-saddle-2x/"
+         }, {
+            "date_added": "13228735135117483",
+            "date_last_used": "0",
+            "guid": "7da8ed29-e6fd-4e98-965f-177585b045c7",
+            "id": "12",
+            "name": "https://hdtron.net/27320-nevskiy-ten-arhitektora-1-6-30-seriya-serial-2020-vse-serii-podryad-smotret-onlayn.html",
+            "signature": "D3319C9E2C2A117309830BB0CAC9ED1D152233EDE93CC550D4D4400CE29A99C7",
+            "type": "url",
+            "url": "http://hdtron.net/27320-nevskiy-ten-arhitektora-1-6-30-seriya-serial-2020-vse-serii-podryad-smotret-onlayn.html"
+         }, {
+            "date_added": "13230628970865482",
+            "date_last_used": "0",
+            "guid": "c734c35b-2677-40c9-926a-241abee04a62",
+            "id": "13",
+            "name": "Расписание",
+            "signature": "76EAF37EA6DE7CD2060FD6D0A4B34078F29528D08AE16540A8F649841211C592",
+            "type": "url",
+            "url": "https://distant.litsey7.com/%D1%80%D0%B0%D1%81%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D0%B5"
+         }, {
+            "date_added": "13231408652013482",
+            "date_last_used": "0",
+            "guid": "9787ff6b-eb78-401e-8915-e4c18c51bb19",
+            "id": "14",
+            "name": "Курсы",
+            "signature": "5A3B38C59386CF857D182D8D18E254C2E184D0D98584D2BBF481D49C74135E90",
+            "type": "url",
+            "url": "https://classroom.google.com/u/1/h"
+         }, {
+            "date_added": "13232012404558550",
+            "date_last_used": "0",
+            "guid": "270845cb-53f6-4091-95e8-2945c236cb4c",
+            "id": "15",
+            "name": "Meet – oot-sceb-oac",
+            "signature": "7BE95D9C02DDAD0392BC1D1BDBD6A67127764752FBC25621502C217806DDC6B7",
+            "type": "url",
+            "url": "https://meet.google.com/oot-sceb-oac?authuser=1"
+         }, {
+            "date_added": "13244808743056274",
+            "date_last_used": "0",
+            "guid": "512add17-346a-46c0-baaf-08a2659c4827",
+            "id": "16",
+            "name": "Новости",
+            "signature": "0B629A44196AB3F5F785C9066E08F41F06C6DEF6E56F4A9FA1F5C35BE60A1FD2",
+            "type": "url",
+            "url": "https://news.google.com/"
+         }, {
+            "date_added": "13244808743344479",
+            "date_last_used": "0",
+            "guid": "32aaaeb1-205e-4d6e-9933-04c88546a747",
+            "id": "17",
+            "name": "Перевести",
+            "signature": "39BA9AECD93B9373789E185EF8919F82CF6F478A7331B8CB86B83C78B5F4FB1A",
+            "type": "url",
+            "url": "https://translate.google.com/"
+         }, {
+            "date_added": "13256731283811896",
+            "date_last_used": "0",
+            "guid": "b50fb69c-7751-4c8d-ab1d-4d9316493844",
+            "id": "18",
+            "name": "Web-клиент PCMS :: Вход",
+            "signature": "D6AD22A20DC4544B84291BDAA31FD74B85D9B7C63A00DEEAC537BBC56BAC8F13",
+            "type": "url",
+            "url": "http://pcms.litsey7.com/client/login.xhtml"
+         }, {
+            "date_added": "13264512633132204",
+            "date_last_used": "0",
+            "guid": "43c0bf37-7893-4a36-89f6-68d34e0547d1",
+            "id": "19",
+            "name": "Авиабилеты",
+            "signature": "C989AFE3262596521D0E4DD52263ED5185DB560871B886C4BBAB97849B497677",
+            "type": "url",
+            "url": "https://avia.yandex.ru/?win=488&clid=2313447-110&utm_source=distribution&utm_medium=bookmark&utm_campaign=ru"
+         }, {
+            "date_added": "13264512633132231",
+            "date_last_used": "0",
+            "guid": "c8bce8ff-f071-452f-a75f-e65b05033e9b",
+            "id": "20",
+            "name": "Яндекс",
+            "signature": "911347B3B7CAD3F244773EF6F08844F7DCDEAE036049BCBE7E9FD57051E1C353",
+            "type": "url",
+            "url": "https://www.yandex.ru/?win=488&clid=2313447-110&from=dist_bookmark"
+         }, {
+            "date_added": "13290978415247156",
+            "date_last_used": "0",
+            "guid": "c46edc61-c727-4dfd-a296-ec67f9e3a178",
+            "id": "21",
+            "name": "Читать книгу Калинова яма, автор Пелевин Александр онлайн страница 137 на сайте booksonline.com.ua.",
+            "signature": "E900942F98F2A386EC44351FE992B522E878306811304E4189C5E990B0A14F95",
+            "type": "url",
+            "url": "https://booksonline.com.ua/view.php?book=180883&page=137"
+         }, {
+            "date_added": "13291403701568710",
+            "date_last_used": "0",
+            "guid": "eae01b3b-6409-4e7b-92cf-7298fb30efbe",
+            "id": "22",
+            "name": "Maps",
+            "signature": "52E526B9C07633423E104499529788754A105EE5AC1DFEE8598892DD0555EF55",
+            "type": "url",
+            "url": "https://maps.google.com/"
+         }, {
+            "date_added": "13291403704403426",
+            "date_last_used": "0",
+            "guid": "3e359dc2-c28d-412f-b8f5-5b6bbf95bfc3",
+            "id": "23",
+            "name": "Translate",
+            "signature": "24B233FD6EDFF9D8BAD399210DF0E18B6000533D52D88AF8B805AD532EA76872",
+            "type": "url",
+            "url": "https://translate.google.com/"
+         }, {
+            "date_added": "13291403704764292",
+            "date_last_used": "0",
+            "guid": "5853378a-64d4-4d7e-96c3-f7b5cdc7b61b",
+            "id": "24",
+            "name": "News",
+            "signature": "77C329B69EFD6757993528EDF988A780CC1E37807D1AAE775CA6C5DDF3E00789",
+            "type": "url",
+            "url": "https://news.google.com/"
+         }, {
+            "date_added": "13308517657183135",
+            "date_last_used": "0",
+            "guid": "6af7f164-8df6-4f22-9257-787b210ff818",
+            "id": "25",
+            "name": "Web-клиент PCMS :: Исходный код",
+            "signature": "D31971BE96C6005F8BDFB222D56FD65E1D5847E9B67A31B6851FD5DAA5EC811A",
+            "type": "url",
+            "url": "http://p.itl4u.ru/client/party/sources.xhtml?problem=F&attempt=7"
+         }, {
+            "date_added": "13363807293077644",
+            "date_last_used": "0",
+            "guid": "29829e83-bf69-425c-81f4-da5c3f24f0f6",
+            "id": "26",
+            "name": "Monster Tutor by Nuteku",
+            "signature": "FBC77BF676C089FC638B8FDC0F18A2B67127B6DA08462C67913CCB7649703BAE",
+            "type": "url",
+            "url": "https://nuteku.itch.io/monster-tutor"
+         }, {
+            "date_added": "13373725557697654",
+            "date_last_used": "0",
+            "guid": "1168fbf9-3b9c-4fdc-a61d-42f5c012bf43",
+            "id": "27",
+            "name": "Online Python - IDE, Editor, Compiler, Interpreter",
+            "signature": "1C07B9447696A278FABD9072387C7DEFA46F30EFF045FA7C6634568298763A22",
+            "type": "url",
+            "url": "https://www.online-python.com/"
+         }, {
+            "date_added": "13381483530590699",
+            "date_last_used": "0",
+            "guid": "1e338e7e-6560-4b20-94a8-22f614364ce6",
+            "id": "28",
+            "name": "Astro Bot — Википедия",
+            "signature": "535AE408DD958E163599A186B5FFAA9DF8329A884C1D6FAB08260280BD9FBEF4",
+            "type": "url",
+            "url": "https://ru.wikipedia.org/wiki/Astro_Bot"
+         }, {
+            "date_added": "13396045874229266",
+            "date_last_used": "0",
+            "guid": "71c5c05b-aced-4d27-98de-dbd47c2d0023",
+            "id": "29",
+            "name": "List of tz database time zones - Wikipedia",
+            "signature": "7E10190B9915D9A5699F717C8933E285A20724ADCD42E49191E5B98BFC7B73A0",
+            "type": "url",
+            "url": "https://en.m.wikipedia.org/wiki/List_of_tz_database_time_zones"
+         } ],
+         "date_added": "13415983527284018",
+         "date_last_used": "0",
+         "date_modified": "13396045874229266",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Панель закладок",
+         "type": "folder"
+      },
+      "collections": {
+         "children": [ {
+            "children": [ {
+               "date_added": "13345648444710000",
+               "date_last_used": "0",
+               "guid": "0fbb5073-9e88-4a3b-a79d-7e320f87b436",
+               "id": "7",
+               "meta_info": {
+                  "user_id": "850861881"
+               },
+               "name": "Задания прошлых лет — ВсОШ по информатике",
+               "type": "url",
+               "url": "https://contest.yandex.ru/roiarchive/"
+            } ],
+            "date_added": "13345648444768000",
+            "date_last_used": "0",
+            "date_modified": "13345648444768000",
+            "guid": "54a6748e-1822-4fbc-a942-8ed452f5bdc9",
+            "id": "6",
+            "meta_info": {
+               "user_id": "850861881"
+            },
+            "name": "Мои ссылки",
+            "type": "folder"
+         } ],
+         "date_added": "13415983527284021",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "97771812-f614-5427-9a0f-e7edd9bc1240",
+         "id": "4",
+         "name": "Избранное",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13415983527284018",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Другие закладки",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13415983527284018",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Моб. закладки",
+         "type": "folder"
+      }
+   },
+   "sync_metadata": "CjAKEAiIgQISCgABCF0aBAgAEAASACoYN0VQRlpuQ3lmRUNWTVhwRm1VekRSUT09SAMSpwEIEBKiAQocZUErMEhxdDN0UU1yVlB1NDJINm5vMENHRTE4PRIoMzI5MDRfMF9hMWQyNzJmY2FkM2UxMDBkYmY0M2IwNmZmN2UxZDY3ORgAIAAoADBSOM242retMUDNuNq3rTFKHEx5TEdHazNFWFliTXU0bmIyMkZOWkNQUkVuWT1aHyId/zlGRjUwYU9OYjlCNi9ZNlppUGlFOElySXdVVT1lz86tahKoAQgYEqMBChwxdHBRMnM4ZGR4RTZ1aEVGaStnWHhkR3NjUnc9EigzMjkwNF8wX2U4YWJkNDhhNmExZTIwYzgwZDIwNmFlOTdiYTYwOTI1GAAgACgAMAk4zrjat60xQM642retMUocYmVaQWMwcXBiTFdXNTB3NU5zRjBaajFpMmIwPVogIh7//3dxNFJZNzI5MUlMYmFUTHZSMjM4QlMzYkR2Zz1lz86tahKpAQgcEqQBChxITmt3SjRiSnVYczlCUXA1UXFXTUpSTGdGYjg9EigzMjkwNF8wXzg1YWM2ZjVlMDc3MTcxMzE1ZDY4MTY4MzViODA3MTcxGAAgACgAMF044MLw7sYyQODC8O7GMkocUkFidHplSDlDZDFRT1VxZ3ZVU1dsa3Y5Qzd3PVohIh////d2ZnVmd3h2UDZYMnJMMVpDM2FhMkdNamtsU2c9ZTCGUbcSqQEIGRKkAQoceEd0UjJzbFJvUkt5UHNScHJsQ1BJNDVsOUtNPRIoMzI5MDRfMF82YjYwYmZlNjE4NWM3ODgyMjAyNDNhN2ZlMTRlMTE1MBgAIAAoADAWOM642retMUDOuNq3rTFKHHFrNnRCY1JMRWoyQUtJVHdKMEx5TkVZOU80cz1aISIf//+7R2ZNK1laMDF3czZEMXVFak9rK0xPM3g4S0ZNPWWp8tEvEqkBCBsSpAEKHEdFZEdDTmg3M040OVQvMWIyMUcwRkRCeC85ST0SKDMyOTA0XzBfMDBiNDFkZjI2NTE5ZTRmZmI1YzA0NTZlZjAzZDgxNTgYACAAKAAwUzjCt8v7qTJAwrfL+6kyShxkeEVvVVcyc3BVU1dSMFRuRjZRMlN3eVdlTkE9WiEiH///7jlBMERnMXBDWDNlSDU5andDYkhSdi9XSDFhMD1lArWZ2RKoAQgWEqMBChxja3ZBb3VEamdOMzA4VlUyYjIzbENvaGJMYjQ9EigzMjkwNF8wXzhlMWU4MTUwYjRkYTIxNDEwYTlhOTQ5MjMwMGI2N2Y5GAAgACgAMBU4zrjat60xQM642retMUocU0xHWVhnRnM4c0ZCMFJqWFlsNnVMclV4c2gwPVogIh7//E1FRHd0aEt3UG56UVJ3L1B2QmRqRldTaGo4WT1l2uARGxKoAQgREqMBChxFanF3c3o2bXZyOGt0azNoQ29oeitQNGtudVk9EigzMjkwNF8wXzg0YmRlOWJhNDAzYTE2MWQxZDU4OTE5YTc3ZDM2ZTcxGAAgACgAMEg4zbjat60xQM242retMUocaU1reHBxQTBnYjc2Mi9xN1FqZWFWNnNES2lFPVogIh7/nDZuaG5wdE91alBEdnVXdFNhNGZ1czEzZzZYUT1lxc+QARKoAQgXEqMBChxRN3RXbWxVM1FOTUVIMjgxdGFsTmRTREtUdHc9EigzMjkwNF8wXzU3YWNlNjNiNWU3YTI4OGEwYjg4Mjc3Y2UxYTc3MmVhGAAgACgAMBI4zrjat60xQM642retMUocVVJKTmpqMU9PQ0JxNUJVWldCOFF3YTFyZm5FPVogIh7//mlSdThBMXZLa0xjTkZteGcwRC93Wlk2WmF6OD1lxc+QARKnAQgKEqIBChwwU3gzRW1ReUtteHlSVWs0bXY0U2k3KzR4Rms9EigzMjkwNF8wX2VmNmMzMjcwZWVmYTgyZmUyNDQ3NzU3N2I3NGMyYzQxGAAgACgAMFA4zbjat60xQM242retMUocaVVLejByOVMvQ0hvVDJMNW9qV2p6ZndQVXdvPVofIh3dNlFVQ2VTTzJSN3JIN2EwYUJJYnBCQ3hyaHFFPWXa4BEbEqcBCA0SogEKHEtvbXVFUUkxcVAxVm9rL3REK2NZTXVCeW02WT0SKDMyOTA0XzBfZjAzMzBkMjZmNmIzZmQ5YWMzMmFhOGZjOTRlZWY3MDUYACAAKAAwUTjNuNq3rTFAzbjat60xShxRdmFJSHJNZ0puQ0lSbGk5RWE2ZE1tNVlRbzA9Wh8iHft0VFNQajkzSms2UDFUVDV4TzE4ZEZrYTFTWWs9ZQPNf0kSqQEIHRKkAQocN2p5R2xlclF6ODJYeFVWbHJUNjc4bVU3aW1ZPRIoMzI5MDRfMF9mZjI2ZjFlZDNjM2JhMWQ5MTJhOTdmN2Q3NTU5Y2FiMxgAIAAoADBXOLW43479MkC1uN+O/TJKHGNnS1lpbU5qY3JwRlc5dXRqcFQvb2lzRzhBdz1aISIf///7Ui8wZURnUlYyeHpJUThoNmNta0t4d2paSFVzPWXhLlkQEqcBCA8SogEKHHc1K3RTRHBIUG5CV0tUSlIzczJjb0dwc2RwND0SKDMyOTA0XzBfYTdjOGJjMjUxMzgwOGVjY2UwOTcwOWMzOGFkZWM0MjgYACAAKAAwSzjNuNq3rTFAzbjat60xShxQVGlFWG02M3Q5K2dvcVFZdkF2N3VQRkNSQms9Wh8iHf5hWFdsTnhNMGNMa3p6eXNXNWJnRGhCUFFNWUE9ZfQi9RsSpwEICRKiAQocQ3JrODh3dGk0REV5OXlrTCtncEJlaE9qNVVnPRIoMzI5MDRfMF8wYzNkMjA4MjU1NDhjODRmOTZkZTc4NTI0ZmM3ZTM0YRgAIAAoADBOOM242retMUDNuNq3rTFKHHcyanJGTjlMYjRyM3ZGOVhKZEY4ZlF3Ulk2QT1aHyIdulNmL1JCZEdoQjZnTjFYS1dQaTkvUWFFRVZRWT1lOPk5MxKnAQgLEqIBChxyL1BoUVdwOHM3emNOMWZqdThNSS9XSU9CcHc9EigzMjkwNF8wXzQ1ZDU4MmUyYTRlMjk1NTZhNzM0ZTUyMWJjNzM0Mjg0GAAgACgAME04zbjat60xQM242retMUocK1p0WlZSSW5SZEFuZ2JWTzdCNU9DTFNTNzRBPVofIh3ubkE1MWkwY1FoajFYN05CUWZQeWZNd2VaaWFZPWXVEuwAEqgBCBUSowEKHHhNdHlBWjhRWnFlSEUxQ3FhUThHVkV0MG81QT0SKDMyOTA0XzBfZTMwNjM3ODM3ZTkxYWQ1MzA4Nzg5YjM1NDJmNjFiNDQYACAAKAAwSjjOuNq3rTFAzrjat60xShxudlJReit1bEhkd2FBc0Q0TnVUdW9kY0M4R1E9WiAiHv/5NHBFa0NNTlJBejliMkUyTU4yTFYza1BWd3IwPWXjIcHzEqgBCBISowEKHDZMWEw1SWcyMjdvbWtwN2wwR2YwVzl6RHRkQT0SKDMyOTA0XzBfMmU5N2FmNWVlZmY2Yzk0YjQzMzA3NzVhZDY0NGZkZTkYACAAKAAwSTjOuNq3rTFAzrjat60xShxsZ0haK3pTN0ZFd0c1S0pub1VEeVFXTk5qM2c9WiAiHv/OZFo0aU9CV2pyd2x0dmlIR3crVDh0dlVQdkQwPWWp8tEvEqcBCA4SogEKHG5ZS29IWU5TcTBlSklmOXFYblcwWUtPZkw2ND0SKDMyOTA0XzBfYzU1Njk3Y2ExNjcwZDVkMTI3NjEzNDEwY2U2ZjlkYzYYACAAKAAwTzjNuNq3rTFAzbjat60xShxyajNwVWsxNTAzMjBTUjJ5U2c3ZlJSbXZHOUU9Wh8iHf1VUFJQckxmdUFjd0xnS25VUnRPbDVlUkQ5dW89ZQRHWPkShgEIAxKBAQocbmpnRHU4OGVDcnZYcDg2cEQ3ZkhHY3FGcDg4PRImMzI5MDRfMjU5MzkzZWFmYWMyMmU1MGZmMTc0NDExODhhZGQyNmUYACAAKAAwBDik9KCk3zBApPSgpN8wShx0dnFabjVudTdLeWs5akpVd2JHVGRkeVZQOU09WgBlAAAAABKGAQgCEoEBChxZY1NUb252RVNQd3FDczRMMmNyVmh2NjhMOTg9EiYzMjkwNF83MDBlMzVjMTViZjk4NzhkMzJhZjlhMGUxYjUwMGM0NhgAIAAoADADOKT0oKTfMECk9KCk3zBKHG9QVmtod0JSYlY2NUtDV1IyK0lPTkhXb091OD1aAGUAAAAAEqYBCAgSoQEKHDVLNkV2VnhSQ0NJck1RZ2hTbnJHTEJYTXFRYz0SKDMyOTA0XzBfNWJlMGUxMTcxYzAyYmQ4YWY0NGJmNjg4MGFlYjc2MjYYACAAKAAwXDjNuNq3rTFAzbjat60xShw4OWQzcE52bEhNN3FJNWdQdlNzMEFIM211Q2M9Wh4iHHVSVG51K0ZMRVN1eTRqenVWNXZZekFTMkUwUT1lIjmYNhKoAQgUEqMBChxWQmlMMjdKN0JoWXhxeHVmYXhVU2pMajIyV1U9EigzMjkwNF8wXzA2Y2IwNTdkZmQwNTNiNmM5M2JhNmU3MTg3MzdiODA2GAAgACgAMEc4zrjat60xQM642retMUocYjJVSncxWHFqY09wV2dEdVZ4N0szb1F2R21BPVogIh7/81VwK2JJN0N1dHAweDBjdUphb3YvME9OalZYWT1lIOyfuhKGAQgEEoEBChxuVVA0UStQRFFKcDZ0MzVKLythOEVSNElPbEk9EiYzMjkwNF9lYjNmYjRjMDA2OTA2ZTZlNzU5NzlmYzkyYzQ1MzQzORgAIAAoADAYOJiQ0+m2MUCYkNPptjFKHFpWMXNmNVpGSkJLcnJiV01ZaUJHbFJiOFpPOD1aAGUAAAAAEqcBCAwSogEKHEVHd1BmUGc2U2RjSzNESXBnaWpjRzk2YUl3dz0SKDMyOTA0XzBfOTUzNGE0OGJmMGRjNDVlNWFmYTE3MTdiZGRhOTc3YjQYACAAKAAwRjjNuNq3rTFAzbjat60xShxnNGlzRmFMSWp6VFpzOU43bDlLcHNma2VLODg9Wh8iHfdCbXNMUlFma3paSkg5MUZLRnlZWEdyNVpxc1U9ZQg77f0SpgEIBxKhAQocamphejk5Zy9FUGMrTW1ObXlON2hYRHB5KzVZPRIoMzI5MDRfMF9hNTJmNTE5NmM3NzFlZjJmZDE4YWNlNGMyMDFjOGYzZhgAIAAoADBbOOfrgtfOMUDn64LXzjFKHEZaeUdrNlNIdFRia2J2d0VFN3paTitlYmhmWT1aHiIcZGVqS2k0Y3pJYm9SR21pajdiY05lYkNNYmc4PWXm0MPxEqkBCBoSpAEKHE10U3J4bHhoYnMzL2Z4T0d6bGg2RHRpeEtnWT0SKDMyOTA0XzBfZWVmNWVmOTFlN2IzNGY4ZGJmMmEzNTk3M2JkNzQ4MzcYACAAKAAwNjiWzZiChTJAls2YgoUyShxMKzh0SlBxcGRRQWUwVTgva0YyNXlnU3dZOTg9WiEiH///3UZub2xSMGM3SnF1Z0lEMldvT1VSWlExWndqOD1lyufzHBKoAQgTEqMBChx4RkVUWndpejA3L3RiUTZ6dU16eEF3YmU4eW89EigzMjkwNF8wX2Y4ZDk0ZTE1MmFiNzhkOGRlYWYwYWYzZDVhODM4MjBiGAAgACgAMEU4zrjat60xQM642retMUocTnQyVVhqd1V4NlZRdVVFcmJOMG56RlVUWTBBPVogIh7/50pseTBwOE0wVElCQVlZZkl0S2VFM3ZsVWdhbz1l7fa5fBKGAQgBEoEBChx5eEovNmZ2a2VjcjdrcDVFUXpCNHRXTHBkYkU9EiYzMjkwNF9kZTkxZjk0YjJjY2FhNGFkNTM0YjY3YWNlN2UxODk0NxgAIAAoADACOKT0oKTfMECk9KCk3zBKHGFSQ1dMZ2hGOWI1SW5xS0lEdnVKL2p2UWtGYz1aAGUAAAAAEqYBCAYSoQEKHHhuUkE0aldKM2FkRjI0MW1KZlI0amtqamQyYz0SKDMyOTA0XzBfZjEzNzJhZDYwYjgwY2Y4MzRkNDVmNmIwOWNhNGFkZDcYACAAKAAwGTjn64LXzjFA5+uC184xShx1OEJoR0hSK3psd0wxRmN6blNZb1pLMGUySHc9Wh4iHFVCV0xRQXJTYmk1RGk2bWFPM2crRHFGd09BYz1lAAAAADABOAA=",
+   "version": 1,
+   "yandex_version": 1
+}

@@ -1,0 +1,11 @@
+2026/02/26-21:08:40.635 523f File /home/bobrik/.config/yandex-browser/Default/WebStorage/46/IndexedDB/indexeddb.leveldb is locked for recovering successfully
+2026/02/26-21:08:40.635 523f Reusing MANIFEST /home/bobrik/.config/yandex-browser/Default/WebStorage/46/IndexedDB/indexeddb.leveldb/MANIFEST-000001
+2026/02/26-21:08:40.635 523f Recovering log #3
+2026/02/26-21:08:40.636 523f Reusing old log /home/bobrik/.config/yandex-browser/Default/WebStorage/46/IndexedDB/indexeddb.leveldb/000003.log 
+2026/02/26-21:08:46.421 5240 Level-0 table #5: started
+2026/02/26-21:08:46.422 5240 Level-0 table #5: 9029 bytes OK
+2026/02/26-21:08:46.423 5240 Delete type=0 #3
+2026/02/26-21:08:46.423 5240 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2026/02/26-21:08:46.423 523f Deletion DBImpl for /home/bobrik/.config/yandex-browser/Default/WebStorage/46/IndexedDB/indexeddb.leveldb, waiting for background work finished
+2026/02/26-21:08:46.423 523f Deletion DBImpl for /home/bobrik/.config/yandex-browser/Default/WebStorage/46/IndexedDB/indexeddb.leveldb, background work finished
+2026/02/26-21:08:46.423 523f File /home/bobrik/.config/yandex-browser/Default/WebStorage/46/IndexedDB/indexeddb.leveldb unlocked successfully

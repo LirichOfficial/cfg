@@ -1,0 +1,28 @@
+{
+   "default_apps": [
+      {
+         "install": "all",
+         "scope": "https://yandex.ru/games/"
+      },
+      {
+         "install": "all",
+         "scope": "https://www.twitch.tv/"
+      },
+      {
+         "install": "all",
+         "scope": "https://www.gog.com/"
+      },
+      {
+         "install": "all",
+         "scope": "https://store.steampowered.com/"
+      },
+      {
+         "install": "all",
+         "scope": "https://www.epicgames.com/"
+      },
+      {
+         "install": "all",
+         "scope": "https://play.geforcenow.com/"
+      }
+   ]
+}

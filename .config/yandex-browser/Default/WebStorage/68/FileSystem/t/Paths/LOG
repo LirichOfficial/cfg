@@ -1,0 +1,7 @@
+2026/03/14-09:32:11.060 1323 File /home/bobrik/.config/yandex-browser/Default/WebStorage/68/FileSystem/t/Paths is locked for recovering successfully
+2026/03/14-09:32:11.060 1323 Reusing MANIFEST /home/bobrik/.config/yandex-browser/Default/WebStorage/68/FileSystem/t/Paths/MANIFEST-000001
+2026/03/14-09:32:11.060 1323 Recovering log #3
+2026/03/14-09:32:11.061 1323 Reusing old log /home/bobrik/.config/yandex-browser/Default/WebStorage/68/FileSystem/t/Paths/000003.log 
+2026/03/14-09:42:11.062 1322 Deletion DBImpl for /home/bobrik/.config/yandex-browser/Default/WebStorage/68/FileSystem/t/Paths, waiting for background work finished
+2026/03/14-09:42:11.062 1322 Deletion DBImpl for /home/bobrik/.config/yandex-browser/Default/WebStorage/68/FileSystem/t/Paths, background work finished
+2026/03/14-09:42:11.062 1322 File /home/bobrik/.config/yandex-browser/Default/WebStorage/68/FileSystem/t/Paths unlocked successfully

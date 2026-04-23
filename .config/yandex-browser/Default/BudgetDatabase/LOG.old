@@ -1,0 +1,4 @@
+2026/04/21-19:23:27.281 5ed8 File /home/bobrik/.config/yandex-browser/Default/BudgetDatabase is locked for recovering successfully
+2026/04/21-19:23:27.281 5ed8 Deletion DBImpl for /home/bobrik/.config/yandex-browser/Default/BudgetDatabase, waiting for background work finished
+2026/04/21-19:23:27.281 5ed8 Deletion DBImpl for /home/bobrik/.config/yandex-browser/Default/BudgetDatabase, background work finished
+2026/04/21-19:23:27.281 5ed8 File /home/bobrik/.config/yandex-browser/Default/BudgetDatabase unlocked successfully

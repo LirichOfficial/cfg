@@ -1,0 +1,4 @@
+2026/03/17-21:47:09.538 28fa File /home/bobrik/.config/yandex-browser/Default/IndexedDB/https_claude.ai_0.indexeddb.leveldb is locked for recovering successfully
+2026/03/17-21:47:09.538 28fa Reusing MANIFEST /home/bobrik/.config/yandex-browser/Default/IndexedDB/https_claude.ai_0.indexeddb.leveldb/MANIFEST-000001
+2026/03/17-21:47:09.538 28fa Recovering log #4
+2026/03/17-21:47:09.542 28fa Reusing old log /home/bobrik/.config/yandex-browser/Default/IndexedDB/https_claude.ai_0.indexeddb.leveldb/000004.log 

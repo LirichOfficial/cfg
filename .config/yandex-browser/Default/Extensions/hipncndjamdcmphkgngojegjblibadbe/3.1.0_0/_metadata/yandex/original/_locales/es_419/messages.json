@@ -1,0 +1,10 @@
+{
+  "app_name": {
+    "message": "Planet VPN - Gratuitum VPN Proxy et Indiciorum Obstructor",
+    "description": "Nōmen applicātiōnis."
+  },
+  "app_description": {
+    "message": "Aditum ad quamcumque paginam web et impedīmentum indiciorum per extensionem nostram VPN proxy gratuita obtine.",
+    "description": "Descriptiō applicātiōnis."
+  }
+}

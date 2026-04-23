@@ -1,0 +1,4 @@
+2026/04/21-19:23:25.135 5eca File /home/bobrik/.config/yandex-browser/Default/Sync Data/LevelDB is locked for recovering successfully
+2026/04/21-19:23:25.141 5eca Reusing MANIFEST /home/bobrik/.config/yandex-browser/Default/Sync Data/LevelDB/MANIFEST-000001
+2026/04/21-19:23:25.141 5eca Recovering log #1390
+2026/04/21-19:23:25.141 5eca Reusing old log /home/bobrik/.config/yandex-browser/Default/Sync Data/LevelDB/001390.log 

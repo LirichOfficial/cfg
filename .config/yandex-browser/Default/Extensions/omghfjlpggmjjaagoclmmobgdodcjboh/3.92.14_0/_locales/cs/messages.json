@@ -1,0 +1,1794 @@
+{
+   "7_days_money_back_guarantee": {
+      "description": "",
+      "message": "7 dní záruka vrácení peněz"
+   },
+   "N_servers_in_N_virtual_Locations": {
+      "description": "",
+      "message": "AAA+ servery ve virtuálních lokalitách BBB"
+   },
+   "access_internet_via_premium_locations": {
+      "description": "",
+      "message": "Přístup k internetu prostřednictvím dalších prémiových míst."
+   },
+   "add_smart_setting_for_X": {
+      "description": "",
+      "message": "Přidejte chytré nastavení pro XXX"
+   },
+   "authentication_error_no_connection": {
+      "description": "",
+      "message": "Chyba ověření: nelze se připojit k serveru Browsec."
+   },
+   "back": {
+      "description": "",
+      "message": "Zadní"
+   },
+   "because_your_proxy_settings_are_blocked": {
+      "description": "",
+      "message": " Přístup k nastavení proxy je blokován jinou příponou."
+   },
+   "browsec_activated": {
+      "description": "",
+      "message": "Aktivujte Prohlížeč"
+   },
+   "browsec_can_work_in_private_mode": {
+      "description": "",
+      "message": "V soukromých oknech nelze ovládat Browsec. Ale pokud je ikona Browsec aktivní, jste chráněni.\\n\\nProhlížeč můžete povolit nebo zakázat ve svém běžném okně Firefoxu. Všechna vaše nastavení prohlížeče fungují v běžném i soukromém režimu"
+   },
+   "browsec_has_been_installed": {
+      "description": "",
+      "message": "Browsec byl nainstalován!"
+   },
+   "browsec_is_enabled": {
+      "description": "",
+      "message": "Browsec je znovu povolen"
+   },
+   "browsec_off": {
+      "description": "",
+      "message": "Procházení VYPNUTO"
+   },
+   "browsec_premium": {
+      "description": "",
+      "message": "Browsec Premium"
+   },
+   "browser_action_inactive_title": {
+      "description": "",
+      "message": "Browsec"
+   },
+   "cancel_editing": {
+      "description": "",
+      "message": "Zrušit úpravy"
+   },
+   "cancel_subscription_at_any_time": {
+      "description": "",
+      "message": "Předplatné kdykoli zrušte"
+   },
+   "cant_authenticate_please_contact_browsec_support": {
+      "description": "",
+      "message": "Nelze ověřit. Kontaktujte prosím podporu Browsec."
+   },
+   "cant_setup_secure_connection": {
+      "description": "",
+      "message": "Prohlížeč nemůže ve vašem prohlížeči nastavit zabezpečené připojení."
+   },
+   "cant_start_because_your_proxy_settings_blocked": {
+      "description": "",
+      "message": "Browsec nemůže spustit VPN. Vaše nastavení proxy jsou blokována jiným rozšířením"
+   },
+   "change": {
+      "description": "",
+      "message": "Změna"
+   },
+   "change_location": {
+      "description": "",
+      "message": "Změnit lokaci"
+   },
+   "change_timezone_according_to_virtual_location": {
+      "description": "",
+      "message": "Změňte časové pásmo prohlížeče podle svého virtuálního umístění"
+   },
+   "change_timezone_text_1": {
+      "description": "",
+      "message": "Tato možnost změní časové pásmo vašeho prohlížeče tak, aby odpovídalo vaší virtuální poloze."
+   },
+   "change_timezone_text_2": {
+      "description": "",
+      "message": "Některé webové stránky detekují časové pásmo prohlížeče pomocí funkcí Javascriptu. Pokud se časová pásma vašeho prohlížeče a IP adresy liší, může to být známkou používání služby VPN nebo jiných technik anonymizace."
+   },
+   "change_timezone_text_3": {
+      "description": "",
+      "message": "Když je tato možnost zapnutá, webové stránky nemohou zjistit žádný rozdíl v časovém pásmu."
+   },
+   "change_virtual_location": {
+      "description": "",
+      "message": "Změnit virtuální umístění"
+   },
+   "check_browsec_api": {
+      "description": "",
+      "message": "Zkontrolujte Browsec API"
+   },
+   "check_browsec_premium_plans": {
+      "description": "",
+      "message": "Zkontrolujte plány Browsec Premium"
+   },
+   "check_conflicts_with_other_extensions": {
+      "description": "",
+      "message": "Zkontrolujte konflikty s jinými rozšířeními"
+   },
+   "check_http_internet_connection": {
+      "description": "",
+      "message": "Zkontrolujte internetové připojení HTTP"
+   },
+   "check_http_internet_connection_with_browsec": {
+      "description": "",
+      "message": "Zkontrolujte internetové připojení HTTP pomocí prohlížeče Browsec"
+   },
+   "check_https_internet_connection": {
+      "description": "",
+      "message": "Zkontrolujte internetové připojení HTTPS"
+   },
+   "check_https_internet_connection_with_browsec": {
+      "description": "",
+      "message": "Zkontrolujte připojení k internetu HTTPS pomocí prohlížeče Browsec"
+   },
+   "check_proxy_settings": {
+      "description": "",
+      "message": "Zkontrolujte nastavení proxy"
+   },
+   "choose_your_virtual_location": {
+      "description": "",
+      "message": "Vyberte si své virtuální umístění a získejte přístup k obsahu, který jinak nebyl dostupný."
+   },
+   "click_accept_terms_and_conditions": {
+      "description": "",
+      "message": "Akceptovat"
+   },
+   "click_and_then_1": {
+      "description": "",
+      "message": "Klikněte"
+   },
+   "click_and_then_2": {
+      "description": "",
+      "message": "a pak"
+   },
+   "click_here_privacy_policy": {
+      "description": "",
+      "message": "Zásady ochrany osobních údajů"
+   },
+   "click_here_terms_conditions": {
+      "description": "",
+      "message": "Podmínky služby"
+   },
+   "click_here_to_agree_and_start": {
+      "description": "",
+      "message": "Chcete-li používat aplikaci Browsec VPN\u003Cbr/>musíte přijmout\u003Cbr/>{DIVIDER} a\u003Cbr/>{DIVIDER}"
+   },
+   "click_here_to_start_vpn": {
+      "description": "",
+      "message": "Kliknutím sem\u003Cbr/>zahájíte VPN"
+   },
+   "click_icon_on_toolbar_and_turn_on_protection": {
+      "description": "",
+      "message": "Klikněte na ikonu Browsec na panelu nástrojů, zapněte ochranu provozu a můžete začít!"
+   },
+   "close_page": {
+      "description": "",
+      "message": "Zavřít stránku"
+   },
+   "completed": {
+      "description": "",
+      "message": "Dokončeno"
+   },
+   "congratulations_securing_your_browsing": {
+      "description": "",
+      "message": "Ještě jeden krok a váš prohlížeč je zcela bezpečný."
+   },
+   "contact_support": {
+      "description": "",
+      "message": "Kontaktujte podporu Browsec"
+   },
+   "contact_us": {
+      "description": "",
+      "message": "Kontaktujte nás"
+   },
+   "continue_using_browsec_to_open_websites": {
+      "description": "",
+      "message": "Můžete pokračovat v používání prohlížeče Browsec. Dík!"
+   },
+   "continue_using_premium": {
+      "description": "",
+      "message": "Pokračujte v používání Browsec Premium"
+   },
+   "copy_to_clipboard": {
+      "description": "",
+      "message": "Zkopírovat do schránky"
+   },
+   "country_ac": {
+      "description": "",
+      "message": "Ostrov Ascension"
+   },
+   "country_ad": {
+      "description": "",
+      "message": "Andorra"
+   },
+   "country_ae": {
+      "description": "",
+      "message": "Spojené arabské emiráty"
+   },
+   "country_af": {
+      "description": "",
+      "message": "Afghánistán"
+   },
+   "country_ag": {
+      "description": "",
+      "message": "Antigua a Barbuda"
+   },
+   "country_ai": {
+      "description": "",
+      "message": "Anguilla"
+   },
+   "country_al": {
+      "description": "",
+      "message": "Albánie"
+   },
+   "country_am": {
+      "description": "",
+      "message": "Arménie"
+   },
+   "country_an": {
+      "description": "",
+      "message": "Nizozemské Antily"
+   },
+   "country_ao": {
+      "description": "",
+      "message": "Angola"
+   },
+   "country_aq": {
+      "description": "",
+      "message": "Antarktida"
+   },
+   "country_ar": {
+      "description": "",
+      "message": "Argentina"
+   },
+   "country_as": {
+      "description": "",
+      "message": "Americká Samoa"
+   },
+   "country_at": {
+      "description": "",
+      "message": "Rakousko"
+   },
+   "country_au": {
+      "description": "",
+      "message": "Austrálie"
+   },
+   "country_aw": {
+      "description": "",
+      "message": "Aruba"
+   },
+   "country_ax": {
+      "description": "",
+      "message": "Alandské ostrovy"
+   },
+   "country_az": {
+      "description": "",
+      "message": "Ázerbajdžán"
+   },
+   "country_ba": {
+      "description": "",
+      "message": "Bosna"
+   },
+   "country_bb": {
+      "description": "",
+      "message": "Barbados"
+   },
+   "country_bd": {
+      "description": "",
+      "message": "Bangladéš"
+   },
+   "country_be": {
+      "description": "",
+      "message": "Belgie"
+   },
+   "country_bf": {
+      "description": "",
+      "message": "Burkina Faso"
+   },
+   "country_bg": {
+      "description": "",
+      "message": "Bulharsko"
+   },
+   "country_bh": {
+      "description": "",
+      "message": "Bahrajn"
+   },
+   "country_bi": {
+      "description": "",
+      "message": "Burundi"
+   },
+   "country_bj": {
+      "description": "",
+      "message": "Benin"
+   },
+   "country_bl": {
+      "description": "",
+      "message": "Svatý Bartoloměj"
+   },
+   "country_bm": {
+      "description": "",
+      "message": "Bermudy"
+   },
+   "country_bn": {
+      "description": "",
+      "message": "Brunej"
+   },
+   "country_bo": {
+      "description": "",
+      "message": "Bolívie"
+   },
+   "country_bq": {
+      "description": "",
+      "message": "Karibské Nizozemsko"
+   },
+   "country_br": {
+      "description": "",
+      "message": "Brazílie"
+   },
+   "country_bs": {
+      "description": "",
+      "message": "Bahamy"
+   },
+   "country_bt": {
+      "description": "",
+      "message": "Bhútán"
+   },
+   "country_bv": {
+      "description": "",
+      "message": "Bouvetův ostrov"
+   },
+   "country_bw": {
+      "description": "",
+      "message": "Botswana"
+   },
+   "country_by": {
+      "description": "",
+      "message": "Bělorusko"
+   },
+   "country_bz": {
+      "description": "",
+      "message": "Belize"
+   },
+   "country_ca": {
+      "description": "",
+      "message": "Kanada"
+   },
+   "country_cc": {
+      "description": "",
+      "message": "Kokosové (Keelingovy) ostrovy"
+   },
+   "country_cd": {
+      "description": "",
+      "message": "Kongo (DRC)"
+   },
+   "country_cf": {
+      "description": "",
+      "message": "Středoafrická republika"
+   },
+   "country_cg": {
+      "description": "",
+      "message": "Kongo (Republika)"
+   },
+   "country_ch": {
+      "description": "",
+      "message": "Švýcarsko"
+   },
+   "country_ci": {
+      "description": "",
+      "message": "Pobřeží slonoviny"
+   },
+   "country_ck": {
+      "description": "",
+      "message": "Cookovy ostrovy"
+   },
+   "country_cl": {
+      "description": "",
+      "message": "Chile"
+   },
+   "country_cm": {
+      "description": "",
+      "message": "Kamerun"
+   },
+   "country_cn": {
+      "description": "",
+      "message": "Čína"
+   },
+   "country_co": {
+      "description": "",
+      "message": "Kolumbie"
+   },
+   "country_cp": {
+      "description": "",
+      "message": "Ostrov Clipperton"
+   },
+   "country_cr": {
+      "description": "",
+      "message": "Kostarika"
+   },
+   "country_cu": {
+      "description": "",
+      "message": "Kuba"
+   },
+   "country_cv": {
+      "description": "",
+      "message": "Kapverdy"
+   },
+   "country_cw": {
+      "description": "",
+      "message": "Curaçao"
+   },
+   "country_cx": {
+      "description": "",
+      "message": "Vánoční ostrov"
+   },
+   "country_cy": {
+      "description": "",
+      "message": "Kypr"
+   },
+   "country_cz": {
+      "description": "",
+      "message": "Česká republika"
+   },
+   "country_de": {
+      "description": "",
+      "message": "Německo"
+   },
+   "country_dg": {
+      "description": "",
+      "message": "Diego Garcia"
+   },
+   "country_dj": {
+      "description": "",
+      "message": "Džibutsko"
+   },
+   "country_dk": {
+      "description": "",
+      "message": "Dánsko"
+   },
+   "country_dm": {
+      "description": "",
+      "message": "Dominika"
+   },
+   "country_do": {
+      "description": "",
+      "message": "Dominikánská republika"
+   },
+   "country_dz": {
+      "description": "",
+      "message": "Alžírsko"
+   },
+   "country_ea": {
+      "description": "",
+      "message": "Ceuta a Melilla"
+   },
+   "country_ec": {
+      "description": "",
+      "message": "Ekvádor"
+   },
+   "country_ee": {
+      "description": "",
+      "message": "Estonsko"
+   },
+   "country_eg": {
+      "description": "",
+      "message": "Egypt"
+   },
+   "country_eh": {
+      "description": "",
+      "message": "západní Sahara"
+   },
+   "country_er": {
+      "description": "",
+      "message": "Eritrea"
+   },
+   "country_es": {
+      "description": "",
+      "message": "Španělsko"
+   },
+   "country_et": {
+      "description": "",
+      "message": "Etiopie"
+   },
+   "country_eu": {
+      "description": "",
+      "message": "Evropská unie"
+   },
+   "country_fi": {
+      "description": "",
+      "message": "Finsko"
+   },
+   "country_fj": {
+      "description": "",
+      "message": "Fidži"
+   },
+   "country_fk": {
+      "description": "",
+      "message": "Falklandy"
+   },
+   "country_fm": {
+      "description": "",
+      "message": "Mikronésie"
+   },
+   "country_fo": {
+      "description": "",
+      "message": "Faerské ostrovy"
+   },
+   "country_fr": {
+      "description": "",
+      "message": "Francie"
+   },
+   "country_ga": {
+      "description": "",
+      "message": "Gabon"
+   },
+   "country_gb": {
+      "description": "",
+      "message": "Spojené království"
+   },
+   "country_gd": {
+      "description": "",
+      "message": "Grenada"
+   },
+   "country_ge": {
+      "description": "",
+      "message": "Gruzie"
+   },
+   "country_gf": {
+      "description": "",
+      "message": "Francouzská Guyana"
+   },
+   "country_gg": {
+      "description": "",
+      "message": "Guernsey"
+   },
+   "country_gh": {
+      "description": "",
+      "message": "Ghana"
+   },
+   "country_gi": {
+      "description": "",
+      "message": "Gibraltar"
+   },
+   "country_gl": {
+      "description": "",
+      "message": "Grónsko"
+   },
+   "country_gm": {
+      "description": "",
+      "message": "Gambie"
+   },
+   "country_gn": {
+      "description": "",
+      "message": "Guinea"
+   },
+   "country_gp": {
+      "description": "",
+      "message": "Guadeloupe"
+   },
+   "country_gq": {
+      "description": "",
+      "message": "Rovníková Guinea"
+   },
+   "country_gr": {
+      "description": "",
+      "message": "Řecko"
+   },
+   "country_gs": {
+      "description": "",
+      "message": "Jižní Georgie a Jižní Sandwichovy ostrovy"
+   },
+   "country_gt": {
+      "description": "",
+      "message": "Guatemala"
+   },
+   "country_gu": {
+      "description": "",
+      "message": "Guam"
+   },
+   "country_gw": {
+      "description": "",
+      "message": "Guinea-Bissau"
+   },
+   "country_gy": {
+      "description": "",
+      "message": "Guyana"
+   },
+   "country_hk": {
+      "description": "",
+      "message": "Hongkong"
+   },
+   "country_hm": {
+      "description": "",
+      "message": "Heardovy a McDonaldovy ostrovy"
+   },
+   "country_hn": {
+      "description": "",
+      "message": "Honduras"
+   },
+   "country_hr": {
+      "description": "",
+      "message": "Chorvatsko"
+   },
+   "country_ht": {
+      "description": "",
+      "message": "Haiti"
+   },
+   "country_hu": {
+      "description": "",
+      "message": "Maďarsko"
+   },
+   "country_ic": {
+      "description": "",
+      "message": "Kanárské ostrovy"
+   },
+   "country_id": {
+      "description": "",
+      "message": "Indonésie"
+   },
+   "country_ie": {
+      "description": "",
+      "message": "Irsko"
+   },
+   "country_il": {
+      "description": "",
+      "message": "Izrael"
+   },
+   "country_im": {
+      "description": "",
+      "message": "Ostrov Man"
+   },
+   "country_in": {
+      "description": "",
+      "message": "Indie"
+   },
+   "country_io": {
+      "description": "",
+      "message": "Britské indickooceánské území"
+   },
+   "country_iq": {
+      "description": "",
+      "message": "Irák"
+   },
+   "country_ir": {
+      "description": "",
+      "message": "Írán"
+   },
+   "country_is": {
+      "description": "",
+      "message": "Island"
+   },
+   "country_it": {
+      "description": "",
+      "message": "Itálie"
+   },
+   "country_je": {
+      "description": "",
+      "message": "Trikot"
+   },
+   "country_jm": {
+      "description": "",
+      "message": "Jamaica"
+   },
+   "country_jo": {
+      "description": "",
+      "message": "Jordán"
+   },
+   "country_jp": {
+      "description": "",
+      "message": "Japonsko"
+   },
+   "country_ke": {
+      "description": "",
+      "message": "Keňa"
+   },
+   "country_kg": {
+      "description": "",
+      "message": "Kyrgyzstán"
+   },
+   "country_kh": {
+      "description": "",
+      "message": "Kambodža"
+   },
+   "country_ki": {
+      "description": "",
+      "message": "Kiribati"
+   },
+   "country_km": {
+      "description": "",
+      "message": "Komory"
+   },
+   "country_kn": {
+      "description": "",
+      "message": "Svatý Kryštof a Nevis"
+   },
+   "country_kp": {
+      "description": "",
+      "message": "Severní Korea"
+   },
+   "country_kr": {
+      "description": "",
+      "message": "Jižní Korea"
+   },
+   "country_kw": {
+      "description": "",
+      "message": "Kuvajt"
+   },
+   "country_ky": {
+      "description": "",
+      "message": "Kajmanské ostrovy"
+   },
+   "country_kz": {
+      "description": "",
+      "message": "Kazachstán"
+   },
+   "country_la": {
+      "description": "",
+      "message": "Laos"
+   },
+   "country_lb": {
+      "description": "",
+      "message": "Libanon"
+   },
+   "country_lc": {
+      "description": "",
+      "message": "Svatá Lucie"
+   },
+   "country_li": {
+      "description": "",
+      "message": "Lichtenštejnsko"
+   },
+   "country_lk": {
+      "description": "",
+      "message": "Srí Lanka"
+   },
+   "country_lr": {
+      "description": "",
+      "message": "Libérie"
+   },
+   "country_ls": {
+      "description": "",
+      "message": "Lesotho"
+   },
+   "country_lt": {
+      "description": "",
+      "message": "Litva"
+   },
+   "country_lu": {
+      "description": "",
+      "message": "Lucembursko"
+   },
+   "country_lv": {
+      "description": "",
+      "message": "Lotyšsko"
+   },
+   "country_ly": {
+      "description": "",
+      "message": "Libye"
+   },
+   "country_ma": {
+      "description": "",
+      "message": "Maroko"
+   },
+   "country_mc": {
+      "description": "",
+      "message": "Monako"
+   },
+   "country_md": {
+      "description": "",
+      "message": "Moldavsko"
+   },
+   "country_me": {
+      "description": "",
+      "message": "Černá Hora"
+   },
+   "country_mf": {
+      "description": "",
+      "message": "Svatý Martin"
+   },
+   "country_mg": {
+      "description": "",
+      "message": "Madagaskar"
+   },
+   "country_mh": {
+      "description": "",
+      "message": "Marshallovy ostrovy"
+   },
+   "country_mk": {
+      "description": "",
+      "message": "Makedonie"
+   },
+   "country_ml": {
+      "description": "",
+      "message": "Mali"
+   },
+   "country_mm": {
+      "description": "",
+      "message": "Myanmar"
+   },
+   "country_mn": {
+      "description": "",
+      "message": "Mongolsko"
+   },
+   "country_mo": {
+      "description": "",
+      "message": "Macao"
+   },
+   "country_mp": {
+      "description": "",
+      "message": "Severní Mariany"
+   },
+   "country_mq": {
+      "description": "",
+      "message": "Martinik"
+   },
+   "country_mr": {
+      "description": "",
+      "message": "Mauritánie"
+   },
+   "country_ms": {
+      "description": "",
+      "message": "Montserrat"
+   },
+   "country_mt": {
+      "description": "",
+      "message": "Malta"
+   },
+   "country_mu": {
+      "description": "",
+      "message": "Mauricius"
+   },
+   "country_mv": {
+      "description": "",
+      "message": "Maledivy"
+   },
+   "country_mw": {
+      "description": "",
+      "message": "Malawi"
+   },
+   "country_mx": {
+      "description": "",
+      "message": "Mexiko"
+   },
+   "country_my": {
+      "description": "",
+      "message": "Malajsie"
+   },
+   "country_mz": {
+      "description": "",
+      "message": "Mosambik"
+   },
+   "country_na": {
+      "description": "",
+      "message": "Namibie"
+   },
+   "country_nc": {
+      "description": "",
+      "message": "Nová Kaledonie"
+   },
+   "country_ne": {
+      "description": "",
+      "message": "Niger"
+   },
+   "country_nf": {
+      "description": "",
+      "message": "Ostrov Norfolk"
+   },
+   "country_ng": {
+      "description": "",
+      "message": "Nigérie"
+   },
+   "country_ni": {
+      "description": "",
+      "message": "Nikaragua"
+   },
+   "country_nl": {
+      "description": "",
+      "message": "Holandsko"
+   },
+   "country_no": {
+      "description": "",
+      "message": "Norsko"
+   },
+   "country_np": {
+      "description": "",
+      "message": "Nepál"
+   },
+   "country_nr": {
+      "description": "",
+      "message": "Nauru"
+   },
+   "country_nu": {
+      "description": "",
+      "message": "Niue"
+   },
+   "country_nz": {
+      "description": "",
+      "message": "Nový Zéland"
+   },
+   "country_om": {
+      "description": "",
+      "message": "Omán"
+   },
+   "country_pa": {
+      "description": "",
+      "message": "Panama"
+   },
+   "country_pe": {
+      "description": "",
+      "message": "Peru"
+   },
+   "country_pf": {
+      "description": "",
+      "message": "Francouzská Polynésie"
+   },
+   "country_pg": {
+      "description": "",
+      "message": "Papua-Nová Guinea"
+   },
+   "country_ph": {
+      "description": "",
+      "message": "Filipíny"
+   },
+   "country_pk": {
+      "description": "",
+      "message": "Pákistán"
+   },
+   "country_pl": {
+      "description": "",
+      "message": "Polsko"
+   },
+   "country_pm": {
+      "description": "",
+      "message": "St. Pierre a Miquelon"
+   },
+   "country_pn": {
+      "description": "",
+      "message": "Pitcairnovy ostrovy"
+   },
+   "country_pr": {
+      "description": "",
+      "message": "Portoriko"
+   },
+   "country_ps": {
+      "description": "",
+      "message": "Palestina"
+   },
+   "country_pt": {
+      "description": "",
+      "message": "Portugalsko"
+   },
+   "country_pw": {
+      "description": "",
+      "message": "Palau"
+   },
+   "country_py": {
+      "description": "",
+      "message": "Paraguay"
+   },
+   "country_qa": {
+      "description": "",
+      "message": "Katar"
+   },
+   "country_qo": {
+      "description": "",
+      "message": "Odlehlá Oceánie"
+   },
+   "country_re": {
+      "description": "",
+      "message": "Shledání"
+   },
+   "country_ro": {
+      "description": "",
+      "message": "Rumunsko"
+   },
+   "country_rs": {
+      "description": "",
+      "message": "Srbsko"
+   },
+   "country_ru": {
+      "description": "",
+      "message": "Rusko"
+   },
+   "country_rw": {
+      "description": "",
+      "message": "Rwanda"
+   },
+   "country_sa": {
+      "description": "",
+      "message": "Saudská arábie"
+   },
+   "country_sb": {
+      "description": "",
+      "message": "Solomonovy ostrovy"
+   },
+   "country_sc": {
+      "description": "",
+      "message": "Seychely"
+   },
+   "country_sd": {
+      "description": "",
+      "message": "Súdán"
+   },
+   "country_se": {
+      "description": "",
+      "message": "Švédsko"
+   },
+   "country_sg": {
+      "description": "",
+      "message": "Singapur"
+   },
+   "country_sh": {
+      "description": "",
+      "message": "Svatá Helena"
+   },
+   "country_si": {
+      "description": "",
+      "message": "Slovinsko"
+   },
+   "country_sj": {
+      "description": "",
+      "message": "Svalbard & Jan Mayen"
+   },
+   "country_sk": {
+      "description": "",
+      "message": "Slovensko"
+   },
+   "country_sl": {
+      "description": "",
+      "message": "Sierra Leone"
+   },
+   "country_sm": {
+      "description": "",
+      "message": "San Marino"
+   },
+   "country_sn": {
+      "description": "",
+      "message": "Senegal"
+   },
+   "country_so": {
+      "description": "",
+      "message": "Somálsko"
+   },
+   "country_sr": {
+      "description": "",
+      "message": "Surinam"
+   },
+   "country_ss": {
+      "description": "",
+      "message": "jižní Súdán"
+   },
+   "country_st": {
+      "description": "",
+      "message": "Svatý Tomáš a Princův ostrov"
+   },
+   "country_sv": {
+      "description": "",
+      "message": "El Salvador"
+   },
+   "country_sx": {
+      "description": "",
+      "message": "Svatý Martin"
+   },
+   "country_sy": {
+      "description": "",
+      "message": "Sýrie"
+   },
+   "country_sz": {
+      "description": "",
+      "message": "Svazijsko"
+   },
+   "country_ta": {
+      "description": "",
+      "message": "Tristan da Cunha"
+   },
+   "country_tc": {
+      "description": "",
+      "message": "Ostrovy Turks a Caicos"
+   },
+   "country_td": {
+      "description": "",
+      "message": "Čad"
+   },
+   "country_tf": {
+      "description": "",
+      "message": "Francouzská jižní území"
+   },
+   "country_tg": {
+      "description": "",
+      "message": "Jít"
+   },
+   "country_th": {
+      "description": "",
+      "message": "Thajsko"
+   },
+   "country_tj": {
+      "description": "",
+      "message": "Tádžikistán"
+   },
+   "country_tk": {
+      "description": "",
+      "message": "Tokelau"
+   },
+   "country_tl": {
+      "description": "",
+      "message": "Východní Timor"
+   },
+   "country_tm": {
+      "description": "",
+      "message": "Turkmenistán"
+   },
+   "country_tn": {
+      "description": "",
+      "message": "Tunisko"
+   },
+   "country_to": {
+      "description": "",
+      "message": "Tonga"
+   },
+   "country_tr": {
+      "description": "",
+      "message": "krocan"
+   },
+   "country_tt": {
+      "description": "",
+      "message": "Trinidad a Tobago"
+   },
+   "country_tv": {
+      "description": "",
+      "message": "Tuvalu"
+   },
+   "country_tw": {
+      "description": "",
+      "message": "Tchaj-wan"
+   },
+   "country_tz": {
+      "description": "",
+      "message": "Tanzanie"
+   },
+   "country_ua": {
+      "description": "",
+      "message": "Ukrajina"
+   },
+   "country_ug": {
+      "description": "",
+      "message": "Uganda"
+   },
+   "country_uk": {
+      "description": "",
+      "message": "Spojené království"
+   },
+   "country_um": {
+      "description": "",
+      "message": "Odlehlé ostrovy USA"
+   },
+   "country_us": {
+      "description": "",
+      "message": "Spojené státy"
+   },
+   "country_usw": {
+      "description": "",
+      "message": "Západ Spojených států"
+   },
+   "country_uy": {
+      "description": "",
+      "message": "Uruguay"
+   },
+   "country_uz": {
+      "description": "",
+      "message": "Uzbekistán"
+   },
+   "country_va": {
+      "description": "",
+      "message": "Vatikán"
+   },
+   "country_vc": {
+      "description": "",
+      "message": "Svatý Vincenc a Grenadiny"
+   },
+   "country_ve": {
+      "description": "",
+      "message": "Venezuela"
+   },
+   "country_vg": {
+      "description": "",
+      "message": "Britské Panenské ostrovy"
+   },
+   "country_vi": {
+      "description": "",
+      "message": "Americké Panenské ostrovy"
+   },
+   "country_vn": {
+      "description": "",
+      "message": "Vietnam"
+   },
+   "country_vu": {
+      "description": "",
+      "message": "Vanuatu"
+   },
+   "country_wf": {
+      "description": "",
+      "message": "Wallis & Futuna"
+   },
+   "country_ws": {
+      "description": "",
+      "message": "Samoa"
+   },
+   "country_xk": {
+      "description": "",
+      "message": "Kosovo"
+   },
+   "country_ye": {
+      "description": "",
+      "message": "Jemen"
+   },
+   "country_yt": {
+      "description": "",
+      "message": "Mayotte"
+   },
+   "country_za": {
+      "description": "",
+      "message": "Jižní Afrika"
+   },
+   "country_zm": {
+      "description": "",
+      "message": "Zambie"
+   },
+   "country_zw": {
+      "description": "",
+      "message": "Zimbabwe"
+   },
+   "dedicated_traffic_lanes": {
+      "description": "",
+      "message": "Prémioví uživatelé mohou využívat vyhrazené jízdní pruhy."
+   },
+   "delete_smart_setting_for_X": {
+      "description": "",
+      "message": "Smazat chytré nastavení pro XXX"
+   },
+   "dependent_website": {
+      "description": "",
+      "message": "Připojeno k"
+   },
+   "disable": {
+      "description": "",
+      "message": "Zakázat"
+   },
+   "disable_selected_extensions": {
+      "description": "",
+      "message": "Zakázat vybraná rozšíření"
+   },
+   "dont_have_an_account": {
+      "description": "",
+      "message": "Nemáte účet?"
+   },
+   "dont_send_telemetry": {
+      "description": "",
+      "message": "Neposílejte telemetrii"
+   },
+   "dont_show_promo_offers": {
+      "description": "",
+      "message": "Nezobrazovat promo nabídky"
+   },
+   "edit_smart_settings": {
+      "description": "",
+      "message": "Upravit chytrá nastavení"
+   },
+   "email": {
+      "description": "",
+      "message": "E-mailem"
+   },
+   "enable_browsec_for_all_sites_excluding_selected_sites": {
+      "description": "",
+      "message": "Povolit Browsec pro všechny weby kromě vybraných webů"
+   },
+   "enable_browsec_for_all_sites_excluding_selected_sites_description_1": {
+      "description": "",
+      "message": "Povolit Browsec"
+   },
+   "enable_browsec_for_all_sites_excluding_selected_sites_description_2": {
+      "description": "",
+      "message": "Klikněte na Smart Settings → Edit Smart Settings"
+   },
+   "enable_browsec_for_all_sites_excluding_selected_sites_description_3": {
+      "description": "",
+      "message": "Zadejte požadovanou doménu, vyberte OFF a klikněte na IMG"
+   },
+   "enable_browsec_only_for_selected_sites": {
+      "description": "",
+      "message": "Povolit Browsec pouze pro vybrané weby"
+   },
+   "enable_browsec_only_for_selected_sites_description_1": {
+      "description": "",
+      "message": "Zakázat Browsec"
+   },
+   "enable_browsec_only_for_selected_sites_description_2": {
+      "description": "",
+      "message": "Klikněte na Smart Settings → Edit Smart Settings"
+   },
+   "enable_browsec_only_for_selected_sites_description_3": {
+      "description": "",
+      "message": "Zadejte požadovanou doménu, vyberte zemi pro tuto doménu a klikněte na IMG"
+   },
+   "esn": {
+      "description": "",
+      "message": "Browsec VPN"
+   },
+   "extension_description": {
+      "description": "",
+      "message": "Discover the best free VPN downloads available today."
+   },
+   "extension_name": {
+      "description": "",
+      "message": "Browsec VPN - Bezplatné rozšíření VPN"
+   },
+   "failed": {
+      "description": "",
+      "message": "Nepodařilo se"
+   },
+   "find_out_how_fix": {
+      "description": "",
+      "message": "Zde je návod, jak to opravit."
+   },
+   "fix_it": {
+      "description": "",
+      "message": "Opravit"
+   },
+   "fix_proxy_settings": {
+      "description": "",
+      "message": "Opravte nastavení proxy"
+   },
+   "fixit_paywall_body": {
+      "description": "",
+      "message": "Garantujeme prémiovou službu a nabízíme plnou náhradu do 7 dnů, pokud nebudete spokojeni"
+   },
+   "fixit_paywall_get_premium": {
+      "description": "",
+      "message": "🔥 Přejít na Premium"
+   },
+   "fixit_paywall_title": {
+      "description": "",
+      "message": "Máte potíže s připojením?"
+   },
+   "for_only": {
+      "description": "",
+      "message": "pouze pro"
+   },
+   "forgot_your_password": {
+      "description": "",
+      "message": "Zapomněli jste heslo?"
+   },
+   "free_servers": {
+      "description": "",
+      "message": "Bezplatné servery"
+   },
+   "from_only_X_per_month": {
+      "description": "",
+      "message": "pouze od XXX měsíčně!"
+   },
+   "get_N_days_free_premium_trial": {
+      "description": "",
+      "message": "Získejte XXX dní bezplatné zkušební období"
+   },
+   "get_free_premium": {
+      "description": "",
+      "message": "Získejte zdarma Premium!"
+   },
+   "get_monthly_premium": {
+      "description": "",
+      "message": "Získejte měsíční prémii"
+   },
+   "get_more_with_browsec_premium": {
+      "description": "",
+      "message": "Získejte více s Browsec Premium"
+   },
+   "get_premium_now": {
+      "description": "",
+      "message": "Získejte Premium nyní!"
+   },
+   "get_turbo_speed": {
+      "description": "",
+      "message": "Získejte Turbo Speed"
+   },
+   "go_ahead_and_renew_it": {
+      "description": "",
+      "message": "Pokračujte a obnovte to."
+   },
+   "go_back": {
+      "description": "",
+      "message": "Vraťte se"
+   },
+   "health_check": {
+      "description": "",
+      "message": "Zdravotní prohlídka"
+   },
+   "help": {
+      "description": "",
+      "message": "Pomoc"
+   },
+   "hide_health_check_logs": {
+      "description": "",
+      "message": "Skrýt protokoly kontroly stavu"
+   },
+   "home": {
+      "description": "",
+      "message": "Domov"
+   },
+   "how_to_use_smart_settings": {
+      "description": "",
+      "message": "Jak používat inteligentní nastavení"
+   },
+   "i_want_to": {
+      "description": "",
+      "message": "Chci:"
+   },
+   "if_no_write_to_email": {
+      "description": "",
+      "message": "Pokud by to nefungovalo, kontaktujte nás na"
+   },
+   "incorrect_email_or_password": {
+      "description": "",
+      "message": "nesprávný email nebo heslo"
+   },
+   "locations_help_1": {
+      "description": "",
+      "message": "Browsec může navázat zabezpečené připojení pomocí našich serverů umístěných v kterékoli z těchto zemí. Získáte IP adresu, která patří ke zvolenému umístění a budete procházet web, jako byste tam skutečně byli."
+   },
+   "locations_help_2": {
+      "description": "",
+      "message": "Chcete-li získat přístup k obsahu dostupnému pouze pro konkrétní zemi, vyberte odpovídající virtuální umístění."
+   },
+   "locations_help_3": {
+      "description": "",
+      "message": "Chcete-li skrýt svou polohu (z důvodu ochrany osobních údajů nebo pro přístup k obsahu zakázanému ve vaší zemi), vyberte libovolné místo. Všimněte si, že čím blíže je virtuální umístění k vašemu skutečnému, tím vyšší rychlost připojení máte."
+   },
+   "off": {
+      "description": "",
+      "message": "VYPNUTO"
+   },
+   "ok_i_got_it": {
+      "description": "",
+      "message": "Dobře chápu to"
+   },
+   "on": {
+      "description": "",
+      "message": "Na"
+   },
+   "one_smart_setting_description_1": {
+      "description": "",
+      "message": "Upgradujte na Premium a získejte neomezená chytrá nastavení a podporu vývoje prohlížeče Browsec."
+   },
+   "one_smart_setting_description_2": {
+      "description": "",
+      "message": "Získáte také:"
+   },
+   "one_smart_setting_description_list_1": {
+      "description": "",
+      "message": "Přístup k více než 40 prémiovým virtuálním místům"
+   },
+   "one_smart_setting_description_list_2": {
+      "description": "",
+      "message": "Turbo rychlost"
+   },
+   "only_X_per_month": {
+      "description": "",
+      "message": "pouze XXX za měsíc"
+   },
+   "other_websites": {
+      "description": "",
+      "message": "Jiné webové stránky"
+   },
+   "password": {
+      "description": "",
+      "message": "Heslo"
+   },
+   "pin_the_browsec_extension": {
+      "description": "",
+      "message": "Připněte rozšíření Browsec"
+   },
+   "please_enter_domain": {
+      "description": "",
+      "message": "Zadejte prosím doménu"
+   },
+   "please_enter_valid_domain": {
+      "description": "",
+      "message": "Zadejte prosím platnou doménu"
+   },
+   "please_try_again_or_contact_support": {
+      "description": "",
+      "message": "Zkuste to znovu nebo kontaktujte podporu Browsec."
+   },
+   "premium_locations": {
+      "description": "",
+      "message": "Prémiové lokality"
+   },
+   "premium_server_authentication_error": {
+      "description": "",
+      "message": "Chyba ověření prémiového serveru. VPN je deaktivováno. Prosím, znovu se připojte k VPN v rozšíření Browsec."
+   },
+   "premium_servers": {
+      "description": "",
+      "message": "Prémiové servery"
+   },
+   "privacy_protection_disabled": {
+      "description": "",
+      "message": "Ochrana soukromí zakázána"
+   },
+   "privacy_protection_partially_disabled": {
+      "description": "",
+      "message": "Aktuální web: Ochrana soukromí deaktivována"
+   },
+   "privacy_protection_partially_enabled": {
+      "description": "",
+      "message": "Aktuální web: Ochrana soukromí aktivována"
+   },
+   "protect_me": {
+      "description": "",
+      "message": "Chraň mě"
+   },
+   "reanimator_of": {
+      "description": "",
+      "message": "of"
+   },
+   "reanimator_reconnecting": {
+      "description": "",
+      "message": "Reconnecting"
+   },
+   "reanimator_step": {
+      "description": "",
+      "message": "Step"
+   },
+   "remove_cache_on_authorization_popups": {
+      "description": "",
+      "message": "Odebrat mezipaměť při autorizačních vyskakovacích oknech (experimentální)"
+   },
+   "remove_smart_setting": {
+      "description": "",
+      "message": "Odstraňte chytré nastavení"
+   },
+   "running": {
+      "description": "",
+      "message": "Běh"
+   },
+   "running_dots": {
+      "description": "",
+      "message": "Běh..."
+   },
+   "select": {
+      "description": "",
+      "message": "Vybrat"
+   },
+   "select_allow_in_popup_window": {
+      "description": "",
+      "message": "Ve vyskakovacím okně klikněte na „Povolit“."
+   },
+   "setting_was_deleted": {
+      "description": "",
+      "message": "Nastavení bylo smazáno"
+   },
+   "settings": {
+      "description": "",
+      "message": "Nastavení"
+   },
+   "show_health_check_logs": {
+      "description": "",
+      "message": "Zobrazit protokoly kontroly stavu"
+   },
+   "sign_in": {
+      "description": "",
+      "message": "Přihlásit se"
+   },
+   "sign_in_title": {
+      "description": "",
+      "message": "Přihlásit se"
+   },
+   "sign_out": {
+      "description": "",
+      "message": "Odhlásit se"
+   },
+   "sign_up": {
+      "description": "",
+      "message": "Přihlásit se"
+   },
+   "skipped": {
+      "description": "",
+      "message": "Přeskočeno"
+   },
+   "smart_settings": {
+      "description": "",
+      "message": "Inteligentní nastavení"
+   },
+   "smart_settings_allow_you_to_control": {
+      "description": "",
+      "message": "Inteligentní nastavení vám umožní mít nad prohlížečem větší kontrolu"
+   },
+   "smart_settings_features_1": {
+      "description": "",
+      "message": "Povolit Browsec pouze pro vybrané webové stránky"
+   },
+   "smart_settings_features_2": {
+      "description": "",
+      "message": "Nepoužívejte Browsec pro vybrané webové stránky, i když je povolen pro všechny ostatní webové stránky"
+   },
+   "smart_settings_features_3": {
+      "description": "",
+      "message": "Vyberte různá virtuální umístění pro různé webové stránky"
+   },
+   "something_went_wrong": {
+      "description": "",
+      "message": "Něco se pokazilo..."
+   },
+   "start": {
+      "description": "",
+      "message": "Start"
+   },
+   "start_vpn": {
+      "description": "",
+      "message": "Spusťte VPN"
+   },
+   "subscriber_text": {
+      "description": "",
+      "message": "Přihlaste se k našemu kanálu Telegram, abyste měli vždy přehled o nejnovějších zprávách a aktualizacích služby Browsec"
+   },
+   "terms_and_conditions_ff": {
+      "description": "",
+      "message": "Smlouvy a oprávnění k používání rozšíření"
+   },
+   "this_account_is_locked_please_contact_us": {
+      "description": "",
+      "message": "Tento účet je uzamčen.\\nKontaktujte nás, abychom váš účet obnovili"
+   },
+   "this_domain_already_in_list": {
+      "description": "",
+      "message": "Tato doména je již v seznamu"
+   },
+   "this_option_is_available_only_for_premium": {
+      "description": "",
+      "message": "Tato možnost je dostupná pouze pro prémiové účty"
+   },
+   "top_performance_guaranteed": {
+      "description": "",
+      "message": "Naše servery nejlepší ve své třídě zaručují špičkový výkon."
+   },
+   "try_again": {
+      "description": "",
+      "message": "Zkus to znovu"
+   },
+   "turbo_speed": {
+      "description": "",
+      "message": "Turbo rychlost"
+   },
+   "turbo_speed_in_free_premium": {
+      "description": "",
+      "message": "Turbo rychlost v FREE Premium"
+   },
+   "undo": {
+      "description": "",
+      "message": "vrátit"
+   },
+   "upgrade_connection_speed": {
+      "description": "",
+      "message": "Zvyšte rychlost připojení"
+   },
+   "upgrade_to_premium": {
+      "description": "",
+      "message": "Upgradujte na Premium"
+   },
+   "use": {
+      "description": "",
+      "message": "použití"
+   },
+   "use_browsec_for_webrtc_connections": {
+      "description": "",
+      "message": "Pro připojení WebRTC použijte prohlížeč Browsec"
+   },
+   "use_different_locations_for_different_sites": {
+      "description": "",
+      "message": "Používejte různá umístění pro různé weby"
+   },
+   "use_different_locations_for_different_sites_description_1": {
+      "description": "",
+      "message": "Povolit Browsec"
+   },
+   "use_different_locations_for_different_sites_description_2": {
+      "description": "",
+      "message": "Klikněte na Smart Settings → Edit Smart Settings"
+   },
+   "use_different_locations_for_different_sites_description_3": {
+      "description": "",
+      "message": "Zadejte požadovanou doménu, vyberte zemi pro tuto doménu a klikněte na IMG"
+   },
+   "virtual_locations": {
+      "description": "",
+      "message": "Virtuální místa"
+   },
+   "vpn_blocked": {
+      "description": "",
+      "message": "VPN je blokována"
+   },
+   "warning": {
+      "description": "",
+      "message": "Varování"
+   },
+   "we_have_detected_other_extensions_which_block_access": {
+      "description": "",
+      "message": "Zjistili jsme další rozšíření, která blokují přístup k nastavení proxy. Chcete-li používat Browsec, deaktivujte tato rozšíření."
+   },
+   "we_have_detected_other_extensions_which_can_conflict": {
+      "description": "",
+      "message": "Zjistili jsme další rozšíření, která mohou být v konfliktu s prohlížečem Browsec. Pokud Browsec nefunguje správně, zvažte deaktivaci těchto rozšíření."
+   },
+   "webrtc_settings_controlled_by_another_extension": {
+      "description": "",
+      "message": "Nastavení WebRTC ovládá další rozšíření"
+   },
+   "welcome_back": {
+      "description": "",
+      "message": "Vítej zpět!"
+   },
+   "what_is_webrtc_text_1": {
+      "description": "",
+      "message": "WebRTC (web real time communication) je protokol, který umožňuje uskutečňovat audio a video hovory z prohlížeče."
+   },
+   "what_is_webrtc_text_2": {
+      "description": "",
+      "message": "WebRTC však také umožňuje webům znát vaše skutečné interní a veřejné IP adresy, i když používáte VPN (známé jako únik IP WebRTC)."
+   },
+   "what_is_webrtc_text_3": {
+      "description": "",
+      "message": "Tato možnost zabrání úniku WebRTC IP, když je povolen Browsec. Jako vedlejší efekt může ovlivnit kvalitu audio/video hovorů z prohlížeče, takže je na vás, abyste si vybrali, co je pro vás důležitější."
+   },
+   "what_is_webrtc_title": {
+      "description": "",
+      "message": "Co je WebRTC?"
+   },
+   "with_smart_settings_you_can": {
+      "description": "",
+      "message": "Pomocí Smart Settings můžete:"
+   },
+   "you_can_enable_these_extensions_later": {
+      "description": "",
+      "message": "Tato rozšíření můžete povolit později v nastavení prohlížeče."
+   },
+   "you_can_have_only_1_smart_setting": {
+      "description": "",
+      "message": "V bezplatném tarifu můžete mít pouze 1 chytré nastavení."
+   },
+   "you_just_installed_browsec": {
+      "description": "",
+      "message": "Právě jste nainstalovali Browsec!"
+   },
+   "you_may_now_open_the_extension": {
+      "description": "",
+      "message": "Nyní můžete rozšíření otevřít a spustit VPN."
+   },
+   "your_browsers_connections_are_not_encrypted": {
+      "description": "",
+      "message": "Spojení vašeho prohlížeče nejsou šifrována. Vaše IP adresa a poloha jsou dostupné pro třetí stranu."
+   },
+   "your_premium_is_about_to_expire": {
+      "description": "",
+      "message": "Vaše Browsec Premium brzy vyprší"
+   },
+   "your_privacy_is_protected": {
+      "description": "",
+      "message": "Vaše soukromí je chráněno"
+   },
+   "your_proxy_blocked_by_antivirus": {
+      "description": "",
+      "message": "Zdá se, že používáte antivirus, který blokuje VPN."
+   },
+   "your_proxy_settings_are_blocked": {
+      "description": "",
+      "message": "Vaše nastavení proxy jsou blokována jiným rozšířením"
+   }
+}

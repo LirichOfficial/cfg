@@ -1,0 +1,6 @@
+2026/03/13-17:45:00.312 146b File /home/bobrik/.config/yandex-browser/Default/IndexedDB/https_vkvideo.ru_0.indexeddb.leveldb is locked for recovering successfully
+2026/03/13-17:45:00.312 146b Creating DB /home/bobrik/.config/yandex-browser/Default/IndexedDB/https_vkvideo.ru_0.indexeddb.leveldb since it was missing.
+2026/03/13-17:45:00.313 146b Reusing MANIFEST /home/bobrik/.config/yandex-browser/Default/IndexedDB/https_vkvideo.ru_0.indexeddb.leveldb/MANIFEST-000001
+2026/03/13-17:45:38.445 146b Deletion DBImpl for /home/bobrik/.config/yandex-browser/Default/IndexedDB/https_vkvideo.ru_0.indexeddb.leveldb, waiting for background work finished
+2026/03/13-17:45:38.445 146b Deletion DBImpl for /home/bobrik/.config/yandex-browser/Default/IndexedDB/https_vkvideo.ru_0.indexeddb.leveldb, background work finished
+2026/03/13-17:45:38.445 146b File /home/bobrik/.config/yandex-browser/Default/IndexedDB/https_vkvideo.ru_0.indexeddb.leveldb unlocked successfully

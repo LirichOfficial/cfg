@@ -1,0 +1,4 @@
+2026/04/21-19:23:25.199 5ecb File /home/bobrik/.config/yandex-browser/Default/shared_proto_db/metadata is locked for recovering successfully
+2026/04/21-19:23:25.200 5ecb Reusing MANIFEST /home/bobrik/.config/yandex-browser/Default/shared_proto_db/metadata/MANIFEST-000001
+2026/04/21-19:23:25.200 5ecb Recovering log #3
+2026/04/21-19:23:25.200 5ecb Reusing old log /home/bobrik/.config/yandex-browser/Default/shared_proto_db/metadata/000003.log 

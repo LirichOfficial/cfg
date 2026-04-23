@@ -1,0 +1,7 @@
+2026/03/30-20:58:30.620 1778 File /home/bobrik/.config/yandex-browser/Default/IndexedDB/https_grok.com_0.indexeddb.leveldb is locked for recovering successfully
+2026/03/30-20:58:30.620 1778 Reusing MANIFEST /home/bobrik/.config/yandex-browser/Default/IndexedDB/https_grok.com_0.indexeddb.leveldb/MANIFEST-000001
+2026/03/30-20:58:30.620 1778 Recovering log #3
+2026/03/30-20:58:30.620 1778 Reusing old log /home/bobrik/.config/yandex-browser/Default/IndexedDB/https_grok.com_0.indexeddb.leveldb/000003.log 
+2026/03/30-20:58:41.225 1778 Deletion DBImpl for /home/bobrik/.config/yandex-browser/Default/IndexedDB/https_grok.com_0.indexeddb.leveldb, waiting for background work finished
+2026/03/30-20:58:41.225 1778 Deletion DBImpl for /home/bobrik/.config/yandex-browser/Default/IndexedDB/https_grok.com_0.indexeddb.leveldb, background work finished
+2026/03/30-20:58:41.225 1778 File /home/bobrik/.config/yandex-browser/Default/IndexedDB/https_grok.com_0.indexeddb.leveldb unlocked successfully

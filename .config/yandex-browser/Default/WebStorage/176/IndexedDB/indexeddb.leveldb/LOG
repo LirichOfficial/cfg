@@ -1,0 +1,6 @@
+2026/04/15-13:33:40.232 1683 File /home/bobrik/.config/yandex-browser/Default/WebStorage/176/IndexedDB/indexeddb.leveldb is locked for recovering successfully
+2026/04/15-13:33:40.232 1683 Creating DB /home/bobrik/.config/yandex-browser/Default/WebStorage/176/IndexedDB/indexeddb.leveldb since it was missing.
+2026/04/15-13:33:40.234 1683 Reusing MANIFEST /home/bobrik/.config/yandex-browser/Default/WebStorage/176/IndexedDB/indexeddb.leveldb/MANIFEST-000001
+2026/04/15-13:33:47.962 1681 Deletion DBImpl for /home/bobrik/.config/yandex-browser/Default/WebStorage/176/IndexedDB/indexeddb.leveldb, waiting for background work finished
+2026/04/15-13:33:47.962 1681 Deletion DBImpl for /home/bobrik/.config/yandex-browser/Default/WebStorage/176/IndexedDB/indexeddb.leveldb, background work finished
+2026/04/15-13:33:47.962 1681 File /home/bobrik/.config/yandex-browser/Default/WebStorage/176/IndexedDB/indexeddb.leveldb unlocked successfully

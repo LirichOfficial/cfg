@@ -1,0 +1,10 @@
+2026/03/16-21:46:33.393 28f9 File /home/bobrik/.config/yandex-browser/Default/IndexedDB/https_kazan.rt.ru_0.indexeddb.leveldb is locked for recovering successfully
+2026/03/16-21:46:33.393 28f9 Creating DB /home/bobrik/.config/yandex-browser/Default/IndexedDB/https_kazan.rt.ru_0.indexeddb.leveldb since it was missing.
+2026/03/16-21:46:33.396 28f9 Reusing MANIFEST /home/bobrik/.config/yandex-browser/Default/IndexedDB/https_kazan.rt.ru_0.indexeddb.leveldb/MANIFEST-000001
+2026/03/16-21:46:53.038 28fa Level-0 table #5: started
+2026/03/16-21:46:53.039 28fa Level-0 table #5: 1830 bytes OK
+2026/03/16-21:46:53.040 28fa Delete type=0 #3
+2026/03/16-21:46:53.040 28fa Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2026/03/16-21:46:53.040 28f9 Deletion DBImpl for /home/bobrik/.config/yandex-browser/Default/IndexedDB/https_kazan.rt.ru_0.indexeddb.leveldb, waiting for background work finished
+2026/03/16-21:46:53.040 28f9 Deletion DBImpl for /home/bobrik/.config/yandex-browser/Default/IndexedDB/https_kazan.rt.ru_0.indexeddb.leveldb, background work finished
+2026/03/16-21:46:53.040 28f9 File /home/bobrik/.config/yandex-browser/Default/IndexedDB/https_kazan.rt.ru_0.indexeddb.leveldb unlocked successfully

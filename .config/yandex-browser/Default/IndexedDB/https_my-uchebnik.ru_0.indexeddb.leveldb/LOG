@@ -1,0 +1,6 @@
+2026/04/05-16:58:57.940 181c File /home/bobrik/.config/yandex-browser/Default/IndexedDB/https_my-uchebnik.ru_0.indexeddb.leveldb is locked for recovering successfully
+2026/04/05-16:58:57.940 181c Creating DB /home/bobrik/.config/yandex-browser/Default/IndexedDB/https_my-uchebnik.ru_0.indexeddb.leveldb since it was missing.
+2026/04/05-16:58:57.942 181c Reusing MANIFEST /home/bobrik/.config/yandex-browser/Default/IndexedDB/https_my-uchebnik.ru_0.indexeddb.leveldb/MANIFEST-000001
+2026/04/05-16:59:00.381 181d Deletion DBImpl for /home/bobrik/.config/yandex-browser/Default/IndexedDB/https_my-uchebnik.ru_0.indexeddb.leveldb, waiting for background work finished
+2026/04/05-16:59:00.381 181d Deletion DBImpl for /home/bobrik/.config/yandex-browser/Default/IndexedDB/https_my-uchebnik.ru_0.indexeddb.leveldb, background work finished
+2026/04/05-16:59:00.381 181d File /home/bobrik/.config/yandex-browser/Default/IndexedDB/https_my-uchebnik.ru_0.indexeddb.leveldb unlocked successfully

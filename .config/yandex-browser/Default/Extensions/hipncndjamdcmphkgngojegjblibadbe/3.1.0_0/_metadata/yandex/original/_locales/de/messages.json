@@ -1,0 +1,10 @@
+{
+  "app_name": {
+    "message": "Kostenloser VPN Proxy und Werbeblocker - Planet VPN",
+    "description": "Der Name der Anwendung"
+  },
+  "app_description": {
+    "message": "Erhalten Sie Zugang zu jeder Website und blockieren Sie Werbung mit unserer kostenlosen VPN-Proxy-Erweiterung",
+    "description": "Die Beschreibung der Anwendung"
+  }
+}

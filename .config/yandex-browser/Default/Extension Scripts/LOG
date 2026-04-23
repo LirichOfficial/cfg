@@ -1,0 +1,7 @@
+2026/04/17-13:25:33.586 32d3 File /home/bobrik/.config/yandex-browser/Default/Extension Scripts is locked for recovering successfully
+2026/04/17-13:25:33.586 32d3 Reusing MANIFEST /home/bobrik/.config/yandex-browser/Default/Extension Scripts/MANIFEST-000001
+2026/04/17-13:25:33.586 32d3 Recovering log #3
+2026/04/17-13:25:33.586 32d3 Reusing old log /home/bobrik/.config/yandex-browser/Default/Extension Scripts/000003.log 
+2026/04/17-20:15:18.024 32d2 Deletion DBImpl for /home/bobrik/.config/yandex-browser/Default/Extension Scripts, waiting for background work finished
+2026/04/17-20:15:18.024 32d2 Deletion DBImpl for /home/bobrik/.config/yandex-browser/Default/Extension Scripts, background work finished
+2026/04/17-20:15:18.024 32d2 File /home/bobrik/.config/yandex-browser/Default/Extension Scripts unlocked successfully

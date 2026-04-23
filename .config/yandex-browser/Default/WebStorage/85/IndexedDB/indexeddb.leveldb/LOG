@@ -1,0 +1,19 @@
+2026/04/18-21:00:51.007 50ac File /home/bobrik/.config/yandex-browser/Default/WebStorage/85/IndexedDB/indexeddb.leveldb is locked for recovering successfully
+2026/04/18-21:00:51.007 50ac Reusing MANIFEST /home/bobrik/.config/yandex-browser/Default/WebStorage/85/IndexedDB/indexeddb.leveldb/MANIFEST-000001
+2026/04/18-21:00:51.007 50ac Recovering log #4
+2026/04/18-21:00:51.007 50ac Reusing old log /home/bobrik/.config/yandex-browser/Default/WebStorage/85/IndexedDB/indexeddb.leveldb/000004.log 
+2026/04/18-21:07:36.235 50aa Level-0 table #8: started
+2026/04/18-21:07:36.236 50aa Level-0 table #8: 1719 bytes OK
+2026/04/18-21:07:36.237 50aa Delete type=0 #4
+2026/04/18-21:07:36.237 50aa Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2026/04/18-21:07:36.237 50aa Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x02\x01\x02\x01\x0c\x00l\x00a\x00s\x00t\x00S\x00e\x00n\x00t\x00T\x00i\x00m\x00e' @ 151 : 1
+2026/04/18-21:07:36.237 50aa Compacting 1@1 + 1@2 files
+2026/04/18-21:07:36.238 50aa Generated table #9@1: 38 keys, 855 bytes
+2026/04/18-21:07:36.240 50aa Compacted 1@1 + 1@2 files => 855 bytes
+2026/04/18-21:07:36.241 50aa compacted to: files[ 0 0 1 0 0 0 0 ]
+2026/04/18-21:07:36.241 50aa Delete type=2 #8
+2026/04/18-21:07:36.241 50aa Delete type=2 #5
+2026/04/18-21:07:36.241 50aa Manual compaction at level-1 from '\x00\x02\x01\x02\x01\x0c\x00l\x00a\x00s\x00t\x00S\x00e\x00n\x00t\x00T\x00i\x00m\x00e' @ 151 : 1 .. (end); will stop at (end)
+2026/04/18-21:07:36.241 50a9 Deletion DBImpl for /home/bobrik/.config/yandex-browser/Default/WebStorage/85/IndexedDB/indexeddb.leveldb, waiting for background work finished
+2026/04/18-21:07:36.241 50a9 Deletion DBImpl for /home/bobrik/.config/yandex-browser/Default/WebStorage/85/IndexedDB/indexeddb.leveldb, background work finished
+2026/04/18-21:07:36.241 50a9 File /home/bobrik/.config/yandex-browser/Default/WebStorage/85/IndexedDB/indexeddb.leveldb unlocked successfully

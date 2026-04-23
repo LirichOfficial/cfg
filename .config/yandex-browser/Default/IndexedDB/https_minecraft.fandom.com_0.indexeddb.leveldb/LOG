@@ -1,0 +1,6 @@
+2026/04/02-00:07:36.969 28b6 File /home/bobrik/.config/yandex-browser/Default/IndexedDB/https_minecraft.fandom.com_0.indexeddb.leveldb is locked for recovering successfully
+2026/04/02-00:07:36.969 28b6 Creating DB /home/bobrik/.config/yandex-browser/Default/IndexedDB/https_minecraft.fandom.com_0.indexeddb.leveldb since it was missing.
+2026/04/02-00:07:36.971 28b6 Reusing MANIFEST /home/bobrik/.config/yandex-browser/Default/IndexedDB/https_minecraft.fandom.com_0.indexeddb.leveldb/MANIFEST-000001
+2026/04/02-00:08:22.648 28b6 Deletion DBImpl for /home/bobrik/.config/yandex-browser/Default/IndexedDB/https_minecraft.fandom.com_0.indexeddb.leveldb, waiting for background work finished
+2026/04/02-00:08:22.648 28b6 Deletion DBImpl for /home/bobrik/.config/yandex-browser/Default/IndexedDB/https_minecraft.fandom.com_0.indexeddb.leveldb, background work finished
+2026/04/02-00:08:22.648 28b6 File /home/bobrik/.config/yandex-browser/Default/IndexedDB/https_minecraft.fandom.com_0.indexeddb.leveldb unlocked successfully

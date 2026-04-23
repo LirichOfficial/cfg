@@ -1,0 +1,7 @@
+2026/03/16-18:44:38.242 28f9 File /home/bobrik/.config/yandex-browser/Default/IndexedDB/https_www.gog.com_0.indexeddb.leveldb is locked for recovering successfully
+2026/03/16-18:44:38.242 28f9 Reusing MANIFEST /home/bobrik/.config/yandex-browser/Default/IndexedDB/https_www.gog.com_0.indexeddb.leveldb/MANIFEST-000001
+2026/03/16-18:44:38.242 28f9 Recovering log #4
+2026/03/16-18:44:38.242 28f9 Reusing old log /home/bobrik/.config/yandex-browser/Default/IndexedDB/https_www.gog.com_0.indexeddb.leveldb/000004.log 
+2026/03/16-18:44:40.294 28f9 Deletion DBImpl for /home/bobrik/.config/yandex-browser/Default/IndexedDB/https_www.gog.com_0.indexeddb.leveldb, waiting for background work finished
+2026/03/16-18:44:40.294 28f9 Deletion DBImpl for /home/bobrik/.config/yandex-browser/Default/IndexedDB/https_www.gog.com_0.indexeddb.leveldb, background work finished
+2026/03/16-18:44:40.294 28f9 File /home/bobrik/.config/yandex-browser/Default/IndexedDB/https_www.gog.com_0.indexeddb.leveldb unlocked successfully

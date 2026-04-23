@@ -1,0 +1,115 @@
+{
+   "apps_api": [],
+   "apps_blacklist": [],
+   "apps_store": [
+      {
+         "apps": [
+            {
+               "scope": "https://mail.yandex.com/"
+            },
+            {
+               "scope": "https://translate.yandex.com/"
+            },
+            {
+               "scope": "https://disk.yandex.com/"
+            },
+            {
+               "scope": "https://yandex.com/maps/"
+            },
+            {
+               "scope": "https://yandex.com/weather/"
+            },
+            {
+               "scope": "https://yandex.com/images/"
+            },
+            {
+               "scope": "https://yandex.com/video/"
+            }
+         ],
+         "name": "Yandex Apps"
+      },
+      {
+         "apps": [
+            {
+               "scope": "https://web.whatsapp.com/"
+            },
+            {
+               "scope": "https://web.telegram.org/"
+            },
+            {
+               "scope": "https://www.messenger.com/"
+            },
+            {
+               "scope": "https://discord.com/"
+            },
+            {
+               "scope": "https://slack.com/"
+            }
+         ],
+         "name": "Messengers"
+      },
+      {
+         "apps": [
+            {
+               "scope": "https://twitter.com/"
+            },
+            {
+               "scope": "https://www.tiktok.com/"
+            },
+            {
+               "scope": "https://www.youtube.com/"
+            },
+            {
+               "scope": "https://www.pinterest.com/"
+            }
+         ],
+         "name": "Social networks"
+      },
+      {
+         "apps": [
+            {
+               "scope": "https://docs.google.com/"
+            },
+            {
+               "scope": "https://drive.google.com/"
+            },
+            {
+               "scope": "https://mail.google.com/"
+            },
+            {
+               "scope": "https://www.office.com/"
+            },
+            {
+               "scope": "https://www.icloud.com/"
+            },
+            {
+               "scope": "https://www.figma.com/"
+            }
+         ],
+         "name": "Productivity"
+      },
+      {
+         "apps": [
+            {
+               "scope": "https://yandex.com/games/"
+            },
+            {
+               "scope": "https://store.steampowered.com/"
+            },
+            {
+               "scope": "https://www.twitch.tv/"
+            },
+            {
+               "scope": "https://open.spotify.com/"
+            }
+         ],
+         "name": "Entertainment"
+      }
+   ],
+   "default_apps": [
+      {
+         "install": "new",
+         "scope": "https://mail.yandex.com/"
+      }
+   ]
+}

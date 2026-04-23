@@ -1,0 +1,10 @@
+{
+   "app_description": {
+      "description": "Uygulamanın tanımı",
+      "message": "Ücretsiz VPN proxy uzantımızla tüm web sitelerine erişin ve reklamları engelleyin"
+   },
+   "app_name": {
+      "description": "Uygulamanın adı",
+      "message": "Ücretsiz VPN Proxy ve reklam engelleyici - Planet VPN"
+   }
+}

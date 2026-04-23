@@ -1,0 +1,49 @@
+2026/04/22-09:14:27.099 1c4a File /home/bobrik/.config/yandex-browser/Default/Sync Data/LevelDB is locked for recovering successfully
+2026/04/22-09:14:27.104 1c4a Reusing MANIFEST /home/bobrik/.config/yandex-browser/Default/Sync Data/LevelDB/MANIFEST-000001
+2026/04/22-09:14:27.104 1c4a Recovering log #1390
+2026/04/22-09:14:27.105 1c4a Reusing old log /home/bobrik/.config/yandex-browser/Default/Sync Data/LevelDB/001390.log 
+2026/04/22-13:55:09.204 1c4b Level-0 table #1395: started
+2026/04/22-13:55:09.207 1c4b Level-0 table #1395: 96009 bytes OK
+2026/04/22-13:55:09.208 1c4b Delete type=0 #1390
+2026/04/22-15:30:49.325 1c4a Level-0 table #1397: started
+2026/04/22-15:30:49.332 1c4a Level-0 table #1397: 87718 bytes OK
+2026/04/22-15:30:49.333 1c4a Delete type=0 #1394
+2026/04/22-21:53:38.309 1c4b Level-0 table #1399: started
+2026/04/22-21:53:38.312 1c4b Level-0 table #1399: 92149 bytes OK
+2026/04/22-21:53:38.313 1c4b Delete type=0 #1396
+2026/04/23-11:26:25.962 1c4b Level-0 table #1401: started
+2026/04/23-11:26:25.965 1c4b Level-0 table #1401: 80371 bytes OK
+2026/04/23-11:26:25.966 1c4b Delete type=0 #1398
+2026/04/23-11:26:25.966 1c4b Compacting 4@0 + 1@1 files
+2026/04/23-11:26:25.968 1c4b Generated table #1402@0: 2057 keys, 121138 bytes
+2026/04/23-11:26:25.968 1c4b Compacted 4@0 + 1@1 files => 121138 bytes
+2026/04/23-11:26:25.969 1c4b compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/04/23-11:26:25.969 1c4b Delete type=2 #1392
+2026/04/23-11:26:25.969 1c4b Delete type=2 #1397
+2026/04/23-11:26:25.969 1c4b Delete type=2 #1401
+2026/04/23-11:26:25.969 1c4b Delete type=2 #1399
+2026/04/23-11:26:25.969 1c4b Delete type=2 #1395
+2026/04/23-11:47:01.811 1c4b Level-0 table #1404: started
+2026/04/23-11:47:01.815 1c4b Level-0 table #1404: 97262 bytes OK
+2026/04/23-11:47:01.816 1c4b Delete type=0 #1400
+2026/04/23-11:50:21.851 1c9d Level-0 table #1406: started
+2026/04/23-11:50:21.853 1c9d Level-0 table #1406: 92657 bytes OK
+2026/04/23-11:50:21.854 1c9d Delete type=0 #1403
+2026/04/23-11:51:19.024 1c4a Level-0 table #1408: started
+2026/04/23-11:51:19.027 1c4a Level-0 table #1408: 81759 bytes OK
+2026/04/23-11:51:19.028 1c4a Delete type=0 #1405
+2026/04/23-11:52:49.961 1c4b Level-0 table #1410: started
+2026/04/23-11:52:49.962 1c4b Level-0 table #1410: 81692 bytes OK
+2026/04/23-11:52:49.963 1c4b Delete type=0 #1407
+2026/04/23-11:52:49.963 1c4b Compacting 4@0 + 1@1 files
+2026/04/23-11:52:49.967 1c4b Generated table #1411@0: 2079 keys, 127684 bytes
+2026/04/23-11:52:49.967 1c4b Compacted 4@0 + 1@1 files => 127684 bytes
+2026/04/23-11:52:49.968 1c4b compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/04/23-11:52:49.968 1c4b Delete type=2 #1410
+2026/04/23-11:52:49.968 1c4b Delete type=2 #1408
+2026/04/23-11:52:49.968 1c4b Delete type=2 #1404
+2026/04/23-11:52:49.968 1c4b Delete type=2 #1406
+2026/04/23-11:52:49.968 1c4b Delete type=2 #1402
+2026/04/23-12:16:58.635 1c4a Level-0 table #1413: started
+2026/04/23-12:16:58.638 1c4a Level-0 table #1413: 92384 bytes OK
+2026/04/23-12:16:58.639 1c4a Delete type=0 #1409

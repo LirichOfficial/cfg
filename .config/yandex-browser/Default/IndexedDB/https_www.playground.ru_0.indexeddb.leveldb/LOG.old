@@ -1,0 +1,7 @@
+2026/02/26-20:38:34.228 5240 File /home/bobrik/.config/yandex-browser/Default/IndexedDB/https_www.playground.ru_0.indexeddb.leveldb is locked for recovering successfully
+2026/02/26-20:38:34.228 5240 Reusing MANIFEST /home/bobrik/.config/yandex-browser/Default/IndexedDB/https_www.playground.ru_0.indexeddb.leveldb/MANIFEST-000001
+2026/02/26-20:38:34.229 5240 Recovering log #4
+2026/02/26-20:38:34.229 5240 Reusing old log /home/bobrik/.config/yandex-browser/Default/IndexedDB/https_www.playground.ru_0.indexeddb.leveldb/000004.log 
+2026/02/26-20:40:05.966 523f Deletion DBImpl for /home/bobrik/.config/yandex-browser/Default/IndexedDB/https_www.playground.ru_0.indexeddb.leveldb, waiting for background work finished
+2026/02/26-20:40:05.966 523f Deletion DBImpl for /home/bobrik/.config/yandex-browser/Default/IndexedDB/https_www.playground.ru_0.indexeddb.leveldb, background work finished
+2026/02/26-20:40:05.966 523f File /home/bobrik/.config/yandex-browser/Default/IndexedDB/https_www.playground.ru_0.indexeddb.leveldb unlocked successfully

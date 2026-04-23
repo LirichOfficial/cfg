@@ -1,0 +1,7 @@
+2026/04/17-13:55:24.716 32d2 File /home/bobrik/.config/yandex-browser/Default/IndexedDB/https_github.com_0.indexeddb.leveldb is locked for recovering successfully
+2026/04/17-13:55:24.717 32d2 Reusing MANIFEST /home/bobrik/.config/yandex-browser/Default/IndexedDB/https_github.com_0.indexeddb.leveldb/MANIFEST-000001
+2026/04/17-13:55:24.717 32d2 Recovering log #19
+2026/04/17-13:55:24.717 32d2 Reusing old log /home/bobrik/.config/yandex-browser/Default/IndexedDB/https_github.com_0.indexeddb.leveldb/000019.log 
+2026/04/17-13:55:29.010 32d2 Deletion DBImpl for /home/bobrik/.config/yandex-browser/Default/IndexedDB/https_github.com_0.indexeddb.leveldb, waiting for background work finished
+2026/04/17-13:55:29.010 32d2 Deletion DBImpl for /home/bobrik/.config/yandex-browser/Default/IndexedDB/https_github.com_0.indexeddb.leveldb, background work finished
+2026/04/17-13:55:29.010 32d2 File /home/bobrik/.config/yandex-browser/Default/IndexedDB/https_github.com_0.indexeddb.leveldb unlocked successfully

@@ -1,0 +1,7 @@
+2026/04/21-19:23:09.360 5bbb File /home/bobrik/.config/yandex-browser/Default/IndexedDB/https_habr.com_0.indexeddb.leveldb is locked for recovering successfully
+2026/04/21-19:23:09.360 5bbb Reusing MANIFEST /home/bobrik/.config/yandex-browser/Default/IndexedDB/https_habr.com_0.indexeddb.leveldb/MANIFEST-000001
+2026/04/21-19:23:09.360 5bbb Recovering log #7
+2026/04/21-19:23:09.362 5bbb Reusing old log /home/bobrik/.config/yandex-browser/Default/IndexedDB/https_habr.com_0.indexeddb.leveldb/000007.log 
+2026/04/21-19:23:24.678 5bcb Deletion DBImpl for /home/bobrik/.config/yandex-browser/Default/IndexedDB/https_habr.com_0.indexeddb.leveldb, waiting for background work finished
+2026/04/21-19:23:24.679 5bcb Deletion DBImpl for /home/bobrik/.config/yandex-browser/Default/IndexedDB/https_habr.com_0.indexeddb.leveldb, background work finished
+2026/04/21-19:23:24.679 5bcb File /home/bobrik/.config/yandex-browser/Default/IndexedDB/https_habr.com_0.indexeddb.leveldb unlocked successfully

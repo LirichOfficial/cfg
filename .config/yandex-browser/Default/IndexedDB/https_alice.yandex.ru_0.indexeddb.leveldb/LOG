@@ -1,0 +1,31 @@
+2026/04/11-09:04:19.791 1a84 File /home/bobrik/.config/yandex-browser/Default/IndexedDB/https_alice.yandex.ru_0.indexeddb.leveldb is locked for recovering successfully
+2026/04/11-09:04:19.791 1a84 Reusing MANIFEST /home/bobrik/.config/yandex-browser/Default/IndexedDB/https_alice.yandex.ru_0.indexeddb.leveldb/MANIFEST-000001
+2026/04/11-09:04:19.791 1a84 Recovering log #6
+2026/04/11-09:04:19.792 1a84 Reusing old log /home/bobrik/.config/yandex-browser/Default/IndexedDB/https_alice.yandex.ru_0.indexeddb.leveldb/000006.log 
+2026/04/11-09:04:19.868 1a84 Level-0 table #11: started
+2026/04/11-09:04:19.868 1a84 Level-0 table #11: 3097 bytes OK
+2026/04/11-09:04:19.869 1a84 Delete type=0 #6
+2026/04/11-09:04:19.870 1a84 Manual compaction at level-0 from '\x00\x01\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x02\x00\x00\x00' @ 0 : 0; will stop at (end)
+2026/04/11-09:04:19.870 1a84 Manual compaction at level-1 from '\x00\x01\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x02\x00\x00\x00' @ 0 : 0; will stop at '\x00\x02\x00\x00\xc8\x08\x00m\x00e\x00s\x00s\x00a\x00g\x00e\x00s' @ 4716 : 1
+2026/04/11-09:04:19.870 1a84 Compacting 1@1 + 1@2 files
+2026/04/11-09:04:19.870 1a84 Generated table #12@1: 42 keys, 914 bytes
+2026/04/11-09:04:19.870 1a84 Compacted 1@1 + 1@2 files => 914 bytes
+2026/04/11-09:04:19.872 1a84 compacted to: files[ 0 0 1 0 0 0 0 ]
+2026/04/11-09:04:19.872 1a84 Delete type=2 #11
+2026/04/11-09:04:19.872 1a84 Manual compaction at level-1 from '\x00\x02\x00\x00\xc8\x08\x00m\x00e\x00s\x00s\x00a\x00g\x00e\x00s' @ 4716 : 1 .. '\x00\x02\x00\x00\x00' @ 0 : 0; will stop at (end)
+2026/04/11-09:04:26.438 1a83 Level-0 table #14: started
+2026/04/11-09:04:26.439 1a83 Level-0 table #14: 18104 bytes OK
+2026/04/11-09:04:26.439 1a83 Delete type=2 #8
+2026/04/11-09:04:26.439 1a83 Delete type=0 #10
+2026/04/11-09:04:26.440 1a83 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2026/04/11-09:04:26.440 1a83 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x02\x02 \x04\x02\x01$\x000\x001\x009\x00d\x007\x00b\x002\x004\x00-\x002\x005\x00b\x00d\x00-\x004\x000\x000\x000\x00-\x00b\x000\x00c\x00d\x00-\x001\x00e\x00a\x00a\x004\x006\x002\x004\x00c\x00e\x001\x003\x03\x00@\xafB\xb2\xd7yB\x00\x01#\x002\x009\x008\x005\x002\x00e\x008\x00c\x00-\x00e\x000\x003\x00f\x00e\x009\x006\x001\x00-\x007\x001\x00c\x00e\x00f\x007\x00c\x002\x00-\x00d\x004\x00e\x00f\x00d\x00f\x00a\x00f' @ 4903 : 1
+2026/04/11-09:04:26.440 1a83 Compacting 1@1 + 1@2 files
+2026/04/11-09:04:26.440 1a83 Generated table #15@1: 51 keys, 6345 bytes
+2026/04/11-09:04:26.440 1a83 Compacted 1@1 + 1@2 files => 6345 bytes
+2026/04/11-09:04:26.441 1a83 compacted to: files[ 0 0 1 0 0 0 0 ]
+2026/04/11-09:04:26.441 1a83 Delete type=2 #12
+2026/04/11-09:04:26.441 1a83 Delete type=2 #14
+2026/04/11-09:04:26.441 1a83 Manual compaction at level-1 from '\x00\x02\x02 \x04\x02\x01$\x000\x001\x009\x00d\x007\x00b\x002\x004\x00-\x002\x005\x00b\x00d\x00-\x004\x000\x000\x000\x00-\x00b\x000\x00c\x00d\x00-\x001\x00e\x00a\x00a\x004\x006\x002\x004\x00c\x00e\x001\x003\x03\x00@\xafB\xb2\xd7yB\x00\x01#\x002\x009\x008\x005\x002\x00e\x008\x00c\x00-\x00e\x000\x003\x00f\x00e\x009\x006\x001\x00-\x007\x001\x00c\x00e\x00f\x007\x00c\x002\x00-\x00d\x004\x00e\x00f\x00d\x00f\x00a\x00f' @ 4903 : 1 .. (end); will stop at (end)
+2026/04/11-09:04:26.441 1a84 Deletion DBImpl for /home/bobrik/.config/yandex-browser/Default/IndexedDB/https_alice.yandex.ru_0.indexeddb.leveldb, waiting for background work finished
+2026/04/11-09:04:26.441 1a84 Deletion DBImpl for /home/bobrik/.config/yandex-browser/Default/IndexedDB/https_alice.yandex.ru_0.indexeddb.leveldb, background work finished
+2026/04/11-09:04:26.441 1a84 File /home/bobrik/.config/yandex-browser/Default/IndexedDB/https_alice.yandex.ru_0.indexeddb.leveldb unlocked successfully

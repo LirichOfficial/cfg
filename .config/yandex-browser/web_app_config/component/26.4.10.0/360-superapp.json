@@ -1,0 +1,97 @@
+{
+   "apps_api": [],
+   "apps_blacklist": [],
+   "apps_store": [
+      {
+         "name": "Сервисы Яндекс 360",
+         "apps": [
+            {
+               "scope": "https://mail.yandex.ru/"
+            },
+            {
+               "scope": "https://disk.yandex.ru/client/disk/"
+            },
+            {
+               "scope": "https://calendar.yandex.ru/"
+            },
+            {
+               "scope": "https://telemost.yandex.ru/"
+            },
+            {
+               "scope": "https://yandex.ru/chat/"
+            },
+            {
+               "scope": "https://expert.ya.ru/"
+            },
+            {
+               "scope": "https://boards.yandex.ru/"
+            },
+            {
+               "scope": "https://disk.yandex.ru/notes/"
+            },
+            {
+               "scope": "https://tracker.yandex.ru/"
+            },
+            {
+               "scope": "https://wiki.yandex.ru/"
+            },
+            {
+               "scope": "https://forms.yandex.ru/"
+            },
+            {
+               "scope": "https://docs.yandex.ru/docs/docx/"
+            },
+            {
+               "scope": "https://docs.yandex.ru/docs/xlsx/"
+            },
+            {
+               "scope": "https://docs.yandex.ru/docs/pptx/"
+            }
+         ]
+      },
+      {
+         "name": "Другие сервисы",
+         "apps": [
+            {
+               "scope": "https://www.amocrm.ru/"
+            },
+            {
+               "scope": "https://www.diadoc.ru/"
+            },
+            {
+               "scope": "https://www.consultant.ru/"
+            }
+         ]
+      }
+   ],
+   "default_apps": [
+      {
+         "install": "all",
+         "scope": "https://boards.yandex.ru/"
+      },
+      {
+         "install": "all",
+         "scope": "https://expert.ya.ru/"
+      },
+      {
+         "install": "all",
+         "scope": "https://telemost.yandex.ru/"
+      },
+      {
+         "install": "all",
+         "scope": "https://yandex.ru/chat/"
+      },
+      {
+         "install": "all",
+         "scope": "https://disk.yandex.ru/client/disk/"
+      },
+      {
+         "install": "all",
+         "scope": "https://calendar.yandex.ru/"
+      },
+      {
+         "install": "all",
+         "scope": "https://mail.yandex.ru/"
+      }
+   ]
+}

@@ -1,0 +1,4 @@
+2026/04/20-19:32:33.864 14153 File /home/bobrik/.config/yandex-browser/Default/IndexedDB/https_meet.google.com_0.indexeddb.leveldb is locked for recovering successfully
+2026/04/20-19:32:33.864 14153 Reusing MANIFEST /home/bobrik/.config/yandex-browser/Default/IndexedDB/https_meet.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2026/04/20-19:32:33.864 14153 Recovering log #35
+2026/04/20-19:32:33.864 14153 Reusing old log /home/bobrik/.config/yandex-browser/Default/IndexedDB/https_meet.google.com_0.indexeddb.leveldb/000035.log 

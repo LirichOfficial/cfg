@@ -1,0 +1,11 @@
+2026/04/02-08:31:59.326 517a File /home/bobrik/.config/yandex-browser/Default/IndexedDB/https_www.xbox.com_0.indexeddb.leveldb is locked for recovering successfully
+2026/04/02-08:31:59.326 517a Reusing MANIFEST /home/bobrik/.config/yandex-browser/Default/IndexedDB/https_www.xbox.com_0.indexeddb.leveldb/MANIFEST-000001
+2026/04/02-08:31:59.327 517a Recovering log #3
+2026/04/02-08:31:59.327 517a Reusing old log /home/bobrik/.config/yandex-browser/Default/IndexedDB/https_www.xbox.com_0.indexeddb.leveldb/000003.log 
+2026/04/02-08:32:01.392 517b Level-0 table #5: started
+2026/04/02-08:32:01.393 517b Level-0 table #5: 830 bytes OK
+2026/04/02-08:32:01.394 517b Delete type=0 #3
+2026/04/02-08:32:01.394 517b Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2026/04/02-08:32:01.394 517a Deletion DBImpl for /home/bobrik/.config/yandex-browser/Default/IndexedDB/https_www.xbox.com_0.indexeddb.leveldb, waiting for background work finished
+2026/04/02-08:32:01.394 517a Deletion DBImpl for /home/bobrik/.config/yandex-browser/Default/IndexedDB/https_www.xbox.com_0.indexeddb.leveldb, background work finished
+2026/04/02-08:32:01.394 517a File /home/bobrik/.config/yandex-browser/Default/IndexedDB/https_www.xbox.com_0.indexeddb.leveldb unlocked successfully

@@ -1,0 +1,423 @@
+[
+  {
+    "name": "ro",
+    "countryName": "Romania",
+    "region": "Europe",
+    "nodes": [
+      {
+        "countrycode": "ro",
+        "dnsname": "blade1.bucharest-rack453.nodes.gen4.ninja:9002"
+      },
+      {
+        "countrycode": "ro",
+        "dnsname": "blade1.bucharest-rack452.nodes.gen4.ninja:9002"
+      },
+      {
+        "countrycode": "ro",
+        "dnsname": "blade1.bucharest-rack451.nodes.gen4.ninja:9002"
+      }
+    ],
+    "servers": [
+      {
+        "countryCode": "ro",
+        "ip": "193.176.84.3",
+        "port": 81
+      },
+      {
+        "countryCode": "ro",
+        "ip": "193.176.84.16",
+        "port": 81
+      },
+      {
+        "countryCode": "ro",
+        "ip": "193.176.84.29",
+        "port": 81
+      }
+    ]
+  },
+  {
+    "name": "nl",
+    "countryName": "Netherlands",
+    "region": "Europe",
+    "nodes": [
+      {
+        "countrycode": "nl",
+        "dnsname": "blade5.amsterdam-rack401.nodes.gen4.ninja:9002"
+      },
+      {
+        "countrycode": "nl",
+        "dnsname": "blade3.amsterdam-rack401.nodes.gen4.ninja:9002"
+      },
+      {
+        "countrycode": "nl",
+        "dnsname": "blade4.amsterdam-rack401.nodes.gen4.ninja:9002"
+      },
+      {
+        "countrycode": "nl",
+        "dnsname": "blade2.amsterdam-rack401.nodes.gen4.ninja:9002"
+      },
+      {
+        "countrycode": "nl",
+        "dnsname": "blade1.amsterdam-rack401.nodes.gen4.ninja:9002"
+      },
+      {
+        "countrycode": "nl",
+        "dnsname": "blade3.amsterdam-rack401.nodes.gen4.ninja:9002"
+      }
+    ],
+    "servers": [
+      {
+        "countryCode": "nl",
+        "ip": "84.17.47.122",
+        "port": 81
+      },
+      {
+        "countryCode": "nl",
+        "ip": "84.17.47.2",
+        "port": 81
+      },
+      {
+        "countryCode": "nl",
+        "ip": "84.17.47.3",
+        "port": 81
+      },
+      {
+        "countryCode": "nl",
+        "ip": "84.17.47.4",
+        "port": 81
+      },
+      {
+        "countryCode": "nl",
+        "ip": "84.17.47.5",
+        "port": 81
+      },
+      {
+        "countryCode": "nl",
+        "ip": "84.17.47.6",
+        "port": 81
+      },
+      {
+        "countryCode": "nl",
+        "ip": "84.17.47.123",
+        "port": 81
+      },
+      {
+        "countryCode": "nl",
+        "ip": "84.17.47.124",
+        "port": 81
+      },
+      {
+        "countryCode": "nl",
+        "ip": "84.17.47.124",
+        "port": 81
+      },
+      {
+        "countryCode": "nl",
+        "ip": "84.17.47.125",
+        "port": 81
+      },
+      {
+        "countryCode": "nl",
+        "ip": "84.17.47.126",
+        "port": 81
+      }
+    ]
+  },
+  {
+    "name": "de",
+    "countryName": "Germany",
+    "region": "Europe",
+    "nodes": [
+      {
+        "countrycode": "de",
+        "dnsname": "blade4.frankfurt-rack444.nodes.gen4.ninja:9002"
+      },
+      {
+        "countrycode": "de",
+        "dnsname": "blade1.frankfurt-rack444.nodes.gen4.ninja:9002"
+      },
+      {
+        "countrycode": "de",
+        "dnsname": "blade2.frankfurt-rack444.nodes.gen4.ninja:9002"
+      },
+      {
+        "countrycode": "de",
+        "dnsname": "blade3.frankfurt-rack444.nodes.gen4.ninja:9002"
+      },
+      {
+        "countrycode": "de",
+        "dnsname": "blade5.frankfurt-rack444.nodes.gen4.ninja:9002"
+      }
+    ],
+    "servers": [
+      {
+        "countryCode": "de",
+        "ip": "138.199.36.159",
+        "port": 81
+      },
+      {
+        "countryCode": "de",
+        "ip": "138.199.36.160",
+        "port": 81
+      },
+      {
+        "countryCode": "de",
+        "ip": "138.199.36.161",
+        "port": 81
+      },
+      {
+        "countryCode": "de",
+        "ip": "138.199.36.162",
+        "port": 81
+      },
+      {
+        "countryCode": "de",
+        "ip": "138.199.36.163",
+        "port": 81
+      }
+    ]
+  },
+  {
+    "name": "us",
+    "countryName": "United States",
+    "region": "North America",
+    "nodes": [
+      {
+        "countrycode": "us",
+        "dnsname": "blade8.losangeles-rack422.nodes.gen4.ninja:9002"
+      },
+      {
+        "countrycode": "us",
+        "dnsname": "blade1.losangeles-rack422.nodes.gen4.ninja:9002"
+      },
+      {
+        "countrycode": "us",
+        "dnsname": "blade24.losangeles-rack422.nodes.gen4.ninja:9002"
+      },
+      {
+        "countrycode": "us",
+        "dnsname": "blade4.losangeles-rack422.nodes.gen4.ninja:9002"
+      },
+      {
+        "countrycode": "us",
+        "dnsname": "blade5.losangeles-rack422.nodes.gen4.ninja:9002"
+      },
+      {
+        "countrycode": "us",
+        "dnsname": "blade3.losangeles-rack422.nodes.gen4.ninja:9002"
+      },
+      {
+        "countrycode": "us",
+        "dnsname": "blade6.losangeles-rack422.nodes.gen4.ninja:9002"
+      },
+      {
+        "countrycode": "us",
+        "dnsname": "blade10.losangeles-rack422.nodes.gen4.ninja:9002"
+      },
+      {
+        "countrycode": "us",
+        "dnsname": "blade2.losangeles-rack422.nodes.gen4.ninja:9002"
+      },
+      {
+        "countrycode": "us",
+        "dnsname": "blade12.losangeles-rack422.nodes.gen4.ninja:9002"
+      },
+      {
+        "countrycode": "us",
+        "dnsname": "blade9.losangeles-rack422.nodes.gen4.ninja:9002"
+      },
+      {
+        "countrycode": "us",
+        "dnsname": "blade7.losangeles-rack422.nodes.gen4.ninja:9002"
+      },
+      {
+        "countrycode": "us",
+        "dnsname": "blade13.losangeles-rack422.nodes.gen4.ninja:9002"
+      },
+      {
+        "countrycode": "us",
+        "dnsname": "blade14.losangeles-rack422.nodes.gen4.ninja:9002"
+      },
+      {
+        "countrycode": "us",
+        "dnsname": "blade11.losangeles-rack422.nodes.gen4.ninja:9002"
+      },
+      {
+        "countrycode": "us",
+        "dnsname": "blade17.losangeles-rack422.nodes.gen4.ninja:9002"
+      },
+      {
+        "countrycode": "us",
+        "dnsname": "blade20.losangeles-rack422.nodes.gen4.ninja:9002"
+      },
+      {
+        "countrycode": "us",
+        "dnsname": "blade19.losangeles-rack422.nodes.gen4.ninja:9002"
+      },
+      {
+        "countrycode": "us",
+        "dnsname": "blade23.losangeles-rack422.nodes.gen4.ninja:9002"
+      },
+      {
+        "countrycode": "us",
+        "dnsname": "blade21.losangeles-rack422.nodes.gen4.ninja:9002"
+      },
+      {
+        "countrycode": "us",
+        "dnsname": "blade18.losangeles-rack422.nodes.gen4.ninja:9002"
+      },
+      {
+        "countrycode": "us",
+        "dnsname": "blade26.losangeles-rack422.nodes.gen4.ninja:9002"
+      },
+      {
+        "countrycode": "us",
+        "dnsname": "blade15.losangeles-rack422.nodes.gen4.ninja:9002"
+      },
+      {
+        "countrycode": "us",
+        "dnsname": "blade25.losangeles-rack422.nodes.gen4.ninja:9002"
+      },
+      {
+        "countrycode": "us",
+        "dnsname": "blade22.losangeles-rack422.nodes.gen4.ninja:9002"
+      },
+      {
+        "countrycode": "us",
+        "dnsname": "blade16.losangeles-rack422.nodes.gen4.ninja:9002"
+      }
+    ],
+    "servers": [
+      {
+        "countryCode": "us",
+        "ip": "138.199.35.195",
+        "port": 81
+      },
+      {
+        "countryCode": "us",
+        "ip": "138.199.35.196",
+        "port": 81
+      },
+      {
+        "countryCode": "us",
+        "ip": "138.199.35.197",
+        "port": 81
+      },
+      {
+        "countryCode": "us",
+        "ip": "138.199.35.198",
+        "port": 81
+      },
+      {
+        "countryCode": "us",
+        "ip": "138.199.35.199",
+        "port": 81
+      },
+      {
+        "countryCode": "us",
+        "ip": "138.199.35.200",
+        "port": 81
+      },
+      {
+        "countryCode": "us",
+        "ip": "138.199.35.201",
+        "port": 81
+      },
+      {
+        "countryCode": "us",
+        "ip": "138.199.35.202",
+        "port": 81
+      },
+      {
+        "countryCode": "us",
+        "ip": "138.199.35.203",
+        "port": 81
+      },
+      {
+        "countryCode": "us",
+        "ip": "138.199.35.204",
+        "port": 81
+      },
+      {
+        "countryCode": "us",
+        "ip": "138.199.35.205",
+        "port": 81
+      },
+      {
+        "countryCode": "us",
+        "ip": "138.199.35.206",
+        "port": 81
+      },
+      {
+        "countryCode": "us",
+        "ip": "138.199.35.207",
+        "port": 81
+      },
+      {
+        "countryCode": "us",
+        "ip": "138.199.35.208",
+        "port": 81
+      },
+      {
+        "countryCode": "us",
+        "ip": "138.199.35.209",
+        "port": 81
+      },
+      {
+        "countryCode": "us",
+        "ip": "138.199.35.210",
+        "port": 81
+      },
+      {
+        "countryCode": "us",
+        "ip": "138.199.35.211",
+        "port": 81
+      },
+      {
+        "countryCode": "us",
+        "ip": "138.199.35.212",
+        "port": 81
+      },
+      {
+        "countryCode": "us",
+        "ip": "138.199.35.213",
+        "port": 81
+      },
+      {
+        "countryCode": "us",
+        "ip": "138.199.35.214",
+        "port": 81
+      },
+      {
+        "countryCode": "us",
+        "ip": "138.199.35.215",
+        "port": 81
+      },
+      {
+        "countryCode": "us",
+        "ip": "138.199.35.216",
+        "port": 81
+      },
+      {
+        "countryCode": "us",
+        "ip": "138.199.35.217",
+        "port": 81
+      },
+      {
+        "countryCode": "us",
+        "ip": "138.199.35.218",
+        "port": 81
+      },
+      {
+        "countryCode": "us",
+        "ip": "138.199.35.219",
+        "port": 81
+      },
+      {
+        "countryCode": "us",
+        "ip": "138.199.35.220",
+        "port": 81
+      }
+    ]
+  }
+]

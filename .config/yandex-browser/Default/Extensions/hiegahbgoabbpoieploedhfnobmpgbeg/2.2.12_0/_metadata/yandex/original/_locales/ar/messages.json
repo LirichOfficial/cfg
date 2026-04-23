@@ -1,0 +1,191 @@
+{
+  "passwordPlaceholder": {
+    "message": "Password"
+  }, 
+  "accountType": {
+    "message": "Account Type"
+  }, 
+  "appName": {
+    "message": "DotVPN – أفضل من الشبكة الخاصة الافتراضية."
+  }, 
+  "firewall": {
+    "message": "DotVPN Firewall"
+  }, 
+  "bwunlim": {
+    "message": "Up to 100 Mbit/s"
+  }, 
+  "rqsProtected": {
+    "message": "Requests protected:"
+  }, 
+  "emailPlaceholder": {
+    "message": "Email"
+  }, 
+  "firewallOffState": {
+    "message": "Not active"
+  }, 
+  "km": {
+    "message": "km"
+  }, 
+  "accountTypeFree": {
+    "message": "Free Account"
+  }, 
+  "refill": {
+    "message": "Please, refill it in your Control Panel"
+  }, 
+  "bw5mbit": {
+    "message": "Up to 5 Mbit/s"
+  }, 
+  "bw50mbit": {
+    "message": "Up to 50 Mbit/s"
+  }, 
+  "outOfMoney": {
+    "message": "Your Account is out of money"
+  }, 
+  "ru": {
+    "message": "Russia"
+  }, 
+  "createAccount": {
+    "message": "Don't have an account?"
+  }, 
+  "bwShared": {
+    "message": "Shared"
+  }, 
+  "publicAddress": {
+    "message": "Public Address"
+  }, 
+  "tellFriends": {
+    "message": "Tell your friends how great is DotVPN"
+  }, 
+  "ping": {
+    "message": "Ping to Server"
+  }, 
+  "appVersion": {
+    "message": "App version"
+  }, 
+  "contactSupport": {
+    "message": "Contact Support"
+  }, 
+  "connecting": {
+    "message": "Connecting"
+  }, 
+  "notConnected": {
+    "message": "You are not connected!"
+  }, 
+  "manageAccount": {
+    "message": "Manage your account"
+  }, 
+  "signupTitle": {
+    "message": "Security is just one click away"
+  }, 
+  "bw2mbit": {
+    "message": "Up to 2 Mbit/s"
+  }, 
+  "fr": {
+    "message": "France"
+  }, 
+  "logout": {
+    "message": "Logout"
+  }, 
+  "serverLocation": {
+    "message": "Server Location"
+  }, 
+  "ms": {
+    "message": "ms"
+  }, 
+  "firewallOnState": {
+    "message": "Active"
+  }, 
+  "protocolType": {
+    "message": "Protocol Type"
+  }, 
+  "jp": {
+    "message": "Japan"
+  }, 
+  "signup": {
+    "message": "Sign Up"
+  }, 
+  "de": {
+    "message": "Germany"
+  }, 
+  "refillButton": {
+    "message": "Refill DotVPN balance"
+  }, 
+  "namePlaceholder": {
+    "message": "First Name"
+  }, 
+  "upToDate": {
+    "message": "Up to date"
+  }, 
+  "connSpeed": {
+    "message": "Connection Speed"
+  }, 
+  "lastNamePlaceholder": {
+    "message": "Last Name"
+  }, 
+  "connected": {
+    "message": "Connected"
+  }, 
+  "shareUsTitle": {
+    "message": ", please share us!"
+  }, 
+  "autoStart": {
+    "message": "Automatic connection"
+  }, 
+  "nl": {
+    "message": "Nederland"
+  }, 
+  "bw512kbit": {
+    "message": "Up to 0.5 Mbit/s"
+  }, 
+  "appShortName": {
+    "message": "DotVPN"
+  }, 
+  "distance": {
+    "message": "Distance to Server"
+  }, 
+  "account": {
+    "message": "Account:"
+  }, 
+  "disconnected": {
+    "message": "Disconnected"
+  }, 
+  "forgotPassword": {
+    "message": "Forgot Password?"
+  }, 
+  "accountTypePremium": {
+    "message": "Turbo Account"
+  }, 
+  "us": {
+    "message": "USA"
+  }, 
+  "privateAddress": {
+    "message": "Private Address"
+  }, 
+  "signin": {
+    "message": "Login"
+  }, 
+  "bw1mbit": {
+    "message": "Up to 1 Mbit/s"
+  }, 
+  "appDesc": {
+    "message": "قوي شبكة خاصة افتراضية للمتصفح Opera. استمتع بالحرية والخصوصية."
+  }, 
+  "uk": {
+    "message": "UK"
+  }, 
+  "alreadySign": {
+    "message": "Already have an account?"
+  }, 
+  "login": {
+    "message": "Login"
+  }, 
+  "premiumTitle": {
+    "message": ", do you want more?"
+  }, 
+  "sg": {
+    "message": "Singapore"
+  }, 
+  "se": {
+    "message": "Sweden"
+  }
+}

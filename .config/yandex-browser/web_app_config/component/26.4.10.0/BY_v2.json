@@ -1,0 +1,136 @@
+{
+   "apps_api": [],
+   "apps_blacklist": [],
+   "apps_store": [
+      {
+         "apps": [
+            {
+               "scope": "https://mail.yandex.by/"
+            },
+            {
+               "scope": "https://calendar.yandex.by/"
+            },
+            {
+               "scope": "https://translate.yandex.by/"
+            },
+            {
+               "scope": "https://disk.yandex.by/"
+            },
+            {
+               "scope": "https://yandex.by/maps/"
+            },
+            {
+               "scope": "https://taxi.yandex.by/"
+            },
+            {
+               "scope": "https://music.yandex.by/"
+            },
+            {
+               "scope": "https://yandex.by/pogoda/"
+            },
+            {
+               "scope": "https://yandex.by/uslugi/"
+            },
+            {
+               "scope": "https://yandex.by/q/"
+            },
+            {
+               "scope": "https://market.yandex.by/"
+            }
+         ],
+         "name": "Приложения Яндекса"
+      },
+      {
+         "apps": [
+            {
+               "scope": "https://web.whatsapp.com/"
+            },
+            {
+               "scope": "https://web.telegram.org/"
+            },
+            {
+               "scope": "https://www.messenger.com/"
+            },
+            {
+               "scope": "https://discord.com/"
+            },
+            {
+               "scope": "https://slack.com/"
+            }
+         ],
+         "name": "Мессенджеры"
+      },
+      {
+         "apps": [
+            {
+               "scope": "https://vk.com/"
+            },
+            {
+               "scope": "https://ok.ru/"
+            },
+            {
+               "scope": "https://twitter.com/"
+            },
+            {
+               "scope": "https://www.tiktok.com/"
+            },
+            {
+               "scope": "https://www.youtube.com/"
+            },
+            {
+               "scope": "https://www.pinterest.com/"
+            }
+         ],
+         "name": "Социальные сети"
+      },
+      {
+         "apps": [
+            {
+               "scope": "https://docs.google.com/"
+            },
+            {
+               "scope": "https://drive.google.com/"
+            },
+            {
+               "scope": "https://mail.google.com/"
+            },
+            {
+               "scope": "https://www.office.com/"
+            },
+            {
+               "scope": "https://www.icloud.com/"
+            },
+            {
+               "scope": "https://www.figma.com/"
+            }
+         ],
+         "name": "Производительность"
+      },
+      {
+         "apps": [
+            {
+               "scope": "https://yandex.by/games/"
+            },
+            {
+               "scope": "https://store.steampowered.com/"
+            },
+            {
+               "scope": "https://www.twitch.tv/"
+            },
+            {
+               "scope": "https://music.yandex.by/"
+            },
+            {
+               "scope": "https://open.spotify.com/"
+            }
+         ],
+         "name": "Развлечения"
+      }
+   ],
+   "default_apps": [
+      {
+         "install": "new",
+         "scope": "https://mail.yandex.by/"
+      }
+   ]
+}

@@ -1,0 +1,4 @@
+2026/04/23-11:31:06.910 1c49 File /home/bobrik/.config/yandex-browser/Default/VideoDecodeStats is locked for recovering successfully
+2026/04/23-11:31:06.910 1c49 Deletion DBImpl for /home/bobrik/.config/yandex-browser/Default/VideoDecodeStats, waiting for background work finished
+2026/04/23-11:31:06.910 1c49 Deletion DBImpl for /home/bobrik/.config/yandex-browser/Default/VideoDecodeStats, background work finished
+2026/04/23-11:31:06.910 1c49 File /home/bobrik/.config/yandex-browser/Default/VideoDecodeStats unlocked successfully
